@@ -1,0 +1,986 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2013,420,Middlebury,26,11,0,37
+2013,336,King's (PA),23,9,0,32
+2013,166,Cornell College,23,16,0,39
+2013,477,NYIT,14,30,0,44
+2013,30084,Geneva,23,20,0,43
+2013,733,Utica,34,14,0,48
+2013,587,Rutgers,30,26,0,56
+2013,337,Knox,6,25,0,31
+2013,30111,Covenant,6,30,0,36
+2013,1094,George Fox,18,22,0,40
+2013,169,Creighton,29,18,0,47
+2013,248,George Mason,18,37,0,55
+2013,30035,Crown (MN),0,25,0,25
+2013,339,Kutztown,37,22,0,59
+2013,706,UTSA,27,26,0,53
+2013,30181,UVa-Wise,6,6,0,12
+2013,249,George Washington,27,23,0,50
+2013,1346,St. Mary's (TX),45,15,0,60
+2013,26172,A&M-Corpus Chris,11,39,0,50
+2013,101,CSUN,25,31,0,56
+2013,333,Ky. Wesleyan,18,31,0,49
+2013,588,Rutgers-Camden,21,19,0,40
+2013,745,Va. Wesleyan,41,8,0,49
+2013,1163,La Roche,7,25,0,32
+2013,514,Oakland,7,23,1,31
+2013,614,St. Norbert,20,15,0,35
+2013,170,Curry,24,18,0,42
+2013,1278,Oakland City,18,10,0,28
+2013,2,Abilene Christian,28,26,0,54
+2013,81,Bryant,21,22,0,43
+2013,589,Rutgers-Newark,10,28,0,38
+2013,615,St. Olaf,15,17,0,32
+2013,1059,D'Youville,18,17,0,35
+2013,734,Valdosta St.,46,13,0,59
+2013,515,Oberlin,4,30,0,34
+2013,516,Occidental,14,26,0,40
+2013,30123,Academy of Art,17,32,0,49
+2013,340,La Salle,16,31,0,47
+2013,11276,S.C. Aiken,25,21,1,47
+2013,1222,Midwestern St.,43,17,0,60
+2013,30166,Valley Forge,5,20,0,25
+2013,929,Adams St.,24,18,0,42
+2013,102,Sacramento St.,22,22,0,44
+2013,341,La Verne,25,16,0,41
+2013,1044,Dallas,6,31,0,37
+2013,251,Georgetown,21,33,0,54
+2013,422,Miles,28,20,0,48
+2013,3,Adelphi,41,19,0,60
+2013,735,Valparaiso,35,27,0,62
+2013,671,La.-Lafayette,47,15,0,62
+2013,4,Adrian,19,17,0,36
+2013,519,Ohio,28,29,0,57
+2013,498,La.-Monroe,19,35,0,54
+2013,11324,Agnes Scott,19,14,0,33
+2013,423,Millersville,30,20,0,50
+2013,30119,Ohio Dominican,23,28,1,52
+2013,257,Georgia,40,21,0,61
+2013,83,Bucknell,21,30,0,51
+2013,517,Ohio Northern,13,15,0,28
+2013,342,Lafayette,11,43,0,54
+2013,518,Ohio St.,34,22,0,56
+2013,1096,Georgia College,37,17,0,54
+2013,618,St. Scholastica,24,14,0,38
+2013,424,Millikin,20,15,0,35
+2013,1162,LaGrange,20,22,0,42
+2013,15207,Ohio Valley,19,25,0,44
+2013,5,Akron,23,28,0,51
+2013,254,Georgia St.,36,19,0,55
+2013,2746,Lake Erie,2,36,0,38
+2013,520,Ohio Wesleyan,13,21,0,34
+2013,84,Buena Vista,14,21,0,35
+2013,590,Sacred Heart,24,30,0,54
+2013,739,Villanova,21,31,0,52
+2013,255,Georgia Tech,25,30,0,55
+2013,344,Lake Forest,17,18,0,35
+2013,426,Millsaps,24,20,0,44
+2013,30179,Okla. Christian,16,21,0,37
+2013,746,Virginia,21,28,0,49
+2013,86,Buffalo,16,32,0,48
+2013,2691,Daniel Webster,13,21,0,34
+2013,24342,Okla. Panhandle,7,44,0,51
+2013,345,Lake Superior St.,7,22,0,29
+2013,522,Oklahoma,57,4,0,61
+2013,85,Buffalo St.,15,19,0,34
+2013,172,Dartmouth,26,20,0,46
+2013,743,Virginia St.,20,20,0,40
+2013,427,Minn. Duluth,41,13,0,54
+2013,11036,Sage Colleges,22,19,0,41
+2013,620,St. Thomas (MN),41,7,0,48
+2013,1164,Lakeland,13,24,0,37
+2013,10,Ala.-Huntsville,43,17,0,60
+2013,87,Butler,22,24,0,46
+2013,1348,St. Thomas Aquinas,8,30,0,38
+2013,383,Minn. St. Mankato,40,12,0,52
+2013,521,Oklahoma St.,30,26,0,56
+2013,742,Virginia Tech,38,21,0,59
+2013,9004,Georgian Court,31,27,0,58
+2013,77,BYU,33,25,0,58
+2013,174,Davis & Elkins,20,23,0,43
+2013,674,Stanford,39,21,0,60
+2013,1240,Minn. St. Moorhead,7,36,0,43
+2013,346,Lamar,24,35,0,59
+2013,591,Saginaw Valley,16,22,0,38
+2013,8,Alabama,45,15,0,60
+2013,675,Staten Island,24,16,0,40
+2013,524,Old Westbury,19,18,0,37
+2013,2685,BYU-Hawaii,6,42,0,48
+2013,744,Virginia Union,15,10,0,25
+2013,27854,Minn.-Crookston,3,38,0,41
+2013,433,Ole Miss,25,31,0,56
+2013,6,Alabama A&M,11,27,0,38
+2013,88,Cabrini,14,20,0,34
+2013,676,Stephen F. Austin,16,32,0,48
+2013,1226,Minn.-Morris,19,18,0,37
+2013,258,Gettysburg,17,21,0,38
+2013,525,Olivet,11,21,0,32
+2013,594,Saint Augustine's,17,12,1,30
+2013,1305,Cairn,6,31,0,37
+2013,464,Omaha,36,7,0,43
+2013,428,Minnesota,36,19,0,55
+2013,105,Cal Lutheran,17,21,0,38
+2013,1098,Glenville St.,27,17,0,44
+2013,595,Saint Benedict,20,18,0,38
+2013,7,Alabama St.,14,33,0,47
+2013,30125,Minot St.,41,11,0,52
+2013,90,Cal Poly,19,34,1,54
+2013,175,Dayton,22,24,0,46
+2013,8366,Goldey-Beacom,13,31,0,44
+2013,1167,Lander,18,31,0,49
+2013,16142,Misericordia,16,22,0,38
+2013,748,Wagner,12,37,0,49
+2013,678,Stetson,31,22,0,53
+2013,529,Oregon,51,11,0,62
+2013,347,Lane,3,27,0,30
+2013,600,Saint Francis (PA),25,30,0,55
+2013,1050,Defiance,16,22,0,38
+2013,1099,Gordon,13,23,0,36
+2013,429,Mississippi Col.,8,31,0,39
+2013,92,Cal St. Dom. Hills,37,24,0,61
+2013,679,Stevens,7,33,0,40
+2013,30141,Walsh,18,20,0,38
+2013,430,Mississippi St.,33,24,0,57
+2013,21852,Stevenson,24,23,0,47
+2013,528,Oregon St.,34,24,0,58
+2013,98,Cal St. East Bay,17,35,0,52
+2013,432,Mississippi Val.,25,30,0,55
+2013,750,Wartburg,4,30,0,34
+2013,434,Missouri,38,14,0,52
+2013,97,Cal St. Fullerton,28,28,0,56
+2013,681,Stockton,33,11,0,44
+2013,751,Wash. & Jeff.,25,16,0,41
+2013,435,Missouri S&T,13,25,0,38
+2013,530,Oswego St.,17,20,0,37
+2013,8486,Lasell,10,26,0,36
+2013,682,Stonehill,25,25,1,51
+2013,180,Delaware,35,22,0,57
+2013,606,Saint Joseph's,37,10,1,48
+2013,348,Lawrence,21,15,0,36
+2013,683,Stony Brook,35,25,0,60
+2013,531,Otterbein,17,17,0,34
+2013,2814,Washburn,13,33,0,46
+2013,30055,Cal St. Monterey Bay,27,28,0,55
+2013,261,Grambling,11,35,0,46
+2013,349,Le Moyne,21,21,0,42
+2013,178,Delaware St.,20,34,0,54
+2013,1289,Ouachita Baptist,20,33,0,53
+2013,93,Cal St. San B'dino,18,36,0,54
+2013,608,Saint Leo,40,16,0,56
+2013,14,Albany (NY),37,15,0,52
+2013,756,Washington,45,17,0,62
+2013,1104,Grand Canyon,40,19,0,59
+2013,23008,Ozarks (AR),14,26,0,40
+2013,103,Cal St. Stanislaus,16,36,0,52
+2013,351,Lebanon Valley,36,7,1,44
+2013,179,Delaware Valley,11,25,0,36
+2013,1029,Washington Adventist,2,7,0,9
+2013,684,Suffolk,16,25,0,41
+2013,995,Caldwell,45,12,0,57
+2013,669,Missouri St.,22,30,0,52
+2013,262,Grand Valley St.,46,9,0,55
+2013,13,Albany St. (GA),37,26,0,63
+2013,794,Green Bay,14,23,0,37
+2013,753,Washington Col.,27,19,0,46
+2013,1390,Sul Ross St.,9,31,0,40
+2013,107,California,38,19,0,57
+2013,181,Delta St.,20,36,0,56
+2013,13302,Lees-McRae,7,40,0,47
+2013,11062,Green Mountain,0,28,0,28
+2013,182,Denison,23,15,0,38
+2013,30165,SUNY Canton,13,22,0,35
+2013,263,Greensboro,16,19,0,35
+2013,352,Lehigh,37,16,1,54
+2013,2798,Albertus Magnus,16,22,0,38
+2013,1111,Greenville,13,19,0,32
+2013,168,SUNY Cortland,35,17,0,52
+2013,279,Lehman,4,24,0,28
+2013,106,California (PA),38,6,0,44
+2013,398,MIT,19,14,0,33
+2013,264,Grinnell,1,28,0,29
+2013,15,Albion,0,30,0,30
+2013,350,LeMoyne-Owen,8,22,0,30
+2013,176,DePaul,32,21,0,53
+2013,247,SUNY Geneseo,22,20,0,42
+2013,265,Grove City,11,21,0,32
+2013,755,Washington-St. Louis,31,14,0,45
+2013,533,Pace,14,24,0,38
+2013,609,Saint Louis,28,23,0,51
+2013,16,Albright,10,27,0,37
+2013,1170,Lenoir-Rhyne,37,16,0,53
+2013,177,DePauw,22,17,0,39
+2013,30042,Mitchell,11,24,0,35
+2013,39,GRU Augusta,18,32,0,50
+2013,534,Pacific,28,28,0,56
+2013,24317,Lesley,24,19,0,43
+2013,20,DeSales,30,12,1,43
+2013,2751,Pacific (OR),21,19,0,40
+2013,30135,California Baptist,31,18,0,49
+2013,1343,Saint Martin's,41,16,0,57
+2013,8490,LeTourneau,21,19,0,40
+2013,757,Wayne St. (MI),30,22,0,52
+2013,1297,Pacific Lutheran,27,17,0,44
+2013,184,Detroit,5,45,0,50
+2013,354,Lewis,31,18,0,49
+2013,612,Saint Mary's (MN),18,15,0,33
+2013,535,Paine,6,24,0,30
+2013,1433,Wayne St. (NE),28,16,0,44
+2013,1112,Guilford,19,19,0,38
+2013,22235,Lewis & Clark,16,22,0,38
+2013,185,Dickinson,15,22,0,37
+2013,114,Calvin,17,13,0,30
+2013,613,Saint Michael's,4,39,0,43
+2013,1434,Waynesburg,15,21,0,36
+2013,266,Gust. Adolphus,15,19,0,34
+2013,17,Alcorn,8,33,0,41
+2013,475,SUNY New Paltz,20,19,0,39
+2013,617,Saint Peter's,9,45,0,54
+2013,996,Cameron,17,31,0,48
+2013,12399,Gwynedd Mercy,20,16,0,36
+2013,526,SUNY Oneonta,8,28,0,36
+2013,1347,Saint Rose,11,29,1,41
+2013,9500,SUNY Poly,23,15,0,38
+2013,758,Weber St.,10,38,0,48
+2013,30064,Saint Vincent,12,18,0,30
+2013,115,Campbell,39,21,0,60
+2013,552,SUNY Potsdam,11,21,0,32
+2013,759,Webster,19,16,0,35
+2013,9012,Mo. Southern St.,26,24,0,50
+2013,30041,Salem,14,22,0,36
+2013,685,Susquehanna,40,9,0,49
+2013,934,Alderson Broaddus,23,24,0,47
+2013,267,Hamilton,13,22,0,35
+2013,760,Wellesley,22,14,0,36
+2013,116,Canisius,22,25,0,47
+2013,686,Swarthmore,19,19,0,38
+2013,9013,Mo. Western St.,38,16,0,54
+2013,19117,Salem Int'l,13,31,0,44
+2013,268,Hamline,18,16,0,34
+2013,687,Sweet Briar,0,22,0,22
+2013,30095,Dixie St.,40,14,0,54
+2013,761,Wells,8,14,0,22
+2013,621,Salem St.,19,16,0,35
+2013,688,Syracuse,23,29,0,52
+2013,436,Mo.-St. Louis,41,13,0,54
+2013,117,Capital,35,12,0,47
+2013,355,Liberty,20,37,0,57
+2013,622,Salisbury,42,4,0,46
+2013,437,Molloy,53,14,0,67
+2013,18,Alfred,24,19,0,43
+2013,30045,Palm Beach Atl.,27,23,0,50
+2013,762,Wentworth,6,27,0,33
+2013,1174,Limestone,22,22,0,44
+2013,118,Carleton,14,19,0,33
+2013,439,Monmouth,31,16,0,47
+2013,763,Wesley,12,23,0,35
+2013,356,Lincoln (MO),14,27,1,42
+2013,438,Monmouth (IL),15,19,0,34
+2013,623,Salve Regina,23,19,0,42
+2013,357,Lincoln (PA),8,19,0,27
+2013,205,Mont. St. Billings,12,29,0,41
+2013,764,Wesleyan (CT),24,12,0,36
+2013,19,Allegheny,24,20,0,44
+2013,624,Sam Houston St.,37,24,0,61
+2013,14718,Wesleyan (GA),1,34,0,35
+2013,358,West Ala.,30,20,0,50
+2013,270,Hampton,35,26,0,61
+2013,625,Samford,17,35,0,52
+2013,1115,Hanover,13,19,0,32
+2013,765,West Chester,37,21,0,58
+2013,689,Tampa,33,10,0,43
+2013,271,Hardin-Simmons,12,25,1,38
+2013,11740,West Florida,21,25,0,46
+2013,1176,Lincoln Memorial,30,22,0,52
+2013,30118,Dominican (CA),10,46,0,56
+2013,1395,Tarleton St.,25,22,0,47
+2013,272,Hartford,21,34,0,55
+2013,120,Carroll (WI),12,22,0,34
+2013,627,San Diego,24,29,0,53
+2013,1332,Dominican (IL),29,13,0,42
+2013,1000,Carson-Newman,30,18,0,48
+2013,766,West Ga.,15,36,0,51
+2013,121,Carthage,33,12,0,45
+2013,8956,Dominican (NY),32,22,0,54
+2013,1438,West Liberty,17,31,0,48
+2013,2692,Dowling,30,19,0,49
+2013,767,West Tex. A&M,44,13,0,57
+2013,540,Penn,30,20,0,50
+2013,442,Montclair St.,46,5,0,51
+2013,189,Drake,29,20,0,49
+2013,275,Harvard,22,22,0,44
+2013,190,Drew,11,25,0,36
+2013,443,Moravian,30,12,0,42
+2013,30136,Lindenwood (MO),20,30,0,50
+2013,191,Drexel,14,36,0,50
+2013,276,Haverford,26,13,0,39
+2013,21,Alma,26,11,0,37
+2013,626,San Diego St.,36,20,0,56
+2013,1179,Linfield,36,8,0,44
+2013,9630,West Va. Wesleyan,32,21,0,53
+2013,1057,Drury,22,25,0,47
+2013,712,TCNJ,26,15,0,41
+2013,122,Case,24,13,0,37
+2013,938,Alvernia,37,11,0,48
+2013,277,Hawaii,45,13,0,58
+2013,28600,Lipscomb,35,24,0,59
+2013,2697,Hawaii Hilo,39,19,0,58
+2013,192,Dubuque,16,18,0,34
+2013,123,Castleton,18,21,0,39
+2013,2696,Hawaii Pacific,30,19,0,49
+2013,1001,Catawba,32,19,0,51
+2013,28746,Alverno,18,18,0,36
+2013,444,Morehead St.,24,25,0,49
+2013,124,Catholic,20,21,0,41
+2013,23624,Cazenovia,4,30,0,34
+2013,628,San Fran. St.,22,30,0,52
+2013,1439,West Virginia St.,42,14,0,56
+2013,361,LIU Brooklyn,19,38,0,57
+2013,769,Western Caro.,20,36,0,56
+2013,770,Western Conn. St.,25,24,0,49
+2013,14795,Cedar Crest,10,18,0,28
+2013,539,Penn St.,16,34,0,50
+2013,690,Temple,32,26,0,58
+2013,630,San Jose St.,42,17,0,59
+2013,30081,Penn St. Harrisburg,15,25,0,40
+2013,362,LIU Post,47,15,0,62
+2013,30114,Penn St.-Abington,20,19,0,39
+2013,694,Tennessee,52,12,0,64
+2013,25719,Penn St.-Altoona,27,12,0,39
+2013,359,Livingstone,11,17,0,28
+2013,771,Western Ill.,14,23,0,37
+2013,446,Morgan St.,8,35,0,43
+2013,538,Penn St.-Behrend,15,21,0,36
+2013,30124,Cedarville,26,21,0,47
+2013,691,Tennessee St.,14,35,0,49
+2013,30044,Penn St.-Berks,36,5,0,41
+2013,22,American Int'l,14,27,0,41
+2013,360,Lock Haven,29,16,0,45
+2013,772,Western Ky.,43,18,0,61
+2013,631,Santa Clara,8,46,0,54
+2013,278,Heidelberg,12,24,0,36
+2013,692,Tennessee Tech,22,28,0,50
+2013,24,Amherst,24,12,0,36
+2013,30163,Sarah Lawrence,2,26,0,28
+2013,774,Western Mich.,16,33,0,49
+2013,196,East Carolina,21,31,0,52
+2013,30090,Tex. A&M Int'l,22,36,0,58
+2013,125,Centenary (LA),8,32,0,40
+2013,30067,Morrisville St.,6,21,0,27
+2013,939,Anderson (IN),31,18,0,49
+2013,1123,Henderson St.,23,32,0,55
+2013,1445,Western N.M.,19,32,0,51
+2013,632,Savannah St.,26,24,0,50
+2013,99,Long Beach St.,37,20,0,57
+2013,30036,Mount Aloysius,26,13,0,39
+2013,13028,Anderson (SC),40,15,0,55
+2013,542,Pfeiffer,21,28,0,49
+2013,1124,Hendrix,22,19,0,41
+2013,775,Western New Eng.,27,19,0,46
+2013,696,Tex. A&M-Kingsville,13,38,0,51
+2013,8965,East Central,42,13,0,55
+2013,12884,Centenary (NJ),20,14,0,34
+2013,543,Philadelphia U.,19,31,0,50
+2013,363,Longwood,41,20,0,61
+2013,1446,Western Ore.,27,26,0,53
+2013,30088,Tex. Permian Basin,13,37,0,50
+2013,197,East Stroudsburg,18,20,0,38
+2013,8398,Hilbert,8,20,0,28
+2013,364,Loras,12,19,0,31
+2013,280,Hillsdale,11,21,0,32
+2013,126,Central (IA),32,10,0,42
+2013,21830,Piedmont,34,10,0,44
+2013,198,East Tenn. St.,13,34,0,47
+2013,281,Hiram,12,24,0,36
+2013,1448,Western Wash.,23,23,0,46
+2013,1062,East Tex. Baptist,37,12,0,49
+2013,27901,Mount Ida,13,24,0,37
+2013,1004,Central Ark.,37,21,0,58
+2013,777,Westfield St.,7,28,0,35
+2013,544,Pine Manor,12,10,0,22
+2013,203,East. Mennonite,21,19,0,40
+2013,25,Angelo St.,37,18,0,55
+2013,703,Texas,51,10,0,61
+2013,1315,Pitt.-Bradford,22,16,0,38
+2013,30033,Mount Mary,0,19,0,19
+2013,1355,Schreiner,3,37,0,40
+2013,283,Hofstra,46,13,0,59
+2013,127,Central Conn. St.,36,15,0,51
+2013,8968,Eastern,14,24,0,38
+2013,11839,Pitt.-Greensburg,20,19,0,39
+2013,1450,Westminster (MO),15,11,0,26
+2013,633,Scranton,13,18,0,31
+2013,697,Texas A&M,42,18,0,60
+2013,1451,Westminster (PA),23,15,0,38
+2013,26,Anna Maria,5,32,0,37
+2013,1245,Mount Olive,34,15,0,49
+2013,1314,Pittsburg St.,28,22,0,50
+2013,200,Eastern Conn. St.,28,14,0,42
+2013,1182,Louisiana Col.,26,15,0,41
+2013,452,Mount Union,25,13,0,38
+2013,1400,Texas Lutheran,33,10,0,43
+2013,1356,Seattle,20,33,0,53
+2013,27,Appalachian St.,31,22,0,53
+2013,545,Pittsburgh,19,29,0,48
+2013,366,Louisiana Tech,27,26,0,53
+2013,778,Wheaton (IL),17,16,0,33
+2013,201,Eastern Ill.,36,14,0,50
+2013,20220,MSOE,7,28,0,35
+2013,699,Texas Southern,33,16,0,49
+2013,779,Wheaton (MA),28,16,0,44
+2013,367,Louisville,47,13,0,60
+2013,12799,Wheeling Jesuit,20,32,0,52
+2013,202,Eastern Ky.,36,20,0,56
+2013,285,Holy Cross,13,31,0,44
+2013,670,Texas St.,18,38,0,56
+2013,966,Arcadia,16,22,0,38
+2013,8896,Wheelock,0,29,0,29
+2013,635,Seton Hall,21,30,0,51
+2013,547,Plattsburgh St.,24,16,0,40
+2013,204,Eastern Mich.,17,33,1,51
+2013,8567,Mt. St. Joseph,6,26,0,32
+2013,700,Texas Tech,30,26,0,56
+2013,29,Arizona,33,26,0,59
+2013,371,Loyola Chicago,28,19,0,47
+2013,548,Plymouth St.,25,17,0,42
+2013,206,Eastern N.M.,14,42,0,56
+2013,1468,Mt. St. Mary (NY),18,16,0,34
+2013,781,Whittier,24,14,0,38
+2013,28,Arizona St.,50,12,0,62
+2013,1064,Eastern Nazarene,10,24,0,34
+2013,30063,Seton Hill,13,21,0,34
+2013,1454,Whitworth,23,20,0,43
+2013,450,Mt. St. Mary's,16,30,0,46
+2013,1126,Holy Family,24,24,0,48
+2013,652,Sewanee,5,29,0,34
+2013,451,Mt. St. Vincent,9,25,0,34
+2013,701,Texas Woman's,51,14,0,65
+2013,782,Wichita St.,19,33,0,52
+2013,453,Muhlenberg,31,9,1,41
+2013,783,Widener,18,20,0,38
+2013,30175,Holy Names,11,31,0,42
+2013,8411,Ark.-Monticello,29,25,0,54
+2013,636,Shaw,16,24,0,40
+2013,454,Murray St.,25,28,0,53
+2013,8404,Hood,23,18,0,41
+2013,481,Polytechnic (NY),24,11,0,35
+2013,455,Muskingum,28,12,0,40
+2013,2678,Ark.-Pine Bluff,14,28,0,42
+2013,129,Central Mich.,33,20,0,53
+2013,702,Texas-Arlington,25,28,0,53
+2013,286,Hope,17,19,0,36
+2013,549,Pomona-Pitzer,11,26,0,37
+2013,30160,Houghton,1,23,0,24
+2013,31,Arkansas,36,20,0,56
+2013,23121,Texas-Dallas,23,18,1,42
+2013,488,N.C. A&T,9,35,0,44
+2013,130,Central Mo.,24,22,0,46
+2013,637,Shenandoah,28,18,0,46
+2013,489,N.C. Central,5,44,0,49
+2013,288,Houston,41,20,0,61
+2013,208,Eckerd,19,37,0,56
+2013,287,Houston Baptist,17,25,0,42
+2013,491,N.C. Wesleyan,15,20,0,35
+2013,947,Arkansas Tech,26,23,0,49
+2013,1066,Edgewood,12,28,0,40
+2013,290,Howard,3,35,0,38
+2013,370,Loyola Marymount,33,23,0,56
+2013,1009,Central Okla.,51,11,0,62
+2013,8577,N.M. Highlands,20,33,1,54
+2013,30028,Texas-Tyler,47,6,0,53
+2013,10870,Shepherd,23,28,0,51
+2013,209,Edinboro,8,23,0,31
+2013,33,Armstrong,44,10,1,55
+2013,707,Thiel,14,20,0,34
+2013,2741,Howard Payne,21,22,0,43
+2013,638,Shippensburg,31,13,0,44
+2013,725,Army,35,26,0,61
+2013,550,Portland St.,25,31,0,56
+2013,2758,Thomas (ME),10,24,0,34
+2013,291,Humboldt St.,53,14,0,67
+2013,1318,Post,17,30,0,47
+2013,365,LSU,42,16,0,58
+2013,292,Hunter,15,28,0,43
+2013,553,Prairie View,19,23,0,42
+2013,1402,Thomas More,25,19,0,44
+2013,1010,Central Wash.,20,20,0,40
+2013,1130,Huntingdon,25,11,0,36
+2013,784,Wilkes,17,23,0,40
+2013,1403,Tiffin,22,26,0,48
+2013,30151,Shorter,46,11,0,57
+2013,461,Nazareth,7,24,0,31
+2013,210,Elizabeth City St.,3,23,0,26
+2013,785,Willamette,14,24,0,38
+2013,462,Neb. Wesleyan,17,19,0,36
+2013,1320,Presbyterian,22,31,0,53
+2013,132,Centre,19,19,0,38
+2013,211,Elizabethtown,20,18,0,38
+2013,1156,Neb.-Kearney,13,29,0,42
+2013,709,Toledo,17,36,0,53
+2013,30034,Presentation,7,25,0,32
+2013,212,Elmhurst,17,15,0,32
+2013,463,Nebraska,45,16,0,61
+2013,554,Princeton,27,19,0,46
+2013,1012,Chadron St.,14,24,0,38
+2013,35,Ashland,29,20,0,49
+2013,1133,Husson,31,12,1,44
+2013,213,Elmira,25,14,0,39
+2013,555,Principia,6,22,0,28
+2013,36,Assumption,15,27,1,43
+2013,532,Elms,10,21,0,31
+2013,1254,Neumann,30,16,0,46
+2013,556,Providence,23,28,1,52
+2013,133,Chaminade,25,21,0,46
+2013,711,Towson,30,28,1,59
+2013,1068,Elon,21,31,0,52
+2013,557,Puget Sound,2,37,0,39
+2013,639,Siena,21,26,0,47
+2013,214,Emerson,22,15,0,37
+2013,134,Chapman,24,16,0,40
+2013,30029,Purchase,5,19,0,24
+2013,28749,Transylvania,12,22,0,34
+2013,559,Purdue,23,32,0,55
+2013,466,Nevada,30,23,0,53
+2013,1013,Charleston (WV),28,21,0,49
+2013,215,Emmanuel (MA),14,26,0,40
+2013,467,New England Col.,17,16,0,33
+2013,217,Emory,42,5,0,47
+2013,48,Charleston So.,15,40,0,55
+2013,37,Auburn,30,23,0,53
+2013,30120,William Jewell,32,15,0,47
+2013,640,Simmons,22,13,0,35
+2013,216,Emory & Henry,12,26,0,38
+2013,30002,Trevecca Nazarene,27,12,0,39
+2013,38,Augsburg,12,28,0,40
+2013,458,Charlotte,24,26,0,50
+2013,11504,Queens (NC),23,21,0,44
+2013,1071,Emporia St.,38,20,0,58
+2013,40,Augustana (IL),32,14,0,46
+2013,17094,William Peace,7,30,1,38
+2013,10972,Chatham,8,28,0,36
+2013,560,Queens (NY),14,25,0,39
+2013,8981,Endicott,20,20,0,40
+2013,30127,Simon Fraser,30,23,0,53
+2013,41,Augustana (SD),32,17,0,49
+2013,561,Quincy,23,30,0,53
+2013,693,Chattanooga,26,28,0,54
+2013,30037,Trine,38,5,0,43
+2013,562,Quinnipiac,17,35,0,52
+2013,641,Simpson,29,10,0,39
+2013,1072,Erskine,14,24,2,40
+2013,42,Aurora,39,8,0,47
+2013,294,Idaho St.,29,23,0,52
+2013,563,Radford,20,36,0,56
+2013,21323,Chestnut Hill,11,27,0,38
+2013,713,Trinity (CT),16,18,0,34
+2013,470,New Haven,38,15,0,53
+2013,218,Eureka,21,16,0,37
+2013,564,Ramapo,19,17,0,36
+2013,219,Evansville,23,30,0,53
+2013,566,Randolph,26,16,0,42
+2013,789,Williams,16,21,0,37
+2013,30177,Lubbock Christian,6,4,0,10
+2013,319,New Jersey City,14,25,0,39
+2013,30128,Sioux Falls,15,27,0,42
+2013,565,Randolph-Macon,34,9,0,43
+2013,953,Austin,11,30,0,41
+2013,1460,Wilmington (DE),34,20,0,54
+2013,220,Fairfield,29,21,0,50
+2013,660,SIUE,35,13,0,48
+2013,567,Redlands,36,12,0,48
+2013,372,Luther,33,11,0,44
+2013,300,Ill. Wesleyan,32,11,0,43
+2013,222,Fairleigh Dickinson,23,21,0,44
+2013,43,Austin Peay,18,26,0,44
+2013,137,Chicago,18,16,0,34
+2013,1461,Wilmington (OH),20,16,0,36
+2013,1076,Fairmont St.,37,12,0,49
+2013,642,Skidmore,11,27,0,38
+2013,373,Lycoming,15,19,0,34
+2013,568,Regis (CO),14,31,0,45
+2013,302,Ill.-Chicago,21,24,0,45
+2013,473,New Mexico,21,35,0,56
+2013,27892,Farmingdale St.,24,17,0,41
+2013,44,Averett,15,23,0,38
+2013,643,Slippery Rock,16,20,0,36
+2013,223,Fayetteville St.,13,30,0,43
+2013,374,Lynchburg,32,13,0,45
+2013,472,New Mexico St.,37,20,0,57
+2013,644,Smith,8,23,0,31
+2013,30050,Ill.-Springfield,21,28,0,49
+2013,221,FDU-Florham,22,21,0,43
+2013,95,Chico St.,24,24,0,48
+2013,12973,Wilson,16,17,0,33
+2013,23157,Felician,15,29,0,44
+2013,30065,Lyndon St.,11,23,0,34
+2013,715,Trinity (TX),27,16,0,43
+2013,569,Regis (MA),12,23,0,35
+2013,224,Ferris St.,29,16,0,45
+2013,23413,Trinity Washington,0,22,0,22
+2013,225,Ferrum,34,12,0,46
+2013,645,Sonoma St.,37,21,0,58
+2013,476,New Rochelle,5,28,0,33
+2013,8875,Chowan,26,23,0,49
+2013,301,Illinois,22,27,0,49
+2013,1462,Wingate,33,22,1,56
+2013,570,Rensselaer,26,15,0,41
+2013,28755,FGCU,36,18,0,54
+2013,20794,Lynn,19,31,0,50
+2013,30146,Azusa Pacific,23,24,0,47
+2013,716,Troy,21,32,0,53
+2013,297,Illinois Col.,20,14,0,34
+2013,646,South Ala.,48,9,0,57
+2013,1079,Findlay,27,15,0,42
+2013,572,Rhode Island,10,37,0,47
+2013,499,Truman,29,18,0,47
+2013,299,Illinois St.,28,20,0,48
+2013,45,Babson,34,14,0,48
+2013,717,Tufts,46,3,0,49
+2013,790,Winona St.,37,14,0,51
+2013,648,South Carolina,34,25,0,59
+2013,571,Rhode Island Col.,23,23,0,46
+2013,303,Immaculata,22,18,0,40
+2013,1257,Newberry,16,24,0,40
+2013,376,Macalester,13,27,0,40
+2013,647,South Carolina St.,16,27,0,43
+2013,573,Rhodes,25,15,0,40
+2013,791,Winston-Salem,28,21,0,49
+2013,650,South Dakota,29,20,0,49
+2013,2743,Incarnate Word,30,26,0,56
+2013,377,MacMurray,5,28,0,33
+2013,21772,Newbury,21,19,0,40
+2013,94,Bakersfield,15,34,0,49
+2013,719,Tulsa,42,16,1,59
+2013,792,Winthrop,28,29,0,57
+2013,139,Chris. Newport,34,13,0,47
+2013,306,Indiana,19,35,0,54
+2013,12830,Tusculum,31,19,0,50
+2013,380,Maine,8,39,0,47
+2013,30032,Finlandia,25,8,0,33
+2013,307,Indiana (PA),26,15,0,41
+2013,46,Baldwin Wallace,20,18,0,38
+2013,720,Tuskegee,19,21,0,40
+2013,8911,Wis. Lutheran,19,19,0,38
+2013,305,Indiana St.,16,34,0,50
+2013,30054,Newman,6,38,0,44
+2013,378,Maine Maritime,14,15,0,29
+2013,1255,U New England,22,18,1,41
+2013,649,South Dakota St.,16,30,0,46
+2013,47,Ball St.,37,17,0,54
+2013,1015,Christian Bros.,11,30,0,41
+2013,793,Wis.-Eau Claire,28,9,0,37
+2013,576,Rider,8,41,0,49
+2013,9,UAB,40,19,0,59
+2013,30137,Malone,8,29,0,37
+2013,958,Baptist Bible (PA),6,24,0,30
+2013,651,South Fla.,45,16,0,61
+2013,227,Fitchburg St.,20,22,0,42
+2013,309,Indianapolis,54,8,0,62
+2013,231,FIU,27,28,0,55
+2013,310,Iona,13,37,0,50
+2013,482,Niagara,16,30,0,46
+2013,795,Wis.-La Crosse,21,14,0,35
+2013,229,Fla. Atlantic,28,29,0,57
+2013,312,Iowa,30,24,0,54
+2013,798,Wis.-Oshkosh,25,11,0,36
+2013,311,Iowa St.,21,34,0,55
+2013,483,Nicholls St.,22,26,0,48
+2013,799,Wis.-Parkside,11,33,0,44
+2013,484,Nichols,5,29,0,34
+2013,800,Wis.-Platteville,8,20,0,28
+2013,577,Ripon,11,17,0,28
+2013,654,Southeast Mo. St.,14,34,0,48
+2013,18422,Rivier,16,21,0,37
+2013,801,Wis.-River Falls,21,16,0,37
+2013,655,Southeastern La.,31,23,0,54
+2013,485,Norfolk St.,31,22,0,53
+2013,578,Roanoke,31,14,0,45
+2013,579,Robert Morris,30,17,1,48
+2013,802,Wis.-Stevens Point,19,17,0,36
+2013,1371,Southeastern Okla.,45,9,0,54
+2013,487,North Ala.,40,20,0,60
+2013,1192,Manchester,22,17,0,39
+2013,233,Fla. Southern,17,32,0,49
+2013,803,Wis.-Stout,23,13,0,36
+2013,457,North Carolina,40,21,0,61
+2013,308,IPFW,34,16,0,50
+2013,381,Manhattan,21,25,0,46
+2013,313,Ithaca,25,15,0,40
+2013,490,North Carolina St.,35,20,1,56
+2013,1376,Southern Ark.,27,30,0,57
+2013,2699,IUPUI,18,31,0,49
+2013,382,Manhattanville,22,19,0,41
+2013,108,UC Davis,25,27,0,52
+2013,492,North Central (IL),35,12,0,47
+2013,314,Jackson St.,28,29,0,57
+2013,30092,Flagler,32,17,0,49
+2013,804,Wis.-Superior,15,18,0,33
+2013,384,Mansfield,25,15,0,40
+2013,30039,North Central (MN),7,20,0,27
+2013,1194,Maranatha Baptist,2,28,0,30
+2013,658,Southern Conn. St.,32,22,0,54
+2013,494,North Dakota,10,30,0,40
+2013,581,Rochester (NY),23,19,0,42
+2013,235,Florida,58,9,0,67
+2013,111,UC Riverside,20,35,0,55
+2013,659,Southern Ill.,25,27,0,52
+2013,493,North Dakota St.,33,16,0,49
+2013,228,Florida A&M,20,32,0,52
+2013,112,UC San Diego,33,25,0,58
+2013,316,Jacksonville,30,22,0,52
+2013,805,Wis.-Whitewater,32,7,0,39
+2013,661,Southern Ind.,30,22,0,52
+2013,1196,Marian (WI),11,25,0,36
+2013,2711,North Florida,42,15,0,57
+2013,580,Rochester Inst.,13,21,0,34
+2013,662,Southern Me.,9,31,0,40
+2013,234,Florida St.,44,19,0,63
+2013,104,UC Santa Barbara,31,24,0,55
+2013,30052,North Georgia,36,14,0,50
+2013,315,Jacksonville St.,30,27,0,57
+2013,385,Marietta,21,17,0,38
+2013,230,Florida Tech,25,22,0,47
+2013,664,Southern Miss.,14,41,0,55
+2013,386,Marist,30,26,0,56
+2013,468,Southern N.H.,29,15,0,44
+2013,317,James Madison,42,17,0,59
+2013,11538,Fontbonne,34,12,0,46
+2013,49,Barry,34,20,0,54
+2013,582,Rockford,12,26,0,38
+2013,806,Wittenberg,23,13,0,36
+2013,30152,Southern Nazarene,19,33,0,52
+2013,15646,Barton,12,26,0,38
+2013,1328,Rockhurst,22,21,0,43
+2013,236,Fordham,36,23,0,59
+2013,9754,UC-Colo. Springs,26,20,1,47
+2013,58,Baruch,19,18,0,37
+2013,320,John Carroll,26,13,0,39
+2013,128,UCF,29,25,0,54
+2013,50,Bates,9,17,0,26
+2013,321,John Jay,9,19,1,29
+2013,787,Wm. Paterson,19,21,0,40
+2013,583,Roger Williams,24,20,0,44
+2013,1199,Mars Hill,26,16,0,42
+2013,26520,Bay Path,16,22,0,38
+2013,9011,Fort Hays St.,47,12,0,59
+2013,9223,North Greenville,20,20,1,41
+2013,30058,Claflin,30,15,0,45
+2013,51,Baylor,42,17,0,59
+2013,496,North Park,24,12,0,36
+2013,26107,Becker,22,15,0,37
+2013,1083,Fort Lewis,20,24,0,44
+2013,497,North Texas,29,24,0,53
+2013,388,Marshall,36,22,0,58
+2013,52,Bellarmine,28,26,0,54
+2013,237,Fort Valley St.,14,37,0,51
+2013,14927,Belmont,17,33,0,50
+2013,8597,Martin Luther,21,15,0,36
+2013,238,Framingham St.,9,30,0,39
+2013,2683,Belmont Abbey,10,32,0,42
+2013,53,Beloit,7,29,0,36
+2013,30075,Mary,24,19,0,43
+2013,110,UCLA,40,20,0,60
+2013,1085,Francis Marion,25,26,0,51
+2013,54,Bemidji St.,8,39,0,47
+2013,30069,Franciscan,0,34,0,34
+2013,55,Benedict,12,30,0,42
+2013,389,Mary Baldwin,5,35,0,40
+2013,665,Southern U.,5,43,0,48
+2013,584,Rollins,44,8,0,52
+2013,239,Frank. & Marsh.,16,20,0,36
+2013,164,UConn,26,27,0,53
+2013,667,Southern Utah,18,34,0,52
+2013,2694,Franklin,16,27,0,43
+2013,22626,Johnson & Wales (RI),24,17,0,41
+2013,296,Benedictine (IL),27,15,0,42
+2013,1203,Mary Hardin-Baylor,29,16,0,45
+2013,30164,Southern Va.,6,9,0,15
+2013,241,Franklin Pierce,9,31,0,40
+2013,401,UMass Boston,15,27,0,42
+2013,585,Rose-Hulman,12,24,0,36
+2013,1379,Southern Vt.,9,21,0,30
+2013,807,Wooster,18,18,0,36
+2013,323,Johnson C. Smith,11,28,0,39
+2013,242,Fredonia,10,23,0,33
+2013,142,Claremont-M-S,33,13,0,46
+2013,15882,Rosemont,7,25,0,32
+2013,324,Johnson St.,8,19,0,27
+2013,656,UMass Dartmouth,12,28,0,40
+2013,259,Rowan,41,9,0,50
+2013,809,Worcester St.,25,18,0,43
+2013,325,Juniata,11,18,0,29
+2013,143,Clarion,4,26,0,30
+2013,586,Rust,0,12,0,12
+2013,368,UMass Lowell,26,21,1,48
+2013,326,Kalamazoo,6,20,0,26
+2013,56,Bentley,16,27,1,44
+2013,391,UMBC,11,41,0,52
+2013,145,Clark (MA),13,15,0,28
+2013,390,Mary Washington,15,23,0,38
+2013,96,Fresno St.,30,24,0,54
+2013,144,Clark Atlanta,23,20,0,43
+2013,328,Kansas,34,16,0,50
+2013,393,UMES,14,33,0,47
+2013,12810,Northeastern St.,27,24,0,51
+2013,973,Berry,29,11,0,40
+2013,243,Frostburg St.,33,12,0,45
+2013,2707,UMKC,18,27,0,45
+2013,392,Maryland,31,26,0,57
+2013,244,Furman,27,27,0,54
+2013,59,Bethany (WV),19,19,0,38
+2013,808,WPI,11,23,0,34
+2013,253,Ga. Southern,33,30,0,63
+2013,459,UNC Greensboro,38,19,0,57
+2013,395,Maryville (MO),12,24,0,36
+2013,30038,Bethany Lutheran,23,20,0,43
+2013,537,UNC Pembroke,23,32,0,55
+2013,396,Maryville (TN),3,33,0,36
+2013,460,UNCW,16,37,0,53
+2013,329,Kean,28,19,1,48
+2013,810,Wright St.,19,37,0,56
+2013,397,Marywood,18,16,0,34
+2013,330,Keene St.,22,17,0,39
+2013,504,UNI,27,26,0,53
+2013,60,Bethel (MN),27,15,0,42
+2013,1097,Ga. Southwestern,29,26,0,55
+2013,399,Mass. Maritime,0,22,0,22
+2013,502,Northern Colo.,16,30,1,47
+2013,2755,Southwest Baptist,4,48,0,52
+2013,1157,Kennesaw St.,34,20,0,54
+2013,400,Massachusetts,18,25,0,43
+2013,331,Kent St.,27,21,1,49
+2013,503,Northern Ill.,27,31,0,58
+2013,8736,Southwest Minn. St.,19,21,0,40
+2013,773,McDaniel,23,18,0,41
+2013,334,Kentucky,41,21,0,62
+2013,813,Yale,10,37,0,47
+2013,148,Cleveland St.,22,27,0,49
+2013,245,Gallaudet,11,29,0,40
+2013,505,Northern Ky.,11,41,0,52
+2013,722,Coast Guard,22,17,0,39
+2013,61,Bethune-Cookman,18,35,0,53
+2013,332,Kentucky St.,21,25,0,46
+2013,149,Coastal Caro.,37,22,0,59
+2013,246,Gannon,24,13,0,37
+2013,62,Binghamton,30,17,0,47
+2013,30138,McKendree,11,30,0,41
+2013,30083,Cobleskill St.,18,18,0,36
+2013,1092,Gardner-Webb,13,31,0,44
+2013,8746,Southwestern (TX),35,13,0,48
+2013,335,Kenyon,22,15,0,37
+2013,28593,Birmingham-So.,28,18,0,46
+2013,8744,Southwestern Okla.,16,36,0,52
+2013,1266,Northern St.,19,23,0,42
+2013,1159,Keuka,17,15,0,32
+2013,23260,Spalding,20,19,0,39
+2013,486,MCLA,21,22,0,43
+2013,1267,Northland,14,21,0,35
+2013,727,Union (NY),16,25,0,41
+2013,507,Northwest Mo. St.,27,19,0,46
+2013,30047,Keystone,24,21,0,45
+2013,30051,King (TN),31,26,0,57
+2013,1274,Northwest Nazarene,5,39,0,44
+2013,150,Coe,34,8,0,42
+2013,1023,Coker,26,18,0,44
+2013,509,Northwestern,31,22,0,53
+2013,1014,Col. of Charleston,37,20,0,57
+2013,402,McNeese St.,38,15,0,53
+2013,30153,Union (TN),28,21,0,49
+2013,2730,York (NY),7,22,0,29
+2013,30178,Northwestern Okla.,17,23,0,40
+2013,465,UNLV,21,31,0,52
+2013,508,Northwestern St.,40,15,0,55
+2013,815,York (PA),11,32,0,43
+2013,30031,Northwestern-St. Paul,18,18,0,36
+2013,379,Me.-Farmington,11,16,0,27
+2013,728,Upper Iowa,28,16,0,44
+2013,30040,Me.-Presque Isle,5,22,0,27
+2013,510,Northwood (MI),28,19,0,47
+2013,23725,Medaille,16,18,0,34
+2013,30154,Young Harris,27,27,0,54
+2013,511,Norwich,25,10,0,35
+2013,817,Youngstown St.,19,27,0,46
+2013,30134,Black Hills St.,5,31,0,36
+2013,513,Notre Dame,43,15,0,58
+2013,404,Memphis,24,36,0,60
+2013,8600,Notre Dame (MD),8,26,0,34
+2013,30126,Notre Dame (OH),16,16,0,32
+2013,30056,Notre Dame de Namur,34,18,0,52
+2013,64,Blackburn,17,16,0,33
+2013,151,Colby,11,17,0,28
+2013,24639,Nova Southeastern,27,26,0,53
+2013,30104,Urbana,20,18,0,38
+2013,406,Mercer,24,29,0,53
+2013,984,Bloomfield,21,21,0,42
+2013,1277,Nyack,5,30,0,35
+2013,730,Ursinus,15,19,0,34
+2013,65,Bloomsburg,32,19,0,51
+2013,407,Mercy,26,25,0,51
+2013,30140,Ursuline,9,23,0,32
+2013,408,Mercyhurst,20,30,0,50
+2013,673,Springfield,28,20,0,48
+2013,409,Meredith,15,14,0,29
+2013,410,Merrimack,21,22,1,44
+2013,10411,USC Upstate,42,12,0,54
+2013,411,Messiah,22,15,0,37
+2013,412,Methodist,23,21,0,44
+2013,28594,USciences,24,19,0,43
+2013,153,Colgate,16,32,0,48
+2013,413,Metro St.,17,28,0,45
+2013,593,St. Anselm,22,21,0,43
+2013,695,UT Martin,37,20,0,57
+2013,985,Bluefield St.,2,40,0,42
+2013,987,Bluffton,17,19,0,36
+2013,11403,Colo. Christian,25,23,0,48
+2013,732,Utah,24,30,1,55
+2013,66,Boise St.,26,26,1,53
+2013,596,St. Bonaventure,10,42,0,52
+2013,731,Utah St.,11,43,0,54
+2013,597,St. Catherine,16,17,0,33
+2013,30024,Utah Valley,35,20,0,55
+2013,598,St. Cloud St.,28,26,0,54
+2013,67,Boston College,14,38,0,52
+2013,704,UTEP,13,35,0,48
+2013,1334,St. Edward's,33,23,0,56
+2013,9684,St. Elizabeth,13,17,0,30
+2013,414,Miami (OH),20,34,0,54
+2013,11416,Colorado Mesa,28,17,1,46
+2013,155,Colorado Mines,40,7,1,48
+2013,156,Colorado St.,25,24,0,49
+2013,2720,Colorado St.-Pueblo,29,18,0,47
+2013,418,Michigan,51,13,0,64
+2013,416,Michigan St.,24,25,0,49
+2013,68,Boston U.,21,26,1,48
+2013,158,Columbia,22,26,0,48
+2013,601,St. John Fisher,35,14,0,49
+2013,69,Bowdoin,30,14,0,44
+2013,159,Columbus St.,41,18,0,59
+2013,419,Middle Tenn.,7,47,0,54
+2013,70,Bowie St.,6,24,0,30
+2013,1028,Concord,20,31,0,51
+2013,603,St. John's (NY),17,35,1,53
+2013,71,Bowling Green,28,23,0,51
+2013,8687,St. Joseph (CT),32,12,0,44
+2013,30072,St. Joseph's (Brkln),15,17,1,33
+2013,604,St. Joseph's (IN),27,19,0,46
+2013,1340,St. Joseph's (L.I.),25,19,0,44
+2013,72,Bradley,23,29,0,52
+2013,605,St. Joseph's (ME),34,13,0,47
+2013,73,Brandeis,23,19,0,42
+2013,30094,Brevard,15,31,0,46
+2013,607,St. Lawrence,22,17,0,39
+2013,162,Concordia (NY),10,25,0,35
+2013,74,Bridgeport,18,32,0,50
+2013,24400,Concordia (TX),25,15,0,40
+2013,75,Bridgewater (VA),24,18,0,42
+2013,76,Bridgewater St.,26,17,0,43
+2013,160,Concordia Chicago,19,22,0,41
+2013,1036,Concordia Wisconsin,28,17,0,45
+2013,161,Concordia-M'head,7,19,0,26
+2013,78,Brockport,22,16,0,38
+2013,610,St. Mary's (CA),20,31,0,51
+2013,79,Brooklyn,23,17,0,40
+2013,8688,St. Mary's (IN),19,17,0,36
+2013,80,Brown,10,28,0,38
+2013,9081,Concordia-St. Paul,29,16,0,45
+2013,165,Coppin St.,18,25,0,43
+2013,167,Cornell,21,29,0,50

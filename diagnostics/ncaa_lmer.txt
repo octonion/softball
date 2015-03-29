@@ -1,0 +1,97 @@
+[1] 296170      9
+[1] TRUE
+[1] 296170      8
+start par. =  1 1 1 fn =  607149.4 
+At return
+eval:  78 fn:      602793.44 par: 0.708148 0.588583 0.154661
+start par. =  1 1 1 1 fn =  644808.5 
+At return
+eval: 149 fn:      602772.38 par: 0.110813 0.713372 0.592966 0.155192
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+ 602802.4  602961.4 -301386.2  602772.4    296155 
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.07038 
+ defense  (Intercept) 0.45308 
+ offense  (Intercept) 0.37661 
+ park     (Intercept) 0.09857 
+ Residual             0.63512 
+Number of obs: 296170, groups:  
+game_id, 148085; defense, 3925; offense, 3925; park, 1003
+Fixed Effects:
+       (Intercept)            year2013            year2014            year2015  
+           1.42807             0.01599             0.03195             0.08959  
+         fieldnone  fieldpitching_home              h_div2              h_div3  
+          -0.03821            -0.07609            -0.52899            -1.02698  
+            p_div2              p_div3  
+           0.57476             1.09074  
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+
+      AIC       BIC    logLik  deviance  df.resid 
+ 602802.4  602961.4 -301386.2  602772.4    296155 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.7829 -0.6374  0.1073  0.7090  3.1552 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.004953 0.07038 
+ defense  (Intercept) 0.205280 0.45308 
+ offense  (Intercept) 0.141832 0.37661 
+ park     (Intercept) 0.009715 0.09857 
+ Residual             0.403380 0.63512 
+Number of obs: 296170, groups:  
+game_id, 148085; defense, 3925; offense, 3925; park, 1003
+
+Fixed effects:
+                   Estimate Std. Error t value
+(Intercept)         1.42807    0.02433   58.69
+year2013            0.01599    0.02688    0.60
+year2014            0.03195    0.02681    1.19
+year2015            0.08959    0.02704    3.31
+fieldnone          -0.03821    0.09867   -0.39
+fieldpitching_home -0.07609    0.00292  -26.06
+h_div2             -0.52899    0.03100  -17.06
+h_div3             -1.02698    0.03455  -29.72
+p_div2              0.57476    0.03274   17.56
+p_div3              1.09074    0.03588   30.40
+
+Correlation of Fixed Effects:
+            (Intr) yr2013 yr2014 yr2015 fildnn fldpt_ h_div2 h_div3 p_div2
+year2013    -0.553                                                        
+year2014    -0.554  0.502                                                 
+year2015    -0.551  0.497  0.499                                          
+fieldnone   -0.006  0.000  0.000 -0.001                                   
+fldptchng_h -0.060  0.000  0.000  0.000  0.015                            
+h_div2      -0.167 -0.001 -0.002 -0.001  0.000 -0.017                     
+h_div3      -0.152  0.000  0.001  0.003  0.000 -0.020  0.726              
+p_div2      -0.228 -0.001 -0.002 -0.001  0.000  0.016 -0.691 -0.575       
+p_div3      -0.211  0.001  0.001  0.004  0.001  0.020 -0.585 -0.785  0.708
+Analysis of Variance Table
+      Df Sum Sq Mean Sq  F value
+year   3   4.96   1.653   4.0974
+field  2 287.84 143.920 356.7848
+h_div  2  45.69  22.846  56.6375
+p_div  2 385.68 192.840 478.0605
+Data: g
+Models:
+fit0: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) + 
+fit0:     (1 | defense)
+fit: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) + 
+fit:     (1 | defense) + (1 | game_id)
+     Df    AIC    BIC  logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit0 14 602821 602970 -301397   602793                             
+fit  15 602802 602961 -301386   602772 21.059      1  4.454e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+       chisq        ratio          rdf            p 
+1.147785e+05 3.875611e-01 2.961560e+05 1.000000e+00 
+[1] TRUE
