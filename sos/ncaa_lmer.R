@@ -106,16 +106,16 @@ g$log_rs <- log_rs
 
 dim(g)
 
-model0 <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
-fit0 <- lmer(model0, data=g, REML=FALSE, verbose=TRUE)
-
-model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)+(1|game_id)
+model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
 fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
+
+#model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)+(1|game_id)
+#fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
 
 fit
 summary(fit)
 anova(fit)
-anova(fit0,fit)
+#anova(fit0,fit)
 
 overdisp_fun <- function(model) {
   ## number of variance parameters in 
