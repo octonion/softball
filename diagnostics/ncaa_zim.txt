@@ -1,3 +1,68 @@
-[1] 1030626       9
+[1] 107306      9
 [1] TRUE
-[1] 1030626       7
+[1] 107306      5
+
+GLMM's in R powered by AD Model Builder:
+
+  Family: nbinom 
+  alpha = 4.1636 
+  link = log 
+  Zero inflation: p = 0.033644 
+
+Fixed effects:
+  Log-likelihood: -257695 
+  AIC: 515412 
+  Formula: rs ~ year + field + (1 | park) + (1 | offense) + (1 | defense) 
+       (Intercept)           year2013           year2014           year2015 
+        1.37409588         0.05367270         0.08600015         0.17848492 
+         fieldnone fieldpitching_home 
+       -0.05616893        -0.07765821 
+
+Random effects:
+Structure: Diagonal matrix
+Group=park
+            Variance StdDev
+(Intercept)  0.01566 0.1251
+Group=offense
+            Variance StdDev
+(Intercept)   0.1489 0.3859
+Group=defense
+            Variance StdDev
+(Intercept)    0.189 0.4347
+
+Number of observations: total=107306, park=296, offense=1166, defense=1166
+
+Call:
+glmmadmb(formula = model, data = g, family = "nbinom", zeroInflation = TRUE, 
+    verbose = TRUE, extra.args = "-ndi 1000000 -rs")
+
+AIC: 515412 
+
+Coefficients:
+                   Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          1.3741     0.0354   38.80  < 2e-16 ***
+year2013             0.0537     0.0487    1.10  0.27063    
+year2014             0.0860     0.0486    1.77  0.07705 .  
+year2015             0.1785     0.0487    3.66  0.00025 ***
+fieldnone           -0.0562     0.1255   -0.45  0.65447    
+fieldpitching_home  -0.0777     0.0058  -13.40  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Number of observations: total=107306, park=296, offense=1166, defense=1166 
+Random effect variance(s):
+Group=park
+            Variance StdDev
+(Intercept)  0.01566 0.1251
+Group=offense
+            Variance StdDev
+(Intercept)   0.1489 0.3859
+Group=defense
+            Variance StdDev
+(Intercept)    0.189 0.4347
+
+Negative binomial dispersion parameter: 4.1636 (std. err.: 0.050525)
+Zero-inflation: 0.033644  (std. err.:  0.0013062 )
+
+Log-likelihood: -257695 
+[1] TRUE

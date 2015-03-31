@@ -24,7 +24,7 @@ sf.school_id,
 (length(t.division)::integer) as div_id,
 sf.year,
 --sf.strength::numeric(4,3) as str,
-(sf.strength*h.exp_factor/p.exp_factor)::numeric(4,3) as str,
+(sf.strength)::numeric(4,3) as str,
 --h.exp_factor::numeric(4,3) as h_div,
 --p.exp_factor::numeric(4,3) as p_div,
 park::numeric(4,3) as park,
@@ -36,10 +36,10 @@ schedule_strength::numeric(4,3) as sos
 from ncaa._zim_schedule_factors sf
 join ncaa.schools_divisions t
   on (t.school_id,t.year)=(sf.school_id,sf.year)
-join ncaa._zim_factors h
-  on (h.parameter,h.level::integer)=('h_div',length(t.division)::integer)
-join ncaa._zim_factors p
-  on (p.parameter,p.level::integer)=('p_div',length(t.division)::integer)
+--join ncaa._zim_factors h
+--  on (h.parameter,h.level::integer)=('h_div',length(t.division)::integer)
+--join ncaa._zim_factors p
+--  on (p.parameter,p.level::integer)=('p_div',length(t.division)::integer)
 where sf.year in (2015)
 --and t.division='I'
 order by str desc);

@@ -188,14 +188,21 @@ select
 school_id,
 year,
 exp(avg(log(park))), -- schedule_park
-exp(avg(log(offensive*h_div))), -- schedule_offensive
-exp(avg(log(defensive*p_div))), -- schedule_defensive
-exp(avg(log(strength*(h_div/p_div)*(field*field)))), -- schedule_strength
+--exp(avg(log(offensive*h_div))), -- schedule_offensive
+exp(avg(log(offensive))), -- schedule_offensive
+--exp(avg(log(defensive*p_div))), -- schedule_defensive
+exp(avg(log(defensive))), -- schedule_defensive
+--exp(avg(log(strength*(h_div/p_div)*(field*field)))), -- schedule_strength
+exp(avg(log(strength*(field*field)))), -- schedule_strength
 exp(avg(log(field))), -- schedule_field
-exp(avg(log(park*offensive*h_div))), -- schedule_park_offensive
-exp(avg(log(park*defensive*p_div))), -- schedule_park_defensive
-exp(avg(log(park*offensive*h_div/field))), -- schedule_field_park_offensive
-exp(avg(log(park*defensive*p_div*field))) -- schedule_field_park_defensive
+--exp(avg(log(park*offensive*h_div))), -- schedule_park_offensive
+exp(avg(log(park*offensive))), -- schedule_park_offensive
+--exp(avg(log(park*defensive*p_div))), -- schedule_park_defensive
+exp(avg(log(park*defensive))), -- schedule_park_defensive
+--exp(avg(log(park*offensive*h_div/field))), -- schedule_field_park_offensive
+exp(avg(log(park*offensive/field))), -- schedule_field_park_offensive
+--exp(avg(log(park*defensive*p_div*field))) -- schedule_field_park_defensive
+exp(avg(log(park*defensive*field))) -- schedule_field_park_defensive
 from r
 group by school_id,year
 );
