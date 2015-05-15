@@ -1,406 +1,551 @@
 name,year,class,team,framing
-"Adams, Elizabeth",2015,Jr,Rutgers,0.102
-"Adkinson, Spencer",2015,Sr,Southeastern La.,-0.085
-"Akamine, Hannah",2015,Sr,Oregon St.,-0.218
-"Alaan, Jastine",2015,Fr,Mercer,0.045
-"Aldrete, Annie",2015,So,Tennessee,0.028
-"Allen, Kelby",2015,Sr,Liberty,-0.140
-"Appelbe, Katherine",2015,Sr,Harvard,0.118
-"Arciola, Alex",2015,Fr,North Florida,-0.075
-"Ashley, Jordan",2015,Jr,Presbyterian,-0.050
-"Baca, Brynn",2015,So,Lamar,-0.053
-"Bailey, Katie Anne",2015,So,Mississippi St.,-0.071
-"Baker, Ashley",2015,Jr,Green Bay,-0.006
-"Baltzell, Megan",2015,Sr,Longwood,0.048
-"Barber, Caitie",2015,Jr,Towson,0.045
-"Barrios, Kori",2015,So,Utah Valley,-0.078
-"Bell, Chaunsey",2015,Sr,Alabama,0.029
-"Bell, Mickey",2015,Jr,Fla. Atlantic,0.033
-"Belshe, Kristi",2015,Sr,Texas Tech,-0.156
-"Bergman, Kaitlyn",2015,Fr,Toledo,-0.010
-"Bernard, Breezy",2015,Sr,Santa Clara,0.033
-"Berry, Taylor",2015,So,Wisconsin,0.088
-"Besson, Lindsey",2015,So,Michigan St.,0.078
-"Bindus, TJ",2015,Fr,Oakland,0.104
-"Bird, Claire",2015,Fr,Dartmouth,0.158
-"Bishop, Emily",2015,Jr,Kennesaw St.,-0.057
-"Bjorson, Bailey",2015,So,Campbell,0.035
-"Bolden, Tia",2015,So,Savannah St.,-0.007
-"Booty, Joanna",2015,So,Southeastern La.,-0.072
-"Bott, Brenda",2015,Jr,Wagner,-0.039
-"Bouchard, Janelle",2015,Jr,Maine,-0.016
-"Bowman, Elena",2015,Jr,Manhattan,0.034
-"Breeden, Allysen",2015,Sr,Rider,-0.134
-"Brenneis, Lexie",2015,Fr,Montana,0.090
-"Broderick, Sydney",2015,So,BYU,-0.028
-"Brodner, Emily",2015,Fr,Illinois,-0.039
-"Browne, Katie",2015,Jr,Georgia,-0.004
-"Brown, Erin",2015,Jr,UNCW,0.025
-"Brown, Mylee",2015,Sr,Weber St.,0.106
-"Brunson, Alex",2015,Fr,North Florida,-0.006
-"Burgess, Lindsey",2015,Jr,Tennessee St.,0.017
-"Burt, Cianna",2015,Jr,South Carolina St.,-0.065
-"Bush, Alexis",2015,So,Saint Joseph's,-0.047
-"Bustillos, Shannon",2015,Sr,Maryland,0.017
-"Buttacavoli, Brina",2015,Fr,Utah St.,-0.032
-"Byrne, Taylar",2015,Fr,Charlotte,-0.202
-"Caggiano, Liz",2015,Sr,Columbia,-0.009
-"Cahill, Holiday",2015,So,Towson,0.083
-"Carney, Alexis",2015,So,UC Davis,0.120
-"Carroll, Caitlyn",2015,So,Nicholls St.,-0.028
-"Carter, Ashley",2015,Sr,Bakersfield,0.011
-"Castillo, Tiffany",2015,Jr,Sam Houston St.,0.010
-"Castle, Kasandra",2015,Fr,FGCU,0.108
-"Cavin, Miranda",2015,So,Oklahoma St.,0.048
+"Adams, Elizabeth",2015,Jr,Rutgers,0.197
+"Adkinson, Spencer",2015,Sr,Southeastern La.,-0.089
+"Africano, Casey",2015,Jr,Notre Dame,0.051
+"Aguirre, Katee",2015,Jr,Arizona St.,-0.014
+"Akamine, Hannah",2015,Sr,Oregon St.,-0.202
+"Alaan, Jastine",2015,Fr,Mercer,-0.007
+"Aldrete, Annie",2015,So,Tennessee,0.094
+"Alford, Callie",2015,Sr,Georgia St.,-0.012
+"Allen, Kelby",2015,Sr,Liberty,-0.104
+"Allocca, Brittany",2015,Fr,Hofstra,-0.001
+"Anderson, Denise",2015,So,Florida A&M,-0.001
+"Angersbach, Jessica",2015,So,Villanova,-0.112
+"Appelbe, Katherine",2015,Sr,Harvard,0.106
+"Arciola, Alex",2015,Fr,North Florida,-0.008
+"Arnold, Caylor",2015,Jr,Northwestern,0.061
+"Ashley, Jordan",2015,Jr,Presbyterian,-0.056
+"Baca, Brynn",2015,So,Lamar,0.061
+"Bailey, Katie Anne",2015,So,Mississippi St.,-0.105
+"Baker, Ashley",2015,Jr,Green Bay,0.083
+"Ballard, Lexie",2015,Sr,Jacksonville,-0.082
+"Baltzell, Megan",2015,Sr,Longwood,0.031
+"Barber, Caitie",2015,Jr,Towson,0.052
+"Barre, Amye",2015,Jr,La.-Monroe,-0.049
+"Barrios, Kori",2015,So,Utah Valley,-0.153
+"Beck, Jordan",2015,Fr,Southern Miss.,0.018
+"Bell, Chaunsey",2015,Sr,Alabama,0.006
+"Bell, Mickey",2015,Jr,Fla. Atlantic,0.175
+"Belshe, Kristi",2015,Sr,Texas Tech,-0.148
+"Bergman, Kaitlyn",2015,Fr,Toledo,-0.051
+"Bernard, Breezy",2015,Sr,Santa Clara,0.026
+"Berouty, Melissa",2015,Jr,Bethune-Cookman,0.101
+"Berry, Taylor",2015,So,Wisconsin,0.032
+"Besson, Lindsey",2015,So,Michigan St.,0.215
+"Bindus, TJ",2015,Fr,Oakland,0.114
+"Bird, Claire",2015,Fr,Dartmouth,0.258
+"Bishop, Emily",2015,Jr,Kennesaw St.,-0.078
+"Bjorson, Bailey",2015,So,Campbell,-0.034
+"Bolden, Tia",2015,So,Savannah St.,-0.004
+"Booty, Joanna",2015,So,Southeastern La.,-0.107
+"Bott, Brenda",2015,Jr,Wagner,0.157
+"Bouchard, Janelle",2015,Jr,Maine,0.026
+"Bowen, Clara",2015,Jr,Samford,0.021
+"Bowman, Elena",2015,Jr,Manhattan,0.070
+"Braun, Dani",2015,Jr,Washington,-0.016
+"Breeden, Allysen",2015,Sr,Rider,-0.058
+"Brenneis, Lexie",2015,Fr,Montana,0.057
+"Bretz, Victoria",2015,Fr,Niagara,-0.046
+"Broderick, Sydney",2015,So,BYU,-0.053
+"Brodner, Emily",2015,Fr,Illinois,-0.181
+"Browne, Katie",2015,Jr,Georgia,-0.113
+"Brown, Erin",2015,Jr,UNCW,0.087
+"Brown, Mylee",2015,Sr,Weber St.,0.142
+"Brunson, Alex",2015,Fr,North Florida,0.006
+"Budicin, Kailee",2015,Fr,Dayton,0.040
+"Burgess, Anndrea",2015,Sr,St. Bonaventure,-0.044
+"Burgess, Lindsey",2015,Jr,Tennessee St.,-0.092
+"Burner, Erin",2015,Sr,St. John's (NY),-0.166
+"Burt, Cianna",2015,Jr,South Carolina St.,-0.067
+"Bush, Alexis",2015,So,Saint Joseph's,-0.057
+"Bustillos, Shannon",2015,Sr,Maryland,0.065
+"Butera, Ashley",2015,Sr,Nevada,0.002
+"Butler, Morgan",2015,Sr,Grambling,0.025
+"Buttacavoli, Brina",2015,Fr,Utah St.,0.015
+"Byrne, Taylar",2015,Fr,Charlotte,-0.258
+"Caggiano, Liz",2015,Sr,Columbia,0.017
+"Cahill, Holiday",2015,So,Towson,0.123
+"Capitini, Geena",2015,N/A,Bethune-Cookman,-0.062
+"Cargill, Lindsey",2015,So,Baylor,0.091
+"Carney, Alexis",2015,So,UC Davis,0.087
+"Carroll, Caitlyn",2015,So,Nicholls St.,-0.029
+"Carter, Ashley",2015,Sr,Bakersfield,0.057
+"Carter, Riley",2015,Jr,Butler,-0.068
+"Castillo, Tiffany",2015,Jr,Sam Houston St.,-0.099
+"Castle, Kasandra",2015,Fr,FGCU,0.145
+"Cavin, Miranda",2015,So,Oklahoma St.,-0.020
+"Cenal, Kalyn",2015,Jr,UCF,0.076
 "Cervantez, Autumn",2015,So,North Dakota,-0.070
-"Chambers, Ashlie",2015,So,Drake,0.069
-"Chan, Kimberly",2015,So,Drexel,0.043
-"Chastain, Heather",2015,Sr,Western Caro.,0.010
-"Chaw, Karen",2015,So,Dartmouth,-0.013
-"Cheatham, Macey",2015,Jr,Florida St.,-0.077
-"Chimento, Jordan",2015,Fr,Boston College,-0.046
-"Christian, Marci",2015,Sr,Charleston So.,-0.031
-"Claytor, Madison",2015,So,Ohio,0.006
-"Coffey, Caitlyn",2015,Sr,Georgia Tech,-0.046
-"Coil, Braxton",2015,Jr,Missouri St.,0.113
-"Cole, Hannah",2015,Sr,Eastern Ill.,0.061
-"Collins, Taylor",2015,Jr,Furman,-0.068
-"Conchas, Daisy",2015,Fr,San Jose St.,-0.168
-"Cooper, Hannah",2015,Jr,Central Conn. St.,0.054
-"Cortez, Tatiana",2015,So,Boston College,-0.011
-"Craft, Jessica",2015,Sr,Ball St.,-0.026
-"Cumiskey, Rachel",2015,Fr,Gardner-Webb,-0.053
-"Curtiss, Alexis",2015,Sr,Buffalo,-0.052
-"Daly, Allie",2015,Sr,South Dakota,-0.021
-"Daly, Jordan",2015,Jr,Belmont,0.019
-"Daneker, Amanda",2015,So,Coastal Caro.,0.063
-"Daniels, Bria",2015,Fr,Mississippi Val.,-0.062
-"Danner, Tori",2015,Fr,Iona,-0.004
-"Davila, Kris",2015,Sr,Houston,0.049
-"Day, Hannah",2015,N/A,Troy,0.128
+"Chaffee, Taylor",2015,Jr,Binghamton,0.063
+"Chambers, Ashlie",2015,So,Drake,0.199
+"Chamblee, Nella",2015,So,UNCW,-0.062
+"Chan, Kimberly",2015,So,Drexel,0.110
+"Chastain, Heather",2015,Sr,Western Caro.,0.002
+"Chaw, Karen",2015,So,Dartmouth,-0.003
+"Cheatham, Macey",2015,Jr,Florida St.,-0.086
+"Chernak, Kelsey",2015,Fr,East Tenn. St.,0.055
+"Chimento, Jordan",2015,Fr,Boston College,-0.038
+"Christensen, Sydney",2015,Fr,Baylor,0.024
+"Christian, Marci",2015,Sr,Charleston So.,-0.010
+"Clark, Allyne",2015,Jr,Iona,-0.082
+"Clayson, Ashley",2015,So,Southern Utah,0.032
+"Claytor, Madison",2015,So,Ohio,0.009
+"Clowdus, Nicole",2015,Jr,Loyola Marymount,-0.006
+"Cochran, Phalen",2015,So,UC Davis,-0.088
+"Coffey, Caitlyn",2015,Sr,Georgia Tech,-0.051
+"Coil, Braxton",2015,Jr,Missouri St.,0.063
+"Coldiron, Adeline",2015,So,Northern Colo.,0.013
+"Cole, Hannah",2015,Sr,Eastern Ill.,0.082
+"Colenzo, Sydney",2015,So,Cal St. Fullerton,-0.068
+"Collins, Taylor",2015,Jr,Furman,-0.072
+"Conchas, Daisy",2015,Fr,San Jose St.,-0.072
+"Cooper, Hannah",2015,Jr,Central Conn. St.,0.124
+"Cortez, Tatiana",2015,So,Boston College,-0.033
+"Cottle, Jennifer",2015,N/A,Detroit,-0.044
+"Craft, Jessica",2015,Sr,Ball St.,0.083
+"Crews, Chelsea",2015,Sr,Saint Peter's,-0.142
+"Cruse, Bayli",2015,Fr,Tennessee Tech,-0.004
+"Cullen, Rachel",2015,Fr,Penn,0.059
+"Cumiskey, Rachel",2015,Fr,Gardner-Webb,-0.068
+"Curtis, Brooke",2015,Fr,South Dakota,-0.007
+"Curtiss, Alexis",2015,Sr,Buffalo,-0.020
+"Daly, Allie",2015,Sr,South Dakota,-0.026
+"Daly, Jordan",2015,Jr,Belmont,0.057
+"Daneker, Amanda",2015,So,Coastal Caro.,0.118
+"Daniels, Bria",2015,Fr,Mississippi Val.,-0.048
+"Danner, Tori",2015,Fr,Iona,0.019
+"David, Brooke",2015,Jr,McNeese St.,0.040
+"Davies, Emilia",2015,Jr,UMass Lowell,-0.029
+"Davila, Kris",2015,Sr,Houston,0.093
+"Day, Hannah",2015,N/A,Troy,0.130
+"Decker, Taylor",2015,So,Canisius,-0.017
 "DeDomenico, Lindsey",2015,Jr,Sacred Heart,-0.081
-"Delagrange, Jaclyn",2015,Fr,Green Bay,0.058
-"De La Torre, Dana",2015,Fr,Utah Valley,-0.137
-"Deloney, Chelsey",2015,So,Belmont,-0.020
-"Devlin, Dani",2015,So,Northern Ky.,-0.074
-"Dillon, Eryn",2015,Sr,IUPUI,0.051
-"Ditto, Campbell",2015,Jr,Omaha,0.037
-"Dobbins, Alexandra",2015,Fr,Mississippi Val.,0.101
-"Dominiguez, Alexiss",2015,Jr,N.C. A&T,-0.055
-"Dos Santos, Samantha",2015,Sr,George Washington,-0.001
-"Doss, Tiffany",2015,N/A,Grambling,-0.087
-"Doston, Kelsey",2015,Jr,Indiana,-0.030
-"Drake, Ivie",2015,Fr,Georgia St.,-0.096
-"Dubois, Jacklyn",2015,Jr,UConn,-0.070
-"Duffy, Drew",2015,Fr,Wagner,0.064
-"Dukes, Laura",2015,Sr,Lipscomb,-0.035
-"Duran, Kathryn",2015,Jr,Pittsburgh,0.046
-"Dvorak, Rebecca",2015,Fr,Lafayette,0.004
-"Dzienkowski, Kathy",2015,Jr,Dartmouth,0.019
-"Eby, Tess",2015,Fr,SIUE,0.151
-"Elkins, Lexie",2015,Jr,La.-Lafayette,0.076
+"Delagrange, Jaclyn",2015,Fr,Green Bay,0.067
+"De La Torre, Dana",2015,Fr,Utah Valley,-0.156
+"DeLio, Georgi",2015,So,Charleston So.,0.017
+"Deloney, Chelsey",2015,So,Belmont,-0.068
+"de los Reyes, Jordan",2015,So,Illinois St.,0.029
+"DeMarco, Bethany",2015,Jr,Canisius,0.080
+"Devlin, Dani",2015,So,Northern Ky.,-0.115
+"Dewes, Alyssa",2015,So,Syracuse,0.041
+"Di Fulgo, Sommer",2015,Sr,Norfolk St.,-0.015
+"Dillard, Kristina",2015,So,Louisville,0.007
+"Dillon, Eryn",2015,Sr,IUPUI,0.166
+"Dionne, Hannah",2015,Jr,Saint Joseph's,-0.064
+"Ditto, Campbell",2015,Jr,Omaha,0.044
+"Dobbins, Alexandra",2015,Fr,Mississippi Val.,0.057
+"Doerre, Katie",2015,Jr,Texas St.,0.002
+"Dominguez, Sara",2015,Fr,Seattle,-0.058
+"Dominiguez, Alexiss",2015,Jr,N.C. A&T,-0.202
+"Dos Santos, Samantha",2015,Sr,George Washington,-0.155
+"Doss, Tiffany",2015,N/A,Grambling,-0.090
+"Doston, Kelsey",2015,Jr,Indiana,-0.049
+"Drake, Ivie",2015,Fr,Georgia St.,-0.095
+"Dubois, Jacklyn",2015,Jr,UConn,-0.150
+"Duffy, Aoife",2015,Jr,Eastern Mich.,-0.096
+"Duffy, Drew",2015,Fr,Wagner,0.074
+"Dukes, Laura",2015,Sr,Lipscomb,-0.020
+"Dunn, Kori",2015,Fr,FGCU,-0.011
+"Duran, Kathryn",2015,Jr,Pittsburgh,-0.020
+"Dvorak, Rebecca",2015,Fr,Lafayette,0.015
+"Dzienkowski, Kathy",2015,Jr,Dartmouth,0.081
+"Eby, Tess",2015,Fr,SIUE,0.183
+"Elkins, Lexie",2015,Jr,La.-Lafayette,0.062
 "Ellis, Whitney",2015,Jr,Oklahoma,0.031
-"Elvina, Gabriela",2015,So,Georgetown,0.018
-"Ennis, Whitney",2015,Fr,IPFW,-0.021
-"Entzminger, Emma",2015,Fr,San Jose St.,0.011
-"Evangelista, Morgan",2015,Fr,Bowling Green,0.022
-"Everett, Kacey",2015,So,Texas-Arlington,0.069
-"Falk, Aidan",2015,Fr,Michigan,-0.098
-"Fenichel, Abby",2015,Fr,Lipscomb,0.042
-"Fleming, Mickaela",2015,So,Evansville,-0.031
+"Elvina, Gabriela",2015,So,Georgetown,-0.078
+"Ennis, Whitney",2015,Fr,IPFW,-0.078
+"Entzminger, Emma",2015,Fr,San Jose St.,0.073
+"Evangelista, Morgan",2015,Fr,Bowling Green,0.143
+"Everett, Kacey",2015,So,Texas-Arlington,0.115
+"Fagan, Sami",2015,Jr,Missouri,0.054
+"Falk, Aidan",2015,Fr,Michigan,0.027
+"Fenichel, Abby",2015,Fr,Lipscomb,0.201
+"Field, Erica",2015,Jr,James Madison,-0.024
+"Fields, Molly",2015,Fr,Missouri St.,0.093
+"Finley, Keilani",2015,So,Quinnipiac,-0.166
+"Fleming, Mickaela",2015,So,Evansville,-0.046
 "Flores, Alex",2015,So,Portland St.,0.036
-"Fontaine, Kimberly",2015,Jr,Morgan St.,-0.004
-"Ford, Amanda",2015,N/A,Prairie View,-0.142
-"Foyer, Jordan",2015,Sr,Ark.-Pine Bluff,-0.026
-"Fraccastoro, Taylor",2015,Fr,Stephen F. Austin,0.035
-"Freeman, Amber",2015,Sr,Arizona St.,0.073
-"Freeman, Rebecca",2015,So,Marist,0.157
-"Freese, Jill",2015,Jr,Monmouth,-0.106
-"Fried, Sawyer",2015,So,Hartford,-0.089
-"Friloux, Alexandra",2015,Jr,UMKC,0.009
-"Fritz, Lacey",2015,So,Southeastern La.,-0.176
-"Fuller, Taylore",2015,Jr,Florida,0.109
-"Fung, Mia",2015,Fr,South Fla.,0.049
-"Galasso, Vicky",2015,Sr,Idaho St.,0.016
-"Gallant, Stephanie",2015,Sr,Illinois St.,0.055
-"Gambone, Lauren",2015,N/A,Buffalo,-0.043
-"Garcia, Linda",2015,Fr,UTEP,-0.070
-"Gebele, Adrienne",2015,Sr,Ohio,0.121
-"Germ, Emerie",2015,Sr,N.C. Central,0.114
-"Godin, Olivia",2015,Jr,Massachusetts,-0.111
-"Gomes, Amanda",2015,Sr,Gardner-Webb,-0.011
-"Gonzalez, Niki",2015,Fr,Mt. St. Mary's,-0.063
-"Goodacre, Chelsea",2015,Sr,Arizona,0.044
-"Grabowski, Mary",2015,Jr,San Diego,0.005
-"Green, Corrin",2015,Fr,New Mexico St.,0.003
-"Griffin, Jessica",2015,Jr,Stetson,-0.031
-"Gross, Kylie",2015,Fr,Toledo,-0.015
-"Guenther, Chelsea",2015,Sr,Texas Southern,-0.028
-"Guitreau, Hailey",2015,Jr,Southern U.,0.007
-"Gumz, Paige",2015,Jr,Fresno St.,0.139
-"Gunn, Caitlin",2015,Jr,Houston Baptist,0.156
-"Gurganus, Jordan",2015,So,Robert Morris,-0.092
-"Haley, Paige",2015,So,Winthrop,-0.026
-"Hamilton, A.J.",2015,Jr,Ga. Southern,-0.058
-"Hampton, Erica",2015,Sr,Ill.-Chicago,0.062
-"Hampton, Kaylah",2015,Fr,Purdue,-0.066
-"Hargett, Casey",2015,Jr,N.C. Central,-0.060
-"Harris, Kassie",2015,Fr,Louisiana Tech,0.028
-"Hart, Sydney",2015,So,Utah St.,-0.035
-"Harvey, Rachel",2015,So,Maine,-0.036
-"Haskell, Lindsey",2015,Jr,Albany (NY),-0.021
-"Haslinger, Emily",2015,Jr,UNLV,0.035
-"Hawkins, Maggie",2015,Jr,North Carolina St.,0.012
-"Hawthorne, Sandy",2015,Jr,Delaware St.,-0.044
-"Hayes, Riley",2015,Fr,Southeast Mo. St.,-0.032
-"Hazel, Andrea",2015,Jr,St. Mary's (CA),0.060
-"Healey, Lyndsey",2015,Sr,Southern Utah,0.031
-"Henderson, Danielle",2015,Sr,California,-0.075
-"Hensley, Emilie",2015,Jr,East Tenn. St.,0.028
-"Hess, Kathryn",2015,Jr,Dayton,0.105
-"Hiers, Shelby",2015,So,Arkansas,-0.013
-"Hildreth, Sammie",2015,Jr,Iowa St.,-0.117
-"Hill, Alexis",2015,Fr,Austin Peay,-0.017
-"Hill, Lyndsay",2015,So,Oakland,-0.028
-"Hoffman, Holly",2015,Jr,Iowa,-0.061
-"Holley, Chelsey",2015,Fr,UC Riverside,-0.163
-"Honaker, Megan",2015,Jr,Radford,-0.045
-"Hooper, Katie",2015,So,CSUN,0.004
-"Hoover, Cara",2015,Jr,Abilene Christian,0.060
-"Horne, Molly",2015,Fr,Weber St.,0.026
-"Horner, Catherine",2015,Jr,Tulsa,0.047
-"Hudson, Nicole",2015,Sr,Northern Colo.,0.068
-"Hunt, Amy",2015,So,SIUE,-0.002
-"Hutchison, Molly",2015,So,North Carolina St.,0.111
-"Iannucci, Leanne",2015,Jr,Cornell,-0.002
-"Jaegers, Melanie",2015,Sr,Wichita St.,0.028
-"James, Kate",2015,Jr,Arkansas,-0.040
-"Jaquish, Sahvanna",2015,So,LSU,0.200
-"Jerpbak, Skye",2015,Jr,Princeton,-0.012
-"Johnson, Brianna",2015,Fr,Mississippi Val.,-0.059
-"Johnson, Chelsea",2015,Fr,New Mexico,-0.014
-"Johnston, Heather",2015,Jr,Troy,0.178
-"Johson, Ashley",2015,Jr,UAB,0.020
-"Joiner, Griffin",2015,Sr,Kentucky,0.102
-"Jones, Sydney",2015,Fr,Southern Ill.,-0.061
-"Jordan, Jenna",2015,N/A,Northern Colo.,0.010
-"Joyner, Jurie",2015,Fr,Penn,-0.031
-"Kalina, Maison",2015,Fr,Central Mich.,-0.038
-"Kane, Kayla",2015,So,Detroit,-0.046
-"Keegan, Megan",2015,Jr,North Dakota,0.081
-"Kennedy, Kelly",2015,So,Tennessee Tech,-0.044
-"Keough, Alicia",2015,Sr,Central Conn. St.,0.094
-"King, Brianna",2015,Jr,Iona,0.003
-"Kitterman, Sarah",2015,Sr,Providence,-0.049
-"Kitts, Katie",2015,Jr,George Mason,0.049
-"Kleinsmith, Jackie",2015,Sr,Charlotte,-0.026
-"Kloss, Kellsi",2015,Jr,LSU,0.053
-"Kuchta, Sabrina",2015,Fr,DePaul,-0.046
-"Lacatena, Maria",2015,So,Youngstown St.,-0.010
-"LaCivita, Katy",2015,Jr,Loyola Chicago,-0.027
-"Landrith, Robin",2015,Jr,Baylor,0.047
-"Larios, Jo",2015,So,Bakersfield,-0.033
-"LaRosa, Stephany",2015,Sr,UCLA,0.086
-"Laudano, Faith",2015,Jr,Seton Hall,0.010
-"Lawrence, Olivia",2015,Sr,South Carolina,0.032
-"Lee, Brittany",2015,So,Texas Tech,-0.013
-"Lee, Kat",2015,Fr,Miami (OH),-0.018
-"Lee, Stephanie",2015,Jr,St. Mary's (CA),-0.021
-"Leighton, Robyn",2015,Fr,Morehead St.,0.007
-"LeMay, Taylor",2015,Jr,Minnesota,0.173
-"Leonard, Erika",2015,Jr,Ohio St.,-0.046
-"Lindvall, Janelle",2015,Jr,Oregon,0.132
-"Lisenby, Christy",2015,So,Baylor,0.049
-"Lombardi, Lauren",2015,So,Long Beach St.,0.020
-"Lombardo, Kayla",2015,Sr,Fordham,-0.118
-"Lopez, Aleima",2015,Jr,FIU,-0.084
-"Lopez, Shontel",2015,N/A,Prairie View,-0.040
-"Mack, Kirsten",2015,So,Missouri,-0.033
-"Mahar, Alina",2015,Fr,Northern Ky.,0.020
-"Maiden, Brianna",2015,Sr,Grambling,-0.002
-"Manzanares, Jaelyn",2015,Jr,Colorado St.,0.011
-"Maples, Mackenzie",2015,Sr,Col. of Charleston,0.057
-"Marino, Christine",2015,Sr,FGCU,-0.069
-"Marlink, Danielle",2015,So,Central Mich.,-0.046
-"Martinez, Christina",2015,So,Bucknell,0.022
-"Martinez, Gabi",2015,So,Boston U.,-0.020
-"Masutani, Kryn",2015,Sr,San Jose St.,0.030
-"Maxwell, Addison",2015,Fr,Memphis,-0.040
-"McAnally, Leigh",2015,Fr,Ball St.,0.006
-"McCloskey, Samantha",2015,Jr,UCF,0.185
-"McIlvenna, Regan",2015,N/A,Prairie View,-0.045
-"McInnes, Taiya",2015,Fr,Alabama A&M,0.048
-"McKee, Dre",2015,Jr,Oklahoma St.,-0.047
-"McKeever, Morgan",2015,Jr,Southern Miss.,0.038
-"McMahon, Bri",2015,N/A,Creighton,0.069
-"McNew, Erica",2015,Jr,Cleveland St.,-0.128
-"McNulla, Brittany",2015,Fr,Virginia,0.048
-"Meckl, Renate",2015,So,UT Martin,0.029
-"Messer, Taylor",2015,So,Western Ill.,0.024
-"Miller, Chloe",2015,So,Wisconsin,-0.015
-"Miller, Kaycee",2015,Sr,South Dakota St.,0.032
-"Million, Carey",2015,So,Elon,0.031
-"Moeai, Brittany",2015,Jr,UCLA,0.061
-"Mooney, Sarah",2015,Sr,South Carolina,0.047
-"Moore, Courtney",2015,So,Loyola Marymount,0.027
-"Moore, Meshalon",2015,So,UC Santa Barbara,-0.044
-"Moran, Natalie",2015,So,Louisiana Tech,-0.010
-"Morris, Kate",2015,Sr,Tennessee St.,-0.173
-"Morris, Susanne",2015,Fr,Cal Poly,0.158
-"Morrow, Bubba",2015,Sr,Seattle,-0.021
-"Morse, Brittney",2015,So,A&M-Corpus Chris,0.070
-"Munro, Aubree",2015,Jr,Florida,0.225
-"Murray, Amber",2015,So,Eastern Ky.,-0.021
-"Nash, Trenece",2015,Jr,UMES,-0.012
-"Neal, Ashley",2015,Fr,Jackson St.,-0.046
-"Neal, Morghyn",2015,So,IPFW,0.015
-"Nettling, Sammy",2015,Fr,Northwestern,-0.128
-"Nicholas, Amanda",2015,Fr,Nevada,0.039
-"Noad, Morgan",2015,Jr,Coastal Caro.,-0.029
-"Norwood, Chelsea",2015,So,Butler,0.055
-"Ogburn, Emma",2015,Fr,Furman,0.039
-"Olson, Ashley",2015,Sr,Rhode Island,-0.059
-"Onorato, Sarah",2015,Sr,Yale,0.083
-"Orlando, Frankie",2015,So,San Diego St.,-0.011
-"Overstreet, Lexi",2015,Jr,Tennessee,0.174
-"Pacheco, Shelby",2015,Jr,Utah,-0.002
-"Paiotti, Nicole",2015,Fr,Saint Francis (PA),-0.096
-"Panariello, Giana",2015,So,Harvard,-0.131
-"Parrish, Amber",2015,Sr,North Carolina,-0.001
-"Pasco, Jessica",2015,So,Pacific,0.041
-"Pasquale, Stephanie",2015,Sr,Nebraska,-0.070
-"Paul, Ashlynne",2015,So,Eastern Ill.,-0.141
-"Pavel, Mel",2015,Jr,Austin Peay,-0.181
-"Peres, Jenavee",2015,Fr,San Diego St.,0.031
-"Perez, Xiomara",2015,Fr,Army West Point,-0.037
-"Perkins, Jess",2015,Sr,Illinois,-0.076
-"Pfeffer, Kate",2015,So,Wright St.,-0.099
-"Piancastelli, Erika",2015,Fr,McNeese St.,-0.016
-"Pickett, Cassi",2015,Fr,East Tenn. St.,-0.096
-"Pickett, Shelby",2015,Jr,Pittsburgh,-0.008
-"Pilkington, Stephanie",2015,Jr,South Ala.,0.118
-"Pitre, Alyssa",2015,Fr,Sacred Heart,-0.045
-"Plaza, Jessica",2015,Jr,Stanford,-0.179
-"Prater, Kayla",2015,Jr,Nicholls St.,0.003
-"Proctor, Kaytie",2015,Fr,Northwestern St.,0.011
-"Prusak, Paris",2015,Sr,USC Upstate,0.015
-"Pugh, Dani",2015,Sr,Western Ky.,0.096
-"Rabbetts, Alex",2015,Jr,Seton Hall,0.041
-"Raby, Korinne",2015,Jr,Penn,0.125
-"Rathburn, Chloe",2015,So,South Ala.,0.182
-"Redmond, Brooke",2015,Fr,Monmouth,-0.002
-"Reed, Tori",2015,So,Fairfield,0.165
-"Reedy, Tatum",2015,Jr,New Mexico St.,0.052
-"Reina, Alyssa",2015,So,North Dakota St.,-0.018
-"Rhodes, Mckenzi",2015,Jr,Akron,0.068
-"Richards, Alyssa",2015,So,Tennessee Tech,0.047
-"Roane, Jessie",2015,Fr,Kansas,0.033
-"Robertson, Katie",2015,So,UC Davis,-0.025
-"Robinson, Shellie",2015,Sr,USC Upstate,0.047
-"Robles, Anyssa",2015,Jr,Chattanooga,-0.055
-"Rodgers, Jocelynn",2015,So,Murray St.,-0.077
-"Romeo, Lia",2015,Sr,Western Ill.,-0.010
-"Roper, Emily",2015,So,Elon,0.006
-"Ross, Haleigh",2015,So,Memphis,0.010
-"Rouse, Mckalee",2015,Jr,Hampton,-0.014
-"Rowe, Maggie",2015,Fr,Radford,0.012
-"Rupp, Sara",2015,Fr,Texas St.,0.022
-"Rurka, Julianne",2015,Fr,Providence,0.044
-"Ryder, Kaitlin",2015,Fr,UTEP,-0.006
-"Sampson, Erica",2015,Sr,Tulsa,-0.070
-"Sanicki, Taylor",2015,Sr,Western Mich.,-0.059
-"Santillo, Samantha",2015,Sr,Robert Morris,-0.040
-"Saunders, Lauryn",2015,So,UC Davis,-0.083
-"Scamihorn, Shelbie",2015,So,Ball St.,-0.106
-"Schmiederer, Angela",2015,Fr,Iowa,-0.083
-"Schneid, Mallory",2015,Jr,Indiana St.,-0.028
-"Schnyder, Ciara",2015,So,UMES,0.024
-"Schoenewald, Julia",2015,So,Brown,-0.029
-"Schroeder, Maria",2015,Fr,Bradley,-0.056
-"Schroeder, Nicole",2015,Jr,Arkansas,0.031
-"Secaira, Bella",2015,So,Utah,0.073
-"Sellers, Rachel",2015,Fr,Pacific,-0.009
-"Shimoda, Kayla",2015,Sr,Columbia,-0.033
-"Shireman, Erin",2015,Jr,Texas,0.147
-"Shiver, Natalie",2015,Jr,Mercer,0.007
-"Silfer, Lindsey",2015,So,Canisius,-0.076
-"Singleton, Kaleigh",2015,So,Abilene Christian,-0.154
-"Sloan, Savannah",2015,Sr,Jacksonville St.,0.102
-"Smaldone, Sammy",2015,Jr,Siena,0.056
-"Smith,",2015,N/A,Alabama A&M,-0.028
-"Smith, Aeron",2015,Fr,UT Martin,-0.168
-"Smith, Brooke",2015,So,Jacksonville,0.012
-"Smith, Hope",2015,Sr,Furman,0.017
-"Smith, Katey",2015,Jr,Virginia Tech,-0.044
-"Smith, Shelbie",2015,So,North Texas,-0.016
-"Snow, Elizabeth",2015,So,Albany (NY),-0.038
-"Soefje, Tess",2015,Jr,UTSA,-0.036
-"Solis, Kortney",2015,Jr,Sacramento St.,0.032
-"Souza, Kimberlee",2015,Jr,Washington,-0.053
-"Spenn, Kathryn",2015,Jr,Bradley,-0.084
-"Spivey, Lee Ann",2015,Jr,South Fla.,0.012
-"Springfield, Emily",2015,Fr,Brown,-0.059
-"Standley, Katelyn",2015,So,Stephen F. Austin,-0.003
-"Stanley, Cera",2015,Fr,Utah Valley,-0.041
-"Stauffenberg, Jenna",2015,Fr,Valparaiso,-0.070
-"Stewart, Samantha",2015,So,Valparaiso,0.032
-"Stoffer, Ellie",2015,Sr,Michigan St.,-0.094
-"Stokes, Bailey",2015,So,Southern Miss.,0.050
-"Storms, Samantha",2015,Fr,Saint Peter's,-0.041
-"Stover, Brooke",2015,Fr,UNLV,0.178
-"Stracher, Shelby",2015,Fr,Towson,0.075
-"Summers, Ali",2015,So,Rhode Island,0.051
-"Sutter, Courtney",2015,So,Kennesaw St.,0.112
-"Suttles, Kiara",2015,Fr,Southern U.,0.118
-"Swanicke, Suzanne",2015,So,La Salle,0.044
-"Sweeney, Abby",2015,So,Samford,-0.009
-"Sweet, Lauren",2015,Sr,Michigan,0.246
-"Syrett, Courtney",2015,So,Ole Miss,-0.040
-"Tackett, Kortney",2015,Sr,Wright St.,0.090
-"Taylor, Erin",2015,Sr,Presbyterian,0.084
-"Taylor, Hannah",2015,Jr,Samford,0.052
-"Taylor, Jessie",2015,Jr,Central Ark.,0.026
-"Taylor, Monica",2015,Fr,UNCW,-0.023
-"Tellez, Naomi",2015,Jr,DePaul,-0.077
-"Thomas, Amanda",2015,Fr,UTSA,0.009
-"Thomas, Jessa",2015,So,Southern Ill.,0.008
-"Thomas, Lindsay",2015,Jr,UNCG,-0.036
-"Tometich, Hannah",2015,Jr,North Dakota,-0.032
-"Torrez, Hailey",2015,Sr,Boise St.,-0.140
-"Trevino, Christy",2015,So,Incarnate Word,-0.105
-"Trippi, Erin",2015,Sr,Hofstra,0.278
-"Tutsch, Krysta",2015,Jr,Louisiana Tech,0.073
-"Unzicker, Madison",2015,Fr,Nebraska,0.047
-"VanDerveer, Alyssa",2015,Fr,Penn St.,0.041
-"Van Horn, Candice",2015,Sr,Coppin St.,0.024
-"Varriano, Anna",2015,So,UNI,0.012
-"Vergona, Ally",2015,So,Fordham,-0.019
-"Vesper, Hannah",2015,Jr,Alcorn,-0.051
-"Vonhagel, Madison",2015,Fr,Houston Baptist,0.132
-"Wade, Bryana",2015,Jr,North Texas,-0.049
-"Wagner, Taylor",2015,So,Eastern Mich.,-0.073
-"Waite, Lauren",2015,Sr,St. Bonaventure,0.022
-"Walker, Dani",2015,Fr,Montana,-0.016
-"Wallace, Carlee",2015,Fr,Auburn,0.007
-"Walters, Ashley",2015,Fr,Texas A&M,0.026
-"Wambold, Julie",2015,Sr,Syracuse,-0.085
-"Warnock, Sarah",2015,Sr,Appalachian St.,-0.049
-"Warren, Erika",2015,Jr,Kent St.,0.089
-"Wartner, Kayla",2015,Sr,Hawaii,0.017
-"Weavers, Hailey",2015,So,Saint Louis,0.009
-"Westerman,",2015,Fr,Grambling,0.045
-"Whidden, Cassidy",2015,Sr,Notre Dame,0.012
-"Whispel, Rylee",2015,Fr,Miami (OH),-0.004
-"Whittington, Carlie",2015,Fr,Southeastern La.,-0.023
-"Wilen, Madelaine",2015,Jr,Fairleigh Dickinson,-0.018
-"Willmon, Lindsey",2015,So,Hawaii,-0.042
-"Wince, Ashton",2015,So,Massachusetts,0.041
-"Wissinger, Danielle",2015,So,Delaware,-0.128
-"Wodach, Lea",2015,Fr,Oklahoma,0.049
-"Wynne, Abby",2015,Sr,East Carolina,-0.032
-"Yanez, Aleesa",2015,Jr,Alabama St.,0.106
-"Young, Cheyanna",2015,Jr,Bucknell,0.010
-"Yzaguirre, Taylor",2015,So,Cal Poly,-0.082
-"Zamora, Victoria",2015,Fr,LIU Brooklyn,-0.052
-"Zeremenko, Giorgiana",2015,Fr,Pittsburgh,-0.036
-"Ziese, Courtney",2015,Jr,Georgia Tech,-0.060
+"Fontaine, Kimberly",2015,Jr,Morgan St.,-0.033
+"Ford, Amanda",2015,N/A,Prairie View,-0.151
+"Foyer, Jordan",2015,Sr,Ark.-Pine Bluff,-0.042
+"Fraccastoro, Taylor",2015,Fr,Stephen F. Austin,-0.051
+"Freeman, Amber",2015,Sr,Arizona St.,0.108
+"Freeman, Rebecca",2015,So,Marist,0.212
+"Freese, Jill",2015,Jr,Monmouth,-0.214
+"Fried, Sawyer",2015,So,Hartford,-0.091
+"Friloux, Alexandra",2015,Jr,UMKC,0.017
+"Fritz, Lacey",2015,So,Southeastern La.,-0.162
+"Fuller, Taylore",2015,Jr,Florida,0.116
+"Fung, Mia",2015,Fr,South Fla.,0.137
+"Galasso, Vicky",2015,Sr,Idaho St.,0.078
+"Gallant, Stephanie",2015,Sr,Illinois St.,0.059
+"Gambone, Lauren",2015,N/A,Buffalo,-0.041
+"Garcia, Alejandra",2015,Fr,Cal Poly,-0.085
+"Garcia, Linda",2015,Fr,UTEP,0.036
+"Garcia, P",2015,Fr,Ark.-Pine Bluff,-0.029
+"Gargicevich-Almeida, Alessandra",2015,So,Georgetown,-0.035
+"Gebele, Adrienne",2015,Sr,Ohio,0.106
+"Germ, Emerie",2015,Sr,N.C. Central,0.006
+"Godin, Olivia",2015,Jr,Massachusetts,-0.133
+"Gomes, Amanda",2015,Sr,Gardner-Webb,-0.081
+"Gonzalez, Niki",2015,Fr,Mt. St. Mary's,-0.119
+"Goodacre, Chelsea",2015,Sr,Arizona,0.025
+"Goodwin, Georganna",2015,Jr,Memphis,-0.006
+"Grabowski, Mary",2015,Jr,San Diego,-0.026
+"Green, Corrin",2015,Fr,New Mexico St.,-0.003
+"Griffin, Jessica",2015,Jr,Stetson,0.056
+"Gross, Kylie",2015,Fr,Toledo,-0.002
+"Guenther, Chelsea",2015,Sr,Texas Southern,-0.018
+"Guitreau, Hailey",2015,Jr,Southern U.,0.012
+"Gumz, Paige",2015,Jr,Fresno St.,0.231
+"Gunn, Caitlin",2015,Jr,Houston Baptist,0.119
+"Gurganus, Jordan",2015,So,Robert Morris,-0.062
+"Haley, Paige",2015,So,Winthrop,0.018
+"Hamilton, A.J.",2015,Jr,Ga. Southern,-0.086
+"Hampton, Erica",2015,Sr,Ill.-Chicago,0.077
+"Hampton, Kaylah",2015,Fr,Purdue,-0.074
+"Hargett, Casey",2015,Jr,N.C. Central,-0.074
+"Harris, Kassie",2015,Fr,Louisiana Tech,0.074
+"Harris, Morgan",2015,Fr,Middle Tenn.,-0.047
+"Hart, Sydney",2015,So,Utah St.,-0.066
+"Harvey, Rachel",2015,So,Maine,-0.035
+"Haskell, Lindsey",2015,Jr,Albany (NY),-0.059
+"Haslinger, Emily",2015,Jr,UNLV,-0.041
+"Hassell, Cariona",2015,Fr,Tennessee St.,-0.116
+"Hawkins, Maggie",2015,Jr,North Carolina St.,-0.032
+"Hawthorne, Sandy",2015,Jr,Delaware St.,-0.107
+"Hayes, Riley",2015,Fr,Southeast Mo. St.,-0.039
+"Hazel, Andrea",2015,Jr,St. Mary's (CA),0.054
+"Healey, Lyndsey",2015,Sr,Southern Utah,0.170
+"Heinze, Rachel",2015,So,Mt. St. Mary's,-0.038
+"Henderson, Danielle",2015,Sr,California,-0.014
+"Henderson, Sam",2015,Sr,Detroit,-0.092
+"Hensley, Emilie",2015,Jr,East Tenn. St.,-0.001
+"Herman, Melissa",2015,Sr,Houston Baptist,0.035
+"Hess, Kathryn",2015,Jr,Dayton,0.150
+"Hiers, Shelby",2015,So,Arkansas,-0.015
+"Higgins, Lexie",2015,Fr,Samford,0.027
+"Hignojos, Mia",2015,Sr,New Mexico,-0.014
+"Hildreth, Sammie",2015,Jr,Iowa St.,-0.125
+"Hill, Alexis",2015,Fr,Austin Peay,0.012
+"Hill, Lyndsay",2015,So,Oakland,-0.026
+"Hindi, Perry",2015,So,Alabama St.,0.027
+"Hislope, Allie",2015,Fr,Green Bay,-0.066
+"Hoffman, Holly",2015,Jr,Iowa,-0.041
+"Holley, Chelsey",2015,Fr,UC Riverside,-0.201
+"Honaker, Megan",2015,Jr,Radford,-0.120
+"Hooper, Katie",2015,So,CSUN,0.075
+"Hooper, Marissa",2015,Fr,Incarnate Word,0.106
+"Hoover, Cara",2015,Jr,Abilene Christian,0.012
+"Horne, Molly",2015,Fr,Weber St.,0.028
+"Horner, Catherine",2015,Jr,Tulsa,0.139
+"Hudson, Nicole",2015,Sr,Northern Colo.,0.057
+"Hunt, Amy",2015,So,SIUE,0.315
+"Hutchison, Molly",2015,So,North Carolina St.,0.089
+"Iannucci, Leanne",2015,Jr,Cornell,0.031
+"Jackson, Sarah",2015,Fr,Eastern Ky.,-0.045
+"Jaegers, Melanie",2015,Sr,Wichita St.,-0.027
+"James, Kate",2015,Jr,Arkansas,-0.030
+"Jaquish, Sahvanna",2015,So,LSU,0.185
+"Jerpbak, Skye",2015,Jr,Princeton,0.036
+"Johnson, Brianna",2015,Fr,Mississippi Val.,-0.032
+"Johnson, Chelsea",2015,Fr,New Mexico,0.021
+"Johnson, Erica",2015,Sr,Campbell,0.005
+"Johnson, Gaylan",2015,So,Jackson St.,-0.131
+"Johnston, Heather",2015,Jr,Troy,0.184
+"Johson, Ashley",2015,Jr,UAB,0.007
+"Joiner, Griffin",2015,Sr,Kentucky,0.115
+"Jones, Sydney",2015,Fr,Southern Ill.,-0.138
+"Jordan, Annie",2015,Jr,Grand Canyon,-0.090
+"Jordan, Jenna",2015,N/A,Northern Colo.,-0.003
+"Joyner, Jurie",2015,Fr,Penn,0.000
+"Kalina, Maison",2015,Fr,Central Mich.,-0.010
+"Kane, Kayla",2015,So,Detroit,-0.050
+"Keegan, Megan",2015,Jr,North Dakota,0.099
+"Kennedy, Kelly",2015,So,Tennessee Tech,-0.038
+"Keough, Alicia",2015,Sr,Central Conn. St.,0.103
+"King, Brianna",2015,Jr,Iona,0.104
+"Kitterman, Sarah",2015,Sr,Providence,-0.048
+"Kitts, Katie",2015,Jr,George Mason,0.038
+"Kleinsmith, Jackie",2015,Sr,Charlotte,-0.210
+"Kloss, Kellsi",2015,Jr,LSU,0.107
+"Kuchta, Sabrina",2015,Fr,DePaul,-0.049
+"Kuroda, Gabriela",2015,Jr,Drexel,-0.023
+"Lacatena, Maria",2015,So,Youngstown St.,0.112
+"LaCivita, Katy",2015,Jr,Loyola Chicago,-0.254
+"Lack, Ranel",2015,Fr,Hawaii,-0.018
+"Landrith, Robin",2015,Jr,Baylor,0.116
+"Lang, Abigail",2015,Sr,Holy Cross,-0.012
+"Larios, Jo",2015,So,Bakersfield,-0.115
+"LaRosa, Stephany",2015,Sr,UCLA,0.050
+"Larrabee,",2015,N/A,Bucknell,-0.064
+"Laudano, Faith",2015,Jr,Seton Hall,-0.056
+"Lawrence, Olivia",2015,Sr,South Carolina,0.006
+"Laxamana, Alleah",2015,So,California,-0.085
+"Leahy, Randel",2015,Fr,Texas,0.083
+"Lee, Brittany",2015,So,Texas Tech,-0.047
+"Lee, Kat",2015,Fr,Miami (OH),0.028
+"Lee, Stephanie",2015,Jr,St. Mary's (CA),-0.039
+"Leighton, Robyn",2015,Fr,Morehead St.,-0.016
+"LeMay, Taylor",2015,Jr,Minnesota,0.266
+"Leonard, Erika",2015,Jr,Ohio St.,-0.041
+"Lindvall, Janelle",2015,Jr,Oregon,0.260
+"Lisenby, Christy",2015,So,Baylor,0.027
+"Lombardi, Lauren",2015,So,Long Beach St.,0.018
+"Lombardo, Kayla",2015,Sr,Fordham,-0.029
+"Lopez, Aleima",2015,Jr,FIU,-0.140
+"Lopez, Shontel",2015,N/A,Prairie View,-0.120
+"Lucas, Katalin",2015,Jr,Marshall,0.025
+"Ly, Jenny",2015,Sr,Howard,0.100
+"Mack, Kirsten",2015,So,Missouri,-0.001
+"MacLeod, Laruen",2015,Fr,Long Beach St.,0.106
+"Maddox, Sierra",2015,Fr,Rutgers,0.051
+"Mahar, Alina",2015,Fr,Northern Ky.,0.011
+"Maiden, Brianna",2015,Sr,Grambling,0.001
+"Maioran, Angela",2015,Sr,George Mason,0.031
+"Manzanares, Jaelyn",2015,Jr,Colorado St.,-0.012
+"Maples, Mackenzie",2015,Sr,Col. of Charleston,0.078
+"Marino, Christine",2015,Sr,FGCU,-0.035
+"Marlink, Danielle",2015,So,Central Mich.,-0.034
+"Martinez, Christina",2015,So,Bucknell,0.150
+"Martinez, Gabi",2015,So,Boston U.,0.078
+"Massey, Celena",2015,So,Texas A&M,-0.028
+"Masutani, Kryn",2015,Sr,San Jose St.,-0.203
+"Maxwell, Addison",2015,Fr,Memphis,-0.022
+"Maynard, Ashley",2015,So,Toledo,0.009
+"McAnally, Leigh",2015,Fr,Ball St.,0.070
+"McCloskey, Samantha",2015,Jr,UCF,0.269
+"McCord, Taylor",2015,Fr,Marshall,0.098
+"McCrary, Paige",2015,So,Kent St.,0.019
+"McDilda, Cassidy",2015,Fr,Troy,0.041
+"McIlvenna, Regan",2015,N/A,Prairie View,-0.016
+"McInnes, Taiya",2015,Fr,Alabama A&M,-0.034
+"McIntyre, Shanyn",2015,Sr,Miami (OH),0.124
+"McKee, Dre",2015,Jr,Oklahoma St.,-0.054
+"McKeever, Morgan",2015,Jr,Southern Miss.,0.025
+"McMahon, Bri",2015,N/A,Creighton,0.076
+"McNew, Erica",2015,Jr,Cleveland St.,-0.085
+"McNulla, Brittany",2015,Fr,Virginia,-0.022
+"McShane, Tarah",2015,Sr,Valparaiso,0.001
+"Meckl, Renate",2015,So,UT Martin,0.047
+"Messer, Taylor",2015,So,Western Ill.,0.030
+"Miller, Alex",2015,Fr,Fla. Atlantic,-0.101
+"Miller, Chloe",2015,So,Wisconsin,-0.022
+"Miller, Kaycee",2015,Sr,South Dakota St.,0.019
+"Million, Carey",2015,So,Elon,0.098
+"Minneci,",2015,N/A,Bucknell,-0.043
+"Moeai, Brittany",2015,Jr,UCLA,0.017
+"Mokienko, Trista",2015,So,Bowling Green,-0.039
+"Mooney, Sarah",2015,Sr,South Carolina,0.103
+"Moore, Courtney",2015,So,Loyola Marymount,-0.025
+"Moore, Megan",2015,Jr,Wagner,0.013
+"Moore, Meshalon",2015,So,UC Santa Barbara,-0.084
+"Moran, Natalie",2015,So,Louisiana Tech,0.095
+"Morris, Kate",2015,Sr,Tennessee St.,-0.172
+"Morris, Susanne",2015,Fr,Cal Poly,0.093
+"Morrow, Bubba",2015,Sr,Seattle,-0.081
+"Morse, Brittney",2015,So,A&M-Corpus Chris,0.078
+"Munro, Aubree",2015,Jr,Florida,0.224
+"Murray, Amber",2015,So,Eastern Ky.,-0.038
+"Naegele, Emily",2015,Jr,Northern Ill.,0.003
+"Namba, Kirstyn",2015,Jr,Utah St.,0.052
+"Nash, Trenece",2015,Jr,UMES,-0.009
+"Neal, Ashley",2015,Fr,Jackson St.,-0.067
+"Neal, Morghyn",2015,So,IPFW,0.026
+"Nettling, Sammy",2015,Fr,Northwestern,-0.148
+"Nicholas, Amanda",2015,Fr,Nevada,0.066
+"Nicholas, Emma",2015,Fr,Cleveland St.,-0.040
+"Noad, Morgan",2015,Jr,Coastal Caro.,-0.003
+"Noel, Megan",2015,Jr,Houston,0.025
+"Noland, Sammi",2015,Jr,Oregon St.,-0.099
+"Norwood, Chelsea",2015,So,Butler,0.094
+"O'Donnell, Randee",2015,Fr,Oklahoma St.,0.059
+"Ogburn, Emma",2015,Fr,Furman,0.037
+"Olson, Ashley",2015,Sr,Rhode Island,-0.098
+"Onorato, Sarah",2015,Sr,Yale,0.040
+"Orlando, Frankie",2015,So,San Diego St.,-0.050
+"Overstreet, Lexi",2015,Jr,Tennessee,0.189
+"Pacheco, Shelby",2015,Jr,Utah,-0.004
+"Paiotti, Nicole",2015,Fr,Saint Francis (PA),-0.094
+"Palacios, Sashel",2015,So,Arizona St.,-0.021
+"Panariello, Giana",2015,So,Harvard,-0.144
+"Park, Katie",2015,So,Virginia,-0.020
+"Parrish, Amber",2015,Sr,North Carolina,0.005
+"Pasco, Jessica",2015,So,Pacific,0.048
+"Pasquale, Stephanie",2015,Sr,Nebraska,-0.091
+"Paul, Ashlynne",2015,So,Eastern Ill.,-0.153
+"Pavel, Mel",2015,Jr,Austin Peay,-0.081
+"Peres, Jenavee",2015,Fr,San Diego St.,0.005
+"Perez, Xiomara",2015,Fr,Army West Point,-0.036
+"Perkins, Jess",2015,Sr,Illinois,-0.092
+"Pfeffer, Kate",2015,So,Wright St.,-0.205
+"Phelan, Melissa",2015,Jr,Stony Brook,0.056
+"Phillips, Morgan",2015,Fr,St. Bonaventure,-0.077
+"Piancastelli, Erika",2015,Fr,McNeese St.,0.067
+"Pickett, Cassi",2015,Fr,East Tenn. St.,-0.066
+"Pickett, Shelby",2015,Jr,Pittsburgh,0.035
+"Pilkington, Stephanie",2015,Jr,South Ala.,0.014
+"Pisciotta, Alexandra",2015,Jr,Stony Brook,-0.134
+"Pitre, Alyssa",2015,Fr,Sacred Heart,-0.042
+"Plaza, Jessica",2015,Jr,Stanford,-0.153
+"Pope, Grace",2015,Fr,Drexel,-0.046
+"Prado, Paris",2015,Sr,Sacramento St.,0.103
+"Prantl, Cammi",2015,Jr,Ohio St.,-0.135
+"Prater, Kayla",2015,Jr,Nicholls St.,0.010
+"Proctor, Kaytie",2015,Fr,Northwestern St.,0.003
+"Prusak, Paris",2015,Sr,USC Upstate,0.041
+"Pugh, Dani",2015,Sr,Western Ky.,0.125
+"Rabbetts, Alex",2015,Jr,Seton Hall,0.048
+"Raby, Korinne",2015,Jr,Penn,0.143
+"Rathburn, Chloe",2015,So,South Ala.,0.262
+"Redmond, Brooke",2015,Fr,Monmouth,0.006
+"Reed, Tori",2015,So,Fairfield,0.183
+"Reedy, Tatum",2015,Jr,New Mexico St.,0.078
+"Reilly, Samantha",2015,Fr,Marist,-0.062
+"Reiman, Jessica",2015,N/A,Hampton,-0.106
+"Reina, Alyssa",2015,So,North Dakota St.,0.036
+"Rhodes, Mckenzi",2015,Jr,Akron,0.078
+"Richards, Alyssa",2015,So,Tennessee Tech,0.002
+"Riemenschneider, Brooke",2015,So,Indiana St.,-0.012
+"Ringle, Blake",2015,Jr,Creighton,0.051
+"Roane, Jessie",2015,Fr,Kansas,0.083
+"Roberts, Andrea",2015,Fr,Eastern Ill.,0.080
+"Robertson, Katie",2015,So,UC Davis,-0.068
+"Robinson, Shellie",2015,Sr,USC Upstate,0.052
+"Robles, Anyssa",2015,Jr,Chattanooga,0.022
+"Rodgers, Jocelynn",2015,So,Murray St.,-0.303
+"Romeo, Lia",2015,Sr,Western Ill.,-0.004
+"Roper, Emily",2015,So,Elon,-0.152
+"Ross, Haleigh",2015,So,Memphis,-0.028
+"Rouse, Mckalee",2015,Jr,Hampton,-0.001
+"Rowe, Maggie",2015,Fr,Radford,-0.149
+"Rozell, Erika",2015,Fr,Minnesota,-0.031
+"Rupp, Sara",2015,Fr,Texas St.,0.064
+"Rurka, Julianne",2015,Fr,Providence,0.111
+"Ryder, Kaitlin",2015,Fr,UTEP,0.033
+"Saacke, Madison",2015,Fr,Montana,-0.144
+"Sampson, Erica",2015,Sr,Tulsa,-0.020
+"Sanicki, Taylor",2015,Sr,Western Mich.,-0.051
+"Santillo, Samantha",2015,Sr,Robert Morris,0.154
+"Saunders, Lauryn",2015,So,UC Davis,-0.086
+"Scamihorn, Shelbie",2015,So,Ball St.,-0.061
+"Schlaefer, Mariel",2015,Jr,Colgate,-0.018
+"Schmiederer, Angela",2015,Fr,Iowa,-0.002
+"Schneid, Mallory",2015,Jr,Indiana St.,-0.006
+"Schnyder, Ciara",2015,So,UMES,0.029
+"Schoenewald, Julia",2015,So,Brown,-0.061
+"Schroeder, Maria",2015,Fr,Bradley,-0.026
+"Schroeder, Nicole",2015,Jr,Arkansas,0.002
+"Schroeder, Nikki",2015,So,LIU Brooklyn,-0.110
+"Schultz, Nicole",2015,Sr,San Jose St.,0.038
+"Scott, Hayli",2015,So,Evansville,0.095
+"Secaira, Bella",2015,So,Utah,0.081
+"Segovia, Natalia",2015,So,Villanova,0.353
+"Sellers, Rachel",2015,Fr,Pacific,0.057
+"Shaffer, Tarran",2015,Sr,Loyola Chicago,0.004
+"Shea, Courtney",2015,Fr,Auburn,0.045
+"Shephard, Baylee",2015,So,Northwestern St.,0.003
+"Shimoda, Kayla",2015,Sr,Columbia,-0.114
+"Shireman, Erin",2015,Jr,Texas,0.136
+"Shiver, Natalie",2015,Jr,Mercer,0.094
+"Silfer, Lindsey",2015,So,Canisius,-0.029
+"Simmons, Laine",2015,Fr,Morehead St.,-0.067
+"Singleton, Kaleigh",2015,So,Abilene Christian,-0.114
+"Sloan, Savannah",2015,Sr,Jacksonville St.,0.129
+"Smaldone, Sammy",2015,Jr,Siena,0.026
+"Smith,",2015,N/A,Alabama A&M,-0.014
+"Smith, Aeron",2015,Fr,UT Martin,-0.178
+"Smith, Brooke",2015,So,Jacksonville,-0.027
+"Smith, Chelsea",2015,Jr,Southeast Mo. St.,-0.200
+"Smith, Hope",2015,Sr,Furman,0.037
+"Smith, Katey",2015,Jr,Virginia Tech,-0.018
+"Smith, Kelsey",2015,So,Princeton,-0.037
+"Smith, Shelbie",2015,So,North Texas,-0.060
+"Snow, Elizabeth",2015,So,Albany (NY),-0.042
+"Soefje, Tess",2015,Jr,UTSA,0.016
+"Solis, Kortney",2015,Jr,Sacramento St.,0.054
+"Souza, Kimberlee",2015,Jr,Washington,-0.030
+"Spenn, Kathryn",2015,Jr,Bradley,0.036
+"Spivey, Lee Ann",2015,Jr,South Fla.,-0.032
+"Springfield, Emily",2015,Fr,Brown,-0.060
+"Standley, Katelyn",2015,So,Stephen F. Austin,-0.097
+"Stanley, Cera",2015,Fr,Utah Valley,-0.154
+"Stark, Samantha",2015,Jr,UC Santa Barbara,-0.051
+"Stauffenberg, Jenna",2015,Fr,Valparaiso,-0.025
+"Stewart, Samantha",2015,So,Valparaiso,-0.032
+"Stoffer, Ellie",2015,Sr,Michigan St.,-0.053
+"Stokes, Bailey",2015,So,Southern Miss.,0.052
+"Storms, Samantha",2015,Fr,Saint Peter's,-0.053
+"Stover, Brooke",2015,Fr,UNLV,0.176
+"Stracher, Shelby",2015,Fr,Towson,0.267
+"Sullivan, Deanna",2015,Fr,South Carolina St.,-0.025
+"Summers, Ali",2015,So,Rhode Island,-0.002
+"Sutter, Courtney",2015,So,Kennesaw St.,0.109
+"Suttles, Kiara",2015,Fr,Southern U.,0.138
+"Svekis, Gwen",2015,Fr,Oregon,-0.054
+"Swanicke, Suzanne",2015,So,La Salle,-0.008
+"Sweeney, Abby",2015,So,Samford,-0.013
+"Sweet, Lauren",2015,Sr,Michigan,0.187
+"Syrett, Courtney",2015,So,Ole Miss,0.000
+"Szydlowski, Alison",2015,Fr,Louisville,-0.023
+"Szymanowski, Amy",2015,Jr,Florida St.,0.105
+"Tackett, Kortney",2015,Sr,Wright St.,0.014
+"Taylor, Alexia",2015,Fr,Liberty,-0.073
+"Taylor, Erin",2015,Sr,Presbyterian,0.045
+"Taylor, Hannah",2015,Jr,Samford,0.059
+"Taylor, Jessie",2015,Jr,Central Ark.,0.051
+"Taylor, Monica",2015,Fr,UNCW,0.025
+"Tellez, Naomi",2015,Jr,DePaul,-0.026
+"Thomas, Amanda",2015,Fr,UTSA,0.025
+"Thomas, Jessa",2015,So,Southern Ill.,0.044
+"Thomas, Lindsay",2015,Jr,UNCG,-0.087
+"Tobon, Nicole",2015,Jr,Illinois,0.007
+"Tometich, Hannah",2015,Jr,North Dakota,-0.025
+"Torrez, Hailey",2015,Sr,Boise St.,-0.182
+"Trevino, Christy",2015,So,Incarnate Word,-0.142
+"Trippi, Erin",2015,Sr,Hofstra,0.292
+"Tutsch, Krysta",2015,Jr,Louisiana Tech,0.024
+"Unzicker, Madison",2015,Fr,Nebraska,0.021
+"VanDerveer, Alyssa",2015,Fr,Penn St.,0.000
+"Van Horn, Candice",2015,Sr,Coppin St.,0.030
+"Varriano, Anna",2015,So,UNI,-0.011
+"Vergona, Ally",2015,So,Fordham,-0.022
+"Vesper, Hannah",2015,Jr,Alcorn,-0.190
+"Vonhagel, Madison",2015,Fr,Houston Baptist,0.128
+"Wade, Bryana",2015,Jr,North Texas,-0.018
+"Wagner, Taylor",2015,So,Eastern Mich.,-0.132
+"Waite, Lauren",2015,Sr,St. Bonaventure,0.020
+"Walker, Dani",2015,Fr,Montana,-0.043
+"Wallace, Carlee",2015,Fr,Auburn,-0.050
+"Walters, Ashley",2015,Fr,Texas A&M,0.151
+"Wambold, Julie",2015,Sr,Syracuse,-0.067
+"Warnken, Dani",2015,N/A,Sacred Heart,-0.006
+"Warnock, Sarah",2015,Sr,Appalachian St.,-0.077
+"Warren, Erika",2015,Jr,Kent St.,0.060
+"Wartner, Kayla",2015,Sr,Hawaii,0.051
+"Weavers, Hailey",2015,So,Saint Louis,-0.026
+"Westerman,",2015,Fr,Grambling,0.053
+"Whidden, Cassidy",2015,Sr,Notre Dame,-0.001
+"Whispel, Rylee",2015,Fr,Miami (OH),-0.076
+"Whittington, Carlie",2015,Fr,Southeastern La.,-0.004
+"Wilen, Madelaine",2015,Jr,Fairleigh Dickinson,0.092
+"Wilkens, Kaitlyn",2015,So,St. John's (NY),-0.035
+"Willis, Tonje",2015,N/A,Alabama A&M,-0.006
+"Willmon, Lindsey",2015,So,Hawaii,-0.040
+"Wilson, Cyndi",2015,Jr,Saint Joseph's,-0.050
+"Wince, Ashton",2015,So,Massachusetts,0.000
+"Wissinger, Danielle",2015,So,Delaware,-0.155
+"Withee, Maddie",2015,So,Tulsa,0.051
+"Witthus, Kindra",2015,So,Saint Francis (PA),0.076
+"Wodach, Lea",2015,Fr,Oklahoma,0.081
+"Woodard, Mel",2015,Fr,Cleveland St.,0.029
+"Wright, Carolyn",2015,Fr,Lehigh,0.106
+"Wynne, Abby",2015,Sr,East Carolina,-0.054
+"Yanez, Aleesa",2015,Jr,Alabama St.,0.096
+"Young, Cheyanna",2015,Jr,Bucknell,0.009
+"Yzaguirre, Taylor",2015,So,Cal Poly,0.072
+"Zamora, Victoria",2015,Fr,LIU Brooklyn,-0.101
+"Zeremenko, Giorgiana",2015,Fr,Pittsburgh,0.001
+"Ziarnowski, Rachel",2015,So,Niagara,0.002
+"Ziese, Courtney",2015,Jr,Georgia Tech,-0.083
+"Zito, Carissa",2015,Jr,Lehigh,-0.019

@@ -19,6 +19,6 @@
 
 ./scrapers/ncaa_box_scores_pitching.rb $1 $2
 
-./scrapers/ncaa_box_scores_fielding.rb $1 $2
+#./scrapers/ncaa_box_scores_fielding.rb $1 $2
 
 ./scrapers/ncaa_play_by_play.rb $1 $2
