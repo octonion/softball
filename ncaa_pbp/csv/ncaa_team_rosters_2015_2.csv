@@ -1,0 +1,775 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
+2015	12120	2	30123	Academy of Art	2	1642962.0	Ajimura, Ariel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1642962.0	DP	Fr	24	1
+2015	12120	2	30123	Academy of Art	4	1533862.0	Curtis, Hallie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1533862.0	OF	So	47	42
+2015	12120	2	30123	Academy of Art	10	1420042.0	Dickenson, Jasmine	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1420042.0	INF	Sr	54	54
+2015	12120	2	30123	Academy of Art	23		Durazo, Kirsten		SP	Fr	0	0
+2015	12120	2	30123	Academy of Art	5	1420044.0	Gill, Andrea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1420044.0	OF	Jr	37	23
+2015	12120	2	30123	Academy of Art	6	1313065.0	Glover, Kamyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1313065.0	SP/RP	Sr	54	54
+2015	12120	2	30123	Academy of Art	12	1642964.0	Klune, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1642964.0	OF	Fr	49	49
+2015	12120	2	30123	Academy of Art	3	1300786.0	MacDonald, Haily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1300786.0	OF	Sr	49	49
+2015	12120	2	30123	Academy of Art	14	1642966.0	Mitchell, Brenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1642966.0	SP/RP	Fr	42	28
+2015	12120	2	30123	Academy of Art	11	1428137.0	Oldham, Elise	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1428137.0	INF	Jr	52	52
+2015	12120	2	30123	Academy of Art	21	1533863.0	Peters, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1533863.0	SP/RP	So	31	22
+2015	12120	2	30123	Academy of Art	20	1646422.0	Singh, Nirana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1646422.0	C	Jr	53	53
+2015	12120	2	30123	Academy of Art	16	1300784.0	Thurman, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1300784.0	INF	Sr	54	54
+2015	12120	2	30123	Academy of Art	33	1533864.0	West, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1533864.0	INF	So	54	54
+2015	12120	2	542	Pfeiffer	17	1530335.0	Auger, Corinne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530335.0	DP	So	20	5
+2015	12120	2	542	Pfeiffer	21	1416707.0	Boever, Jaclyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1416707.0	1B	Jr	45	40
+2015	12120	2	542	Pfeiffer	22	1307898.0	Bullington, Julianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307898.0	C	Sr	40	37
+2015	12120	2	542	Pfeiffer	24	1530336.0	Crowder, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530336.0	C	So	46	46
+2015	12120	2	542	Pfeiffer	12	1653574.0	Durant, Kristin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653574.0	P	N/A	22	8
+2015	12120	2	542	Pfeiffer	23	1307899.0	Foil, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307899.0	OF	Sr	35	31
+2015	12120	2	542	Pfeiffer	3	1651105.0	Hoffman, Vanessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651105.0	OF	Fr	25	3
+2015	12120	2	542	Pfeiffer	4	1307900.0	Isley, Khristin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307900.0	OF	Jr	39	33
+2015	12120	2	542	Pfeiffer	13	1416704.0	Jackson, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1416704.0	SS	Jr	49	48
+2015	12120	2	542	Pfeiffer	6	1307901.0	Jarmusch, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307901.0	SP/RP	Jr	24	18
+2015	12120	2	542	Pfeiffer	15	1530334.0	Macmillan, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530334.0	SP	So	20	5
+2015	12120	2	542	Pfeiffer	18	1651109.0	Peck, Abigail	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651109.0	C	Fr	18	6
+2015	12120	2	542	Pfeiffer	2	1530333.0	Poole, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530333.0	SP/RP	So	23	19
+2015	12120	2	542	Pfeiffer	19	1416705.0	Pope, Summer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1416705.0	C	Jr	12	2
+2015	12120	2	542	Pfeiffer	16	1307896.0	Russell, Lindsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307896.0	RP	Sr	47	47
+2015	12120	2	542	Pfeiffer	9	1307894.0	Saine, Sadie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307894.0	OF	Sr	49	49
+2015	12120	2	542	Pfeiffer	14	1651108.0	Sherrill, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651108.0	1B	Fr	6	0
+2015	12120	2	542	Pfeiffer	8	1651106.0	Tuttle, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651106.0	INF	Fr	48	44
+2015	12120	2	542	Pfeiffer	11	1651107.0	Walker, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651107.0	SS	Fr	49	49
+2015	12120	2	1096	Georgia College	4	1542519.0	Bernstein, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1542519.0	OF	So	52	50
+2015	12120	2	1096	Georgia College	22	1430775.0	Boyette, Marisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1430775.0	SP	Jr	29	27
+2015	12120	2	1096	Georgia College	3	1430776.0	Brooks, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1430776.0	INF	Jr	54	54
+2015	12120	2	1096	Georgia College	11	1430777.0	Campbell, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1430777.0	C	Jr	54	54
+2015	12120	2	1096	Georgia College	16	1653424.0	Coursey, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653424.0	SS	Fr	51	48
+2015	12120	2	1096	Georgia College	14	1653428.0	Coursey, Holland	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653428.0	INF	Fr	52	52
+2015	12120	2	1096	Georgia College	12	1542518.0	Flanders, Faith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1542518.0	DP	So	46	37
+2015	12120	2	1096	Georgia College	9	1653425.0	Hall, Baylee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653425.0	INF	Fr	42	26
+2015	12120	2	1096	Georgia College	5	1653427.0	Hayles, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653427.0	C	Fr	24	0
+2015	12120	2	1096	Georgia College	8	1653949.0	Henry, Macy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653949.0	INF	Fr	7	0
+2015	12120	2	1096	Georgia College	15	1311582.0	Humphries, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1311582.0	OF	Sr	32	31
+2015	12120	2	1096	Georgia College	2	1430781.0	LeRoy, Abi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1430781.0	INF	Jr	54	54
+2015	12120	2	1096	Georgia College	10	1544383.0	Lewis, Carly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544383.0	SP	So	29	26
+2015	12120	2	1096	Georgia College	17	1653950.0	Martin, Shawnda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653950.0	OF	Fr	21	5
+2015	12120	2	1096	Georgia College	6	1430782.0	Najafi, Lacey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1430782.0	C	Jr	50	46
+2015	12120	2	1096	Georgia College	20	1653951.0	Nettles, Tatiana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653951.0	INF	Fr	10	1
+2015	12120	2	1096	Georgia College	1	1553435.0	Rice, Cassidy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553435.0	OF	So	20	7
+2015	12120	2	1096	Georgia College	18	1653426.0	Robertson, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1653426.0	OF	Fr	36	7
+2015	12120	2	1096	Georgia College	7	1311580.0	Walls, Frankie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1311580.0	INF	Sr	29	15
+2015	12120	2	9004	Georgian Court	7	1662673.0	Aplin, Stefanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662673.0	C	Fr	38	38
+2015	12120	2	9004	Georgian Court	22	1662674.0	Boehler, Bobbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662674.0	INF	Jr	8	8
+2015	12120	2	9004	Georgian Court	22	1550883.0	Boltersdorf, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550883.0	OF	So	18	15
+2015	12120	2	9004	Georgian Court	21	1662676.0	Buonanno, Jolei	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662676.0	INF	Fr	36	34
+2015	12120	2	9004	Georgian Court	2	1662670.0	Grainger, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662670.0	INF	Jr	43	43
+2015	12120	2	9004	Georgian Court	24	1550892.0	Hardiman, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550892.0	INF	So	44	44
+2015	12120	2	9004	Georgian Court	14	1667519.0	LaFlura, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1667519.0	3B	N/A	12	11
+2015	12120	2	9004	Georgian Court	20	1662675.0	Marsello, Alycia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662675.0	INF	Fr	44	44
+2015	12120	2	9004	Georgian Court	13	1550889.0	Merryman, Abigail	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550889.0	SP/RP	So	23	17
+2015	12120	2	9004	Georgian Court	8	1304631.0	Paradiso, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304631.0	OF	Sr	44	44
+2015	12120	2	9004	Georgian Court	10	1304634.0	Schroeder, Dara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304634.0	OF	Sr	44	44
+2015	12120	2	9004	Georgian Court	15	1433828.0	Sfraga, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1433828.0	C	Jr	33	32
+2015	12120	2	9004	Georgian Court	11	1550888.0	Smith, Bryana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550888.0	OF	So	38	34
+2015	12120	2	9004	Georgian Court	6	1662672.0	Sorochka, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662672.0	SP/RP	Sr	28	22
+2015	12120	2	9004	Georgian Court	3	1662671.0	Tylutki, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1662671.0	SP/RP	Fr	13	5
+2015	12120	2	543	Philadelphia U.	7	1314287.0	Abromavage, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1314287.0	SP/RP	Sr	38	34
+2015	12120	2	543	Philadelphia U.	14	1553273.0	Bliss, Gianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553273.0	SS	So	30	26
+2015	12120	2	543	Philadelphia U.	2	1553268.0	Brown, Gabrielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553268.0	1B	So	27	25
+2015	12120	2	543	Philadelphia U.	34	1446368.0	Burrell, Mollie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446368.0	C	Jr	40	37
+2015	12120	2	543	Philadelphia U.	27	1446370.0	Corey, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446370.0	SP/RP	Jr	0	0
+2015	12120	2	543	Philadelphia U.	10	1669949.0	D'Angelo, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669949.0	PR	N/A	26	21
+2015	12120	2	543	Philadelphia U.	3	1314288.0	Haley, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1314288.0	OF	Sr	37	33
+2015	12120	2	543	Philadelphia U.	8	1669948.0	Hans, Mariah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669948.0	3B	N/A	34	28
+2015	12120	2	543	Philadelphia U.	1	1446358.0	Kakareka, Renee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446358.0	OF	Jr	25	22
+2015	12120	2	543	Philadelphia U.	9	1553271.0	Letos, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553271.0	INF	So	30	17
+2015	12120	2	543	Philadelphia U.	23	1553274.0	Levins, Monica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553274.0	SS	So	26	21
+2015	12120	2	543	Philadelphia U.	19	1553272.0	Loughery, Meghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553272.0	3B	So	15	6
+2015	12120	2	543	Philadelphia U.	22	1671194.0	Maher,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671194.0	PR	N/A	25	17
+2015	12120	2	543	Philadelphia U.	17	1314289.0	Martin, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1314289.0	OF	Sr	42	42
+2015	12120	2	543	Philadelphia U.	18	1446357.0	Smith, Kasia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446357.0	SP/RP	Jr	37	36
+2015	12120	2	543	Philadelphia U.	19	1669950.0	Sullivan, Katy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669950.0	LF	N/A	14	5
+2015	12120	2	543	Philadelphia U.	13	1314293.0	Troisi, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1314293.0	SP/RP	Sr	21	11
+2015	12120	2	543	Philadelphia U.	6	1553270.0	Weaver, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553270.0	OF	So	38	36
+2015	12120	2	929	Adams St.	9		Adkins, Schulyer		OF	Fr	0	0
+2015	12120	2	929	Adams St.	28		Archuleta-Trujillo, Victoria		INF	Fr	0	0
+2015	12120	2	929	Adams St.	20	1539419.0	Beran, Tessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539419.0	OF	So	15	0
+2015	12120	2	929	Adams St.	13	1332285.0	Connelly, Shaena	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1332285.0	3B	Sr	17	10
+2015	12120	2	929	Adams St.	21	1326876.0	Dunlap, Mara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326876.0	OF	Sr	43	43
+2015	12120	2	929	Adams St.	44	1326869.0	Ecsedy, Erika	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326869.0	OF	Sr	43	42
+2015	12120	2	929	Adams St.	10	1200768.0	Else, Tayler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1200768.0	INF	Sr	46	46
+2015	12120	2	929	Adams St.	14	1539423.0	Griego, Gaby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539423.0	INF	So	26	20
+2015	12120	2	929	Adams St.	26	1539424.0	Harmon, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539424.0	C	So	36	33
+2015	12120	2	929	Adams St.	0	1326870.0	Haugum, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326870.0	C	Sr	43	43
+2015	12120	2	929	Adams St.	19	1326874.0	Hernandez, Linda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326874.0	SP	Sr	5	1
+2015	12120	2	929	Adams St.	25	1660984.0	Hoffmann, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660984.0	P	N/A	14	1
+2015	12120	2	929	Adams St.	33	1539426.0	Johnson, Kalin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539426.0	OF	So	40	40
+2015	12120	2	929	Adams St.	5	1539428.0	Kautz, Kelsi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539428.0	1B	So	42	39
+2015	12120	2	929	Adams St.	99		Marquez, Hali		SP	Fr	0	0
+2015	12120	2	929	Adams St.	17	1326878.0	McWilliams, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326878.0	SP	Sr	27	7
+2015	12120	2	929	Adams St.	53	1539429.0	Mitts, Makenzy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539429.0	OF	So	0	0
+2015	12120	2	929	Adams St.	22	1539430.0	Moore, Alexandria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539430.0	OF	Sr	28	12
+2015	12120	2	929	Adams St.	12	1200769.0	Murphy, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1200769.0	SP/RP	Jr	12	8
+2015	12120	2	929	Adams St.	55		Olander, Shaye		OF	Fr	0	0
+2015	12120	2	929	Adams St.	27	1539681.0	Padilla, Brittney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539681.0	3B	Sr	16	13
+2015	12120	2	929	Adams St.	6	1643304.0	Pender, Amy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643304.0	INF	Fr	1	0
+2015	12120	2	929	Adams St.	77	1539431.0	Prevedel, Kaycee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539431.0	SP	Sr	21	10
+2015	12120	2	929	Adams St.	1	1539432.0	Quarrell, Kyana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539432.0	SS	Jr	42	42
+2015	12120	2	929	Adams St.	11	1643307.0	Quintana, Alexandria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643307.0	OF	So	15	1
+2015	12120	2	929	Adams St.	31	1539433.0	Reichmuth, Paige	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539433.0	INF	So	26	3
+2015	12120	2	929	Adams St.	8	1643305.0	Riggins, April	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643305.0	3B	Fr	25	13
+2015	12120	2	929	Adams St.	15		Rodriguez, Briana		INF	Fr	0	0
+2015	12120	2	929	Adams St.	32	1539434.0	Rosales, Bryanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539434.0	OF	Sr	17	9
+2015	12120	2	929	Adams St.	3	1643303.0	Schultz, Alysia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643303.0	OF	Fr	33	0
+2015	12120	2	929	Adams St.	88	1326873.0	Sellars, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326873.0	SP	Sr	23	23
+2015	12120	2	929	Adams St.	18		Vrabel, Madisen		SP/RP	Fr	0	0
+2015	12120	2	929	Adams St.	2	1643302.0	Zanski, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643302.0	C	Fr	3	1
+2015	12120	2	546	Pitt.-Johnstown	31	1639669.0	Elbin, Marley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639669.0	OF	Fr	37	37
+2015	12120	2	546	Pitt.-Johnstown	25	1639670.0	Hoffman, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639670.0	SP/RP	Fr	32	30
+2015	12120	2	546	Pitt.-Johnstown	34	1639671.0	Hoover, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639671.0	3B	Fr	35	29
+2015	12120	2	546	Pitt.-Johnstown	9	1639674.0	Luprek, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639674.0	OF	Fr	37	33
+2015	12120	2	546	Pitt.-Johnstown	16	1639675.0	Mang, Montana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639675.0	3B	Fr	36	35
+2015	12120	2	546	Pitt.-Johnstown	23	1639676.0	Maurer, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639676.0	INF	Fr	36	35
+2015	12120	2	546	Pitt.-Johnstown	13	1639677.0	Moore, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639677.0	SP/RP	Fr	21	9
+2015	12120	2	546	Pitt.-Johnstown	21	1639678.0	O'Toole, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639678.0	C	Fr	31	28
+2015	12120	2	546	Pitt.-Johnstown	17	1639679.0	Rizzo, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639679.0	INF	Fr	11	0
+2015	12120	2	546	Pitt.-Johnstown	22	1639680.0	Seibert, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639680.0	2B	Fr	36	35
+2015	12120	2	546	Pitt.-Johnstown	26	1639681.0	Tomich, Karlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639681.0	1B	Fr	37	37
+2015	12120	2	546	Pitt.-Johnstown	99	1639682.0	Uzelac, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639682.0	OF	Fr	3	1
+2015	12120	2	546	Pitt.-Johnstown	12	1639683.0	Wagner, Melissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639683.0	SP/RP	Fr	20	18
+2015	12120	2	546	Pitt.-Johnstown	11	1639684.0	Wittig, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639684.0	C	Fr	29	28
+2015	12120	2	546	Pitt.-Johnstown	2	1639685.0	Wolsonovich, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639685.0	INF	Fr	9	9
+2015	12120	2	1098	Glenville St.	3	1670688.0	Caldon, C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670688.0	CF	N/A	0	0
+2015	12120	2	1098	Glenville St.	1	1641305.0	Cropp, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641305.0	SP	Fr	41	39
+2015	12120	2	1098	Glenville St.	10	1641306.0	Damone, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641306.0	OF	Fr	43	43
+2015	12120	2	1098	Glenville St.	12	1641307.0	Edmonds, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641307.0	C	Fr	44	44
+2015	12120	2	1098	Glenville St.	17	1532841.0	Greer, Raven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532841.0	SP	So	36	24
+2015	12120	2	1098	Glenville St.	15	1641310.0	Hager, Chelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641310.0	SP	Fr	38	26
+2015	12120	2	1098	Glenville St.	12	1670689.0	Huck, K.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670689.0	3B	N/A	0	0
+2015	12120	2	1098	Glenville St.	5	1532834.0	Jackson, Briana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532834.0	OF	So	39	37
+2015	12120	2	1098	Glenville St.	11	1532839.0	LeMaster, Tia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532839.0	INF	So	30	4
+2015	12120	2	1098	Glenville St.	14	1670692.0	May, B.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670692.0	P	N/A	0	0
+2015	12120	2	1098	Glenville St.	13	1532840.0	Meyers, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532840.0	SS	So	12	5
+2015	12120	2	1098	Glenville St.	9	1641308.0	Parker, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641308.0	SS	Fr	29	28
+2015	12120	2	1098	Glenville St.	3	1641309.0	Rabel, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1641309.0	SS	Fr	40	38
+2015	12120	2	1098	Glenville St.	18	1532848.0	Ramsey, Charity	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532848.0	OF	So	21	21
+2015	12120	2	1098	Glenville St.	16	1670690.0	Scarpellini,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670690.0	SS	N/A	0	0
+2015	12120	2	1098	Glenville St.	7	1532836.0	Sheaffer, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532836.0	C	So	44	44
+2015	12120	2	1098	Glenville St.	22	1532850.0	Smith, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532850.0	1B	So	44	44
+2015	12120	2	1098	Glenville St.	1	1670691.0	Spencer, B.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670691.0	2B	N/A	0	0
+2015	12120	2	1098	Glenville St.	2	1532832.0	Tillman, Johnni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532832.0	INF	So	23	14
+2015	12120	2	1098	Glenville St.	23	1304886.0	Weaver, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304886.0	SP	Jr	27	21
+2015	12120	2	1098	Glenville St.	4	1532838.0	Wilfong, Abbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532838.0	INF	So	15	4
+2015	12120	2	3	Adelphi	20	1448537.0	Barbaro, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1448537.0	C	Jr	4	4
+2015	12120	2	3	Adelphi	3	1302409.0	Binstock, Jaclyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1302409.0	OF	Sr	46	45
+2015	12120	2	3	Adelphi	16	1645511.0	Camera, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645511.0	INF	Fr	45	36
+2015	12120	2	3	Adelphi	24	1447333.0	Catalano, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1447333.0	1B	Jr	48	48
+2015	12120	2	3	Adelphi	15	1537951.0	Cutuli, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1537951.0	INF	So	20	17
+2015	12120	2	3	Adelphi	23	1645512.0	Dawson, Alannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645512.0	INF	Fr	5	0
+2015	12120	2	3	Adelphi	10	1645510.0	Ennabe, Jasmine	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645510.0	SP/RP	Fr	26	20
+2015	12120	2	3	Adelphi	7	1645509.0	King, Krista	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645509.0	OF	Fr	48	48
+2015	12120	2	3	Adelphi	5	1645508.0	Lewis, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645508.0	C	Fr	48	47
+2015	12120	2	3	Adelphi	11	1537949.0	Mapes, Lindsay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1537949.0	SP/RP	So	30	28
+2015	12120	2	3	Adelphi	18	1645513.0	Martini, Brenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645513.0	INF	Fr	48	48
+2015	12120	2	3	Adelphi	8	1537948.0	McCarthy, Fallon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1537948.0	C	So	5	0
+2015	12120	2	3	Adelphi	9	1556714.0	O'Reilly, Mary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1556714.0	C	Sr	43	41
+2015	12120	2	3	Adelphi	4	1537947.0	Palmenteri, Christina	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1537947.0	INF	So	47	47
+2015	12120	2	3	Adelphi	13	1537950.0	Reichelt, Melaney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1537950.0	INF	So	33	3
+2015	12120	2	3	Adelphi	12	1302423.0	Wink, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1302423.0	INF	Sr	48	48
+2015	12120	2	8366	Goldey-Beacom	15	1651959.0	Allin, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651959.0	OF	Fr	21	16
+2015	12120	2	8366	Goldey-Beacom	1	1651953.0	Brandle, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651953.0	INF	Fr	36	36
+2015	12120	2	8366	Goldey-Beacom	13	1651958.0	Cavanaugh, Ashleigh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651958.0	INF	Fr	19	3
+2015	12120	2	8366	Goldey-Beacom	6	1651956.0	Conway, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651956.0	OF	Fr	36	31
+2015	12120	2	8366	Goldey-Beacom	2	1651954.0	Donovan, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651954.0	C	Fr	30	5
+2015	12120	2	8366	Goldey-Beacom	27	1651961.0	Doyle, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651961.0	SP/RP	Fr	33	30
+2015	12120	2	8366	Goldey-Beacom	22	1547412.0	Dugan, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547412.0	INF	So	0	0
+2015	12120	2	8366	Goldey-Beacom	9	1419190.0	Ellis, Asia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1419190.0	INF	Sr	35	34
+2015	12120	2	8366	Goldey-Beacom	4	1547408.0	Farley, Ryann	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547408.0	OF	So	32	25
+2015	12120	2	8366	Goldey-Beacom	17	1651960.0	Goodman, Marie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651960.0	C	Fr	14	7
+2015	12120	2	8366	Goldey-Beacom	5	1651955.0	Hollis, Autumn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651955.0	OF	Fr	33	28
+2015	12120	2	8366	Goldey-Beacom	14	1547411.0	King, Charlee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547411.0	OF	So	32	32
+2015	12120	2	8366	Goldey-Beacom	23	1547413.0	Mao, Paulynn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547413.0	SP/RP	So	35	35
+2015	12120	2	8366	Goldey-Beacom	11	1651957.0	Mickles, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651957.0	SP/RP	Fr	31	22
+2015	12120	2	8366	Goldey-Beacom	7	1419188.0	Schoff, Alivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1419188.0	C	Jr	34	33
+2015	12120	2	8366	Goldey-Beacom	12	1547410.0	Wroble, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547410.0	INF	So	30	23
+2015	12120	2	1314	Pittsburg St.	6	1310300.0	Beard, Avery	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310300.0	INF	Sr	18	13
+2015	12120	2	1314	Pittsburg St.	13	1435005.0	Bradshaw, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1435005.0	INF	Jr	47	46
+2015	12120	2	1314	Pittsburg St.	1	1655991.0	Conner, Lynsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655991.0	RP	Fr	15	11
+2015	12120	2	1314	Pittsburg St.	1		Conner, Lynsey		RP	Fr	0	0
+2015	12120	2	1314	Pittsburg St.	9	1435009.0	Cummins, Catie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1435009.0	OF	Jr	32	31
+2015	12120	2	1314	Pittsburg St.	25	1535086.0	Guthier, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535086.0	3B	So	53	53
+2015	12120	2	1314	Pittsburg St.	21	1535085.0	Jaso, Darion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535085.0	OF	So	11	0
+2015	12120	2	1314	Pittsburg St.	23	1310326.0	McCreath, Devon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310326.0	INF	Sr	47	42
+2015	12120	2	1314	Pittsburg St.	20	1655997.0	McKinney, Lawren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655997.0	OF	Fr	31	25
+2015	12120	2	1314	Pittsburg St.	20		McKinney, Lawren		OF	Fr	0	0
+2015	12120	2	1314	Pittsburg St.	22	1310325.0	Mitchell, Cheslyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310325.0	OF	Sr	46	44
+2015	12120	2	1314	Pittsburg St.	16	1535084.0	Nease, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535084.0	C	So	54	54
+2015	12120	2	1314	Pittsburg St.	10	1310302.0	Perez, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310302.0	INF	Jr	48	47
+2015	12120	2	1314	Pittsburg St.	2	1655992.0	Pratt, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655992.0	OF	Jr	54	54
+2015	12120	2	1314	Pittsburg St.	2		Pratt, Ashton		OF	Jr	0	0
+2015	12120	2	1314	Pittsburg St.	7		Price, Zoe		RP	Jr	0	0
+2015	12120	2	1314	Pittsburg St.	7	1655994.0	Price, Zoe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655994.0	RP	Jr	15	12
+2015	12120	2	1314	Pittsburg St.	11		Remy, Katy		INF	Fr	0	0
+2015	12120	2	1314	Pittsburg St.	11	1655995.0	Remy, Katy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655995.0	INF	Fr	45	42
+2015	12120	2	1314	Pittsburg St.	5	1655993.0	Robertson, Emmie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655993.0	RP	Fr	39	30
+2015	12120	2	1314	Pittsburg St.	5		Robertson, Emmie		RP	Fr	0	0
+2015	12120	2	1314	Pittsburg St.	24	1310327.0	Rynard, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310327.0	C	Sr	36	36
+2015	12120	2	1314	Pittsburg St.	15	1655996.0	Steele, Tasha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655996.0	INF	Fr	4	0
+2015	12120	2	1314	Pittsburg St.	15		Steele, Tasha		INF	Fr	0	0
+2015	12120	2	10	Ala.-Huntsville	3	1540898.0	Bannister, Kaitlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540898.0	INF	So	56	56
+2015	12120	2	10	Ala.-Huntsville	2	1657028.0	Chapman, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657028.0	OF	Fr	17	2
+2015	12120	2	10	Ala.-Huntsville	7	1657029.0	Crumpton, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657029.0	OF	Fr	56	55
+2015	12120	2	10	Ala.-Huntsville	14	1540900.0	Doriety, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540900.0	SP	So	27	22
+2015	12120	2	10	Ala.-Huntsville	1	1540896.0	Frith, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540896.0	INF	Sr	56	56
+2015	12120	2	10	Ala.-Huntsville	8	1657030.0	Gilbert, Perri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657030.0	OF	Fr	24	11
+2015	12120	2	10	Ala.-Huntsville	21	1540901.0	Glover, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540901.0	INF	So	47	43
+2015	12120	2	10	Ala.-Huntsville	44	1540905.0	Harrison, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540905.0	INF	So	56	55
+2015	12120	2	10	Ala.-Huntsville	16	1313983.0	Hopkins, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1313983.0	OF	Sr	28	1
+2015	12120	2	10	Ala.-Huntsville	22	1435998.0	Jack, Kimberly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1435998.0	SP/RP	Jr	22	11
+2015	12120	2	10	Ala.-Huntsville	5	1657031.0	King, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657031.0	C	Fr	14	2
+2015	12120	2	10	Ala.-Huntsville	15	1657032.0	Roberts, Abby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657032.0	C	Jr	55	54
+2015	12120	2	10	Ala.-Huntsville	12	1657033.0	Robertson, Michal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657033.0	INF	Sr	56	56
+2015	12120	2	10	Ala.-Huntsville	11	1657034.0	Smith, Savannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1657034.0	1B	Jr	42	27
+2015	12120	2	10	Ala.-Huntsville	20	1435997.0	Sullivan, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1435997.0	INF	Jr	53	53
+2015	12120	2	10	Ala.-Huntsville	25	1540902.0	Thompson, Haley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540902.0	INF	So	55	52
+2015	12120	2	10	Ala.-Huntsville	30	1540903.0	Walton, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540903.0	INF	Sr	1	0
+2015	12120	2	262	Grand Valley St.	15	1446386.0	Andrasik, Sara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446386.0	SP	Jr	25	24
+2015	12120	2	262	Grand Valley St.	11	1531027.0	Balbach, Ellie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531027.0	SP/RP	So	42	39
+2015	12120	2	262	Grand Valley St.	16	1643401.0	Castle, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643401.0	INF	Fr	25	6
+2015	12120	2	262	Grand Valley St.	12	1446617.0	Deppe, Marianne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446617.0	C	So	30	28
+2015	12120	2	262	Grand Valley St.	2	1531023.0	Dominguez, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531023.0	OF	So	49	49
+2015	12120	2	262	Grand Valley St.	10	1531026.0	Downey, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531026.0	OF	So	36	0
+2015	12120	2	262	Grand Valley St.	14	1446464.0	Fris, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446464.0	INF	Jr	0	0
+2015	12120	2	262	Grand Valley St.	5	1446382.0	Horvath, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446382.0	OF	Jr	47	43
+2015	12120	2	262	Grand Valley St.	13	1643400.0	Kiessel, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643400.0	C	Fr	24	13
+2015	12120	2	262	Grand Valley St.	1	1531022.0	Langs, Janae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531022.0	OF	So	27	27
+2015	12120	2	262	Grand Valley St.	4	1531024.0	Lenza, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531024.0	INF	So	48	48
+2015	12120	2	262	Grand Valley St.	7	1643398.0	Reinhold, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643398.0	SP/RP	Fr	22	21
+2015	12120	2	262	Grand Valley St.	6	1643397.0	Rhynard, Kaylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643397.0	C	Fr	45	42
+2015	12120	2	262	Grand Valley St.	9	1643399.0	Shomin, Teagan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643399.0	INF	Fr	49	49
+2015	12120	2	262	Grand Valley St.	21	1643402.0	Sparks, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643402.0	INF	Fr	5	0
+2015	12120	2	262	Grand Valley St.	25	1643403.0	Sperlazzo, Heather	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643403.0	1B	Fr	49	49
+2015	12120	2	262	Grand Valley St.	3	1446383.0	Supernaw, Mckenze	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446383.0	INF	Jr	49	49
+2015	12120	2	262	Grand Valley St.	8	1531025.0	VanderMeer, Ali	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1531025.0	OF	So	24	0
+2015	12120	2	262	Grand Valley St.	20	1304452.0	Wyse, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304452.0	SP/RP	Sr	5	1
+2015	12120	2	1318	Post	44	1539591.0	Cammarano, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539591.0	INF	So	37	36
+2015	12120	2	1318	Post	13	1539589.0	Dawson, Kathryn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539589.0	C	So	39	37
+2015	12120	2	1318	Post	4	1650695.0	DeGraum, Aja	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650695.0	OF	Fr	25	8
+2015	12120	2	1318	Post	21	1313402.0	Derby, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1313402.0	SP/RP	Sr	21	21
+2015	12120	2	1318	Post	11	1650697.0	Ely, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650697.0	INF	Fr	26	1
+2015	12120	2	1318	Post	14	1424459.0	Esque, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424459.0	SP/RP	Jr	26	19
+2015	12120	2	1318	Post	8	1539586.0	Grzywna, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539586.0	INF	So	38	30
+2015	12120	2	1318	Post	7	1539585.0	Hubert, Alivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539585.0	INF	So	3	2
+2015	12120	2	1318	Post	25	1424461.0	Iacomini, Kaitlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424461.0	OF	Jr	41	38
+2015	12120	2	1318	Post	3	1539583.0	Kresley, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539583.0	SP/RP	So	43	43
+2015	12120	2	1318	Post	29	1539588.0	Lennox, Natalie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539588.0	INF	So	30	29
+2015	12120	2	1318	Post	2	1650694.0	McDonald, Korie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650694.0	OF	Fr	38	38
+2015	12120	2	1318	Post	1	1539582.0	Owens, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539582.0	OF	So	42	40
+2015	12120	2	1318	Post	5	1539587.0	Prevost, Karoline	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539587.0	SP/RP	So	6	3
+2015	12120	2	1318	Post	5	1539584.0	Ragazzone, Erica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1539584.0	INF	So	2	2
+2015	12120	2	1318	Post	12	1650698.0	Schaffer, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650698.0	INF	Fr	43	43
+2015	12120	2	1318	Post	22	1650699.0	Selimovski, Sara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650699.0	C	Fr	11	9
+2015	12120	2	1318	Post	10	1650696.0	Venturini, Nicoe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650696.0	INF	Fr	34	30
+2015	12120	2	13	Albany St. (GA)	9	1546841.0	Alexander, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546841.0	DP	So	39	35
+2015	12120	2	13	Albany St. (GA)	25	1666503.0	Arnold, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1666503.0	C	Fr	16	11
+2015	12120	2	13	Albany St. (GA)	11	1438674.0	Atkism, Ambrionna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1438674.0	3B	Jr	35	32
+2015	12120	2	13	Albany St. (GA)	7	1550400.0	Bryant, Dannielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550400.0	OF	So	3	0
+2015	12120	2	13	Albany St. (GA)	4	1546840.0	Carter, Chastity	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546840.0	2B	Fr	1	1
+2015	12120	2	13	Albany St. (GA)	10	1659748.0	Clemens, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659748.0	OF	Fr	11	0
+2015	12120	2	13	Albany St. (GA)	23	1546824.0	Coleman, Toni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546824.0	1B	So	41	40
+2015	12120	2	13	Albany St. (GA)	20	1659749.0	Davis, Dominique	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659749.0	OF	Fr	32	27
+2015	12120	2	13	Albany St. (GA)	13	1671820.0	Davis, Lakymbreyia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671820.0	OF	Fr	8	5
+2015	12120	2	13	Albany St. (GA)	1	1659751.0	Dawson, Keyanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659751.0	OF	Fr	30	14
+2015	12120	2	13	Albany St. (GA)	12	1318170.0	Hicks, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1318170.0	SP/RP	Sr	35	33
+2015	12120	2	13	Albany St. (GA)	20	1546825.0	Holmes, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546825.0	1B	Fr	1	1
+2015	12120	2	13	Albany St. (GA)	0	1671255.0	L.Davis,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671255.0	PR	N/A	1	0
+2015	12120	2	13	Albany St. (GA)	6	1438675.0	Lopez, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1438675.0	SP	Sr	33	29
+2015	12120	2	13	Albany St. (GA)	5	1667535.0	Marks, Chaconna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1667535.0	2B	N/A	1	1
+2015	12120	2	13	Albany St. (GA)	15	1659746.0	Massey, Tiffany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659746.0	2B	So	37	35
+2015	12120	2	13	Albany St. (GA)	2	1546838.0	Maye, Malea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546838.0	2B	So	43	42
+2015	12120	2	13	Albany St. (GA)	22	1318173.0	Peterson, Anria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1318173.0	OF	Sr	34	30
+2015	12120	2	13	Albany St. (GA)	8	1671011.0	Russell, D.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671011.0	PR	N/A	2	0
+2015	12120	2	13	Albany St. (GA)	4	1666502.0	Russell, Demeshia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1666502.0	C	Fr	16	10
+2015	12120	2	13	Albany St. (GA)	21	1546879.0	Taylor, Jadae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546879.0	C	Sr	31	29
+2015	12120	2	13	Albany St. (GA)	3	1659750.0	Weaver, Bristanti	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659750.0	OF	Fr	39	29
+2015	12120	2	13	Albany St. (GA)	14	1546878.0	Whitaker, Kyera	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546878.0	OF	So	6	5
+2015	12120	2	13	Albany St. (GA)	5	1659747.0	White, Jahnisha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659747.0	OF	So	23	17
+2015	12120	2	13	Albany St. (GA)	""	1546823.0	,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1546823.0	C	Fr	1	0
+2015	12120	2	1116	Harding	27	1535284.0	Beck, Kinsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535284.0	INF	Jr	41	30
+2015	12120	2	1116	Harding	4	1535270.0	Berdon, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535270.0	INF	So	55	54
+2015	12120	2	1116	Harding	54	1535286.0	Chambers, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535286.0	INF	So	2	0
+2015	12120	2	1116	Harding	9	1535274.0	Clayton, Carolyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535274.0	OF	Sr	55	55
+2015	12120	2	1116	Harding	16	1535279.0	Derrick, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535279.0	OF	So	36	36
+2015	12120	2	1116	Harding	2	1535268.0	Edwards, Marley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535268.0	INF	So	52	52
+2015	12120	2	1116	Harding	11	1652946.0	Friend, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652946.0	SP	Jr	21	4
+2015	12120	2	1116	Harding	10	1535275.0	Greene, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535275.0	C	Jr	52	45
+2015	12120	2	1116	Harding	8	1535273.0	Hall, Maegan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535273.0	C	So	12	6
+2015	12120	2	1116	Harding	34	1535285.0	Hendricks, Kimmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535285.0	INF	So	55	54
+2015	12120	2	1116	Harding	23	1535282.0	Hubbard, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535282.0	SP	So	32	22
+2015	12120	2	1116	Harding	5	1535271.0	Jones, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535271.0	OF	So	55	55
+2015	12120	2	1116	Harding	15	1535277.0	Jones, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535277.0	INF	Jr	45	37
+2015	12120	2	1116	Harding	3	1652945.0	Little, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652945.0	INF	Fr	16	10
+2015	12120	2	1116	Harding	14	1652947.0	Lowery, Anna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652947.0	OF	Fr	13	0
+2015	12120	2	1116	Harding	13	1535288.0	Moon, Brooke Lynn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535288.0	INF	So	54	53
+2015	12120	2	1116	Harding	18	1535280.0	Rollins, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535280.0	SP	Sr	37	29
+2015	12120	2	1116	Harding	25	1652948.0	Stephens, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652948.0	C	Fr	16	4
+2015	12120	2	1116	Harding	19	1535281.0	Wickline, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535281.0	OF	So	32	4
+2015	12120	2	11504	Queens (NC)	4	1638879.0	Baker, Whitley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638879.0	SP/RP	Jr	19	7
+2015	12120	2	11504	Queens (NC)	8	1307295.0	Britt, Whitney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307295.0	OF	Sr	31	30
+2015	12120	2	11504	Queens (NC)	22	1638876.0	Cheek, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638876.0	DP	Fr	40	39
+2015	12120	2	11504	Queens (NC)	10	1425997.0	Cummings, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425997.0	OF	Jr	0	0
+2015	12120	2	11504	Queens (NC)	12	1638873.0	Frantellizzi, Elaina	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638873.0	DP	Fr	15	4
+2015	12120	2	11504	Queens (NC)	00	1638872.0	Gonzalez, Venus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638872.0	DP	Fr	26	18
+2015	12120	2	11504	Queens (NC)	""	1669686.0	Gonzalez,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669686.0	3B	N/A	11	9
+2015	12120	2	11504	Queens (NC)	33	1638878.0	Hall, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638878.0	OF	Fr	22	11
+2015	12120	2	11504	Queens (NC)	18	1530087.0	Hasker, Hanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530087.0	3B	So	29	24
+2015	12120	2	11504	Queens (NC)	7	1530088.0	Hayes, Micaela	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530088.0	INF	So	33	27
+2015	12120	2	11504	Queens (NC)	15	1638874.0	Lathan, Abby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638874.0	DP	Fr	44	44
+2015	12120	2	11504	Queens (NC)	2	1307293.0	Levine, Robyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307293.0	OF	Sr	44	38
+2015	12120	2	11504	Queens (NC)	19	1425998.0	Lindsay, Jasmyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425998.0	C	Fr	28	26
+2015	12120	2	11504	Queens (NC)	1	1425993.0	Martinez, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425993.0	OF	Jr	43	42
+2015	12120	2	11504	Queens (NC)	11	1426001.0	McCurry, Lyndey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426001.0	SP/RP	Jr	45	45
+2015	12120	2	11504	Queens (NC)	14	1307298.0	Meade, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307298.0	INF	Sr	32	26
+2015	12120	2	11504	Queens (NC)	17	1638875.0	Nigh, Katelyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638875.0	SP/RP	Fr	3	2
+2015	12120	2	11504	Queens (NC)	21	1638880.0	Presley, Catelyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638880.0	OF	Jr	19	10
+2015	12120	2	11504	Queens (NC)	25	1426002.0	Rosenbalm, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426002.0	C	Jr	37	30
+2015	12120	2	11504	Queens (NC)	24	1638877.0	Scott, Evie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1638877.0	SP/RP	Fr	30	12
+2015	12120	2	11504	Queens (NC)	8	1530090.0	Whitaker, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530090.0	INF	So	6	6
+2015	12120	2	934	Alderson Broaddus	20	1669647.0	Baker, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669647.0	C	Fr	16	12
+2015	12120	2	934	Alderson Broaddus	7	1551616.0	Bastin, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1551616.0	OF	Sr	28	26
+2015	12120	2	934	Alderson Broaddus	25	1669642.0	Bravo, Julianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669642.0	3B	Fr	36	36
+2015	12120	2	934	Alderson Broaddus	16	1553401.0	Brown, Whitney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553401.0	C	So	18	18
+2015	12120	2	934	Alderson Broaddus	22	1553402.0	Demps, Shaquila	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1553402.0	OF	So	26	18
+2015	12120	2	934	Alderson Broaddus	3	1551649.0	Drake, Raina	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1551649.0	1B	So	23	22
+2015	12120	2	934	Alderson Broaddus	8	1669643.0	Garrett, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669643.0	INF	Fr	13	9
+2015	12120	2	934	Alderson Broaddus	21	1551627.0	Gasper, Kylee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1551627.0	OF	Sr	36	36
+2015	12120	2	934	Alderson Broaddus	1	1670317.0	Kerr, Kiley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670317.0	2B	N/A	7	2
+2015	12120	2	934	Alderson Broaddus	2	1669645.0	Kimball, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669645.0	INF	Fr	25	15
+2015	12120	2	934	Alderson Broaddus	12	1669646.0	Lujan, Sabrina	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669646.0	SP	Fr	18	10
+2015	12120	2	934	Alderson Broaddus	23	1669902.0	Lynch, Sara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669902.0	INF	Fr	5	0
+2015	12120	2	934	Alderson Broaddus	26	1427192.0	McGoldrick, Elizabeth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1427192.0	C	Jr	13	4
+2015	12120	2	934	Alderson Broaddus	33	1427193.0	Morton, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1427193.0	C	Jr	32	29
+2015	12120	2	934	Alderson Broaddus	10	1554171.0	Parks-Pethal, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1554171.0	INF	So	16	8
+2015	12120	2	934	Alderson Broaddus	9	1551619.0	Patteson, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1551619.0	2B	So	31	30
+2015	12120	2	934	Alderson Broaddus	15	1669894.0	Rohrer, Jazmyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669894.0	SP	Fr	26	21
+2015	12120	2	934	Alderson Broaddus	24	1427191.0	Saldivar, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1427191.0	OF	Jr	7	3
+2015	12120	2	934	Alderson Broaddus	13	1669644.0	Timmons, Alexxi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669644.0	OF	Fr	37	36
+2015	12120	2	934	Alderson Broaddus	18	1669641.0	Turner, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669641.0	SS	Fr	36	35
+2015	12120	2	2697	Hawaii Hilo	12	1530433.0	Aguinaga, Angela	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530433.0	OF	Sr	47	44
+2015	12120	2	2697	Hawaii Hilo	13	1307284.0	Aubrey, Colleen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307284.0	OF	Sr	48	48
+2015	12120	2	2697	Hawaii Hilo	23	1307285.0	Greene, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307285.0	SP/RP	Sr	48	48
+2015	12120	2	2697	Hawaii Hilo	21	1650106.0	Greer-Smith, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650106.0	OF	Jr	23	4
+2015	12120	2	2697	Hawaii Hilo	4	1425194.0	Huff, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425194.0	INF	Jr	48	48
+2015	12120	2	2697	Hawaii Hilo	16	1650105.0	Kawano, Mari	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650105.0	INF	Fr	39	21
+2015	12120	2	2697	Hawaii Hilo	2	1530429.0	Lara, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530429.0	INF	So	36	28
+2015	12120	2	2697	Hawaii Hilo	15	1307286.0	Morelos, Melanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307286.0	C	Sr	44	39
+2015	12120	2	2697	Hawaii Hilo	9	1307282.0	Nelson, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307282.0	SP	Sr	2	0
+2015	12120	2	2697	Hawaii Hilo	20	1530434.0	Pulido, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530434.0	C	So	48	48
+2015	12120	2	2697	Hawaii Hilo	7	1650107.0	Salinas, Vanessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1650107.0	SP	So	39	29
+2015	12120	2	2697	Hawaii Hilo	11	1307288.0	Vickers, Shelby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307288.0	INF	Sr	48	48
+2015	12120	2	2697	Hawaii Hilo	14	1530431.0	Wilson, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1530431.0	SP	So	31	27
+2015	12120	2	2697	Hawaii Hilo	18	1425201.0	Wilson, Brandi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425201.0	OF	Jr	48	48
+2015	12120	2	560	Queens (NY)	55	1526823.0	Boody, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526823.0	C	So	19	8
+2015	12120	2	560	Queens (NY)	20	1643770.0	Callanan, Jeannie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643770.0	3B	Fr	33	15
+2015	12120	2	560	Queens (NY)	7		Carlo, Victoria		INF	Fr	0	0
+2015	12120	2	560	Queens (NY)	24	1526820.0	Gonzalez, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526820.0	INF	So	48	47
+2015	12120	2	560	Queens (NY)	1	1671382.0	Hogan, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671382.0	PR	N/A	14	0
+2015	12120	2	560	Queens (NY)	21	1328774.0	Mattsson, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1328774.0	INF	Sr	51	51
+2015	12120	2	560	Queens (NY)	0	1526818.0	Morrissey, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526818.0	INF	So	49	45
+2015	12120	2	560	Queens (NY)	13	1643769.0	Neal, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643769.0	2B	Fr	20	20
+2015	12120	2	560	Queens (NY)	25	1526821.0	Ognibene, Stevianne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526821.0	OF	So	51	51
+2015	12120	2	560	Queens (NY)	15	1669360.0	Pastor, Cat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1669360.0	3B	N/A	48	46
+2015	12120	2	560	Queens (NY)	22	1328775.0	Pirretti, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1328775.0	OF	Sr	50	50
+2015	12120	2	560	Queens (NY)	27	1328776.0	Roberge, Monique	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1328776.0	1B	Sr	51	51
+2015	12120	2	560	Queens (NY)	99	1526824.0	Spillett, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526824.0	C	So	46	46
+2015	12120	2	560	Queens (NY)	19	1526819.0	Starley, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1526819.0	SP/RP	So	11	2
+2015	12120	2	560	Queens (NY)	2	1643767.0	Valeriano, Tonimarie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643767.0	SP/RP	Fr	46	45
+2015	12120	2	560	Queens (NY)	12	1328772.0	Yaroch, Isabelle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1328772.0	SP	Sr	24	20
+2015	12120	2	2696	Hawaii Pacific	6	1303617.0	Acierto, Dorian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1303617.0	INF	Sr	48	48
+2015	12120	2	2696	Hawaii Pacific	22	1303621.0	Ahlo, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1303621.0	INF	Sr	19	12
+2015	12120	2	2696	Hawaii Pacific	14	1303619.0	Baysa, Toni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1303619.0	OF	Sr	45	44
+2015	12120	2	2696	Hawaii Pacific	27	1639568.0	Boyer, Noelani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639568.0	C	Fr	43	38
+2015	12120	2	2696	Hawaii Pacific	17		Brown, Malory		C	Fr	0	0
+2015	12120	2	2696	Hawaii Pacific	30	1420114.0	Caskey, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1420114.0	SP	Jr	37	28
+2015	12120	2	2696	Hawaii Pacific	12	1550826.0	Cramer, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550826.0	INF	Sr	46	45
+2015	12120	2	2696	Hawaii Pacific	7	1639570.0	Crawford, Paige	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639570.0	SP/RP	Jr	35	21
+2015	12120	2	2696	Hawaii Pacific	2	1303616.0	Elderts, Keila	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1303616.0	OF	Sr	48	47
+2015	12120	2	2696	Hawaii Pacific	1	1420113.0	Esprecion, Sharae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1420113.0	INF	Jr	45	44
+2015	12120	2	2696	Hawaii Pacific	16	1550828.0	Kajiwara, Mari	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550828.0	INF	So	45	29
+2015	12120	2	2696	Hawaii Pacific	23	1639571.0	McCoin, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639571.0	INF	Fr	22	6
+2015	12120	2	2696	Hawaii Pacific	11	1550823.0	Sanchez, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550823.0	C	So	33	23
+2015	12120	2	2696	Hawaii Pacific	3	1639572.0	Santiago, Sienna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639572.0	C	Fr	27	9
+2015	12120	2	2696	Hawaii Pacific	24	1639573.0	Stevens, Britney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639573.0	DP	Fr	5	0
+2015	12120	2	2696	Hawaii Pacific	21	1656308.0	Toyama, Carolann	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1656308.0	C	So	44	41
+2015	12120	2	2696	Hawaii Pacific	5	1550825.0	Viena, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550825.0	INF	So	26	19
+2015	12120	2	2696	Hawaii Pacific	4	1550827.0	Washizaki, Kristy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1550827.0	OF	So	28	2
+2015	12120	2	2696	Hawaii Pacific	8	1656307.0	Wolfe, Kiana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1656307.0	OF	Fr	35	23
+2015	12120	2	2696	Hawaii Pacific	20	1656305.0	Young, Uluwehi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1656305.0	C	So	11	0
+2015	12120	2	22	American Int'l	14	1557880.0	Bedard, Jillian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1557880.0	SP	So	25	15
+2015	12120	2	22	American Int'l	10		Beliveau, Sarah		SP	Fr	0	0
+2015	12120	2	22	American Int'l	4		Bolten, M.		LF	N/A	0	0
+2015	12120	2	22	American Int'l	2	1557881.0	Camargo, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1557881.0	SP/RP	Fr	22	17
+2015	12120	2	22	American Int'l	33	1557367.0	Cartwright, Keymell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1557367.0	OF	Fr	21	20
+2015	12120	2	22	American Int'l	27	1663742.0	Chaudhry, Anisa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663742.0	OF	Fr	6	3
+2015	12120	2	22	American Int'l	1	1431966.0	Costa, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431966.0	OF	Jr	31	26
+2015	12120	2	22	American Int'l	11	1663739.0	DiLeo, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663739.0	INF	Fr	32	31
+2015	12120	2	22	American Int'l	18	1431970.0	Fusek, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431970.0	SP/RP	Jr	13	2
+2015	12120	2	22	American Int'l	30		Gaspar, B.		DH	N/A	0	0
+2015	12120	2	22	American Int'l	24	1663741.0	Gonzalez, Yazmene	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663741.0	INF	Fr	15	7
+2015	12120	2	22	American Int'l	11		Gunn, I.		LF	N/A	0	0
+2015	12120	2	22	American Int'l	22	1312730.0	Haigh, Marlee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1312730.0	OF	Sr	26	24
+2015	12120	2	22	American Int'l	22		Hilton, K.		3B	N/A	0	0
+2015	12120	2	22	American Int'l	5	1431967.0	Letourneau, Lyndsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431967.0	2B	Jr	32	32
+2015	12120	2	22	American Int'l	8	1557370.0	Lopez-Perez, Yami	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1557370.0	1B	So	32	31
+2015	12120	2	22	American Int'l	15	1663740.0	Mainez, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663740.0	C	Fr	27	25
+2015	12120	2	22	American Int'l	13	1668473.0	Malvick, M.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1668473.0	CF	N/A	10	1
+2015	12120	2	22	American Int'l	13	1663743.0	Millane, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663743.0	INF	Fr	3	1
+2015	12120	2	22	American Int'l	7	1431968.0	Miller, Jorrdin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431968.0	3B	Jr	32	32
+2015	12120	2	22	American Int'l	2		Ott, J.		C	N/A	0	0
+2015	12120	2	22	American Int'l	21	1431971.0	Penfield, Ainslee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431971.0	C	Jr	18	6
+2015	12120	2	22	American Int'l	17		Sinopoli, S.		RF	N/A	0	0
+2015	12120	2	22	American Int'l	6	1557369.0	Steele, Kristen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1557369.0	DH	So	23	22
+2015	12120	2	22	American Int'l	12	1312731.0	Tosi, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1312731.0	OF	Sr	25	23
+2015	12120	2	22	American Int'l	5		Vela, K.		2B	N/A	0	0
+2015	12120	2	22	American Int'l	6		Vela, C.		C	N/A	0	0
+2015	12120	2	22	American Int'l	14		Vittetoe, L.		1B	N/A	0	0
+2015	12120	2	22	American Int'l	12		Wenger, J.		SS	N/A	0	0
+2015	12120	2	561	Quincy	7	1306291.0	Armstrong, Murphi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306291.0	SP	Sr	25	22
+2015	12120	2	561	Quincy	5	1660415.0	Burton, Abby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660415.0	OF	Fr	45	41
+2015	12120	2	561	Quincy	20	1306296.0	Dralle, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306296.0	OF	Sr	17	1
+2015	12120	2	561	Quincy	9	1529818.0	Fox, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529818.0	INF	Sr	11	4
+2015	12120	2	561	Quincy	1	1529821.0	Goble, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529821.0	INF	So	6	3
+2015	12120	2	561	Quincy	6	1529817.0	Greene, Lindsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529817.0	INF	So	44	44
+2015	12120	2	561	Quincy	11	1306293.0	Grimes, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306293.0	C	Sr	39	37
+2015	12120	2	561	Quincy	28	1660422.0	Griskell, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660422.0	SP/RP	Fr	14	1
+2015	12120	2	561	Quincy	12	1529820.0	Harbison, Tiffany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529820.0	SP	So	19	13
+2015	12120	2	561	Quincy	21		Hillier, Emily		C	Fr	0	0
+2015	12120	2	561	Quincy	16	1660418.0	Ledbetter, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660418.0	INF	Jr	26	20
+2015	12120	2	561	Quincy	18	1660419.0	Ledford, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660419.0	OF	Fr	19	0
+2015	12120	2	561	Quincy	26	1306301.0	Ley, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306301.0	INF	Sr	46	46
+2015	12120	2	561	Quincy	22	1660421.0	McLaughlin, Karli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660421.0	C	Fr	22	19
+2015	12120	2	561	Quincy	10	1529819.0	Ogle, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529819.0	C	So	0	0
+2015	12120	2	561	Quincy	2	1431257.0	Powers, Becca	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1431257.0	OF	Jr	34	11
+2015	12120	2	561	Quincy	14	1660417.0	Quirk, Meghan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660417.0	SP/RP	Fr	23	14
+2015	12120	2	561	Quincy	3	1529816.0	Reese, Krista	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529816.0	DP	So	7	3
+2015	12120	2	561	Quincy	4	1660414.0	Schultes, Nicol	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660414.0	INF	Fr	6	0
+2015	12120	2	561	Quincy	23	1529822.0	Scrum, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529822.0	INF	Jr	46	46
+2015	12120	2	561	Quincy	24	1306299.0	Suellentrop, Jill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306299.0	INF	Sr	45	43
+2015	12120	2	561	Quincy	8	1306292.0	Topps, Emma	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306292.0	OF	Sr	46	46
+2015	12120	2	561	Quincy	15	1306295.0	Viken, Alanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306295.0	INF	Sr	46	46
+2015	12120	2	561	Quincy	13	1660416.0	Westerhoff, Geri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660416.0	INF	Fr	3	0
+2015	12120	2	13028	Anderson (SC)	20	1639340.0	Barefield, Rachael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639340.0	INF	Fr	55	55
+2015	12120	2	13028	Anderson (SC)	7	1306350.0	Cason, Bri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306350.0	INF	Sr	55	55
+2015	12120	2	13028	Anderson (SC)	16	1639339.0	Chapman, Bethany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639339.0	OF	Fr	9	0
+2015	12120	2	13028	Anderson (SC)	9	1671189.0	Child, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1671189.0	CF	N/A	27	27
+2015	12120	2	13028	Anderson (SC)	9	1426382.0	Child, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426382.0	OF	Jr	28	28
+2015	12120	2	13028	Anderson (SC)	24	1532076.0	Czentnar, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532076.0	OF	So	55	55
+2015	12120	2	13028	Anderson (SC)	10	1639336.0	Hurtado, Carli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639336.0	INF	Fr	55	55
+2015	12120	2	13028	Anderson (SC)	1	1639335.0	Jones, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639335.0	INF	Fr	55	55
+2015	12120	2	13028	Anderson (SC)	2	1306348.0	Martin, Rebecca	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306348.0	OF	Sr	55	55
+2015	12120	2	13028	Anderson (SC)	6	1306349.0	Neidigh, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306349.0	INF	Sr	55	55
+2015	12120	2	13028	Anderson (SC)	14	1639337.0	Niles, Cailah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639337.0	C	Fr	55	55
+2015	12120	2	13028	Anderson (SC)	15	1639338.0	Oxner, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639338.0	OF	Fr	46	0
+2015	12120	2	13028	Anderson (SC)	27	1532077.0	Pena, Augie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532077.0	SP	So	15	10
+2015	12120	2	13028	Anderson (SC)	11	1532074.0	Rudesheim, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532074.0	SP	So	40	35
+2015	12120	2	13028	Anderson (SC)	21	1639341.0	Shuman, Trudi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639341.0	OF	Fr	35	0
+2015	12120	2	1123	Henderson St.	25	1426553.0	Bender, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426553.0	SP/RP	Jr	12	6
+2015	12120	2	1123	Henderson St.	2	1649564.0	Cullins, Caroline	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649564.0	DP	Fr	51	45
+2015	12120	2	1123	Henderson St.	17	1649570.0	Daniels, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649570.0	DP	Jr	54	52
+2015	12120	2	1123	Henderson St.	12	1649568.0	Garza, Destiny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649568.0	3B	Fr	14	5
+2015	12120	2	1123	Henderson St.	5	1306002.0	Gipson, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306002.0	1B	Sr	58	58
+2015	12120	2	1123	Henderson St.	1	1306008.0	Halter, Amy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306008.0	DP	Sr	58	58
+2015	12120	2	1123	Henderson St.	10	1649567.0	Hargis, Ali	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649567.0	SP	Jr	22	16
+2015	12120	2	1123	Henderson St.	16	1527865.0	Hock, Tricia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1527865.0	2B	Sr	56	55
+2015	12120	2	1123	Henderson St.	4	1527860.0	McMullen, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1527860.0	SP/RP	So	0	0
+2015	12120	2	1123	Henderson St.	23	1649571.0	Olsson, Tessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649571.0	1B	Fr	3	0
+2015	12120	2	1123	Henderson St.	8	1527863.0	Seahorn, Keirsten	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1527863.0	INF	So	53	52
+2015	12120	2	1123	Henderson St.	27	1649572.0	Sorensen, Michelle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649572.0	SP	Fr	42	29
+2015	12120	2	1123	Henderson St.	28	1426554.0	South, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426554.0	DP	Jr	57	57
+2015	12120	2	1123	Henderson St.	6	1649566.0	Trapp, Olivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649566.0	INF	Fr	11	2
+2015	12120	2	1123	Henderson St.	9	1426549.0	Waggoner, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426549.0	SS	Jr	20	10
+2015	12120	2	1123	Henderson St.	3	1649565.0	Warren, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649565.0	C	Fr	34	19
+2015	12120	2	1123	Henderson St.	7	1527862.0	White, Ashlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1527862.0	1B	So	55	55
+2015	12120	2	1123	Henderson St.	15	1649569.0	Wright, Shayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1649569.0	OF	Fr	26	2
+2015	12120	2	1123	Henderson St.	11	1527864.0	Zack, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1527864.0	SS	Sr	58	58
+2015	12120	2	568	Regis (CO)	22	1645545.0	Aviles, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645545.0	C	Jr	46	41
+2015	12120	2	568	Regis (CO)	11	1311919.0	Bogdajeiwcz, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1311919.0	2B	Sr	49	48
+2015	12120	2	568	Regis (CO)	1	1540759.0	Finger, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540759.0	OF	So	50	50
+2015	12120	2	568	Regis (CO)	8	1645541.0	Heronema, Melissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645541.0	INF	Fr	17	6
+2015	12120	2	568	Regis (CO)	19	1424657.0	Hull, Nicole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424657.0	SP/RP	Jr	47	41
+2015	12120	2	568	Regis (CO)	21	1311922.0	Illias, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1311922.0	SS	Sr	7	6
+2015	12120	2	568	Regis (CO)	2	1645539.0	John, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645539.0	INF	Fr	51	51
+2015	12120	2	568	Regis (CO)	5	1540761.0	King, Bradey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540761.0	SS	So	51	51
+2015	12120	2	568	Regis (CO)	23	1424658.0	Knudson, Rachelle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424658.0	SP/RP	Jr	5	1
+2015	12120	2	568	Regis (CO)	8	1668457.0	Lee, Britney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1668457.0	DH	N/A	1	1
+2015	12120	2	568	Regis (CO)	4	1540760.0	Lorenz, Kate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540760.0	C	So	7	2
+2015	12120	2	568	Regis (CO)	9	1645542.0	McClure, Kaci	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645542.0	C	Jr	41	41
+2015	12120	2	568	Regis (CO)	6	1645540.0	McGinn, Delaney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645540.0	OF	Fr	49	49
+2015	12120	2	568	Regis (CO)	6	1668456.0	Ortiz, Dominique	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1668456.0	2B	N/A	1	1
+2015	12120	2	568	Regis (CO)	10	1645543.0	Pearsall, Breana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645543.0	OF	Fr	35	6
+2015	12120	2	568	Regis (CO)	22	1668455.0	Piper, Kylee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1668455.0	DH/P	N/A	1	1
+2015	12120	2	568	Regis (CO)	15	1424655.0	Prescott, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424655.0	SS	Jr	25	10
+2015	12120	2	568	Regis (CO)	7	1540762.0	Sexton, Carlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540762.0	1B	So	51	51
+2015	12120	2	568	Regis (CO)	12	1645544.0	Staab, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645544.0	1B	Fr	9	0
+2015	12120	2	568	Regis (CO)	3	1311917.0	Wilcox, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1311917.0	C	Sr	51	51
+2015	12120	2	25	Angelo St.	33	1535111.0	Cisneros, Tina	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535111.0	INF	Sr	49	48
+2015	12120	2	25	Angelo St.	32	1651090.0	Donnelly, Lauryn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651090.0	OF	Fr	25	0
+2015	12120	2	25	Angelo St.	25	1424546.0	Dunn, Darian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424546.0	INF	Jr	28	25
+2015	12120	2	25	Angelo St.	14	1535113.0	Granado, Megan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535113.0	C	Sr	50	47
+2015	12120	2	25	Angelo St.	11	1651086.0	Greenwell, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651086.0	OF	Fr	51	49
+2015	12120	2	25	Angelo St.	7	1535114.0	Herzog, Katlyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535114.0	C	So	18	1
+2015	12120	2	25	Angelo St.	1	1424539.0	Hill, Ambra	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424539.0	INF	Jr	41	36
+2015	12120	2	25	Angelo St.	21	1535115.0	Johnson, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535115.0	OF	So	33	2
+2015	12120	2	25	Angelo St.	3	1535116.0	Koria, Micherie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535116.0	OF	Sr	51	51
+2015	12120	2	25	Angelo St.	22	1651088.0	Love, Kylie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651088.0	INF	Fr	15	0
+2015	12120	2	25	Angelo St.	2	1651083.0	Mangold, Brooke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651083.0	OF	Fr	35	0
+2015	12120	2	25	Angelo St.	8	1651085.0	Marlett, Brandy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651085.0	SP/RP	Fr	32	28
+2015	12120	2	25	Angelo St.	15	1424543.0	Moore, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424543.0	INF	Sr	45	43
+2015	12120	2	25	Angelo St.	12	1651087.0	Rendon, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651087.0	INF	Fr	24	4
+2015	12120	2	25	Angelo St.	6	1424540.0	Robinson, Lanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424540.0	3B	Jr	45	41
+2015	12120	2	25	Angelo St.	5	1651084.0	Sheppard, Ciara	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651084.0	INF	Fr	49	49
+2015	12120	2	25	Angelo St.	20	1535117.0	Urbany, Kenedy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535117.0	SP/RP	So	50	50
+2015	12120	2	25	Angelo St.	27	1651089.0	Weinheimer, Camry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651089.0	C	Fr	41	33
+2015	12120	2	280	Hillsdale	5	1307694.0	Ardrey, Kate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307694.0	SP/RP	Sr	47	47
+2015	12120	2	280	Hillsdale	33	1535034.0	Asselta, Cassie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535034.0	C	So	31	20
+2015	12120	2	280	Hillsdale	19	1307696.0	Day, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1307696.0	OF	Sr	26	25
+2015	12120	2	280	Hillsdale	12	1535035.0	Eddie, Kelli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535035.0	OF	So	26	8
+2015	12120	2	280	Hillsdale	14	1535062.0	Ellison, Ainsley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535062.0	OF	Jr	46	45
+2015	12120	2	280	Hillsdale	2	1535036.0	Felkey, Melissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535036.0	INF	Sr	45	44
+2015	12120	2	280	Hillsdale	1	1535037.0	Fox, Jessie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535037.0	OF	So	17	6
+2015	12120	2	280	Hillsdale	11	1448977.0	Garceau, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1448977.0	C	Jr	39	39
+2015	12120	2	280	Hillsdale	6	1644612.0	Gockman, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1644612.0	C	Fr	27	16
+2015	12120	2	280	Hillsdale	10	1535051.0	Grunert, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535051.0	INF	Jr	44	44
+2015	12120	2	280	Hillsdale	20	1535038.0	Kastning, Bekah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535038.0	OF	So	48	46
+2015	12120	2	280	Hillsdale	13	1535050.0	Klopfer, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535050.0	SP	Jr	43	35
+2015	12120	2	280	Hillsdale	7	1447174.0	Kosco, Julia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1447174.0	INF	Jr	33	32
+2015	12120	2	280	Hillsdale	4	1644611.0	Lawrence, Haley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1644611.0	OF	Fr	31	12
+2015	12120	2	280	Hillsdale	24	1644615.0	Mahan, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1644615.0	INF	Fr	24	11
+2015	12120	2	280	Hillsdale	22	1644614.0	Steine, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1644614.0	SP	Fr	31	23
+2015	12120	2	280	Hillsdale	9	1644613.0	Taylor, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1644613.0	OF	Fr	32	24
+2015	12120	2	1328	Rockhurst	24	1538512.0	Boerema, Gabbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538512.0	SS	So	44	39
+2015	12120	2	1328	Rockhurst	10	1538507.0	Cairo, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538507.0	INF	So	44	31
+2015	12120	2	1328	Rockhurst	9	1639653.0	Cross, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639653.0	OF	Fr	41	34
+2015	12120	2	1328	Rockhurst	4	1538505.0	Dean, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538505.0	OF	Jr	45	41
+2015	12120	2	1328	Rockhurst	17	1417971.0	Evans, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1417971.0	C	Jr	34	21
+2015	12120	2	1328	Rockhurst	21	1417972.0	Hill, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1417972.0	OF	Jr	44	30
+2015	12120	2	1328	Rockhurst	8	1639652.0	Lipp, Caroline	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639652.0	OF	Fr	36	24
+2015	12120	2	1328	Rockhurst	26	1639654.0	McKee, Emily	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639654.0	C	Fr	15	0
+2015	12120	2	1328	Rockhurst	14	1417970.0	Plathe, Demi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1417970.0	SP/RP	Jr	43	42
+2015	12120	2	1328	Rockhurst	12	1538509.0	Pyle, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538509.0	OF	So	32	6
+2015	12120	2	1328	Rockhurst	20	1538510.0	Sappington, Bridgette	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538510.0	SP	So	38	29
+2015	12120	2	1328	Rockhurst	6	1639650.0	Sebestyen, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639650.0	INF	Fr	46	40
+2015	12120	2	1328	Rockhurst	7	1639651.0	Tepen, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639651.0	INF	Fr	44	38
+2015	12120	2	1328	Rockhurst	5	1639649.0	Wagner, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639649.0	OF	Fr	46	45
+2015	12120	2	1328	Rockhurst	15	1538506.0	Zuniga, Lexie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1538506.0	C	So	43	40
+2015	12120	2	1126	Holy Family	4	1442252.0	Alvarado, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1442252.0	OF	Jr	0	0
+2015	12120	2	1126	Holy Family	14	1442254.0	Boggi, Claudia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1442254.0	C	Jr	18	12
+2015	12120	2	1126	Holy Family	13	1321516.0	Bunda, Kelsi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1321516.0	OF	Sr	16	15
+2015	12120	2	1126	Holy Family	5	1442253.0	Casey, Kristine	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1442253.0	INF	Jr	33	33
+2015	12120	2	1126	Holy Family	10	1321517.0	Chilutti, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1321517.0	SP	Sr	8	3
+2015	12120	2	1126	Holy Family	3	1670088.0	Cudeyro, Alyssa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670088.0	OF	Fr	29	29
+2015	12120	2	1126	Holy Family	15	1442255.0	Daubert, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1442255.0	INF	Jr	32	23
+2015	12120	2	1126	Holy Family	11	1670089.0	Favinger, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670089.0	SS	Fr	34	32
+2015	12120	2	1126	Holy Family	12	1670090.0	Hernandez, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670090.0	3B	Fr	20	8
+2015	12120	2	1126	Holy Family	25	1670094.0	Maida, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670094.0	SP/RP	Fr	11	4
+2015	12120	2	1126	Holy Family	19	1552663.0	McCleery, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1552663.0	C	So	3	3
+2015	12120	2	1126	Holy Family	21	1670092.0	Orozco, Koreen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670092.0	SP	Fr	25	24
+2015	12120	2	1126	Holy Family	23	1552664.0	Paredes, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1552664.0	SP	So	0	0
+2015	12120	2	1126	Holy Family	1	1552662.0	Scotto, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1552662.0	OF	So	34	34
+2015	12120	2	1126	Holy Family	9	1321518.0	Tomlinson, Kristy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1321518.0	INF	Sr	17	11
+2015	12120	2	1126	Holy Family	22	1670093.0	Trapp, Jennifer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670093.0	2B	Fr	33	32
+2015	12120	2	1126	Holy Family	20	1670091.0	Vasquez, Jenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1670091.0	C	Fr	34	33
+2015	12120	2	1126	Holy Family	7	1552661.0	Walters, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1552661.0	SP	So	34	34
+2015	12120	2	8411	Ark.-Monticello	4	1654638.0	Anderson, Skyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654638.0	OF	Fr	42	22
+2015	12120	2	8411	Ark.-Monticello	11	1654643.0	Ashby, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654643.0	SP/RP	So	16	11
+2015	12120	2	8411	Ark.-Monticello	19	1654654.0	Batey, Katherine	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654654.0	SP/RP	Jr	9	8
+2015	12120	2	8411	Ark.-Monticello	17	1540987.0	Blanchard, Lacy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540987.0	DP	Sr	45	45
+2015	12120	2	8411	Ark.-Monticello	5	1654639.0	Callaway, Kelbe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654639.0	INF	Fr	18	3
+2015	12120	2	8411	Ark.-Monticello	10	1654642.0	Currey, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654642.0	C	Fr	38	29
+2015	12120	2	8411	Ark.-Monticello	18	1540985.0	Daugherty, Briana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540985.0	INF	Sr	23	4
+2015	12120	2	8411	Ark.-Monticello	15	1654645.0	Delafield, Elizabeth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654645.0	SP/RP	Jr	9	2
+2015	12120	2	8411	Ark.-Monticello	20	1654655.0	Finnigan, Alyson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654655.0	SP/RP	Fr	16	6
+2015	12120	2	8411	Ark.-Monticello	24	1654657.0	Halder, Kelli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654657.0	INF	Jr	26	20
+2015	12120	2	8411	Ark.-Monticello	14	1654644.0	Head, Aubree	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654644.0	INF	Fr	38	27
+2015	12120	2	8411	Ark.-Monticello	16	1540984.0	Koen, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540984.0	1B	So	2	0
+2015	12120	2	8411	Ark.-Monticello	8	1654641.0	Miller, Keeley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654641.0	C	Fr	2	0
+2015	12120	2	8411	Ark.-Monticello	23	1540986.0	Parker, Korie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540986.0	INF	So	42	39
+2015	12120	2	8411	Ark.-Monticello	1	1654636.0	Pierce, Mackenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654636.0	C	Fr	9	1
+2015	12120	2	8411	Ark.-Monticello	7	1426117.0	Piha, Kali	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426117.0	OF	Jr	49	49
+2015	12120	2	8411	Ark.-Monticello	22		Prater, Kelsey		SP/RP	Jr	0	0
+2015	12120	2	8411	Ark.-Monticello	12	1540982.0	Rice, Mckenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540982.0	INF	So	43	42
+2015	12120	2	8411	Ark.-Monticello	25	1654658.0	Sanders, Breanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654658.0	INF	Fr	24	10
+2015	12120	2	8411	Ark.-Monticello	9	1304987.0	Slaughter, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304987.0	SP/RP	Sr	28	24
+2015	12120	2	8411	Ark.-Monticello	13	1540983.0	Stipes, Allison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1540983.0	C	So	30	26
+2015	12120	2	8411	Ark.-Monticello	21	1304991.0	Tipton, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304991.0	INF	Sr	49	49
+2015	12120	2	8411	Ark.-Monticello	6	1654640.0	Willingham, Kayley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654640.0	OF	Sr	29	24
+2015	12120	2	8411	Ark.-Monticello	3	1654637.0	Wilmarth, Holly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1654637.0	OF	Jr	49	49
+2015	12120	2	30180	Rogers St.	26	1655203.0	Alexander, Katlin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655203.0	1B	Jr	44	41
+2015	12120	2	30180	Rogers St.	21	1655204.0	Christian, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655204.0	SP	Jr	21	7
+2015	12120	2	30180	Rogers St.	16	1544871.0	Conley, Carley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544871.0	INF	Sr	45	45
+2015	12120	2	30180	Rogers St.	11	1655205.0	Drew, Chelsie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655205.0	OF	Jr	12	12
+2015	12120	2	30180	Rogers St.	6	1655206.0	Hamilton, Whitney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655206.0	C	Sr	40	38
+2015	12120	2	30180	Rogers St.	15	1655207.0	Jones, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655207.0	SP	Jr	24	10
+2015	12120	2	30180	Rogers St.	23	1655208.0	Kaderka, Bailee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655208.0	SP	Jr	34	21
+2015	12120	2	30180	Rogers St.	2	1544860.0	Kirk, Makenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544860.0	INF	Sr	31	28
+2015	12120	2	30180	Rogers St.	1	1544859.0	Kowalick, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544859.0	C	Jr	40	39
+2015	12120	2	30180	Rogers St.	19	1655209.0	McBrayer, Maggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655209.0	2B	Jr	20	9
+2015	12120	2	30180	Rogers St.	22	1544874.0	McGoldrick, Mikayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544874.0	SP	So	2	0
+2015	12120	2	30180	Rogers St.	9	1655210.0	Moss, Malori	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655210.0	OF	Jr	45	45
+2015	12120	2	30180	Rogers St.	20	1655211.0	Schivally, Stephanie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655211.0	3B	Fr	20	7
+2015	12120	2	30180	Rogers St.	4	1655212.0	Sharp, Randye	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655212.0	OF	So	38	18
+2015	12120	2	30180	Rogers St.	10	1655213.0	Shurtliff, Toni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655213.0	1B	Sr	10	6
+2015	12120	2	30180	Rogers St.	7	1544862.0	Simpson, Cailin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544862.0	INF	Sr	45	45
+2015	12120	2	30180	Rogers St.	5	1655214.0	Spencer, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655214.0	OF	Jr	34	24
+2015	12120	2	30180	Rogers St.	12	1655215.0	Stidman, Ashleigh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655215.0	OF	Jr	45	43
+2015	12120	2	30180	Rogers St.	13	1655216.0	Sutterfield, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655216.0	2B	Jr	18	3
+2015	12120	2	30180	Rogers St.	30	1655217.0	Voboril, Aubrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655217.0	SP	Jr	9	7
+2015	12120	2	30175	Holy Names	22	1535902.0	Batista, Mary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535902.0	2B	Sr	15	6
+2015	12120	2	30175	Holy Names	4	1655774.0	Garabedian, Geena	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655774.0	INF	Jr	30	25
+2015	12120	2	30175	Holy Names	10	1535904.0	Gardner, Gabrielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535904.0	C	Sr	11	8
+2015	12120	2	30175	Holy Names	25	1440256.0	Hunt, Pinnellopii	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1440256.0	SP	So	1	1
+2015	12120	2	30175	Holy Names	1	1535906.0	Ilayan, Lyveana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535906.0	1B	So	50	49
+2015	12120	2	30175	Holy Names	0	1535903.0	Marquez, Ariana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535903.0	OF	Sr	50	49
+2015	12120	2	30175	Holy Names	11	1440255.0	McGuigan, Hailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1440255.0	C	Sr	41	33
+2015	12120	2	30175	Holy Names	15	1655779.0	Moffat, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655779.0	INF	Fr	46	43
+2015	12120	2	30175	Holy Names	21	1535905.0	Perez, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535905.0	INF	Jr	52	51
+2015	12120	2	30175	Holy Names	6	1440257.0	Pulido, Vanessa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1440257.0	SP/RP	Jr	34	27
+2015	12120	2	30175	Holy Names	24	1446705.0	Romero, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1446705.0	C	Jr	42	41
+2015	12120	2	30175	Holy Names	33	1655780.0	Santoro, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655780.0	OF	So	42	39
+2015	12120	2	30175	Holy Names	30	1440267.0	Simonson, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1440267.0	1B	Jr	29	12
+2015	12120	2	30175	Holy Names	3	1535907.0	Soares, Nicolette	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535907.0	3B	So	45	38
+2015	12120	2	30175	Holy Names	29	1535908.0	Tarbet, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535908.0	1B	So	1	1
+2015	12120	2	30175	Holy Names	2	1535899.0	Thurber, Mekenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535899.0	OF	Sr	0	0
+2015	12120	2	30175	Holy Names	5	1535901.0	Tipton, Karolanne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535901.0	SP/RP	Sr	53	42
+2015	12120	2	30175	Holy Names	13	1535909.0	Waller, Juliana	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1535909.0	OF	Sr	49	40
+2015	12120	2	30175	Holy Names	2	1655781.0	Wiggins, D'Aijah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1655781.0	INF	Fr	8	0
+2015	12120	2	30175	Holy Names	8	1440263.0	Yandell, Deni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1440263.0	OF	Sr	38	34
+2015	12120	2	947	Arkansas Tech	1	1659236.0	Anderson, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659236.0	OF	Fr	44	8
+2015	12120	2	947	Arkansas Tech	24	1659237.0	Barker, Kelsie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659237.0	SP	Jr	21	6
+2015	12120	2	947	Arkansas Tech	15		Caruthers, Carlie		RP	Jr	0	0
+2015	12120	2	947	Arkansas Tech	18	1545339.0	Clark, Sydnee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545339.0	SP/RP	So	30	15
+2015	12120	2	947	Arkansas Tech	23	1547827.0	Colunga, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1547827.0	C	So	54	48
+2015	12120	2	947	Arkansas Tech	3	1444732.0	Davidson, Shanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1444732.0	1B	So	63	61
+2015	12120	2	947	Arkansas Tech	20	1659242.0	Dupree, Miranda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659242.0	C	Fr	53	39
+2015	12120	2	947	Arkansas Tech	11	1659243.0	Edinger, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659243.0	INF	Fr	61	59
+2015	12120	2	947	Arkansas Tech	10	1545233.0	Gum, Jalissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545233.0	INF	So	55	45
+2015	12120	2	947	Arkansas Tech	14	1659238.0	Herweck, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659238.0	SS	Jr	44	11
+2015	12120	2	947	Arkansas Tech	2	1659239.0	Hill, Kambrie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659239.0	OF	Jr	58	55
+2015	12120	2	947	Arkansas Tech	25	1304060.0	Huie, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1304060.0	SP/RP	Sr	24	19
+2015	12120	2	947	Arkansas Tech	22	1659240.0	Knowles, Janie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659240.0	INF	Fr	49	28
+2015	12120	2	947	Arkansas Tech	12	1659244.0	Lowrey, Alicia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659244.0	3B	Fr	39	16
+2015	12120	2	947	Arkansas Tech	7	1659245.0	Moran, Mary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659245.0	SP	Fr	11	2
+2015	12120	2	947	Arkansas Tech	6	1545247.0	Reeves, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545247.0	3B	Fr	51	44
+2015	12120	2	947	Arkansas Tech	9	1444735.0	Robinson, Whitney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1444735.0	2B	Sr	63	62
+2015	12120	2	947	Arkansas Tech	4	1545227.0	Savage, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545227.0	2B	Fr	63	63
+2015	12120	2	947	Arkansas Tech	79	1659241.0	Vaughn, Morgan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659241.0	SP/RP	Fr	37	25
+2015	12120	2	947	Arkansas Tech	5	1659246.0	Wimberly, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1659246.0	INF	Fr	50	23
+2015	12120	2	584	Rollins	27	1639803.0	Collins, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639803.0	SS	Fr	8	6
+2015	12120	2	584	Rollins	66	1425145.0	Durbin, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425145.0	OF	Jr	47	47
+2015	12120	2	584	Rollins	9	1425140.0	Fogle, Niki	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425140.0	SP	Jr	46	42
+2015	12120	2	584	Rollins	1	1529193.0	Hamilton, Claire	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529193.0	C	So	6	1
+2015	12120	2	584	Rollins	37	1529194.0	Hon, Hillary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529194.0	SP	So	7	3
+2015	12120	2	584	Rollins	7	1639807.0	Horwath, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639807.0	OF	Jr	47	44
+2015	12120	2	584	Rollins	34	1425144.0	Johnson, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425144.0	INF	Jr	49	48
+2015	12120	2	584	Rollins	8	1529195.0	Keisling, Hailee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529195.0	INF	So	50	50
+2015	12120	2	584	Rollins	11	1425141.0	Kranz, Jule	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425141.0	SS	Jr	50	47
+2015	12120	2	584	Rollins	22	1639804.0	Lint, Brianne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639804.0	OF	Fr	19	13
+2015	12120	2	584	Rollins	5	1529196.0	Marshall, Hali	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529196.0	OF	So	32	21
+2015	12120	2	584	Rollins	24	1639808.0	Masso, Sid	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639808.0	3B	Jr	49	48
+2015	12120	2	584	Rollins	0	1529197.0	Miller, Bailey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529197.0	INF	So	26	0
+2015	12120	2	584	Rollins	23	1306019.0	Oonk, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1306019.0	INF	Sr	17	10
+2015	12120	2	584	Rollins	13	1639809.0	Osmanski, Tiffany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639809.0	INF	Jr	32	26
+2015	12120	2	584	Rollins	21	1529199.0	Reed, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529199.0	OF	So	51	50
+2015	12120	2	584	Rollins	55	1639805.0	Sarver, Sierra	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639805.0	1B	Fr	12	6
+2015	12120	2	584	Rollins	25	1425143.0	Satterwhite, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425143.0	INF	So	8	4
+2015	12120	2	584	Rollins	12	1639806.0	Schilling, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639806.0	C	Fr	4	1
+2015	12120	2	584	Rollins	2	1639810.0	Stevens, Rose	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1639810.0	OF	Jr	44	43
+2015	12120	2	291	Humboldt St.	3	1643619.0	Bejaran, Breonna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643619.0	1B	So	50	37
+2015	12120	2	291	Humboldt St.	2	1421580.0	Chavez, Cyndi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421580.0	2B	Jr	52	50
+2015	12120	2	291	Humboldt St.	16	1643637.0	Domnitz, Kellsie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643637.0	SP	Jr	9	0
+2015	12120	2	291	Humboldt St.	13	1545336.0	Graeser, Katelyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545336.0	C	Sr	15	0
+2015	12120	2	291	Humboldt St.	9	1421583.0	Harris, Darian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421583.0	C	Jr	60	60
+2015	12120	2	291	Humboldt St.	6	1643621.0	Holland, Hanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643621.0	OF	Fr	59	59
+2015	12120	2	291	Humboldt St.	4	1542874.0	Hollingsworth, Tiffany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1542874.0	2B	So	60	60
+2015	12120	2	291	Humboldt St.	7	1660198.0	Johnson, Robin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1660198.0	P	N/A	6	1
+2015	12120	2	291	Humboldt St.	22	1310407.0	McKibbon, Alison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310407.0	1B	Sr	60	60
+2015	12120	2	291	Humboldt St.	17	1421586.0	Obbema, Katie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421586.0	SP	Jr	37	31
+2015	12120	2	291	Humboldt St.	18	1421587.0	Pena, Julie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421587.0	3B	Jr	59	58
+2015	12120	2	291	Humboldt St.	11	1421584.0	Perkins, Carly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421584.0	OF	Jr	41	20
+2015	12120	2	291	Humboldt St.	20	1643640.0	Pitcher, Carrie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643640.0	2B	Sr	1	0
+2015	12120	2	291	Humboldt St.	14	1310404.0	Randall, Dani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1310404.0	OF	Sr	60	60
+2015	12120	2	291	Humboldt St.	8	1542875.0	Roberts, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1542875.0	OF	So	40	10
+2015	12120	2	291	Humboldt St.	19	1643638.0	Rose, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643638.0	OF	Fr	36	0
+2015	12120	2	291	Humboldt St.	10	1545337.0	Snipes, Allyson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1545337.0	INF	So	1	0
+2015	12120	2	291	Humboldt St.	5	1643620.0	Sonnemann, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643620.0	C	Fr	35	5
+2015	12120	2	291	Humboldt St.	15	1643636.0	Vigil, Winona	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643636.0	OF	Fr	17	0
+2015	12120	2	291	Humboldt St.	12	1543276.0	Watilo, Hailee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1543276.0	C	So	4	0
+2015	12120	2	291	Humboldt St.	23	1421588.0	Williams, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1421588.0	1B	Sr	56	55
+2015	12120	2	291	Humboldt St.	24	1542876.0	Williams, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1542876.0	SP	So	30	28
+2015	12120	2	291	Humboldt St.	1	1643613.0	Williams, Halle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643613.0	INF	Fr	13	6
+2015	12120	2	291	Humboldt St.	21	1643639.0	Zito, Lindsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1643639.0	3B	Fr	19	0
+2015	12120	2	33	Armstrong	8	1652781.0	Baker, Jessica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652781.0	INF	Fr	18	5
+2015	12120	2	33	Armstrong	5	1532741.0	Ballard, Bethany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532741.0	C	So	28	22
+2015	12120	2	33	Armstrong	2	1532718.0	Bates, Tori	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532718.0	1B	So	19	5
+2015	12120	2	33	Armstrong	25	1652784.0	Breen, Michelle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652784.0	INF	Jr	48	48
+2015	12120	2	33	Armstrong	4	1532740.0	Gladue, Savanna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532740.0	INF	So	42	31
+2015	12120	2	33	Armstrong	10	1652783.0	Hatcher, Michaela	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652783.0	OF	Fr	17	0
+2015	12120	2	33	Armstrong	19	1663665.0	Matarazzo, Brianne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1663665.0	""	N/A	1	0
+2015	12120	2	33	Armstrong	20	1532750.0	McLemore, Ollivia	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532750.0	SP	Sr	24	21
+2015	12120	2	33	Armstrong	21	1305480.0	Mercer, Alexis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305480.0	INF	Sr	47	47
+2015	12120	2	33	Armstrong	1	1652778.0	Newman, Sierra	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652778.0	OF	Jr	43	43
+2015	12120	2	33	Armstrong	7	1652780.0	Parrish, Autumn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652780.0	C	Fr	47	47
+2015	12120	2	33	Armstrong	12	1424315.0	Reppert, Hannah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424315.0	INF	Jr	0	0
+2015	12120	2	33	Armstrong	15	1424316.0	Reynolds, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424316.0	SP/RP	Sr	48	47
+2015	12120	2	33	Armstrong	23	1424318.0	Roth, Peyton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1424318.0	DP	Jr	48	48
+2015	12120	2	33	Armstrong	9	1652782.0	Sterritt, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652782.0	3B	Jr	47	47
+2015	12120	2	33	Armstrong	3	1652779.0	Stewart, Lindsay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1652779.0	INF	Fr	36	21
+2015	12120	2	33	Armstrong	11	1532748.0	Trzaska, Jane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1532748.0	OF	So	48	48
+2015	12120	2	11276	S.C. Aiken	14	1544519.0	Barbor, Makenzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544519.0	PH	Fr	39	39
+2015	12120	2	11276	S.C. Aiken	2	1302426.0	Burkett, Victoria	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1302426.0	INF	Sr	39	39
+2015	12120	2	11276	S.C. Aiken	12	1544518.0	Chubb, Samantha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544518.0	3B	Fr	39	39
+2015	12120	2	11276	S.C. Aiken	25	1426868.0	Daring, Andrea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426868.0	C	Jr	36	35
+2015	12120	2	11276	S.C. Aiken	3	1645269.0	David, Ericka	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645269.0	C	Fr	18	14
+2015	12120	2	11276	S.C. Aiken	6	1645270.0	Dorgan, Lyndie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645270.0	SP	Fr	23	10
+2015	12120	2	11276	S.C. Aiken	10	1548545.0	Jungblut, Brielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1548545.0	PR	Fr	0	0
+2015	12120	2	11276	S.C. Aiken	5	1645271.0	Kinard, Karly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645271.0	SP	Fr	14	6
+2015	12120	2	11276	S.C. Aiken	1	1544515.0	Labrador, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544515.0	2B	Fr	0	0
+2015	12120	2	11276	S.C. Aiken	11	1544516.0	Metts, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544516.0	SS	Fr	36	35
+2015	12120	2	11276	S.C. Aiken	13	1426867.0	Montei, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426867.0	OF	Jr	39	39
+2015	12120	2	11276	S.C. Aiken	8	1426865.0	Morgan, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1426865.0	SP/RP	Jr	26	20
+2015	12120	2	11276	S.C. Aiken	4	1645272.0	Murphy, Sydney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645272.0	C	Fr	39	39
+2015	12120	2	11276	S.C. Aiken	17	1645273.0	Payne, Danielle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645273.0	SP	So	23	21
+2015	12120	2	11276	S.C. Aiken	7	1645274.0	Reeves, Dani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645274.0	OF	Fr	23	8
+2015	12120	2	11276	S.C. Aiken	30		Terrapin, Chandler		SP	So	0	0
+2015	12120	2	11276	S.C. Aiken	15	1544517.0	Thrower, Magan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1544517.0	1B	Fr	38	37
+2015	12120	2	30050	Ill.-Springfield	2	1425409.0	Amos, Jordyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1425409.0	INF	Sr	53	52
+2015	12120	2	30050	Ill.-Springfield	17	1661003.0	Bowlby, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1661003.0	P	N/A	39	34
+2015	12120	2	30050	Ill.-Springfield	20	1416408.0	Bowman, Cheyanne	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1416408.0	SP/RP	Jr	0	0
+2015	12120	2	30050	Ill.-Springfield	34	1529151.0	Cecil, Amy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529151.0	OF	So	13	0
+2015	12120	2	30050	Ill.-Springfield	22	1529154.0	Coy, Brandi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529154.0	SP	Sr	0	0
+2015	12120	2	30050	Ill.-Springfield	7	1529145.0	Edgar, Brianna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529145.0	INF	So	28	14
+2015	12120	2	30050	Ill.-Springfield	10	1529146.0	Faulkner, Trisha	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529146.0	OF	So	44	0
+2015	12120	2	30050	Ill.-Springfield	32	1529150.0	Giordano, Madison	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529150.0	OF	So	12	2
+2015	12120	2	30050	Ill.-Springfield	16	1645575.0	Goff, Rachel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645575.0	INF	Fr	51	46
+2015	12120	2	30050	Ill.-Springfield	8	1529149.0	Gosbeth, Amanda	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529149.0	C	So	52	48
+2015	12120	2	30050	Ill.-Springfield	5	1326935.0	Hollinshead, Lauren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326935.0	INF	Sr	54	54
+2015	12120	2	30050	Ill.-Springfield	11	1645574.0	Hupe, Tess	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645574.0	OF	Fr	9	9
+2015	12120	2	30050	Ill.-Springfield	4	1645573.0	King, Ashli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645573.0	C	Jr	52	50
+2015	12120	2	30050	Ill.-Springfield	3	1645572.0	Larsen, Jordyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645572.0	OF	Fr	53	48
+2015	12120	2	30050	Ill.-Springfield	13	1529152.0	Manietta, Molly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529152.0	1B	Jr	47	46
+2015	12120	2	30050	Ill.-Springfield	15	1529147.0	McClaughry, Alexa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529147.0	INF	So	45	34
+2015	12120	2	30050	Ill.-Springfield	23	1645576.0	Miller, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1645576.0	C	Jr	54	54
+2015	12120	2	30050	Ill.-Springfield	12	1326937.0	Minor, Chelsea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1326937.0	C	Sr	31	25
+2015	12120	2	30050	Ill.-Springfield	21	1529153.0	Smith, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1529153.0	SP	Jr	34	24
+2015	12120	2	35	Ashland	4	1305129.0	Alley, Sarah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305129.0	SP/RP	Sr	37	20
+2015	12120	2	35	Ashland	18	1444210.0	Buckley, Bri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1444210.0	3B	Jr	47	47
+2015	12120	2	35	Ashland	7	1651873.0	Caraballo, Marissa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651873.0	INF	Fr	30	1
+2015	12120	2	35	Ashland	6	1651862.0	Cunningham, Sadie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651862.0	C	Fr	3	0
+2015	12120	2	35	Ashland	5	1541119.0	Farrah, Ally	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1541119.0	OF	So	49	49
+2015	12120	2	35	Ashland	17	1447325.0	Flanigan, Brittany	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1447325.0	SP/RP	Jr	20	10
+2015	12120	2	35	Ashland	15	1541123.0	Freshour, Kalene	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1541123.0	2B	So	49	49
+2015	12120	2	35	Ashland	13	1305133.0	Galloway, Mckenna	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305133.0	SP/RP	Sr	23	7
+2015	12120	2	35	Ashland	14	1541122.0	Garant, Erika	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1541122.0	OF	Jr	24	2
+2015	12120	2	35	Ashland	19	1651874.0	Kuhlman, Shaye	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651874.0	OF	Fr	2	0
+2015	12120	2	35	Ashland	22	1541124.0	Manahan, Audrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1541124.0	C	So	4	0
+2015	12120	2	35	Ashland	3	1305128.0	McDermott, Amber	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305128.0	SP/RP	Sr	24	15
+2015	12120	2	35	Ashland	21	1305134.0	Menhart, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305134.0	OF	Sr	49	49
+2015	12120	2	35	Ashland	44	1444216.0	Moore, Jen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1444216.0	1B	Jr	49	49
+2015	12120	2	35	Ashland	20	1444215.0	Prince, Shelbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1444215.0	SS	Jr	49	49
+2015	12120	2	35	Ashland	32	1448538.0	Prokopakis, Kayla	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1448538.0	3B	Jr	49	49
+2015	12120	2	35	Ashland	11	1541121.0	Raguz, Jenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1541121.0	OF	So	36	31
+2015	12120	2	35	Ashland	10	1305131.0	Weber, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1305131.0	SS	Sr	18	18
+2015	12120	2	35	Ashland	24	1651877.0	Young, Jerrica	http://stats.ncaa.org/player?game_sport_year_ctl_id=12120&stats_player_seq=1651877.0	C	Sr	45	45
