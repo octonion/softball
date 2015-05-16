@@ -1,0 +1,821 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+2015	12120	4	Adrian	-	Totals	-	-	-	-	 	700	262	50	0.951	 	8	53	9	7	 
+2015	12120	4	Adrian	-	Opponent Totals	-	-	-	-	 	712	290	49	0.953	 	14	28	3	9	 
+2015	12120	11324	Agnes Scott	-	Totals	-	-	-	-	 	737	280	59	0.945	 	6	38	14	12	 
+2015	12120	11324	Agnes Scott	-	Opponent Totals	-	-	-	-	 	756	325	58	0.949	 	5	45	9	7	 
+2015	12120	2798	Albertus Magnus	-	Totals	-	-	-	-	 	771	328	52	0.955	 	6	12	8	18	 
+2015	12120	2798	Albertus Magnus	-	Opponent Totals	-	-	-	-	 	745	346	70	0.940	 	5	49	10	6	 
+2015	12120	15	Albion	-	Totals	-	-	-	-	 	502	262	65	0.922	 	11	68	6	4	 
+2015	12120	15	Albion	-	Opponent Totals	-	-	-	-	 	541	211	27	0.965	 	6	2	4	4	 
+2015	12120	16	Albright	-	Totals	-	-	-	-	 	691	203	53	0.944	 	2	21	7	8	 
+2015	12120	16	Albright	-	Opponent Totals	-	-	-	-	 	685	316	43	0.959	 	6	11	7	5	 
+2015	12120	18	Alfred	-	Totals	-	-	-	-	 	816	318	41	0.965	 	7	11	7	10	 
+2015	12120	18	Alfred	-	Opponent Totals	-	-	-	-	 	771	309	65	0.943	 	13	61	6	3	 
+2015	12120	19	Allegheny	-	Totals	-	-	-	-	 	597	229	40	0.954	 	8	35	7	5	 
+2015	12120	19	Allegheny	-	Opponent Totals	-	-	-	-	 	603	301	49	0.949	 	4	21	2	12	 
+2015	12120	21	Alma	-	Totals	-	-	-	-	 	835	329	83	0.933	 	5	13	14	9	 
+2015	12120	21	Alma	-	Opponent Totals	-	-	-	-	 	824	364	63	0.950	 	10	65	8	10	 
+2015	12120	938	Alvernia	-	Totals	-	-	-	-	 	776	378	52	0.957	 	11	31	7	16	 
+2015	12120	938	Alvernia	-	Opponent Totals	-	-	-	-	 	793	308	50	0.957	 	17	4	4	10	 
+2015	12120	28746	Alverno	-	Totals	-	-	-	-	 	675	237	35	0.963	 	11	26	10	11	 
+2015	12120	28746	Alverno	-	Opponent Totals	-	-	-	-	 	686	279	79	0.924	 	13	27	4	11	 
+2015	12120	24	Amherst	-	Totals	-	-	-	-	 	565	234	48	0.943	 	11	34	9	6	 
+2015	12120	24	Amherst	-	Opponent Totals	-	-	-	-	 	561	222	45	0.946	 	9	40	7	8	 
+2015	12120	939	Anderson (IN)	-	Totals	-	-	-	-	 	822	323	37	0.969	 	10	39	10	10	 
+2015	12120	939	Anderson (IN)	-	Opponent Totals	-	-	-	-	 	788	342	66	0.945	1	7	67	14	10	 
+2015	12120	26	Anna Maria	-	Totals	-	-	-	-	 	508	242	57	0.929	1	12	70	3	4	 
+2015	12120	26	Anna Maria	-	Opponent Totals	-	-	-	-	 	543	233	34	0.958	 	10	21	3	5	 
+2015	12120	966	Arcadia	-	Totals	-	-	-	-	 	720	316	57	0.948	 	15	21	5	5	 
+2015	12120	966	Arcadia	-	Opponent Totals	-	-	-	-	 	713	293	75	0.931	 	12	48	6	5	 
+2015	12120	38	Augsburg	-	Totals	-	-	-	-	 	713	309	78	0.929	 	7	37	11	17	 
+2015	12120	38	Augsburg	-	Opponent Totals	-	-	-	-	 	760	342	49	0.957	1	4	52	12	12	 
+2015	12120	40	Augustana (IL)	-	Totals	-	-	-	-	 	848	328	60	0.951	 	5	27	3	13	 
+2015	12120	40	Augustana (IL)	-	Opponent Totals	-	-	-	-	 	826	380	78	0.939	 	15	31	9	8	 
+2015	12120	42	Aurora	-	Totals	-	-	-	-	 	857	359	45	0.964	 	7	32	9	18	 
+2015	12120	42	Aurora	-	Opponent Totals	-	-	-	-	 	812	340	75	0.939	 	10	40	4	12	 
+2015	12120	953	Austin	-	Totals	-	-	-	-	 	448	197	38	0.944	 	9	40	5	2	 
+2015	12120	953	Austin	-	Opponent Totals	-	-	-	-	 	459	169	33	0.950	 	13	14	5	7	 
+2015	12120	44	Averett	-	Totals	-	-	-	-	 	782	313	57	0.951	1	11	26	9	11	 
+2015	12120	44	Averett	-	Opponent Totals	-	-	-	-	 	731	295	68	0.938	 	6	112	8	6	 
+2015	12120	45	Babson	-	Totals	-	-	-	-	 	813	335	65	0.946	 	6	41	9	8	 
+2015	12120	45	Babson	-	Opponent Totals	-	-	-	-	 	800	284	70	0.939	 	12	29	15	15	 
+2015	12120	46	Baldwin Wallace	-	Totals	-	-	-	-	 	718	266	53	0.949	 	11	45	9	5	 
+2015	12120	46	Baldwin Wallace	-	Opponent Totals	-	-	-	-	 	725	315	46	0.958	 	9	33	6	14	 
+2015	12120	58	Baruch	-	Totals	-	-	-	-	 	370	130	75	0.870	 	22	64	6	3	 
+2015	12120	58	Baruch	-	Opponent Totals	-	-	-	-	 	395	147	33	0.943	 	5	27	3	4	 
+2015	12120	50	Bates	-	Totals	-	-	-	-	 	638	249	41	0.956	 	15	36	8	9	 
+2015	12120	50	Bates	-	Opponent Totals	-	-	-	-	 	639	251	61	0.936	 	10	37	8	2	 
+2015	12120	26520	Bay Path	-	Totals	-	-	-	-	 	522	253	62	0.926	 	17	34	6	10	 
+2015	12120	26520	Bay Path	-	Opponent Totals	-	-	-	-	 	546	185	53	0.932	 	16	42	7	7	 
+2015	12120	26107	Becker	-	Totals	-	-	-	-	 	676	240	52	0.946	 	5	29	3	7	 
+2015	12120	26107	Becker	-	Opponent Totals	-	-	-	-	 	671	288	63	0.938	 	11	38	13	6	 
+2015	12120	53	Beloit	-	Totals	-	-	-	-	 	684	314	71	0.934	 	12	42	14	8	 
+2015	12120	53	Beloit	-	Opponent Totals	-	-	-	-	 	690	268	34	0.966	 	11	24	10	9	 
+2015	12120	296	Benedictine (IL)	-	Totals	-	-	-	-	 	825	371	58	0.954	 	1	20	6	13	 
+2015	12120	296	Benedictine (IL)	-	Opponent Totals	-	-	-	-	 	795	374	81	0.935	 	7	104	22	14	 
+2015	12120	973	Berry	-	Totals	-	-	-	-	 	812	276	25	0.978	 	6	27	5	13	 
+2015	12120	973	Berry	-	Opponent Totals	-	-	-	-	 	783	293	77	0.933	 	14	62	9	13	 
+2015	12120	59	Bethany (WV)	-	Totals	-	-	-	-	 	901	326	60	0.953	 	14	26	13	8	 
+2015	12120	59	Bethany (WV)	-	Opponent Totals	-	-	-	-	 	865	356	82	0.937	 	8	25	11	22	 
+2015	12120	30038	Bethany Lutheran	-	Totals	-	-	-	-	 	686	217	78	0.920	 	24	71	6	3	 
+2015	12120	30038	Bethany Lutheran	-	Opponent Totals	-	-	-	-	 	691	323	63	0.942	 	9	32	6	13	 
+2015	12120	60	Bethel (MN)	-	Totals	-	-	-	-	 	863	412	65	0.951	 	15	32	14	5	 
+2015	12120	60	Bethel (MN)	-	Opponent Totals	-	-	-	-	 	836	351	87	0.932	 	14	50	10	12	 
+2015	12120	28593	Birmingham-So.	-	Totals	-	-	-	-	 	741	310	37	0.966	 	4	21	8	6	 
+2015	12120	28593	Birmingham-So.	-	Opponent Totals	-	-	-	-	 	704	287	58	0.945	 	15	57	9	7	 
+2015	12120	64	Blackburn	-	Totals	-	-	-	-	 	599	301	85	0.914	1	11	46	6	11	 
+2015	12120	64	Blackburn	-	Opponent Totals	-	-	-	-	 	642	256	38	0.959	 	12	23	10	6	 
+2015	12120	987	Bluffton	-	Totals	-	-	-	-	 	793	423	52	0.959	1	6	41	9	25	 
+2015	12120	987	Bluffton	-	Opponent Totals	-	-	-	-	 	781	326	65	0.945	 	9	53	12	13	 
+2015	12120	69	Bowdoin	-	Totals	-	-	-	-	 	841	428	46	0.965	 	10	27	8	8	 
+2015	12120	69	Bowdoin	-	Opponent Totals	-	-	-	-	 	818	327	74	0.939	 	15	38	7	15	 
+2015	12120	73	Brandeis	-	Totals	-	-	-	-	 	669	294	33	0.967	 	5	29	8	10	 
+2015	12120	73	Brandeis	-	Opponent Totals	-	-	-	-	 	657	273	57	0.942	 	6	46	8	9	 
+2015	12120	75	Bridgewater (VA)	-	Totals	-	-	-	-	 	680	369	50	0.955	1	10	64	4	5	 
+2015	12120	75	Bridgewater (VA)	-	Opponent Totals	-	-	-	-	 	695	263	62	0.939	1	3	29	4	5	 
+2015	12120	76	Bridgewater St.	-	Totals	-	-	-	-	 	694	297	39	0.962	 	7	28	7	15	 
+2015	12120	76	Bridgewater St.	-	Opponent Totals	-	-	-	-	 	692	281	63	0.939	 	8	30	8	4	 
+2015	12120	78	Brockport	-	Totals	-	-	-	-	 	752	255	66	0.938	 	17	24	7	7	 
+2015	12120	78	Brockport	-	Opponent Totals	-	-	-	-	 	736	351	51	0.955	 	21	46	7	11	 
+2015	12120	79	Brooklyn	-	Totals	-	-	-	-	 	763	284	70	0.937	 	9	54	12	7	 
+2015	12120	79	Brooklyn	-	Opponent Totals	-	-	-	-	 	773	319	111	0.908	 	9	52	10	13	 
+2015	12120	84	Buena Vista	-	Totals	-	-	-	-	 	785	346	65	0.946	 	12	30	9	15	 
+2015	12120	84	Buena Vista	-	Opponent Totals	-	-	-	-	 	788	336	54	0.954	1	11	65	16	16	 
+2015	12120	85	Buffalo St.	-	Totals	-	-	-	-	 	683	337	63	0.942	 	9	26	7	9	 
+2015	12120	85	Buffalo St.	-	Opponent Totals	-	-	-	-	 	683	302	60	0.943	 	7	36	8	5	 
+2015	12120	88	Cabrini	-	Totals	-	-	-	-	 	726	349	41	0.963	 	6	41	9	14	 
+2015	12120	88	Cabrini	-	Opponent Totals	-	-	-	-	 	700	243	64	0.936	 	11	27	7	3	 
+2015	12120	1305	Cairn	-	Totals	-	-	-	-	 	616	279	101	0.899	 	30	40	10	6	 
+2015	12120	1305	Cairn	-	Opponent Totals	-	-	-	-	 	649	260	60	0.938	 	5	15	7	7	 
+2015	12120	105	Cal Lutheran	-	Totals	-	-	-	-	 	816	355	62	0.950	2	8	56	2	15	 
+2015	12120	105	Cal Lutheran	-	Opponent Totals	-	-	-	-	 	801	351	82	0.934	 	5	13	6	8	 
+2015	12120	114	Calvin	-	Totals	-	-	-	-	 	587	269	70	0.924	 	5	31	11	8	 
+2015	12120	114	Calvin	-	Opponent Totals	-	-	-	-	 	586	226	56	0.935	 	7	24	8	2	 
+2015	12120	117	Capital	-	Totals	-	-	-	-	 	824	368	53	0.957	1	5	39	4	11	 
+2015	12120	117	Capital	-	Opponent Totals	-	-	-	-	 	807	343	90	0.927	 	16	48	7	16	 
+2015	12120	118	Carleton	-	Totals	-	-	-	-	 	730	277	57	0.946	 	11	67	8	6	 
+2015	12120	118	Carleton	-	Opponent Totals	-	-	-	-	 	748	356	54	0.953	 	6	46	13	8	 
+2015	12120	120	Carroll (WI)	-	Totals	-	-	-	-	 	761	415	59	0.952	 	10	48	3	14	 
+2015	12120	120	Carroll (WI)	-	Opponent Totals	-	-	-	-	 	750	320	53	0.953	 	17	5	4	9	 
+2015	12120	121	Carthage	-	Totals	-	-	-	-	 	651	283	62	0.938	 	14	37	7	7	 
+2015	12120	121	Carthage	-	Opponent Totals	-	-	-	-	 	671	301	51	0.950	1	7	20	4	13	 
+2015	12120	122	Case	-	Totals	-	-	-	-	 	825	314	43	0.964	 	9	35	11	11	 
+2015	12120	122	Case	-	Opponent Totals	-	-	-	-	 	792	337	61	0.949	 	10	50	11	13	 
+2015	12120	123	Castleton	-	Totals	-	-	-	-	 	592	242	41	0.953	 	10	33	1	8	 
+2015	12120	123	Castleton	-	Opponent Totals	-	-	-	-	 	590	276	46	0.950	 	4	18	4	10	 
+2015	12120	124	Catholic	-	Totals	-	-	-	-	 	670	323	37	0.964	2	11	22	5	6	 
+2015	12120	124	Catholic	-	Opponent Totals	-	-	-	-	 	657	290	45	0.955	 	2	70	11	11	 
+2015	12120	23624	Cazenovia	-	Totals	-	-	-	-	 	481	216	48	0.936	 	13	56	4	8	 
+2015	12120	23624	Cazenovia	-	Opponent Totals	-	-	-	-	 	509	196	43	0.943	1	9	22	4	2	 
+2015	12120	14795	Cedar Crest	-	Totals	-	-	-	-	 	569	226	64	0.925	 	15	27	13	5	 
+2015	12120	14795	Cedar Crest	-	Opponent Totals	-	-	-	-	 	572	266	54	0.939	 	18	32	9	5	 
+2015	12120	125	Centenary (LA)	-	Totals	-	-	-	-	 	586	234	77	0.914	 	15	51	6	13	 
+2015	12120	125	Centenary (LA)	-	Opponent Totals	-	-	-	-	 	605	267	55	0.941	 	20	58	9	3	 
+2015	12120	12884	Centenary (NJ)	-	Totals	-	-	-	-	 	724	341	50	0.955	1	11	45	8	14	 
+2015	12120	12884	Centenary (NJ)	-	Opponent Totals	-	-	-	-	 	726	287	56	0.948	 	21	40	3	10	 
+2015	12120	126	Central (IA)	-	Totals	-	-	-	-	 	869	372	68	0.948	 	10	20	10	12	 
+2015	12120	126	Central (IA)	-	Opponent Totals	-	-	-	-	 	833	369	100	0.923	 	11	102	41	10	 
+2015	12120	132	Centre	-	Totals	-	-	-	-	 	587	229	44	0.949	 	9	45	5	2	 
+2015	12120	132	Centre	-	Opponent Totals	-	-	-	-	 	595	240	49	0.945	 	13	25	2	8	 
+2015	12120	134	Chapman	-	Totals	-	-	-	-	 	673	213	41	0.956	 	2	30	2	6	 
+2015	12120	134	Chapman	-	Opponent Totals	-	-	-	-	 	667	339	49	0.954	 	5	17	6	15	 
+2015	12120	10972	Chatham	-	Totals	-	-	-	-	 	430	204	101	0.863	 	7	21	10	1	 
+2015	12120	10972	Chatham	-	Opponent Totals	-	-	-	-	 	462	221	32	0.955	 	1	11	6	1	 
+2015	12120	137	Chicago	-	Totals	-	-	-	-	 	676	270	37	0.962	 	4	43	4	2	 
+2015	12120	137	Chicago	-	Opponent Totals	-	-	-	-	 	690	322	49	0.954	 	5	52	15	8	 
+2015	12120	139	Chris. Newport	-	Totals	-	-	-	-	 	705	249	35	0.965	 	5	23	4	9	 
+2015	12120	139	Chris. Newport	-	Opponent Totals	-	-	-	-	 	680	256	70	0.930	 	11	41	7	7	 
+2015	12120	142	Claremont-M-S	-	Totals	-	-	-	-	 	793	390	31	0.974	 	3	39	5	6	 
+2015	12120	142	Claremont-M-S	-	Opponent Totals	-	-	-	-	 	766	349	63	0.947	1	5	57	8	11	 
+2015	12120	145	Clark (MA)	-	Totals	-	-	-	-	 	503	209	84	0.894	1	21	39	10	9	 
+2015	12120	145	Clark (MA)	-	Opponent Totals	-	-	-	-	 	524	183	26	0.965	 	1	4	3	5	 
+2015	12120	146	Clarkson	-	Totals	-	-	-	-	 	600	150	31	0.960	 	8	27	9	5	 
+2015	12120	146	Clarkson	-	Opponent Totals	-	-	-	-	 	582	245	59	0.933	 	14	50	12	1	 
+2015	12120	722	Coast Guard	-	Totals	-	-	-	-	 	608	337	62	0.938	1	6	33	8	9	 
+2015	12120	722	Coast Guard	-	Opponent Totals	-	-	-	-	 	615	268	42	0.955	 	7	19	4	11	 
+2015	12120	30083	Cobleskill St.	-	Totals	-	-	-	-	 	533	233	56	0.932	 	9	16	12	4	 
+2015	12120	30083	Cobleskill St.	-	Opponent Totals	-	-	-	-	 	519	192	64	0.917	 	7	45	7	4	 
+2015	12120	150	Coe	-	Totals	-	-	-	-	 	792	305	61	0.947	2	2	17	12	12	 
+2015	12120	150	Coe	-	Opponent Totals	-	-	-	-	 	780	368	64	0.947	 	17	68	6	15	 
+2015	12120	151	Colby	-	Totals	-	-	-	-	 	573	249	38	0.956	 	6	21	5	6	 
+2015	12120	151	Colby	-	Opponent Totals	-	-	-	-	 	579	247	43	0.951	 	13	26	7	5	 
+2015	12120	24400	Concordia (TX)	-	Totals	-	-	-	-	 	646	272	84	0.916	1	7	55	8	8	 
+2015	12120	24400	Concordia (TX)	-	Opponent Totals	-	-	-	-	 	682	304	39	0.962	 	2	7	4	12	 
+2015	12120	160	Concordia Chicago	-	Totals	-	-	-	-	 	793	365	66	0.946	 	5	45	11	7	 
+2015	12120	160	Concordia Chicago	-	Opponent Totals	-	-	-	-	 	805	398	84	0.935	1	10	52	10	11	 
+2015	12120	1036	Concordia Wisconsin	-	Totals	-	-	-	-	 	856	414	81	0.940	 	9	16	7	22	 
+2015	12120	1036	Concordia Wisconsin	-	Opponent Totals	-	-	-	-	 	841	398	65	0.950	 	11	56	17	17	 
+2015	12120	161	Concordia-M'head	-	Totals	-	-	-	-	 	705	262	51	0.950	 	1	45	7	8	 
+2015	12120	161	Concordia-M'head	-	Opponent Totals	-	-	-	-	 	738	291	56	0.948	1	9	29	5	9	 
+2015	12120	166	Cornell College	-	Totals	-	-	-	-	 	733	348	39	0.965	 	13	8	6	17	 
+2015	12120	166	Cornell College	-	Opponent Totals	-	-	-	-	 	701	298	66	35.581	1	13	75	13	10	 
+2015	12120	30111	Covenant	-	Totals	-	-	-	-	 	590	252	58	0.936	1	3	34	14	13	 
+2015	12120	30111	Covenant	-	Opponent Totals	-	-	-	-	 	601	199	35	0.958	 	8	11	7	6	 
+2015	12120	30035	Crown (MN)	-	Totals	-	-	-	-	 	728	349	87	0.925	 	17	78	10	9	 
+2015	12120	30035	Crown (MN)	-	Opponent Totals	-	-	-	-	 	745	331	82	0.929	 	11	34	7	12	 
+2015	12120	170	Curry	-	Totals	-	-	-	-	 	582	222	52	0.939	 	9	29	5	8	 
+2015	12120	170	Curry	-	Opponent Totals	-	-	-	-	 	601	280	48	0.948	1	8	16	3	11	 
+2015	12120	1059	D'Youville	-	Totals	-	-	-	-	 	707	312	45	0.958	 	7	17	4	7	 
+2015	12120	1059	D'Youville	-	Opponent Totals	-	-	-	-	 	677	202	48	0.948	 	14	28	2	4	 
+2015	12120	1044	Dallas	-	Totals	-	-	-	-	 	711	306	77	0.930	 	6	41	8	11	 
+2015	12120	1044	Dallas	-	Opponent Totals	-	-	-	-	 	697	290	48	0.954	 	3	96	11	7	 
+2015	12120	2691	Daniel Webster	-	Totals	-	-	-	-	 	437	174	79	0.886	 	34	47	1	2	 
+2015	12120	2691	Daniel Webster	-	Opponent Totals	-	-	-	-	 	455	155	44	0.933	 	11	12	2	4	 
+2015	12120	177	DePauw	-	Totals	-	-	-	-	 	904	329	60	0.954	 	16	47	15	13	 
+2015	12120	177	DePauw	-	Opponent Totals	-	-	-	-	 	876	430	86	0.938	 	9	127	24	14	 
+2015	12120	20	DeSales	-	Totals	-	-	-	-	 	651	299	37	0.963	 	8	35	 	14	 
+2015	12120	20	DeSales	-	Opponent Totals	-	-	-	-	 	638	282	41	0.957	 	2	27	7	12	 
+2015	12120	1050	Defiance	-	Totals	-	-	-	-	 	671	329	69	0.935	 	11	25	19	8	 
+2015	12120	1050	Defiance	-	Opponent Totals	-	-	-	-	 	695	295	41	0.960	 	3	19	3	12	 
+2015	12120	179	Delaware Valley	-	Totals	-	-	-	-	 	448	210	45	0.936	1	6	49	2	5	 
+2015	12120	179	Delaware Valley	-	Opponent Totals	-	-	-	-	 	483	201	41	0.943	 	4	9	2	4	 
+2015	12120	182	Denison	-	Totals	-	-	-	-	 	759	290	66	0.941	 	10	49	11	16	 
+2015	12120	182	Denison	-	Opponent Totals	-	-	-	-	 	755	319	53	0.953	 	17	19	1	6	 
+2015	12120	185	Dickinson	-	Totals	-	-	-	-	 	671	299	46	0.955	 	16	32	9	8	 
+2015	12120	185	Dickinson	-	Opponent Totals	-	-	-	-	 	680	310	55	0.947	1	13	26	8	6	 
+2015	12120	1332	Dominican (IL)	-	Totals	-	-	-	-	 	792	336	71	0.941	 	10	37	11	24	 
+2015	12120	1332	Dominican (IL)	-	Opponent Totals	-	-	-	-	 	779	326	79	0.933	 	9	86	11	12	 
+2015	12120	190	Drew	-	Totals	-	-	-	-	 	737	375	47	0.959	 	13	47	7	10	 
+2015	12120	190	Drew	-	Opponent Totals	-	-	-	-	 	762	359	59	0.950	 	9	18	2	11	 
+2015	12120	192	Dubuque	-	Totals	-	-	-	-	 	796	336	63	0.947	2	18	43	10	16	 
+2015	12120	192	Dubuque	-	Opponent Totals	-	-	-	-	 	816	327	52	0.956	 	7	19	4	7	 
+2015	12120	1062	East Tex. Baptist	-	Totals	-	-	-	-	 	796	264	25	0.977	 	 	8	1	11	 
+2015	12120	1062	East Tex. Baptist	-	Opponent Totals	-	-	-	-	 	759	378	70	0.942	 	4	86	13	12	 
+2015	12120	203	East. Mennonite	-	Totals	-	-	-	-	 	591	244	27	0.969	 	7	26	7	7	 
+2015	12120	203	East. Mennonite	-	Opponent Totals	-	-	-	-	 	598	242	65	0.928	 	8	8	4	10	 
+2015	12120	8968	Eastern	-	Totals	-	-	-	-	 	700	276	54	0.948	 	6	36	4	6	 
+2015	12120	8968	Eastern	-	Opponent Totals	-	-	-	-	 	695	306	57	0.946	 	7	33	5	11	 
+2015	12120	200	Eastern Conn. St.	-	Totals	-	-	-	-	 	731	385	66	0.944	 	9	24	7	10	 
+2015	12120	200	Eastern Conn. St.	-	Opponent Totals	-	-	-	-	 	700	285	68	0.935	 	9	65	6	9	 
+2015	12120	1064	Eastern Nazarene	-	Totals	-	-	-	-	 	117	56	16	0.915	 	5	25	2	1	 
+2015	12120	1064	Eastern Nazarene	-	Opponent Totals	-	-	-	-	 	120	50	6	0.966	 	1	2	3	 	 
+2015	12120	1066	Edgewood	-	Totals	-	-	-	-	 	833	448	70	0.948	 	6	63	7	10	 
+2015	12120	1066	Edgewood	-	Opponent Totals	-	-	-	-	 	832	394	81	0.938	 	6	44	16	18	 
+2015	12120	211	Elizabethtown	-	Totals	-	-	-	-	 	777	342	54	0.954	 	17	43	11	5	 
+2015	12120	211	Elizabethtown	-	Opponent Totals	-	-	-	-	 	789	365	61	0.950	1	10	21	3	13	1
+2015	12120	212	Elmhurst	-	Totals	-	-	-	-	 	739	336	33	0.970	 	3	19	10	18	 
+2015	12120	212	Elmhurst	-	Opponent Totals	-	-	-	-	 	734	324	62	0.945	 	6	45	11	8	 
+2015	12120	213	Elmira	-	Totals	-	-	-	-	 	413	196	45	0.931	 	4	22	5	5	 
+2015	12120	213	Elmira	-	Opponent Totals	-	-	-	-	 	418	154	40	0.935	 	4	34	2	6	 
+2015	12120	532	Elms	-	Totals	-	-	-	-	 	657	244	46	0.951	 	14	32	11	3	 
+2015	12120	532	Elms	-	Opponent Totals	-	-	-	-	 	657	257	53	0.945	 	7	29	8	5	 
+2015	12120	214	Emerson	-	Totals	-	-	-	-	 	547	212	44	0.945	 	7	26	9	6	 
+2015	12120	214	Emerson	-	Opponent Totals	-	-	-	-	 	561	260	59	0.933	2	15	33	6	9	 
+2015	12120	215	Emmanuel (MA)	-	Totals	-	-	-	-	 	723	222	43	0.956	 	11	40	4	7	 
+2015	12120	215	Emmanuel (MA)	-	Opponent Totals	-	-	-	-	 	710	349	47	0.958	 	3	37	13	13	 
+2015	12120	217	Emory	-	Totals	-	-	-	-	 	810	209	42	0.960	1	2	23	9	6	 
+2015	12120	217	Emory	-	Opponent Totals	-	-	-	-	 	750	296	45	0.959	1	4	25	7	14	 
+2015	12120	216	Emory & Henry	-	Totals	-	-	-	-	 	762	321	49	0.957	 	3	28	8	18	 
+2015	12120	216	Emory & Henry	-	Opponent Totals	-	-	-	-	 	749	278	51	0.953	 	14	49	5	12	 
+2015	12120	8981	Endicott	-	Totals	-	-	-	-	 	735	354	50	0.956	1	10	25	7	9	 
+2015	12120	8981	Endicott	-	Opponent Totals	-	-	-	-	 	726	265	57	0.946	1	16	50	7	8	 
+2015	12120	218	Eureka	-	Totals	-	-	-	-	 	672	303	68	0.935	 	14	79	3	8	 
+2015	12120	218	Eureka	-	Opponent Totals	-	-	-	-	 	657	282	59	0.941	1	12	13	2	7	 
+2015	12120	221	FDU-Florham	-	Totals	-	-	-	-	 	649	274	58	0.941	 	12	38	5	15	 
+2015	12120	221	FDU-Florham	-	Opponent Totals	-	-	-	-	 	669	242	37	0.961	 	10	53	4	10	 
+2015	12120	27892	Farmingdale St.	-	Totals	-	-	-	-	 	709	247	62	0.939	 	13	32	7	6	 
+2015	12120	27892	Farmingdale St.	-	Opponent Totals	-	-	-	-	 	700	317	55	0.949	 	9	22	3	6	 
+2015	12120	225	Ferrum	-	Totals	-	-	-	-	 	788	334	56	0.952	1	11	40	14	12	 
+2015	12120	225	Ferrum	-	Opponent Totals	-	-	-	-	 	782	323	66	0.944	 	16	19	5	16	 
+2015	12120	30032	Finlandia	-	Totals	-	-	-	-	 	686	291	84	0.921	 	41	68	12	7	 
+2015	12120	30032	Finlandia	-	Opponent Totals	-	-	-	-	 	750	269	61	0.944	 	18	13	2	9	 
+2015	12120	227	Fitchburg St.	-	Totals	-	-	-	-	 	543	175	31	0.959	 	19	21	6	6	 
+2015	12120	227	Fitchburg St.	-	Opponent Totals	-	-	-	-	 	547	265	42	0.951	 	6	20	9	7	 
+2015	12120	11538	Fontbonne	-	Totals	-	-	-	-	 	773	285	30	0.972	 	 	26	12	21	 
+2015	12120	11538	Fontbonne	-	Opponent Totals	-	-	-	-	 	747	275	64	0.941	 	11	82	27	5	 
+2015	12120	238	Framingham St.	-	Totals	-	-	-	-	 	608	296	59	0.939	 	14	55	6	5	 
+2015	12120	238	Framingham St.	-	Opponent Totals	-	-	-	-	 	614	248	34	0.962	 	7	25	6	11	 
+2015	12120	30069	Franciscan	-	Totals	-	-	-	-	 	310	140	67	0.870	 	19	37	8	4	 
+2015	12120	30069	Franciscan	-	Opponent Totals	-	-	-	-	 	339	161	38	0.929	 	6	22	8	2	 
+2015	12120	239	Frank. & Marsh.	-	Totals	-	-	-	-	 	672	282	39	0.961	2	9	26	1	8	1
+2015	12120	239	Frank. & Marsh.	-	Opponent Totals	-	-	-	-	 	655	254	55	0.943	 	18	43	5	9	 
+2015	12120	2694	Franklin	-	Totals	-	-	-	-	 	617	221	32	0.963	 	6	25	8	12	 
+2015	12120	2694	Franklin	-	Opponent Totals	-	-	-	-	 	606	269	38	0.958	1	7	26	9	12	 
+2015	12120	242	Fredonia	-	Totals	-	-	-	-	 	594	228	64	0.928	 	6	32	8	5	 
+2015	12120	242	Fredonia	-	Opponent Totals	-	-	-	-	 	604	269	49	0.947	 	7	26	9	2	 
+2015	12120	243	Frostburg St.	-	Totals	-	-	-	-	 	674	237	37	0.961	 	10	26	4	7	 
+2015	12120	243	Frostburg St.	-	Opponent Totals	-	-	-	-	 	656	233	61	0.936	 	13	14	4	8	 
+2015	12120	245	Gallaudet	-	Totals	-	-	-	-	 	619	256	108	0.890	 	20	87	1	4	1
+2015	12120	245	Gallaudet	-	Opponent Totals	-	-	-	-	 	652	324	52	0.949	1	10	36	10	9	 
+2015	12120	30084	Geneva	-	Totals	-	-	-	-	 	633	268	53	0.944	 	5	26	6	3	 
+2015	12120	30084	Geneva	-	Opponent Totals	-	-	-	-	 	632	281	49	0.949	 	14	33	10	4	 
+2015	12120	1094	George Fox	-	Totals	-	-	-	-	 	878	313	60	0.952	1	7	24	16	6	 
+2015	12120	1094	George Fox	-	Opponent Totals	-	-	-	-	 	866	300	63	0.949	 	14	30	10	7	 
+2015	12120	258	Gettysburg	-	Totals	-	-	-	-	 	843	399	52	0.960	 	20	25	8	25	 
+2015	12120	258	Gettysburg	-	Opponent Totals	-	-	-	-	 	831	340	65	0.947	 	27	104	8	6	 
+2015	12120	1099	Gordon	-	Totals	-	-	-	-	 	538	286	82	0.909	 	26	85	6	9	 
+2015	12120	1099	Gordon	-	Opponent Totals	-	-	-	-	 	559	222	53	0.936	 	9	17	6	7	 
+2015	12120	263	Greensboro	-	Totals	-	-	-	-	 	841	343	49	0.960	 	18	37	7	7	 
+2015	12120	263	Greensboro	-	Opponent Totals	-	-	-	-	 	844	401	69	0.947	 	16	45	7	14	 
+2015	12120	1111	Greenville	-	Totals	-	-	-	-	 	810	343	78	0.937	 	9	45	3	13	 
+2015	12120	1111	Greenville	-	Opponent Totals	-	-	-	-	 	807	298	69	0.941	1	15	71	17	12	 
+2015	12120	264	Grinnell	-	Totals	-	-	-	-	 	624	284	66	0.932	 	15	54	7	7	 
+2015	12120	264	Grinnell	-	Opponent Totals	-	-	-	-	 	661	277	58	0.942	 	15	21	6	11	 
+2015	12120	265	Grove City	-	Totals	-	-	-	-	 	583	291	45	0.951	 	2	14	7	16	 
+2015	12120	265	Grove City	-	Opponent Totals	-	-	-	-	 	583	222	72	26.601	 	9	9	5	7	 
+2015	12120	1112	Guilford	-	Totals	-	-	-	-	 	806	310	51	0.956	 	7	32	8	6	 
+2015	12120	1112	Guilford	-	Opponent Totals	-	-	-	-	 	794	366	68	0.945	 	16	67	6	11	 
+2015	12120	266	Gust. Adolphus	-	Totals	-	-	-	-	 	1,007	385	63	0.957	 	13	26	15	8	 
+2015	12120	266	Gust. Adolphus	-	Opponent Totals	-	-	-	-	 	1,001	505	75	0.953	 	11	39	18	13	 
+2015	12120	12399	Gwynedd Mercy	-	Totals	-	-	-	-	 	645	300	51	0.949	 	9	31	9	11	 
+2015	12120	12399	Gwynedd Mercy	-	Opponent Totals	-	-	-	-	 	643	265	64	32.665	 	15	56	17	7	 
+2015	12120	267	Hamilton	-	Totals	-	-	-	-	 	646	287	44	0.955	 	8	36	8	9	 
+2015	12120	267	Hamilton	-	Opponent Totals	-	-	-	-	 	652	241	57	0.940	1	9	31	8	3	 
+2015	12120	268	Hamline	-	Totals	-	-	-	-	 	806	368	46	0.962	 	11	29	20	21	 
+2015	12120	268	Hamline	-	Opponent Totals	-	-	-	-	 	794	375	60	0.951	 	9	38	15	12	 
+2015	12120	1115	Hanover	-	Totals	-	-	-	-	 	702	269	50	0.951	 	11	40	11	8	 
+2015	12120	1115	Hanover	-	Opponent Totals	-	-	-	-	 	690	295	56	0.946	 	10	57	6	14	 
+2015	12120	271	Hardin-Simmons	-	Totals	-	-	-	-	 	727	365	51	0.955	 	6	43	12	16	 
+2015	12120	271	Hardin-Simmons	-	Opponent Totals	-	-	-	-	 	726	352	58	0.949	 	7	56	12	13	 
+2015	12120	276	Haverford	-	Totals	-	-	-	-	 	712	330	50	0.954	 	10	33	6	9	 
+2015	12120	276	Haverford	-	Opponent Totals	-	-	-	-	 	690	322	55	0.948	 	16	31	6	17	 
+2015	12120	278	Heidelberg	-	Totals	-	-	-	-	 	799	341	45	0.962	 	 	15	6	14	 
+2015	12120	278	Heidelberg	-	Opponent Totals	-	-	-	-	 	764	322	65	0.944	 	5	13	1	15	 
+2015	12120	1124	Hendrix	-	Totals	-	-	-	-	 	748	391	61	0.949	 	16	62	9	23	 
+2015	12120	1124	Hendrix	-	Opponent Totals	-	-	-	-	 	756	343	54	0.953	 	6	67	5	16	 
+2015	12120	8398	Hilbert	-	Totals	-	-	-	-	 	476	231	91	0.886	 	20	80	7	8	 
+2015	12120	8398	Hilbert	-	Opponent Totals	-	-	-	-	 	510	198	33	28.694	 	7	14	4	4	 
+2015	12120	281	Hiram	-	Totals	-	-	-	-	 	619	281	64	0.934	 	12	39	8	9	 
+2015	12120	281	Hiram	-	Opponent Totals	-	-	-	-	 	643	275	54	0.944	 	8	3	1	11	 
+2015	12120	8404	Hood	-	Totals	-	-	-	-	 	617	258	58	0.938	1	12	30	14	6	 
+2015	12120	8404	Hood	-	Opponent Totals	-	-	-	-	 	642	245	40	0.957	 	10	8	1	16	 
+2015	12120	286	Hope	-	Totals	-	-	-	-	 	778	246	34	0.968	1	14	21	6	4	 
+2015	12120	286	Hope	-	Opponent Totals	-	-	-	-	 	753	313	61	0.946	 	11	58	5	5	 
+2015	12120	30160	Houghton	-	Totals	-	-	-	-	 	649	333	62	0.941	 	38	83	8	6	 
+2015	12120	30160	Houghton	-	Opponent Totals	-	-	-	-	 	682	262	34	0.965	 	9	41	11	5	 
+2015	12120	2741	Howard Payne	-	Totals	-	-	-	-	 	719	398	83	0.931	 	8	41	10	11	 
+2015	12120	2741	Howard Payne	-	Opponent Totals	-	-	-	-	 	739	294	45	0.958	 	9	17	6	9	 
+2015	12120	292	Hunter	-	Totals	-	-	-	-	 	634	230	32	0.964	 	8	30	6	3	 
+2015	12120	292	Hunter	-	Opponent Totals	-	-	-	-	 	620	251	62	0.934	 	17	42	8	7	 
+2015	12120	1130	Huntingdon	-	Totals	-	-	-	-	 	750	302	47	0.957	 	14	21	10	13	 
+2015	12120	1130	Huntingdon	-	Opponent Totals	-	-	-	-	 	743	335	50	0.956	 	10	71	22	11	 
+2015	12120	1133	Husson	-	Totals	-	-	-	-	 	795	336	55	0.954	 	4	20	6	13	 
+2015	12120	1133	Husson	-	Opponent Totals	-	-	-	-	 	777	374	59	0.951	 	6	30	15	14	 
+2015	12120	300	Ill. Wesleyan	-	Totals	-	-	-	-	 	923	275	49	0.961	 	9	26	14	9	 
+2015	12120	300	Ill. Wesleyan	-	Opponent Totals	-	-	-	-	 	894	428	85	0.940	 	4	62	6	13	 
+2015	12120	297	Illinois Col.	-	Totals	-	-	-	-	 	645	283	48	0.951	 	4	38	10	8	 
+2015	12120	297	Illinois Col.	-	Opponent Totals	-	-	-	-	 	636	239	55	0.941	1	7	28	3	6	 
+2015	12120	303	Immaculata	-	Totals	-	-	-	-	 	680	325	65	0.939	 	5	26	11	10	 
+2015	12120	303	Immaculata	-	Opponent Totals	-	-	-	-	 	695	272	58	0.943	 	13	22	2	7	 
+2015	12120	313	Ithaca	-	Totals	-	-	-	-	 	717	362	37	0.967	 	8	16	7	8	 
+2015	12120	313	Ithaca	-	Opponent Totals	-	-	-	-	 	731	326	37	0.966	 	11	38	4	7	 
+2015	12120	320	John Carroll	-	Totals	-	-	-	-	 	753	312	69	0.939	 	8	46	3	12	 
+2015	12120	320	John Carroll	-	Opponent Totals	-	-	-	-	 	752	303	60	0.946	 	8	57	9	14	 
+2015	12120	321	John Jay	-	Totals	-	-	-	-	 	578	267	83	0.911	 	8	64	7	13	 
+2015	12120	321	John Jay	-	Opponent Totals	-	-	-	-	 	579	203	64	0.924	 	15	64	8	6	 
+2015	12120	22626	Johnson & Wales (RI)	-	Totals	-	-	-	-	 	736	333	46	0.959	 	7	24	5	6	 
+2015	12120	22626	Johnson & Wales (RI)	-	Opponent Totals	-	-	-	-	 	728	321	59	0.947	 	12	27	8	14	 
+2015	12120	324	Johnson St.	-	Totals	-	-	-	-	 	456	197	43	0.938	 	3	19	2	1	 
+2015	12120	324	Johnson St.	-	Opponent Totals	-	-	-	-	 	469	183	20	0.970	 	7	21	3	2	 
+2015	12120	325	Juniata	-	Totals	-	-	-	-	 	670	321	81	0.924	 	18	37	7	7	 
+2015	12120	325	Juniata	-	Opponent Totals	-	-	-	-	 	704	291	62	0.941	2	13	47	17	4	 
+2015	12120	326	Kalamazoo	-	Totals	-	-	-	-	 	604	268	46	0.950	 	13	48	9	6	 
+2015	12120	326	Kalamazoo	-	Opponent Totals	-	-	-	-	 	615	280	63	0.934	 	5	76	20	9	 
+2015	12120	329	Kean	-	Totals	-	-	-	-	 	819	331	56	0.954	 	6	37	5	8	 
+2015	12120	329	Kean	-	Opponent Totals	-	-	-	-	 	794	317	70	0.941	 	6	33	5	6	 
+2015	12120	330	Keene St.	-	Totals	-	-	-	-	 	661	227	62	0.935	1	8	37	8	5	 
+2015	12120	330	Keene St.	-	Opponent Totals	-	-	-	-	 	664	268	59	0.940	 	7	20	9	10	 
+2015	12120	335	Kenyon	-	Totals	-	-	-	-	 	746	257	44	0.958	 	7	34	4	7	 
+2015	12120	335	Kenyon	-	Opponent Totals	-	-	-	-	 	718	321	87	0.923	 	17	28	5	14	 
+2015	12120	1159	Keuka	-	Totals	-	-	-	-	 	511	222	48	0.939	 	3	5	1	2	 
+2015	12120	1159	Keuka	-	Opponent Totals	-	-	-	-	 	496	193	37	0.949	 	5	19	1	7	 
+2015	12120	30047	Keystone	-	Totals	-	-	-	-	 	564	172	55	0.930	 	7	46	7	4	 
+2015	12120	30047	Keystone	-	Opponent Totals	-	-	-	-	 	575	198	44	0.946	 	11	35	11	5	 
+2015	12120	336	King's (PA)	-	Totals	-	-	-	-	 	601	245	33	0.962	 	3	30	12	7	 
+2015	12120	336	King's (PA)	-	Opponent Totals	-	-	-	-	 	594	218	42	0.951	 	7	23	3	7	 
+2015	12120	337	Knox	-	Totals	-	-	-	-	 	477	219	76	0.902	 	27	71	7	2	 
+2015	12120	337	Knox	-	Opponent Totals	-	-	-	-	 	517	227	32	0.959	1	8	7	1	7	 
+2015	12120	1163	La Roche	-	Totals	-	-	-	-	 	691	277	57	0.944	 	8	21	10	7	 
+2015	12120	1163	La Roche	-	Opponent Totals	-	-	-	-	 	681	290	73	0.930	 	21	45	4	6	 
+2015	12120	341	La Verne	-	Totals	-	-	-	-	 	841	402	62	0.952	 	4	36	10	17	 
+2015	12120	341	La Verne	-	Opponent Totals	-	-	-	-	 	815	361	53	0.957	 	7	39	6	17	 
+2015	12120	1162	LaGrange	-	Totals	-	-	-	-	 	820	282	37	0.968	 	9	42	8	8	 
+2015	12120	1162	LaGrange	-	Opponent Totals	-	-	-	-	 	801	334	64	0.947	1	14	24	5	12	 
+2015	12120	344	Lake Forest	-	Totals	-	-	-	-	 	886	315	37	0.970	 	11	18	2	6	 
+2015	12120	344	Lake Forest	-	Opponent Totals	-	-	-	-	 	838	285	62	0.948	 	17	50	11	15	 
+2015	12120	1164	Lakeland	-	Totals	-	-	-	-	 	748	307	64	0.943	 	21	44	5	3	 
+2015	12120	1164	Lakeland	-	Opponent Totals	-	-	-	-	 	748	310	79	0.931	 	23	30	10	9	 
+2015	12120	30085	Lancaster Bible	-	Totals	-	-	-	-	 	600	241	88	0.905	 	12	36	4	4	 
+2015	12120	30085	Lancaster Bible	-	Opponent Totals	-	-	-	-	 	603	212	63	0.928	 	4	29	6	5	 
+2015	12120	8486	Lasell	-	Totals	-	-	-	-	 	637	276	58	0.940	 	12	27	5	7	 
+2015	12120	8486	Lasell	-	Opponent Totals	-	-	-	-	 	661	279	43	0.956	 	23	21	8	11	 
+2015	12120	348	Lawrence	-	Totals	-	-	-	-	 	750	346	40	0.965	 	4	19	9	19	 
+2015	12120	348	Lawrence	-	Opponent Totals	-	-	-	-	 	728	307	54	0.950	 	4	47	9	12	 
+2015	12120	8490	LeTourneau	-	Totals	-	-	-	-	 	849	444	66	0.951	4	5	55	7	10	 
+2015	12120	8490	LeTourneau	-	Opponent Totals	-	-	-	-	 	830	334	51	0.958	4	7	43	10	6	 
+2015	12120	351	Lebanon Valley	-	Totals	-	-	-	-	 	823	350	67	0.946	 	6	48	3	2	 
+2015	12120	351	Lebanon Valley	-	Opponent Totals	-	-	-	-	 	836	350	75	0.941	 	8	74	9	10	 
+2015	12120	279	Lehman	-	Totals	-	-	-	-	 	356	163	76	0.872	 	18	35	2	3	 
+2015	12120	279	Lehman	-	Opponent Totals	-	-	-	-	 	362	124	56	0.897	 	23	42	3	4	 
+2015	12120	24317	Lesley	-	Totals	-	-	-	-	 	599	233	72	0.920	 	7	34	7	5	 
+2015	12120	24317	Lesley	-	Opponent Totals	-	-	-	-	 	618	213	33	0.962	 	10	22	5	6	 
+2015	12120	22235	Lewis & Clark	-	Totals	-	-	-	-	 	761	310	68	0.940	1	15	71	16	8	 
+2015	12120	22235	Lewis & Clark	-	Opponent Totals	-	-	-	-	 	795	335	53	0.955	2	2	48	11	9	 
+2015	12120	1179	Linfield	-	Totals	-	-	-	-	 	895	372	43	0.967	 	5	26	14	8	 
+2015	12120	1179	Linfield	-	Opponent Totals	-	-	-	-	 	889	352	58	0.955	 	16	80	6	12	 
+2015	12120	364	Loras	-	Totals	-	-	-	-	 	722	341	72	0.937	 	6	42	14	9	 
+2015	12120	364	Loras	-	Opponent Totals	-	-	-	-	 	739	310	63	0.943	1	15	58	10	3	 
+2015	12120	1182	Louisiana Col.	-	Totals	-	-	-	-	 	783	357	36	0.969	 	4	26	7	10	 
+2015	12120	1182	Louisiana Col.	-	Opponent Totals	-	-	-	-	 	774	335	50	0.957	2	6	43	14	9	 
+2015	12120	372	Luther	-	Totals	-	-	-	-	 	842	344	28	0.977	 	3	13	7	1	 
+2015	12120	372	Luther	-	Opponent Totals	-	-	-	-	 	788	339	65	0.945	 	9	42	6	12	 
+2015	12120	373	Lycoming	-	Totals	-	-	-	-	 	687	260	61	0.939	 	8	29	8	11	 
+2015	12120	373	Lycoming	-	Opponent Totals	-	-	-	-	 	715	297	59	0.945	2	14	14	2	10	 
+2015	12120	374	Lynchburg	-	Totals	-	-	-	-	 	890	271	44	0.963	 	6	25	7	9	 
+2015	12120	374	Lynchburg	-	Opponent Totals	-	-	-	-	 	847	401	63	0.952	1	7	48	6	12	 
+2015	12120	30065	Lyndon St.	-	Totals	-	-	-	-	 	468	220	63	0.916	 	13	27	7	1	 
+2015	12120	30065	Lyndon St.	-	Opponent Totals	-	-	-	-	 	477	196	32	0.955	 	6	14	5	2	 
+2015	12120	486	MCLA	-	Totals	-	-	-	-	 	741	311	84	0.926	 	11	60	1	5	 
+2015	12120	486	MCLA	-	Opponent Totals	-	-	-	-	 	752	332	61	0.947	 	8	19	5	14	 
+2015	12120	398	MIT	-	Totals	-	-	-	-	 	784	206	38	0.963	1	7	33	6	6	 
+2015	12120	398	MIT	-	Opponent Totals	-	-	-	-	 	757	340	53	0.954	 	7	44	6	5	 
+2015	12120	20220	MSOE	-	Totals	-	-	-	-	 	730	370	59	0.949	 	5	30	16	11	 
+2015	12120	20220	MSOE	-	Opponent Totals	-	-	-	-	 	744	366	58	0.950	 	12	25	12	8	 
+2015	12120	377	MacMurray	-	Totals	-	-	-	-	 	663	292	50	0.950	 	35	27	8	8	 
+2015	12120	377	MacMurray	-	Opponent Totals	-	-	-	-	 	653	250	38	0.960	 	24	35	5	2	 
+2015	12120	376	Macalester	-	Totals	-	-	-	-	 	778	370	67	0.945	1	8	32	14	13	 
+2015	12120	376	Macalester	-	Opponent Totals	-	-	-	-	 	781	314	60	0.948	 	8	34	8	12	 
+2015	12120	1192	Manchester	-	Totals	-	-	-	-	 	615	275	47	0.950	1	8	55	2	8	 
+2015	12120	1192	Manchester	-	Opponent Totals	-	-	-	-	 	621	266	40	0.957	 	14	57	8	9	 
+2015	12120	382	Manhattanville	-	Totals	-	-	-	-	 	581	304	62	0.935	1	18	32	9	18	 
+2015	12120	382	Manhattanville	-	Opponent Totals	-	-	-	-	 	584	248	60	0.933	 	10	31	3	4	 
+2015	12120	1194	Maranatha Baptist	-	Totals	-	-	-	-	 	434	195	84	0.882	1	37	88	4	8	 
+2015	12120	1194	Maranatha Baptist	-	Opponent Totals	-	-	-	-	 	468	201	28	0.960	 	10	34	8	4	 
+2015	12120	1196	Marian (WI)	-	Totals	-	-	-	-	 	716	353	101	0.914	 	13	63	5	7	 
+2015	12120	1196	Marian (WI)	-	Opponent Totals	-	-	-	-	 	731	348	53	0.953	 	15	16	4	10	 
+2015	12120	385	Marietta	-	Totals	-	-	-	-	 	640	269	45	0.953	 	5	19	11	12	 
+2015	12120	385	Marietta	-	Opponent Totals	-	-	-	-	 	653	280	58	0.941	 	2	30	9	6	 
+2015	12120	8597	Martin Luther	-	Totals	-	-	-	-	 	578	262	64	0.929	 	15	36	4	6	 
+2015	12120	8597	Martin Luther	-	Opponent Totals	-	-	-	-	 	590	236	70	0.922	 	17	65	8	1	 
+2015	12120	389	Mary Baldwin	-	Totals	-	-	-	-	 	628	273	66	0.932	 	22	59	7	8	 
+2015	12120	389	Mary Baldwin	-	Opponent Totals	-	-	-	-	 	658	260	48	0.950	1	25	15	3	12	 
+2015	12120	1203	Mary Hardin-Baylor	-	Totals	-	-	-	-	 	759	404	50	0.959	2	10	24	8	16	 
+2015	12120	1203	Mary Hardin-Baylor	-	Opponent Totals	-	-	-	-	 	763	341	64	0.945	1	11	20	4	9	 
+2015	12120	390	Mary Washington	-	Totals	-	-	-	-	 	687	308	46	0.956	 	8	21	7	8	 
+2015	12120	390	Mary Washington	-	Opponent Totals	-	-	-	-	 	670	259	67	0.933	 	12	36	4	8	 
+2015	12120	396	Maryville (TN)	-	Totals	-	-	-	-	 	708	358	61	0.946	 	6	40	5	15	 
+2015	12120	396	Maryville (TN)	-	Opponent Totals	-	-	-	-	 	718	292	39	0.963	 	7	45	6	13	 
+2015	12120	397	Marywood	-	Totals	-	-	-	-	 	624	295	55	0.944	 	7	31	7	10	 
+2015	12120	397	Marywood	-	Opponent Totals	-	-	-	-	 	636	276	64	0.934	 	15	30	9	10	 
+2015	12120	399	Mass. Maritime	-	Totals	-	-	-	-	 	276	125	58	0.874	 	4	24	3	5	 
+2015	12120	399	Mass. Maritime	-	Opponent Totals	-	-	-	-	 	288	105	20	0.952	 	6	10	1	7	 
+2015	12120	773	McDaniel	-	Totals	-	-	-	-	 	797	267	36	0.967	 	11	28	5	7	 
+2015	12120	773	McDaniel	-	Opponent Totals	-	-	-	-	 	781	311	65	0.944	 	10	48	10	18	 
+2015	12120	379	Me.-Farmington	-	Totals	-	-	-	-	 	479	195	57	0.922	 	10	32	9	6	 
+2015	12120	379	Me.-Farmington	-	Opponent Totals	-	-	-	-	 	507	219	30	0.960	 	5	25	6	3	 
+2015	12120	30040	Me.-Presque Isle	-	Totals	-	-	-	-	 	363	159	45	0.921	 	19	34	3	2	 
+2015	12120	30040	Me.-Presque Isle	-	Opponent Totals	-	-	-	-	 	399	185	68	0.896	1	23	15	3	3	 
+2015	12120	23725	Medaille	-	Totals	-	-	-	-	 	600	302	73	0.925	 	4	45	4	8	 
+2015	12120	23725	Medaille	-	Opponent Totals	-	-	-	-	 	621	213	64	0.929	 	7	10	4	6	 
+2015	12120	409	Meredith	-	Totals	-	-	-	-	 	612	240	54	0.940	 	24	51	2	7	 
+2015	12120	409	Meredith	-	Opponent Totals	-	-	-	-	 	620	256	41	0.955	 	15	32	4	12	 
+2015	12120	411	Messiah	-	Totals	-	-	-	-	 	778	337	50	0.957	 	5	27	9	13	 
+2015	12120	411	Messiah	-	Opponent Totals	-	-	-	-	 	745	356	68	0.942	 	11	42	17	2	 
+2015	12120	412	Methodist	-	Totals	-	-	-	-	 	740	321	61	0.946	 	12	41	6	8	 
+2015	12120	412	Methodist	-	Opponent Totals	-	-	-	-	 	730	301	61	0.944	 	11	14	6	9	1
+2015	12120	420	Middlebury	-	Totals	-	-	-	-	 	626	230	34	0.962	 	10	38	3	7	 
+2015	12120	420	Middlebury	-	Opponent Totals	-	-	-	-	 	630	259	41	0.956	 	11	18	7	4	 
+2015	12120	424	Millikin	-	Totals	-	-	-	-	 	653	322	75	0.929	 	12	39	13	2	 
+2015	12120	424	Millikin	-	Opponent Totals	-	-	-	-	 	668	257	45	0.954	 	17	31	6	3	 
+2015	12120	426	Millsaps	-	Totals	-	-	-	-	 	569	235	30	0.964	 	5	29	7	11	 
+2015	12120	426	Millsaps	-	Opponent Totals	-	-	-	-	 	557	206	54	0.934	 	5	9	 	6	 
+2015	12120	1226	Minn.-Morris	-	Totals	-	-	-	-	 	713	243	69	0.933	 	7	31	6	8	 
+2015	12120	1226	Minn.-Morris	-	Opponent Totals	-	-	-	-	 	705	314	60	0.944	 	7	44	15	5	 
+2015	12120	16142	Misericordia	-	Totals	-	-	-	-	 	890	381	61	0.954	 	4	44	12	17	 
+2015	12120	16142	Misericordia	-	Opponent Totals	-	-	-	-	 	883	335	55	0.957	 	4	16	5	12	 
+2015	12120	30042	Mitchell	-	Totals	-	-	-	-	 	626	236	42	0.954	 	4	30	7	6	 
+2015	12120	30042	Mitchell	-	Opponent Totals	-	-	-	-	 	619	222	64	0.929	 	20	30	4	9	 
+2015	12120	438	Monmouth (IL)	-	Totals	-	-	-	-	 	630	283	58	0.940	 	2	39	12	6	 
+2015	12120	438	Monmouth (IL)	-	Opponent Totals	-	-	-	-	 	646	296	34	0.965	 	7	17	7	12	 
+2015	12120	442	Montclair St.	-	Totals	-	-	-	-	 	641	291	50	0.949	 	10	23	9	13	 
+2015	12120	442	Montclair St.	-	Opponent Totals	-	-	-	-	 	653	310	63	0.939	2	14	27	1	16	 
+2015	12120	443	Moravian	-	Totals	-	-	-	-	 	881	271	44	0.963	 	9	18	4	7	 
+2015	12120	443	Moravian	-	Opponent Totals	-	-	-	-	 	838	420	56	0.957	2	9	27	9	17	 
+2015	12120	30067	Morrisville St.	-	Totals	-	-	-	-	 	491	222	75	0.905	 	8	34	 	11	 
+2015	12120	30067	Morrisville St.	-	Opponent Totals	-	-	-	-	 	519	194	32	0.957	 	12	23	5	5	 
+2015	12120	30036	Mount Aloysius	-	Totals	-	-	-	-	 	677	231	49	0.949	 	19	27	10	4	 
+2015	12120	30036	Mount Aloysius	-	Opponent Totals	-	-	-	-	 	687	298	64	0.939	 	11	19	4	9	 
+2015	12120	27901	Mount Ida	-	Totals	-	-	-	-	 	587	302	65	0.932	 	8	62	13	12	 
+2015	12120	27901	Mount Ida	-	Opponent Totals	-	-	-	-	 	605	282	38	0.959	 	10	28	6	12	 
+2015	12120	30033	Mount Mary	-	Totals	-	-	-	-	 	526	212	103	0.878	 	10	84	6	3	 
+2015	12120	30033	Mount Mary	-	Opponent Totals	-	-	-	-	 	548	176	29	0.961	 	15	30	6	7	 
+2015	12120	452	Mount Union	-	Totals	-	-	-	-	 	587	191	46	0.944	 	10	31	9	4	 
+2015	12120	452	Mount Union	-	Opponent Totals	-	-	-	-	 	598	248	37	0.958	 	6	33	6	2	 
+2015	12120	8567	Mt. St. Joseph	-	Totals	-	-	-	-	 	678	304	50	0.952	 	25	20	2	6	 
+2015	12120	8567	Mt. St. Joseph	-	Opponent Totals	-	-	-	-	 	665	295	60	0.941	 	10	48	5	12	 
+2015	12120	1468	Mt. St. Mary (NY)	-	Totals	-	-	-	-	 	572	159	27	0.964	 	9	16	1	6	 
+2015	12120	1468	Mt. St. Mary (NY)	-	Opponent Totals	-	-	-	-	 	573	246	58	0.934	 	13	19	2	6	 
+2015	12120	451	Mt. St. Vincent	-	Totals	-	-	-	-	 	633	259	49	0.948	 	18	42	5	2	 
+2015	12120	451	Mt. St. Vincent	-	Opponent Totals	-	-	-	-	 	649	267	63	0.936	 	12	20	3	11	 
+2015	12120	453	Muhlenberg	-	Totals	-	-	-	-	 	666	320	41	0.960	 	9	29	5	10	 
+2015	12120	453	Muhlenberg	-	Opponent Totals	-	-	-	-	 	665	254	46	0.952	 	10	38	7	12	 
+2015	12120	455	Muskingum	-	Totals	-	-	-	-	 	781	363	53	0.956	1	10	22	12	13	 
+2015	12120	455	Muskingum	-	Opponent Totals	-	-	-	-	 	767	299	83	0.928	 	10	54	10	13	 
+2015	12120	491	N.C. Wesleyan	-	Totals	-	-	-	-	 	684	284	44	0.957	 	3	34	12	17	 
+2015	12120	491	N.C. Wesleyan	-	Opponent Totals	-	-	-	-	 	678	249	54	0.945	 	13	26	4	7	 
+2015	12120	479	NYU	-	Totals	-	-	-	-	 	650	331	85	0.920	 	14	37	6	12	 
+2015	12120	479	NYU	-	Opponent Totals	-	-	-	-	 	659	282	69	0.932	 	12	26	6	7	 
+2015	12120	461	Nazareth	-	Totals	-	-	-	-	 	643	325	62	0.940	1	17	40	7	10	 
+2015	12120	461	Nazareth	-	Opponent Totals	-	-	-	-	 	648	250	51	0.946	 	12	11	2	4	 
+2015	12120	462	Neb. Wesleyan	-	Totals	-	-	-	-	 	798	429	64	0.950	1	11	23	14	8	 
+2015	12120	462	Neb. Wesleyan	-	Opponent Totals	-	-	-	-	 	816	341	73	38.675	 	14	86	18	21	 
+2015	12120	1254	Neumann	-	Totals	-	-	-	-	 	715	210	39	0.960	1	8	9	1	5	 
+2015	12120	1254	Neumann	-	Opponent Totals	-	-	-	-	 	690	314	65	0.939	 	12	42	5	17	 
+2015	12120	467	New England Col.	-	Totals	-	-	-	-	 	633	260	64	0.933	 	9	33	8	7	 
+2015	12120	467	New England Col.	-	Opponent Totals	-	-	-	-	 	642	239	88	0.909	 	10	40	9	6	 
+2015	12120	319	New Jersey City	-	Totals	-	-	-	-	 	671	304	111	0.898	 	29	92	3	14	 
+2015	12120	319	New Jersey City	-	Opponent Totals	-	-	-	-	 	688	293	50	0.952	 	10	13	5	15	 
+2015	12120	476	New Rochelle	-	Totals	-	-	-	-	 	340	135	88	0.844	 	43	81	3	9	 
+2015	12120	476	New Rochelle	-	Opponent Totals	-	-	-	-	 	366	150	32	0.942	 	19	25	6	9	 
+2015	12120	21772	Newbury	-	Totals	-	-	-	-	 	646	248	56	0.941	 	7	25	3	7	 
+2015	12120	21772	Newbury	-	Opponent Totals	-	-	-	-	 	646	255	63	0.935	 	15	41	7	3	 
+2015	12120	484	Nichols	-	Totals	-	-	-	-	 	560	268	63	0.929	 	8	29	6	7	 
+2015	12120	484	Nichols	-	Opponent Totals	-	-	-	-	 	577	257	57	0.936	 	6	27	12	4	 
+2015	12120	492	North Central (IL)	-	Totals	-	-	-	-	 	792	376	66	0.947	 	6	21	5	24	 
+2015	12120	492	North Central (IL)	-	Opponent Totals	-	-	-	-	 	757	296	65	0.942	 	17	28	4	8	 
+2015	12120	30039	North Central (MN)	-	Totals	-	-	-	-	 	484	203	106	0.866	 	30	56	6	5	 
+2015	12120	30039	North Central (MN)	-	Opponent Totals	-	-	-	-	 	499	189	48	0.935	2	12	50	9	8	 
+2015	12120	496	North Park	-	Totals	-	-	-	-	 	693	319	71	0.934	 	8	75	4	5	 
+2015	12120	496	North Park	-	Opponent Totals	-	-	-	-	 	722	303	43	0.960	 	8	7	1	16	 
+2015	12120	1267	Northland	-	Totals	-	-	-	-	 	582	254	100	0.893	 	16	59	11	9	 
+2015	12120	1267	Northland	-	Opponent Totals	-	-	-	-	 	604	262	68	0.927	 	9	37	10	8	 
+2015	12120	30031	Northwestern-St. Paul	-	Totals	-	-	-	-	 	789	394	62	0.950	1	13	49	15	10	 
+2015	12120	30031	Northwestern-St. Paul	-	Opponent Totals	-	-	-	-	 	804	288	67	0.942	 	25	23	6	3	 
+2015	12120	511	Norwich	-	Totals	-	-	-	-	 	564	262	64	0.928	 	25	41	6	1	 
+2015	12120	511	Norwich	-	Opponent Totals	-	-	-	-	 	575	228	40	0.953	 	7	15	4	4	 
+2015	12120	8600	Notre Dame (MD)	-	Totals	-	-	-	-	 	457	185	87	0.881	 	21	59	4	2	 
+2015	12120	8600	Notre Dame (MD)	-	Opponent Totals	-	-	-	-	 	485	180	45	0.937	 	12	24	2	9	 
+2015	12120	515	Oberlin	-	Totals	-	-	-	-	 	627	325	116	0.891	 	5	60	7	4	 
+2015	12120	515	Oberlin	-	Opponent Totals	-	-	-	-	 	658	264	37	0.961	 	11	28	7	9	 
+2015	12120	516	Occidental	-	Totals	-	-	-	-	 	709	287	66	0.938	 	13	61	7	10	 
+2015	12120	516	Occidental	-	Opponent Totals	-	-	-	-	 	726	289	39	0.963	 	1	21	7	6	 
+2015	12120	517	Ohio Northern	-	Totals	-	-	-	-	 	737	334	57	0.949	 	9	18	12	14	 
+2015	12120	517	Ohio Northern	-	Opponent Totals	-	-	-	-	 	721	338	77	0.932	1	8	68	11	9	 
+2015	12120	520	Ohio Wesleyan	-	Totals	-	-	-	-	 	679	370	52	0.953	 	9	35	4	15	 
+2015	12120	520	Ohio Wesleyan	-	Opponent Totals	-	-	-	-	 	692	299	66	0.938	 	11	55	13	7	 
+2015	12120	524	Old Westbury	-	Totals	-	-	-	-	 	568	292	77	0.918	1	6	48	9	8	 
+2015	12120	524	Old Westbury	-	Opponent Totals	-	-	-	-	 	593	257	44	30.534	 	12	16	1	9	 
+2015	12120	525	Olivet	-	Totals	-	-	-	-	 	649	185	42	0.952	 	8	39	3	6	 
+2015	12120	525	Olivet	-	Opponent Totals	-	-	-	-	 	635	282	42	0.956	2	3	21	6	10	 
+2015	12120	530	Oswego St.	-	Totals	-	-	-	-	 	472	214	68	0.910	 	12	36	5	2	 
+2015	12120	530	Oswego St.	-	Opponent Totals	-	-	-	-	 	494	174	35	0.950	 	11	6	6	2	 
+2015	12120	531	Otterbein	-	Totals	-	-	-	-	 	663	304	46	0.955	1	17	36	4	8	 
+2015	12120	531	Otterbein	-	Opponent Totals	-	-	-	-	 	675	318	64	0.939	4	20	38	7	10	 
+2015	12120	23008	Ozarks (AR)	-	Totals	-	-	-	-	 	732	362	78	0.933	 	6	74	16	8	 
+2015	12120	23008	Ozarks (AR)	-	Opponent Totals	-	-	-	-	 	738	318	52	0.953	1	6	15	7	19	 
+2015	12120	2751	Pacific (OR)	-	Totals	-	-	-	-	 	896	408	62	0.955	 	6	30	11	14	 
+2015	12120	2751	Pacific (OR)	-	Opponent Totals	-	-	-	-	 	877	359	64	0.951	1	5	78	13	14	 
+2015	12120	1297	Pacific Lutheran	-	Totals	-	-	-	-	 	735	282	58	0.946	 	7	68	5	13	 
+2015	12120	1297	Pacific Lutheran	-	Opponent Totals	-	-	-	-	 	733	301	70	0.937	 	1	37	10	10	 
+2015	12120	30081	Penn St. Harrisburg	-	Totals	-	-	-	-	 	668	261	67	0.933	 	10	28	5	7	 
+2015	12120	30081	Penn St. Harrisburg	-	Opponent Totals	-	-	-	-	 	675	292	62	0.940	 	15	16	4	11	 
+2015	12120	30114	Penn St.-Abington	-	Totals	-	-	-	-	 	691	276	81	0.923	1	26	29	15	4	 
+2015	12120	30114	Penn St.-Abington	-	Opponent Totals	-	-	-	-	 	689	298	91	0.916	 	11	41	7	8	 
+2015	12120	25719	Penn St.-Altoona	-	Totals	-	-	-	-	 	819	283	63	0.946	 	12	22	8	7	1
+2015	12120	25719	Penn St.-Altoona	-	Opponent Totals	-	-	-	-	 	794	333	79	0.934	 	17	38	4	15	 
+2015	12120	538	Penn St.-Behrend	-	Totals	-	-	-	-	 	797	270	51	0.954	 	6	24	 	7	 
+2015	12120	538	Penn St.-Behrend	-	Opponent Totals	-	-	-	-	 	796	304	77	0.935	 	13	25	3	7	 
+2015	12120	30044	Penn St.-Berks	-	Totals	-	-	-	-	 	599	258	44	0.951	 	5	29	7	4	 
+2015	12120	30044	Penn St.-Berks	-	Opponent Totals	-	-	-	-	 	584	237	78	0.913	 	11	36	3	2	 
+2015	12120	21830	Piedmont	-	Totals	-	-	-	-	 	599	232	47	0.946	1	3	24	5	10	 
+2015	12120	21830	Piedmont	-	Opponent Totals	-	-	-	-	 	605	278	45	0.952	 	7	55	11	8	 
+2015	12120	544	Pine Manor	-	Totals	-	-	-	-	 	339	126	94	0.832	 	78	47	 	5	 
+2015	12120	544	Pine Manor	-	Opponent Totals	-	-	-	-	 	371	142	36	0.934	 	16	15	 	5	 
+2015	12120	1315	Pitt.-Bradford	-	Totals	-	-	-	-	 	593	258	67	0.927	 	13	30	9	9	 
+2015	12120	1315	Pitt.-Bradford	-	Opponent Totals	-	-	-	-	 	599	259	48	0.947	 	9	41	8	12	 
+2015	12120	11839	Pitt.-Greensburg	-	Totals	-	-	-	-	 	665	236	58	0.940	 	13	36	2	4	 
+2015	12120	11839	Pitt.-Greensburg	-	Opponent Totals	-	-	-	-	 	679	268	55	0.945	 	21	33	13	10	 
+2015	12120	547	Plattsburgh St.	-	Totals	-	-	-	-	 	593	246	57	0.936	 	7	40	5	3	 
+2015	12120	547	Plattsburgh St.	-	Opponent Totals	-	-	-	-	 	615	246	65	0.930	 	8	33	10	11	 
+2015	12120	548	Plymouth St.	-	Totals	-	-	-	-	 	646	269	45	0.953	 	11	41	3	6	 
+2015	12120	548	Plymouth St.	-	Opponent Totals	-	-	-	-	 	664	292	45	0.955	 	9	25	5	9	 
+2015	12120	549	Pomona-Pitzer	-	Totals	-	-	-	-	 	763	301	50	0.955	2	4	49	7	12	 
+2015	12120	549	Pomona-Pitzer	-	Opponent Totals	-	-	-	-	 	761	356	51	0.956	 	4	33	6	11	 
+2015	12120	555	Principia	-	Totals	-	-	-	-	 	536	231	81	0.904	 	68	80	6	3	 
+2015	12120	555	Principia	-	Opponent Totals	-	-	-	-	 	560	242	46	0.946	1	22	35	7	1	 
+2015	12120	557	Puget Sound	-	Totals	-	-	-	-	 	740	346	85	0.927	3	13	72	11	7	 
+2015	12120	557	Puget Sound	-	Opponent Totals	-	-	-	-	 	778	316	56	0.951	 	6	14	6	7	 
+2015	12120	30029	Purchase	-	Totals	-	-	-	-	 	402	155	46	0.924	 	8	29	2	6	 
+2015	12120	30029	Purchase	-	Opponent Totals	-	-	-	-	 	409	179	43	0.932	 	21	38	7	2	 
+2015	12120	564	Ramapo	-	Totals	-	-	-	-	 	862	346	58	0.954	 	6	38	14	11	 
+2015	12120	564	Ramapo	-	Opponent Totals	-	-	-	-	 	845	339	67	0.946	 	11	50	12	17	 
+2015	12120	566	Randolph	-	Totals	-	-	-	-	 	636	267	53	0.945	 	15	48	6	11	 
+2015	12120	566	Randolph	-	Opponent Totals	-	-	-	-	 	640	280	58	0.941	 	16	38	11	7	 
+2015	12120	565	Randolph-Macon	-	Totals	-	-	-	-	 	776	334	52	0.955	1	1	15	11	10	 
+2015	12120	565	Randolph-Macon	-	Opponent Totals	-	-	-	-	 	758	317	51	0.955	 	12	53	16	9	 
+2015	12120	567	Redlands	-	Totals	-	-	-	-	 	760	393	81	0.934	 	7	28	7	15	 
+2015	12120	567	Redlands	-	Opponent Totals	-	-	-	-	 	751	323	60	0.947	 	8	56	12	7	 
+2015	12120	569	Regis (MA)	-	Totals	-	-	-	-	 	462	175	54	0.922	 	9	26	4	6	 
+2015	12120	569	Regis (MA)	-	Opponent Totals	-	-	-	-	 	477	196	48	0.933	 	11	12	 	3	 
+2015	12120	570	Rensselaer	-	Totals	-	-	-	-	 	722	248	41	0.959	 	2	24	7	9	 
+2015	12120	570	Rensselaer	-	Opponent Totals	-	-	-	-	 	710	309	54	0.950	 	9	29	5	14	 
+2015	12120	571	Rhode Island Col.	-	Totals	-	-	-	-	 	518	224	64	0.921	 	5	30	8	8	 
+2015	12120	571	Rhode Island Col.	-	Opponent Totals	-	-	-	-	 	531	215	39	0.950	 	11	36	3	8	 
+2015	12120	573	Rhodes	-	Totals	-	-	-	-	 	705	268	44	0.957	 	14	39	8	15	 
+2015	12120	573	Rhodes	-	Opponent Totals	-	-	-	-	 	702	311	52	36.127	 	10	112	11	17	 
+2015	12120	577	Ripon	-	Totals	-	-	-	-	 	561	236	58	0.932	 	16	58	10	8	 
+2015	12120	577	Ripon	-	Opponent Totals	-	-	-	-	 	587	276	48	0.947	 	3	21	5	8	 
+2015	12120	18422	Rivier	-	Totals	-	-	-	-	 	647	309	66	0.935	 	33	52	3	5	 
+2015	12120	18422	Rivier	-	Opponent Totals	-	-	-	-	 	650	287	60	0.940	1	36	106	6	4	 
+2015	12120	578	Roanoke	-	Totals	-	-	-	-	 	600	260	52	0.943	 	10	29	6	10	 
+2015	12120	578	Roanoke	-	Opponent Totals	-	-	-	-	 	592	228	37	0.957	 	6	50	6	8	 
+2015	12120	581	Rochester (NY)	-	Totals	-	-	-	-	 	816	369	62	0.950	 	10	37	5	8	 
+2015	12120	581	Rochester (NY)	-	Opponent Totals	-	-	-	-	 	778	290	63	0.944	 	12	26	6	12	 
+2015	12120	580	Rochester Inst.	-	Totals	-	-	-	-	 	690	275	46	0.955	 	19	45	7	4	 
+2015	12120	580	Rochester Inst.	-	Opponent Totals	-	-	-	-	 	700	289	50	0.952	 	9	32	8	4	 
+2015	12120	582	Rockford	-	Totals	-	-	-	-	 	700	287	82	0.923	 	7	50	11	14	 
+2015	12120	582	Rockford	-	Opponent Totals	-	-	-	-	 	740	307	67	0.940	 	8	16	9	13	 
+2015	12120	583	Roger Williams	-	Totals	-	-	-	-	 	627	280	59	0.939	 	7	26	4	5	 
+2015	12120	583	Roger Williams	-	Opponent Totals	-	-	-	-	 	638	292	68	0.932	 	13	27	5	6	 
+2015	12120	585	Rose-Hulman	-	Totals	-	-	-	-	 	661	346	43	0.959	 	2	27	10	19	 
+2015	12120	585	Rose-Hulman	-	Opponent Totals	-	-	-	-	 	653	222	44	0.952	 	4	6	6	6	 
+2015	12120	15882	Rosemont	-	Totals	-	-	-	-	 	453	183	79	0.890	 	14	57	 	8	 
+2015	12120	15882	Rosemont	-	Opponent Totals	-	-	-	-	 	483	175	34	0.951	 	4	24	6	7	 
+2015	12120	259	Rowan	-	Totals	-	-	-	-	 	874	310	30	0.975	 	4	20	2	15	 
+2015	12120	259	Rowan	-	Opponent Totals	-	-	-	-	 	833	337	79	0.937	 	7	66	3	13	 
+2015	12120	586	Rust	-	Totals	-	-	-	-	 	218	88	64	0.827	 	29	27	2	5	 
+2015	12120	586	Rust	-	Opponent Totals	-	-	-	-	 	243	96	21	0.942	 	5	12	4	5	 
+2015	12120	588	Rutgers-Camden	-	Totals	-	-	-	-	 	650	248	32	0.966	 	6	28	10	16	 
+2015	12120	588	Rutgers-Camden	-	Opponent Totals	-	-	-	-	 	652	276	64	31.815	 	15	102	13	10	 
+2015	12120	589	Rutgers-Newark	-	Totals	-	-	-	-	 	670	257	57	0.942	 	2	44	4	8	 
+2015	12120	589	Rutgers-Newark	-	Opponent Totals	-	-	-	-	 	668	266	54	0.945	 	11	34	3	8	 
+2015	12120	30165	SUNY Canton	-	Totals	-	-	-	-	 	608	246	70	0.924	 	19	47	7	4	 
+2015	12120	30165	SUNY Canton	-	Opponent Totals	-	-	-	-	 	634	271	65	0.933	 	16	12	 	6	 
+2015	12120	168	SUNY Cortland	-	Totals	-	-	-	-	 	982	459	84	0.945	2	9	21	12	17	 
+2015	12120	168	SUNY Cortland	-	Opponent Totals	-	-	-	-	 	934	349	85	0.938	 	8	61	13	16	 
+2015	12120	247	SUNY Geneseo	-	Totals	-	-	-	-	 	840	252	60	0.948	 	12	26	12	12	 
+2015	12120	247	SUNY Geneseo	-	Opponent Totals	-	-	-	-	 	806	323	70	0.942	 	18	22	6	8	 
+2015	12120	475	SUNY New Paltz	-	Totals	-	-	-	-	 	708	293	72	0.933	1	6	13	7	9	 
+2015	12120	475	SUNY New Paltz	-	Opponent Totals	-	-	-	-	 	711	271	57	0.945	 	16	37	8	19	 
+2015	12120	526	SUNY Oneonta	-	Totals	-	-	-	-	 	729	305	47	0.957	1	4	21	5	15	 
+2015	12120	526	SUNY Oneonta	-	Opponent Totals	-	-	-	-	 	719	312	86	0.923	1	5	46	16	11	 
+2015	12120	9500	SUNY Poly	-	Totals	-	-	-	-	 	631	224	56	0.939	1	11	28	3	8	 
+2015	12120	9500	SUNY Poly	-	Opponent Totals	-	-	-	-	 	646	240	72	0.925	 	7	8	4	7	 
+2015	12120	552	SUNY Potsdam	-	Totals	-	-	-	-	 	569	264	74	0.918	 	7	52	10	9	 
+2015	12120	552	SUNY Potsdam	-	Opponent Totals	-	-	-	-	 	590	247	44	0.950	 	7	18	6	6	 
+2015	12120	11036	Sage Colleges	-	Totals	-	-	-	-	 	663	318	51	0.951	 	14	29	4	8	 
+2015	12120	11036	Sage Colleges	-	Opponent Totals	-	-	-	-	 	658	257	56	0.942	 	15	39	1	5	 
+2015	12120	595	Saint Benedict	-	Totals	-	-	-	-	 	793	406	77	0.940	 	7	27	10	19	 
+2015	12120	595	Saint Benedict	-	Opponent Totals	-	-	-	-	 	776	279	70	0.938	1	12	84	11	10	 
+2015	12120	612	Saint Mary's (MN)	-	Totals	-	-	-	-	 	776	363	48	0.960	 	8	36	5	8	 
+2015	12120	612	Saint Mary's (MN)	-	Opponent Totals	-	-	-	-	 	780	307	54	0.953	 	6	7	5	13	 
+2015	12120	30064	Saint Vincent	-	Totals	-	-	-	-	 	713	355	50	0.955	1	6	17	3	2	1
+2015	12120	30064	Saint Vincent	-	Opponent Totals	-	-	-	-	 	697	265	49	0.952	 	7	15	2	7	 
+2015	12120	30041	Salem	-	Totals	-	-	-	-	 	762	375	36	0.969	1	3	43	7	16	 
+2015	12120	30041	Salem	-	Opponent Totals	-	-	-	-	 	761	338	80	0.932	 	5	37	5	8	 
+2015	12120	621	Salem St.	-	Totals	-	-	-	-	 	756	347	53	0.954	 	15	44	5	11	 
+2015	12120	621	Salem St.	-	Opponent Totals	-	-	-	-	 	746	335	58	0.949	 	25	41	12	6	 
+2015	12120	622	Salisbury	-	Totals	-	-	-	-	 	726	194	23	0.976	 	5	20	5	10	 
+2015	12120	622	Salisbury	-	Opponent Totals	-	-	-	-	 	679	299	76	0.928	 	8	24	2	6	 
+2015	12120	623	Salve Regina	-	Totals	-	-	-	-	 	775	343	49	0.958	 	6	40	3	11	 
+2015	12120	623	Salve Regina	-	Opponent Totals	-	-	-	-	 	760	337	48	0.958	 	9	31	4	7	 
+2015	12120	30163	Sarah Lawrence	-	Totals	-	-	-	-	 	490	235	118	0.860	 	61	99	1	8	 
+2015	12120	30163	Sarah Lawrence	-	Opponent Totals	-	-	-	-	 	524	234	48	0.940	 	20	30	4	10	 
+2015	12120	1355	Schreiner	-	Totals	-	-	-	-	 	776	341	81	0.932	 	11	62	14	7	1
+2015	12120	1355	Schreiner	-	Opponent Totals	-	-	-	-	 	803	325	60	0.949	 	12	21	10	11	 
+2015	12120	633	Scranton	-	Totals	-	-	-	-	 	689	304	43	0.958	 	12	40	7	14	 
+2015	12120	633	Scranton	-	Opponent Totals	-	-	-	-	 	683	280	84	0.920	 	7	55	8	5	 
+2015	12120	652	Sewanee	-	Totals	-	-	-	-	 	418	154	88	0.867	 	18	75	1	9	 
+2015	12120	652	Sewanee	-	Opponent Totals	-	-	-	-	 	458	168	20	0.969	 	4	1	 	10	 
+2015	12120	637	Shenandoah	-	Totals	-	-	-	-	 	579	229	48	0.944	 	11	43	8	11	 
+2015	12120	637	Shenandoah	-	Opponent Totals	-	-	-	-	 	600	280	57	0.939	 	9	12	5	12	 
+2015	12120	640	Simmons	-	Totals	-	-	-	-	 	646	323	40	0.960	 	10	30	8	20	 
+2015	12120	640	Simmons	-	Opponent Totals	-	-	-	-	 	644	264	63	0.935	 	11	27	6	7	 
+2015	12120	641	Simpson	-	Totals	-	-	-	-	 	863	343	50	0.960	 	5	21	11	12	 
+2015	12120	641	Simpson	-	Opponent Totals	-	-	-	-	 	830	304	55	0.954	 	12	15	4	17	 
+2015	12120	642	Skidmore	-	Totals	-	-	-	-	 	701	344	64	0.942	 	6	29	2	18	 
+2015	12120	642	Skidmore	-	Opponent Totals	-	-	-	-	 	710	300	58	0.946	1	5	60	15	13	 
+2015	12120	644	Smith	-	Totals	-	-	-	-	 	551	214	48	0.941	1	5	49	2	2	 
+2015	12120	644	Smith	-	Opponent Totals	-	-	-	-	 	565	271	51	0.943	 	14	51	17	6	 
+2015	12120	662	Southern Me.	-	Totals	-	-	-	-	 	868	390	69	0.948	 	10	37	14	14	 
+2015	12120	662	Southern Me.	-	Opponent Totals	-	-	-	-	 	863	367	88	0.933	 	13	11	4	22	 
+2015	12120	30164	Southern Va.	-	Totals	-	-	-	-	 	301	139	102	0.812	1	26	46	 	1	 
+2015	12120	30164	Southern Va.	-	Opponent Totals	-	-	-	-	 	327	115	17	0.963	 	7	6	2	4	 
+2015	12120	1379	Southern Vt.	-	Totals	-	-	-	-	 	461	161	40	0.940	 	10	33	1	4	 
+2015	12120	1379	Southern Vt.	-	Opponent Totals	-	-	-	-	 	462	204	49	0.931	 	19	17	4	12	 
+2015	12120	8746	Southwestern (TX)	-	Totals	-	-	-	-	 	734	270	45	0.957	 	9	45	9	6	 
+2015	12120	8746	Southwestern (TX)	-	Opponent Totals	-	-	-	-	 	740	309	81	0.928	 	15	19	6	15	 
+2015	12120	23260	Spalding	-	Totals	-	-	-	-	 	693	237	70	0.930	 	8	32	4	6	 
+2015	12120	23260	Spalding	-	Opponent Totals	-	-	-	-	 	714	281	43	0.959	 	16	34	5	8	 
+2015	12120	673	Springfield	-	Totals	-	-	-	-	 	758	431	69	0.945	 	17	28	18	9	 
+2015	12120	673	Springfield	-	Opponent Totals	-	-	-	-	 	761	322	57	0.950	 	10	38	8	11	 
+2015	12120	597	St. Catherine	-	Totals	-	-	-	-	 	767	282	36	0.967	1	14	19	14	3	 
+2015	12120	597	St. Catherine	-	Opponent Totals	-	-	-	-	 	753	373	59	0.950	 	17	59	12	11	 
+2015	12120	9684	St. Elizabeth	-	Totals	-	-	-	-	 	682	284	73	0.930	 	12	59	7	4	 
+2015	12120	9684	St. Elizabeth	-	Opponent Totals	-	-	-	-	 	678	258	65	0.935	 	11	50	14	8	 
+2015	12120	601	St. John Fisher	-	Totals	-	-	-	-	 	853	246	44	0.962	 	13	15	9	 	 
+2015	12120	601	St. John Fisher	-	Opponent Totals	-	-	-	-	 	832	390	81	0.938	 	15	34	4	4	 
+2015	12120	8687	St. Joseph (CT)	-	Totals	-	-	-	-	 	650	291	54	0.946	 	21	27	6	13	 
+2015	12120	8687	St. Joseph (CT)	-	Opponent Totals	-	-	-	-	 	661	300	46	0.954	1	7	23	5	10	 
+2015	12120	30072	St. Joseph's (Brkln)	-	Totals	-	-	-	-	 	723	249	60	0.942	 	6	44	11	12	 
+2015	12120	30072	St. Joseph's (Brkln)	-	Opponent Totals	-	-	-	-	 	715	243	98	0.907	 	12	66	7	12	 
+2015	12120	1340	St. Joseph's (L.I.)	-	Totals	-	-	-	-	 	673	276	57	0.943	 	10	31	4	5	 
+2015	12120	1340	St. Joseph's (L.I.)	-	Opponent Totals	-	-	-	-	 	678	259	67	0.933	 	25	26	3	10	 
+2015	12120	605	St. Joseph's (ME)	-	Totals	-	-	-	-	 	779	334	55	0.953	1	3	29	8	6	 
+2015	12120	605	St. Joseph's (ME)	-	Opponent Totals	-	-	-	-	 	770	317	56	0.951	 	11	31	5	7	 
+2015	12120	607	St. Lawrence	-	Totals	-	-	-	-	 	581	130	32	0.957	 	4	27	3	4	 
+2015	12120	607	St. Lawrence	-	Opponent Totals	-	-	-	-	 	568	245	44	0.949	 	13	20	1	6	 
+2015	12120	8688	St. Mary's (IN)	-	Totals	-	-	-	-	 	738	302	60	0.945	 	8	26	8	14	 
+2015	12120	8688	St. Mary's (IN)	-	Opponent Totals	-	-	-	-	 	724	306	81	0.927	 	15	33	8	9	 
+2015	12120	614	St. Norbert	-	Totals	-	-	-	-	 	566	254	32	0.962	 	1	32	5	11	 
+2015	12120	614	St. Norbert	-	Opponent Totals	-	-	-	-	 	577	253	43	0.951	 	4	30	5	3	 
+2015	12120	615	St. Olaf	-	Totals	-	-	-	-	 	760	336	55	0.952	 	23	76	10	14	 
+2015	12120	615	St. Olaf	-	Opponent Totals	-	-	-	-	 	788	343	46	0.961	3	9	12	7	11	 
+2015	12120	618	St. Scholastica	-	Totals	-	-	-	-	 	860	314	64	0.948	 	7	25	15	10	 
+2015	12120	618	St. Scholastica	-	Opponent Totals	-	-	-	-	 	837	303	82	0.933	 	10	50	3	17	 
+2015	12120	620	St. Thomas (MN)	-	Totals	-	-	-	-	 	922	408	57	0.959	1	8	20	11	9	 
+2015	12120	620	St. Thomas (MN)	-	Opponent Totals	-	-	-	-	 	890	406	66	0.952	 	19	53	19	11	 
+2015	12120	675	Staten Island	-	Totals	-	-	-	-	 	858	297	45	0.963	 	14	53	7	14	 
+2015	12120	675	Staten Island	-	Opponent Totals	-	-	-	-	 	828	369	97	0.925	1	18	113	13	14	 
+2015	12120	679	Stevens	-	Totals	-	-	-	-	 	820	313	55	0.954	 	9	21	9	9	 
+2015	12120	679	Stevens	-	Opponent Totals	-	-	-	-	 	790	331	62	0.948	 	11	30	9	12	 
+2015	12120	21852	Stevenson	-	Totals	-	-	-	-	 	807	418	52	0.959	1	12	26	7	11	 
+2015	12120	21852	Stevenson	-	Opponent Totals	-	-	-	-	 	809	340	72	0.941	 	7	64	12	7	 
+2015	12120	681	Stockton	-	Totals	-	-	-	-	 	688	379	43	0.961	 	5	23	5	6	 
+2015	12120	681	Stockton	-	Opponent Totals	-	-	-	-	 	680	304	46	0.955	 	7	28	8	14	 
+2015	12120	684	Suffolk	-	Totals	-	-	-	-	 	779	327	47	0.959	 	7	31	8	13	 
+2015	12120	684	Suffolk	-	Opponent Totals	-	-	-	-	 	774	335	69	0.941	 	32	59	5	10	 
+2015	12120	1390	Sul Ross St.	-	Totals	-	-	-	-	 	627	285	77	0.922	2	16	72	11	9	 
+2015	12120	1390	Sul Ross St.	-	Opponent Totals	-	-	-	-	 	660	278	43	0.956	 	6	20	10	8	 
+2015	12120	958	Summit	-	Totals	-	-	-	-	 	531	221	86	0.897	 	42	78	16	4	 
+2015	12120	958	Summit	-	Opponent Totals	-	-	-	-	 	555	223	73	0.914	 	15	32	10	5	 
+2015	12120	685	Susquehanna	-	Totals	-	-	-	-	 	743	265	36	0.966	 	10	23	10	10	 
+2015	12120	685	Susquehanna	-	Opponent Totals	-	-	-	-	 	706	326	59	0.946	 	19	28	7	5	 
+2015	12120	686	Swarthmore	-	Totals	-	-	-	-	 	409	178	41	0.935	 	9	40	5	3	 
+2015	12120	686	Swarthmore	-	Opponent Totals	-	-	-	-	 	420	179	34	0.946	 	3	12	4	4	 
+2015	12120	687	Sweet Briar	-	Totals	-	-	-	-	 	483	202	78	0.898	 	12	74	1	5	 
+2015	12120	687	Sweet Briar	-	Opponent Totals	-	-	-	-	 	474	153	24	0.963	 	4	13	3	5	 
+2015	12120	712	TCNJ	-	Totals	-	-	-	-	 	636	305	53	0.947	1	2	14	9	8	 
+2015	12120	712	TCNJ	-	Opponent Totals	-	-	-	-	 	632	261	49	0.948	1	6	38	11	5	 
+2015	12120	1400	Texas Lutheran	-	Totals	-	-	-	-	 	781	342	34	0.971	 	4	13	9	10	 
+2015	12120	1400	Texas Lutheran	-	Opponent Totals	-	-	-	-	 	718	269	69	0.935	 	13	100	9	6	 
+2015	12120	23121	Texas-Dallas	-	Totals	-	-	-	-	 	680	294	32	0.968	 	12	35	11	9	 
+2015	12120	23121	Texas-Dallas	-	Opponent Totals	-	-	-	-	 	690	359	61	0.945	 	10	37	7	13	 
+2015	12120	30028	Texas-Tyler	-	Totals	-	-	-	-	 	880	311	29	0.976	 	1	7	4	11	 
+2015	12120	30028	Texas-Tyler	-	Opponent Totals	-	-	-	-	 	816	373	78	0.938	1	10	57	2	11	 
+2015	12120	707	Thiel	-	Totals	-	-	-	-	 	623	212	61	0.932	 	2	20	5	5	 
+2015	12120	707	Thiel	-	Opponent Totals	-	-	-	-	 	628	277	51	0.947	 	8	8	 	8	 
+2015	12120	2758	Thomas (ME)	-	Totals	-	-	-	-	 	709	309	71	0.935	 	13	43	10	8	 
+2015	12120	2758	Thomas (ME)	-	Opponent Totals	-	-	-	-	 	718	274	60	0.943	 	14	26	4	3	 
+2015	12120	1402	Thomas More	-	Totals	-	-	-	-	 	864	366	59	0.954	 	6	26	11	11	 
+2015	12120	1402	Thomas More	-	Opponent Totals	-	-	-	-	 	868	308	76	0.939	 	5	35	13	14	 
+2015	12120	28749	Transylvania	-	Totals	-	-	-	-	 	689	294	53	0.949	 	8	53	1	12	 
+2015	12120	28749	Transylvania	-	Opponent Totals	-	-	-	-	 	710	292	45	0.957	 	14	31	9	8	 
+2015	12120	30037	Trine	-	Totals	-	-	-	-	 	837	215	42	0.962	 	5	17	13	9	 
+2015	12120	30037	Trine	-	Opponent Totals	-	-	-	-	 	793	284	78	0.932	 	18	107	9	11	 
+2015	12120	713	Trinity (CT)	-	Totals	-	-	-	-	 	597	170	57	0.931	 	8	49	3	6	 
+2015	12120	713	Trinity (CT)	-	Opponent Totals	-	-	-	-	 	618	277	30	0.968	 	2	4	4	8	 
+2015	12120	715	Trinity (TX)	-	Totals	-	-	-	-	 	598	204	51	0.940	 	2	36	6	4	 
+2015	12120	715	Trinity (TX)	-	Opponent Totals	-	-	-	-	 	581	259	63	0.930	 	6	26	6	10	 
+2015	12120	23413	Trinity Washington	-	Totals	-	-	-	-	 	198	76	63	0.813	 	19	72	1	2	 
+2015	12120	23413	Trinity Washington	-	Opponent Totals	-	-	-	-	 	231	68	12	0.961	 	8	17	4	1	 
+2015	12120	717	Tufts	-	Totals	-	-	-	-	 	807	228	44	0.959	 	4	15	11	8	 
+2015	12120	717	Tufts	-	Opponent Totals	-	-	-	-	 	754	322	68	0.941	 	17	43	9	13	 
+2015	12120	1255	U New England	-	Totals	-	-	-	-	 	783	271	52	0.953	 	14	30	8	8	 
+2015	12120	1255	U New England	-	Opponent Totals	-	-	-	-	 	784	366	54	0.955	 	13	64	9	9	 
+2015	12120	401	UMass Boston	-	Totals	-	-	-	-	 	574	227	53	0.938	 	6	45	8	9	 
+2015	12120	401	UMass Boston	-	Opponent Totals	-	-	-	-	 	594	252	41	0.954	 	7	28	7	9	 
+2015	12120	656	UMass Dartmouth	-	Totals	-	-	-	-	 	501	210	57	0.926	1	48	60	5	6	 
+2015	12120	656	UMass Dartmouth	-	Opponent Totals	-	-	-	-	 	522	241	51	0.937	 	9	14	5	7	 
+2015	12120	727	Union (NY)	-	Totals	-	-	-	-	 	689	282	48	0.953	 	3	28	8	11	 
+2015	12120	727	Union (NY)	-	Opponent Totals	-	-	-	-	 	701	258	46	0.954	 	7	13	5	12	 
+2015	12120	730	Ursinus	-	Totals	-	-	-	-	 	644	272	47	0.951	 	6	34	3	13	 
+2015	12120	730	Ursinus	-	Opponent Totals	-	-	-	-	 	645	266	47	0.951	 	6	31	2	6	 
+2015	12120	733	Utica	-	Totals	-	-	-	-	 	651	262	61	0.937	 	5	21	6	7	 
+2015	12120	733	Utica	-	Opponent Totals	-	-	-	-	 	641	244	50	0.947	 	11	52	4	3	 
+2015	12120	745	Va. Wesleyan	-	Totals	-	-	-	-	 	699	285	43	0.958	 	4	11	8	8	 
+2015	12120	745	Va. Wesleyan	-	Opponent Totals	-	-	-	-	 	657	265	54	0.945	1	9	126	13	10	 
+2015	12120	30166	Valley Forge	-	Totals	-	-	-	-	 	443	200	106	0.858	 	14	67	10	6	 
+2015	12120	30166	Valley Forge	-	Opponent Totals	-	-	-	-	 	465	176	60	0.914	 	8	29	3	6	 
+2015	12120	808	WPI	-	Totals	-	-	-	-	 	826	291	35	0.970	 	11	38	7	12	 
+2015	12120	808	WPI	-	Opponent Totals	-	-	-	-	 	797	314	78	0.934	1	14	95	3	5	 
+2015	12120	750	Wartburg	-	Totals	-	-	-	-	 	743	350	34	0.970	 	14	42	11	10	 
+2015	12120	750	Wartburg	-	Opponent Totals	-	-	-	-	 	740	322	54	0.952	 	23	37	4	6	 
+2015	12120	751	Wash. & Jeff.	-	Totals	-	-	-	-	 	667	273	31	0.968	 	6	11	5	13	 
+2015	12120	751	Wash. & Jeff.	-	Opponent Totals	-	-	-	-	 	668	285	63	0.938	 	8	11	2	6	1
+2015	12120	753	Washington Col.	-	Totals	-	-	-	-	 	682	226	55	0.943	 	12	34	4	6	 
+2015	12120	753	Washington Col.	-	Opponent Totals	-	-	-	-	 	680	306	51	0.951	 	5	33	8	12	 
+2015	12120	755	Washington-St. Louis	-	Totals	-	-	-	-	 	931	333	55	0.958	 	8	32	14	5	 
+2015	12120	755	Washington-St. Louis	-	Opponent Totals	-	-	-	-	 	903	426	70	0.950	 	11	85	20	16	 
+2015	12120	1434	Waynesburg	-	Totals	-	-	-	-	 	731	305	80	0.928	 	6	32	7	8	 
+2015	12120	1434	Waynesburg	-	Opponent Totals	-	-	-	-	 	746	295	49	0.955	 	9	13	9	11	 
+2015	12120	759	Webster	-	Totals	-	-	-	-	 	591	213	63	0.927	 	10	57	8	6	 
+2015	12120	759	Webster	-	Opponent Totals	-	-	-	-	 	613	295	46	0.952	 	12	23	2	8	 
+2015	12120	760	Wellesley	-	Totals	-	-	-	-	 	781	268	54	0.951	2	15	50	4	9	 
+2015	12120	760	Wellesley	-	Opponent Totals	-	-	-	-	 	763	357	69	0.942	 	12	49	10	10	 
+2015	12120	762	Wentworth	-	Totals	-	-	-	-	 	449	218	66	0.910	 	13	41	9	4	 
+2015	12120	762	Wentworth	-	Opponent Totals	-	-	-	-	 	477	222	61	0.920	 	10	35	3	13	 
+2015	12120	763	Wesley	-	Totals	-	-	-	-	 	649	262	40	0.958	 	12	25	9	8	 
+2015	12120	763	Wesley	-	Opponent Totals	-	-	-	-	 	638	273	62	0.936	 	19	59	8	6	1
+2015	12120	764	Wesleyan (CT)	-	Totals	-	-	-	-	 	613	170	46	0.945	1	 	26	3	4	 
+2015	12120	764	Wesleyan (CT)	-	Opponent Totals	-	-	-	-	 	616	275	42	0.955	 	7	15	3	6	 
+2015	12120	14718	Wesleyan (GA)	-	Totals	-	-	-	-	 	715	275	62	0.941	 	4	29	8	8	 
+2015	12120	14718	Wesleyan (GA)	-	Opponent Totals	-	-	-	-	 	738	323	73	0.936	2	13	15	11	14	 
+2015	12120	770	Western Conn. St.	-	Totals	-	-	-	-	 	706	298	56	0.947	 	4	17	3	12	 
+2015	12120	770	Western Conn. St.	-	Opponent Totals	-	-	-	-	 	698	333	68	0.938	 	20	100	20	7	 
+2015	12120	775	Western New Eng.	-	Totals	-	-	-	-	 	791	320	37	0.968	 	15	15	12	18	 
+2015	12120	775	Western New Eng.	-	Opponent Totals	-	-	-	-	 	753	309	69	0.939	 	16	20	4	6	 
+2015	12120	777	Westfield St.	-	Totals	-	-	-	-	 	592	262	51	0.944	 	13	26	16	7	 
+2015	12120	777	Westfield St.	-	Opponent Totals	-	-	-	-	 	597	259	64	0.930	 	9	48	16	11	 
+2015	12120	1450	Westminster (MO)	-	Totals	-	-	-	-	 	584	229	34	0.960	1	13	40	3	3	 
+2015	12120	1450	Westminster (MO)	-	Opponent Totals	-	-	-	-	 	603	254	39	0.956	 	22	26	8	12	 
+2015	12120	1451	Westminster (PA)	-	Totals	-	-	-	-	 	720	260	55	0.947	 	4	15	8	8	 
+2015	12120	1451	Westminster (PA)	-	Opponent Totals	-	-	-	-	 	702	317	57	0.947	 	6	17	8	6	 
+2015	12120	778	Wheaton (IL)	-	Totals	-	-	-	-	 	760	394	64	0.947	 	10	28	9	10	 
+2015	12120	778	Wheaton (IL)	-	Opponent Totals	-	-	-	-	 	749	275	79	0.928	1	8	20	4	16	 
+2015	12120	779	Wheaton (MA)	-	Totals	-	-	-	-	 	760	335	35	0.969	 	2	24	4	18	 
+2015	12120	779	Wheaton (MA)	-	Opponent Totals	-	-	-	-	 	722	262	66	0.937	 	8	61	9	12	 
+2015	12120	8896	Wheelock	-	Totals	-	-	-	-	 	404	179	85	0.873	 	21	39	9	3	 
+2015	12120	8896	Wheelock	-	Opponent Totals	-	-	-	-	 	432	150	47	0.925	 	17	10	1	4	 
+2015	12120	781	Whittier	-	Totals	-	-	-	-	 	888	445	75	0.947	 	7	25	10	12	 
+2015	12120	781	Whittier	-	Opponent Totals	-	-	-	-	 	878	344	55	0.957	1	6	57	4	12	 
+2015	12120	1454	Whitworth	-	Totals	-	-	-	-	 	852	328	45	0.963	1	1	28	12	11	 
+2015	12120	1454	Whitworth	-	Opponent Totals	-	-	-	-	 	831	354	58	0.953	 	5	46	9	13	 
+2015	12120	783	Widener	-	Totals	-	-	-	-	 	691	237	50	0.949	 	10	21	5	11	 
+2015	12120	783	Widener	-	Opponent Totals	-	-	-	-	 	659	301	62	0.939	 	14	39	13	5	 
+2015	12120	784	Wilkes	-	Totals	-	-	-	-	 	628	260	69	0.928	 	13	38	7	3	 
+2015	12120	784	Wilkes	-	Opponent Totals	-	-	-	-	 	629	303	48	0.951	 	14	32	2	11	 
+2015	12120	785	Willamette	-	Totals	-	-	-	-	 	702	315	64	0.941	2	6	44	8	6	 
+2015	12120	785	Willamette	-	Opponent Totals	-	-	-	-	 	729	307	59	0.946	6	9	106	27	12	 
+2015	12120	17094	William Peace	-	Totals	-	-	-	-	 	750	350	53	0.954	1	10	49	1	15	 
+2015	12120	17094	William Peace	-	Opponent Totals	-	-	-	-	 	738	277	48	0.955	3	7	16	2	13	 
+2015	12120	789	Williams	-	Totals	-	-	-	-	 	822	281	37	0.968	 	7	37	6	11	 
+2015	12120	789	Williams	-	Opponent Totals	-	-	-	-	 	817	341	75	0.939	 	5	51	9	15	 
+2015	12120	1461	Wilmington (OH)	-	Totals	-	-	-	-	 	701	267	76	0.927	2	10	64	9	9	 
+2015	12120	1461	Wilmington (OH)	-	Opponent Totals	-	-	-	-	 	727	336	47	0.958	 	4	32	3	7	 
+2015	12120	12973	Wilson	-	Totals	-	-	-	-	 	596	212	56	0.935	 	13	32	3	6	 
+2015	12120	12973	Wilson	-	Opponent Totals	-	-	-	-	 	584	228	72	0.919	 	14	49	6	4	 
+2015	12120	8911	Wis. Lutheran	-	Totals	-	-	-	-	 	739	339	68	0.941	 	10	66	10	11	 
+2015	12120	8911	Wis. Lutheran	-	Opponent Totals	-	-	-	-	 	756	315	63	0.944	 	8	55	6	9	 
+2015	12120	793	Wis.-Eau Claire	-	Totals	-	-	-	-	 	824	327	59	0.951	 	4	40	9	10	 
+2015	12120	793	Wis.-Eau Claire	-	Opponent Totals	-	-	-	-	 	826	385	64	0.950	 	11	87	15	5	 
+2015	12120	795	Wis.-La Crosse	-	Totals	-	-	-	-	 	816	384	50	0.960	 	5	31	14	10	 
+2015	12120	795	Wis.-La Crosse	-	Opponent Totals	-	-	-	-	 	803	336	84	0.931	 	11	29	4	8	 
+2015	12120	798	Wis.-Oshkosh	-	Totals	-	-	-	-	 	803	314	46	0.960	 	5	24	6	6	 
+2015	12120	798	Wis.-Oshkosh	-	Opponent Totals	-	-	-	-	 	771	334	54	0.953	 	8	67	3	13	 
+2015	12120	800	Wis.-Platteville	-	Totals	-	-	-	-	 	754	359	70	0.941	 	16	69	7	8	 
+2015	12120	800	Wis.-Platteville	-	Opponent Totals	-	-	-	-	 	779	298	72	0.937	2	22	40	9	9	 
+2015	12120	801	Wis.-River Falls	-	Totals	-	-	-	-	 	891	429	66	0.952	 	17	35	13	15	 
+2015	12120	801	Wis.-River Falls	-	Opponent Totals	-	-	-	-	 	894	414	70	0.949	 	19	25	9	8	 
+2015	12120	802	Wis.-Stevens Point	-	Totals	-	-	-	-	 	779	403	53	0.957	 	12	54	4	11	 
+2015	12120	802	Wis.-Stevens Point	-	Opponent Totals	-	-	-	-	 	810	314	41	0.965	 	10	16	4	8	 
+2015	12120	803	Wis.-Stout	-	Totals	-	-	-	-	 	834	395	88	0.933	1	16	48	16	9	 
+2015	12120	803	Wis.-Stout	-	Opponent Totals	-	-	-	-	 	845	413	86	0.936	1	20	45	15	13	 
+2015	12120	804	Wis.-Superior	-	Totals	-	-	-	-	 	677	285	62	0.939	 	9	34	7	10	 
+2015	12120	804	Wis.-Superior	-	Opponent Totals	-	-	-	-	 	667	313	64	0.939	 	16	51	15	14	 
+2015	12120	805	Wis.-Whitewater	-	Totals	-	-	-	-	 	897	336	47	0.963	 	8	30	4	9	 
+2015	12120	805	Wis.-Whitewater	-	Opponent Totals	-	-	-	-	 	855	336	68	0.946	 	11	43	5	9	 
+2015	12120	806	Wittenberg	-	Totals	-	-	-	-	 	758	361	77	0.936	1	9	48	4	8	 
+2015	12120	806	Wittenberg	-	Opponent Totals	-	-	-	-	 	757	301	47	0.957	 	9	42	7	6	 
+2015	12120	787	Wm. Paterson	-	Totals	-	-	-	-	 	917	377	54	0.960	1	4	20	3	11	 
+2015	12120	787	Wm. Paterson	-	Opponent Totals	-	-	-	-	 	896	400	68	0.950	 	5	35	10	9	 
+2015	12120	807	Wooster	-	Totals	-	-	-	-	 	662	293	36	0.964	 	5	18	3	13	 
+2015	12120	807	Wooster	-	Opponent Totals	-	-	-	-	 	671	284	57	0.944	 	8	41	6	7	 
+2015	12120	809	Worcester St.	-	Totals	-	-	-	-	 	736	320	42	0.962	 	8	32	11	8	 
+2015	12120	809	Worcester St.	-	Opponent Totals	-	-	-	-	 	730	303	65	0.941	 	11	38	6	6	 
+2015	12120	814	Yeshiva	-	Totals	-	-	-	-	 	361	137	87	0.851	 	18	74	4	8	 
+2015	12120	814	Yeshiva	-	Opponent Totals	-	-	-	-	 	387	114	49	0.911	 	13	24	3	5	 
+2015	12120	2730	York (NY)	-	Totals	-	-	-	-	 	344	131	93	0.836	 	21	54	3	9	 
+2015	12120	2730	York (NY)	-	Opponent Totals	-	-	-	-	 	377	123	34	0.936	1	13	47	11	8	 
+2015	12120	815	York (PA)	-	Totals	-	-	-	-	 	777	370	49	0.959	 	5	9	9	13	 
+2015	12120	815	York (PA)	-	Opponent Totals	-	-	-	-	 	777	337	58	0.951	 	20	37	9	9	 
