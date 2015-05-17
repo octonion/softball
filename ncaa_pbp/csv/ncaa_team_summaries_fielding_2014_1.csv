@@ -1,0 +1,590 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+2014	11640	26172	A&M-Corpus Chris	-	Totals	-	-	-	-	 	1,002	497	80	0.949	1	8	67	17	16	 
+2014	11640	26172	A&M-Corpus Chris	-	Opponent Totals	-	-	-	-	 	1,039	398	74	0.951	1	11	38	13	17	 
+2014	11640	2	Abilene Christian	-	Totals	-	-	-	-	 	959	310	81	0.940	 	15	59	15	8	 
+2014	11640	2	Abilene Christian	-	Opponent Totals	-	-	-	-	 	955	449	67	0.954	 	11	50	13	10	 
+2014	11640	5	Akron	-	Totals	-	-	-	-	 	874	428	36	0.973	1	3	50	8	17	 
+2014	11640	5	Akron	-	Opponent Totals	-	-	-	-	 	851	339	48	0.961	 	8	88	21	7	 
+2014	11640	8	Alabama	-	Totals	-	-	-	-	 	1,312	410	52	0.971	1	8	39	11	19	 
+2014	11640	8	Alabama	-	Opponent Totals	-	-	-	-	 	1,260	508	89	0.952	 	12	86	19	34	 
+2014	11640	6	Alabama A&M	-	Totals	-	-	-	-	 	818	344	85	0.932	 	33	87	4	5	 
+2014	11640	6	Alabama A&M	-	Opponent Totals	-	-	-	-	 	853	384	76	0.942	1	29	55	13	17	 
+2014	11640	7	Alabama St.	-	Totals	-	-	-	-	 	778	393	88	0.930	 	17	68	15	7	 
+2014	11640	7	Alabama St.	-	Opponent Totals	-	-	-	-	 	791	312	56	0.952	 	23	52	8	10	 
+2014	11640	14	Albany (NY)	-	Totals	-	-	-	-	 	956	291	44	0.966	2	9	45	9	4	 
+2014	11640	14	Albany (NY)	-	Opponent Totals	-	-	-	-	 	932	382	83	0.941	 	12	78	14	14	 
+2014	11640	17	Alcorn	-	Totals	-	-	-	-	 	807	321	80	0.934	 	29	97	16	10	 
+2014	11640	17	Alcorn	-	Opponent Totals	-	-	-	-	 	855	336	62	0.951	 	8	60	17	13	 
+2014	11640	27	Appalachian St.	-	Totals	-	-	-	-	 	1,006	413	67	0.955	 	11	37	9	20	 
+2014	11640	27	Appalachian St.	-	Opponent Totals	-	-	-	-	 	1,027	436	76	0.951	2	7	58	10	13	 
+2014	11640	29	Arizona	-	Totals	-	-	-	-	 	1,106	410	39	0.975	1	2	26	9	17	 
+2014	11640	29	Arizona	-	Opponent Totals	-	-	-	-	 	1,035	375	65	0.956	 	11	24	4	25	 
+2014	11640	28	Arizona St.	-	Totals	-	-	-	-	 	1,148	366	46	0.971	 	7	16	8	13	 
+2014	11640	28	Arizona St.	-	Opponent Totals	-	-	-	-	 	1,061	417	57	0.963	2	19	48	10	14	 
+2014	11640	2678	Ark.-Pine Bluff	-	Totals	-	-	-	-	 	818	290	80	0.933	 	21	83	8	7	 
+2014	11640	2678	Ark.-Pine Bluff	-	Opponent Totals	-	-	-	-	 	872	356	52	0.959	1	13	17	7	19	1
+2014	11640	31	Arkansas	-	Totals	-	-	-	-	 	1,006	473	68	0.956	 	2	37	19	23	 
+2014	11640	31	Arkansas	-	Opponent Totals	-	-	-	-	 	993	358	77	0.946	3	8	52	9	13	 
+2014	11640	725	Army West Point	-	Totals	-	-	-	-	 	998	481	56	0.964	 	9	42	15	17	 
+2014	11640	725	Army West Point	-	Opponent Totals	-	-	-	-	 	1,006	444	66	0.956	 	8	115	22	15	 
+2014	11640	37	Auburn	-	Totals	-	-	-	-	 	1,174	481	35	0.979	 	10	32	6	39	1
+2014	11640	37	Auburn	-	Opponent Totals	-	-	-	-	 	1,126	425	76	0.953	 	15	17	1	19	1
+2014	11640	43	Austin Peay	-	Totals	-	-	-	-	 	999	450	76	0.950	 	10	60	11	31	 
+2014	11640	43	Austin Peay	-	Opponent Totals	-	-	-	-	 	1,010	394	62	0.958	 	12	21	5	13	 
+2014	11640	77	BYU	-	Totals	-	-	-	-	 	1,117	395	61	0.961	 	8	29	10	17	1
+2014	11640	77	BYU	-	Opponent Totals	-	-	-	-	 	1,094	450	81	0.950	 	15	47	14	16	 
+2014	11640	94	Bakersfield	-	Totals	-	-	-	-	 	1,117	448	85	0.948	2	15	55	13	14	 
+2014	11640	94	Bakersfield	-	Opponent Totals	-	-	-	-	 	1,159	493	51	0.970	 	18	43	15	16	 
+2014	11640	47	Ball St.	-	Totals	-	-	-	-	 	986	434	52	0.965	 	8	48	10	20	 
+2014	11640	47	Ball St.	-	Opponent Totals	-	-	-	-	 	975	331	59	0.957	 	15	28	11	15	 
+2014	11640	51	Baylor	-	Totals	-	-	-	-	 	1,327	340	61	0.965	2	8	28	7	10	 
+2014	11640	51	Baylor	-	Opponent Totals	-	-	-	-	 	1,275	501	73	0.961	3	12	72	24	23	 
+2014	11640	14927	Belmont	-	Totals	-	-	-	-	 	941	460	65	0.956	 	3	64	15	40	 
+2014	11640	14927	Belmont	-	Opponent Totals	-	-	-	-	 	976	413	58	0.960	 	7	38	8	30	 
+2014	11640	61	Bethune-Cookman	-	Totals	-	-	-	-	 	1,122	442	80	0.951	 	10	70	11	11	 
+2014	11640	61	Bethune-Cookman	-	Opponent Totals	-	-	-	-	 	1,120	497	75	0.956	 	12	53	10	18	 
+2014	11640	62	Binghamton	-	Totals	-	-	-	-	 	918	406	65	0.953	 	10	43	12	18	 
+2014	11640	62	Binghamton	-	Opponent Totals	-	-	-	-	 	916	347	56	0.958	1	2	120	23	10	 
+2014	11640	66	Boise St.	-	Totals	-	-	-	-	 	1,024	492	79	0.950	1	4	35	7	18	 
+2014	11640	66	Boise St.	-	Opponent Totals	-	-	-	-	 	1,005	353	41	0.971	 	7	104	20	10	 
+2014	11640	67	Boston College	-	Totals	-	-	-	-	 	1,029	413	43	0.971	 	7	39	14	15	 
+2014	11640	67	Boston College	-	Opponent Totals	-	-	-	-	 	1,029	397	58	0.961	 	18	46	18	16	 
+2014	11640	68	Boston U.	-	Totals	-	-	-	-	 	1,146	472	70	0.959	 	9	46	9	18	 
+2014	11640	68	Boston U.	-	Opponent Totals	-	-	-	-	 	1,129	468	94	0.944	4	11	105	15	25	 
+2014	11640	71	Bowling Green	-	Totals	-	-	-	-	 	1,049	542	69	0.958	2	5	38	18	16	 
+2014	11640	71	Bowling Green	-	Opponent Totals	-	-	-	-	 	1,055	371	63	0.958	 	8	33	13	13	 
+2014	11640	72	Bradley	-	Totals	-	-	-	-	 	1,140	509	87	0.950	 	3	49	11	25	 
+2014	11640	72	Bradley	-	Opponent Totals	-	-	-	-	 	1,151	423	54	0.967	 	10	28	13	27	 
+2014	11640	80	Brown	-	Totals	-	-	-	-	 	712	306	57	0.947	 	10	53	5	13	 
+2014	11640	80	Brown	-	Opponent Totals	-	-	-	-	 	771	343	29	0.975	 	6	29	10	3	 
+2014	11640	81	Bryant	-	Totals	-	-	-	-	 	1,078	479	45	0.972	1	7	55	9	27	 
+2014	11640	81	Bryant	-	Opponent Totals	-	-	-	-	 	1,068	416	67	0.957	3	11	61	16	28	 
+2014	11640	83	Bucknell	-	Totals	-	-	-	-	 	988	398	52	0.964	 	4	74	9	7	 
+2014	11640	83	Bucknell	-	Opponent Totals	-	-	-	-	 	995	428	75	0.950	 	7	67	13	15	 
+2014	11640	86	Buffalo	-	Totals	-	-	-	-	 	1,072	303	53	0.963	1	11	40	17	9	 
+2014	11640	86	Buffalo	-	Opponent Totals	-	-	-	-	 	1,069	484	63	0.961	 	9	50	20	13	 
+2014	11640	87	Butler	-	Totals	-	-	-	-	 	1,065	348	44	0.970	1	6	48	9	13	 
+2014	11640	87	Butler	-	Opponent Totals	-	-	-	-	 	1,078	470	78	0.952	 	6	48	16	13	 
+2014	11640	101	CSUN	-	Totals	-	-	-	-	 	1,143	449	72	0.957	1	46	55	8	35	 
+2014	11640	101	CSUN	-	Opponent Totals	-	-	-	-	 	1,129	460	89	0.947	 	18	69	21	17	 
+2014	11640	90	Cal Poly	-	Totals	-	-	-	-	 	1,104	347	44	0.971	1	11	37	22	8	 
+2014	11640	90	Cal Poly	-	Opponent Totals	-	-	-	-	 	1,077	480	64	0.961	4	9	36	6	26	 
+2014	11640	97	Cal St. Fullerton	-	Totals	-	-	-	-	 	1,088	447	51	0.968	 	6	31	11	16	 
+2014	11640	97	Cal St. Fullerton	-	Opponent Totals	-	-	-	-	 	1,038	404	80	0.947	3	13	40	15	12	 
+2014	11640	107	California	-	Totals	-	-	-	-	 	984	344	46	0.967	 	4	17	14	19	 
+2014	11640	107	California	-	Opponent Totals	-	-	-	-	 	997	410	42	0.971	 	9	28	11	23	 
+2014	11640	115	Campbell	-	Totals	-	-	-	-	 	1,183	436	57	0.966	 	14	61	18	17	 
+2014	11640	115	Campbell	-	Opponent Totals	-	-	-	-	 	1,167	530	64	0.964	1	7	71	18	23	 
+2014	11640	116	Canisius	-	Totals	-	-	-	-	 	946	443	73	0.950	 	5	57	15	18	 
+2014	11640	116	Canisius	-	Opponent Totals	-	-	-	-	 	968	395	42	0.970	 	11	29	11	16	 
+2014	11640	1004	Central Ark.	-	Totals	-	-	-	-	 	1,124	372	84	0.947	 	9	51	15	10	 
+2014	11640	1004	Central Ark.	-	Opponent Totals	-	-	-	-	 	1,141	368	61	0.961	 	13	53	14	22	1
+2014	11640	127	Central Conn. St.	-	Totals	-	-	-	-	 	908	281	49	0.960	1	3	33	8	6	 
+2014	11640	127	Central Conn. St.	-	Opponent Totals	-	-	-	-	 	894	358	54	0.959	2	6	27	6	10	 
+2014	11640	129	Central Mich.	-	Totals	-	-	-	-	 	1,124	439	58	0.964	 	9	27	18	14	 
+2014	11640	129	Central Mich.	-	Opponent Totals	-	-	-	-	 	1,104	388	67	0.957	 	13	86	16	4	 
+2014	11640	48	Charleston So.	-	Totals	-	-	-	-	 	1,205	487	85	0.952	 	17	75	11	18	 
+2014	11640	48	Charleston So.	-	Opponent Totals	-	-	-	-	 	1,204	507	56	0.968	 	9	47	13	28	 
+2014	11640	458	Charlotte	-	Totals	-	-	-	-	 	942	403	60	0.957	 	3	58	15	10	 
+2014	11640	458	Charlotte	-	Opponent Totals	-	-	-	-	 	957	349	42	0.969	 	12	10	5	15	 
+2014	11640	693	Chattanooga	-	Totals	-	-	-	-	 	1,086	425	73	0.954	 	6	35	20	19	 
+2014	11640	693	Chattanooga	-	Opponent Totals	-	-	-	-	 	1,065	414	67	0.957	 	4	26	5	9	 
+2014	11640	148	Cleveland St.	-	Totals	-	-	-	-	 	871	382	53	0.959	 	10	38	6	7	 
+2014	11640	148	Cleveland St.	-	Opponent Totals	-	-	-	-	 	878	399	49	0.963	 	6	32	22	20	 
+2014	11640	149	Coastal Caro.	-	Totals	-	-	-	-	 	1,111	448	42	0.974	 	1	24	12	21	 
+2014	11640	149	Coastal Caro.	-	Opponent Totals	-	-	-	-	 	1,042	357	64	0.956	2	6	85	15	7	 
+2014	11640	1014	Col. of Charleston	-	Totals	-	-	-	-	 	1,124	493	51	0.969	2	15	29	13	11	 
+2014	11640	1014	Col. of Charleston	-	Opponent Totals	-	-	-	-	 	1,074	409	66	0.957	 	12	60	13	23	 
+2014	11640	153	Colgate	-	Totals	-	-	-	-	 	851	407	104	0.924	1	7	70	16	16	 
+2014	11640	153	Colgate	-	Opponent Totals	-	-	-	-	 	876	327	46	41.478	 	8	29	11	13	 
+2014	11640	156	Colorado St.	-	Totals	-	-	-	-	 	981	457	54	0.964	1	12	27	10	12	 
+2014	11640	156	Colorado St.	-	Opponent Totals	-	-	-	-	 	959	382	53	0.962	 	9	32	9	14	 
+2014	11640	158	Columbia	-	Totals	-	-	-	-	 	835	399	51	0.960	 	15	39	11	14	 
+2014	11640	158	Columbia	-	Opponent Totals	-	-	-	-	 	841	334	42	0.965	1	4	24	5	7	 
+2014	11640	165	Coppin St.	-	Totals	-	-	-	-	 	718	318	69	0.938	 	8	52	13	15	 
+2014	11640	165	Coppin St.	-	Opponent Totals	-	-	-	-	 	750	307	57	0.949	 	24	46	9	12	 
+2014	11640	167	Cornell	-	Totals	-	-	-	-	 	866	342	46	0.963	 	15	42	8	5	 
+2014	11640	167	Cornell	-	Opponent Totals	-	-	-	-	 	895	372	45	0.966	1	5	9	3	10	 
+2014	11640	169	Creighton	-	Totals	-	-	-	-	 	1,072	361	61	0.959	 	10	47	15	13	 
+2014	11640	169	Creighton	-	Opponent Totals	-	-	-	-	 	1,068	358	50	51.221	 	9	40	13	15	 
+2014	11640	172	Dartmouth	-	Totals	-	-	-	-	 	1,000	399	41	0.972	 	7	45	4	10	 
+2014	11640	172	Dartmouth	-	Opponent Totals	-	-	-	-	 	993	356	45	0.968	 	9	23	5	15	 
+2014	11640	175	Dayton	-	Totals	-	-	-	-	 	1,129	383	75	0.953	3	14	71	9	11	 
+2014	11640	175	Dayton	-	Opponent Totals	-	-	-	-	 	1,136	464	71	0.958	 	8	47	9	14	 
+2014	11640	176	DePaul	-	Totals	-	-	-	-	 	1,073	434	63	0.960	 	16	57	15	13	 
+2014	11640	176	DePaul	-	Opponent Totals	-	-	-	-	 	1,037	401	76	0.950	1	15	53	19	21	 
+2014	11640	180	Delaware	-	Totals	-	-	-	-	 	946	336	59	0.956	 	9	53	17	8	 
+2014	11640	180	Delaware	-	Opponent Totals	-	-	-	-	 	957	446	56	0.962	 	6	64	15	12	 
+2014	11640	178	Delaware St.	-	Totals	-	-	-	-	 	991	407	63	0.957	1	5	57	8	14	 
+2014	11640	178	Delaware St.	-	Opponent Totals	-	-	-	-	 	960	449	93	0.938	1	9	37	9	13	 
+2014	11640	184	Detroit	-	Totals	-	-	-	-	 	876	410	67	0.950	1	12	55	14	10	 
+2014	11640	184	Detroit	-	Opponent Totals	-	-	-	-	 	933	344	54	0.959	2	7	36	11	15	 
+2014	11640	189	Drake	-	Totals	-	-	-	-	 	1,029	462	68	0.956	 	12	86	15	8	 
+2014	11640	189	Drake	-	Opponent Totals	-	-	-	-	 	1,052	380	58	0.961	 	7	51	11	17	 
+2014	11640	191	Drexel	-	Totals	-	-	-	-	 	840	329	64	0.948	1	11	78	13	8	 
+2014	11640	191	Drexel	-	Opponent Totals	-	-	-	-	 	851	324	65	0.948	 	10	34	6	3	 
+2014	11640	196	East Carolina	-	Totals	-	-	-	-	 	957	437	56	0.961	 	8	37	8	8	 
+2014	11640	196	East Carolina	-	Opponent Totals	-	-	-	-	 	948	361	48	0.965	1	8	93	11	5	 
+2014	11640	198	East Tenn. St.	-	Totals	-	-	-	-	 	999	451	78	0.949	 	8	43	10	16	 
+2014	11640	198	East Tenn. St.	-	Opponent Totals	-	-	-	-	 	993	416	46	0.968	 	6	31	5	8	 
+2014	11640	201	Eastern Ill.	-	Totals	-	-	-	-	 	1,141	413	62	0.962	 	6	44	18	11	 
+2014	11640	201	Eastern Ill.	-	Opponent Totals	-	-	-	-	 	1,122	460	82	0.951	1	10	72	21	20	 
+2014	11640	202	Eastern Ky.	-	Totals	-	-	-	-	 	1,022	281	43	0.968	 	2	46	12	11	 
+2014	11640	202	Eastern Ky.	-	Opponent Totals	-	-	-	-	 	1,020	482	65	0.959	 	12	43	18	22	 
+2014	11640	204	Eastern Mich.	-	Totals	-	-	-	-	 	989	431	75	0.950	 	10	84	9	6	 
+2014	11640	204	Eastern Mich.	-	Opponent Totals	-	-	-	-	 	1,037	389	58	0.961	 	6	23	11	13	 
+2014	11640	1068	Elon	-	Totals	-	-	-	-	 	1,051	452	54	0.965	1	15	50	12	11	 
+2014	11640	1068	Elon	-	Opponent Totals	-	-	-	-	 	1,052	308	61	0.957	 	8	50	10	16	 
+2014	11640	219	Evansville	-	Totals	-	-	-	-	 	993	409	66	0.955	 	26	85	7	18	 
+2014	11640	219	Evansville	-	Opponent Totals	-	-	-	-	 	1,014	379	50	0.965	1	10	53	21	13	 
+2014	11640	28755	FGCU	-	Totals	-	-	-	-	 	1,145	558	65	0.963	 	15	34	8	31	 
+2014	11640	28755	FGCU	-	Opponent Totals	-	-	-	-	 	1,109	416	60	0.962	1	7	42	9	17	 
+2014	11640	231	FIU	-	Totals	-	-	-	-	 	1,039	338	61	0.958	1	17	39	15	13	1
+2014	11640	231	FIU	-	Opponent Totals	-	-	-	-	 	1,008	426	66	0.956	 	12	55	14	9	 
+2014	11640	220	Fairfield	-	Totals	-	-	-	-	 	810	314	48	0.959	 	6	32	16	13	 
+2014	11640	220	Fairfield	-	Opponent Totals	-	-	-	-	 	816	366	47	0.962	 	7	38	17	14	 
+2014	11640	222	Fairleigh Dickinson	-	Totals	-	-	-	-	 	832	303	49	0.959	 	2	41	11	14	 
+2014	11640	222	Fairleigh Dickinson	-	Opponent Totals	-	-	-	-	 	845	370	53	0.958	1	5	39	10	15	 
+2014	11640	229	Fla. Atlantic	-	Totals	-	-	-	-	 	1,160	517	52	0.970	 	3	27	13	15	 
+2014	11640	229	Fla. Atlantic	-	Opponent Totals	-	-	-	-	 	1,139	457	76	0.955	 	13	33	14	19	 
+2014	11640	235	Florida	-	Totals	-	-	-	-	 	1,305	472	40	0.978	 	3	18	14	28	 
+2014	11640	235	Florida	-	Opponent Totals	-	-	-	-	 	1,237	463	89	0.950	 	12	115	14	17	 
+2014	11640	228	Florida A&M	-	Totals	-	-	-	-	 	1,028	427	75	0.951	 	9	51	17	7	 
+2014	11640	228	Florida A&M	-	Opponent Totals	-	-	-	-	 	1,023	429	81	0.947	 	11	94	15	9	 
+2014	11640	234	Florida St.	-	Totals	-	-	-	-	 	1,265	509	57	0.969	 	16	46	11	15	 
+2014	11640	234	Florida St.	-	Opponent Totals	-	-	-	-	 	1,187	474	64	0.963	 	12	64	18	28	 
+2014	11640	236	Fordham	-	Totals	-	-	-	-	 	1,088	461	53	0.967	 	8	58	15	19	 
+2014	11640	236	Fordham	-	Opponent Totals	-	-	-	-	 	1,067	396	55	0.964	1	15	20	10	24	 
+2014	11640	96	Fresno St.	-	Totals	-	-	-	-	 	1,052	423	45	0.970	 	7	32	5	27	 
+2014	11640	96	Fresno St.	-	Opponent Totals	-	-	-	-	 	1,036	477	78	0.951	 	6	74	17	18	 
+2014	11640	244	Furman	-	Totals	-	-	-	-	 	1,100	452	46	0.971	 	9	28	19	21	 
+2014	11640	244	Furman	-	Opponent Totals	-	-	-	-	 	1,101	345	59	0.961	 	12	49	16	14	 
+2014	11640	253	Ga. Southern	-	Totals	-	-	-	-	 	1,137	305	42	0.972	1	6	61	10	11	 
+2014	11640	253	Ga. Southern	-	Opponent Totals	-	-	-	-	 	1,121	465	72	0.957	 	8	33	7	18	 
+2014	11640	1092	Gardner-Webb	-	Totals	-	-	-	-	 	1,045	343	69	0.953	 	18	65	9	18	 
+2014	11640	1092	Gardner-Webb	-	Opponent Totals	-	-	-	-	 	1,066	441	64	0.959	 	10	45	7	11	 
+2014	11640	248	George Mason	-	Totals	-	-	-	-	 	848	401	49	0.962	 	15	43	13	15	 
+2014	11640	248	George Mason	-	Opponent Totals	-	-	-	-	 	847	443	72	0.947	1	8	51	8	7	 
+2014	11640	249	George Washington	-	Totals	-	-	-	-	 	965	357	68	0.951	 	8	71	19	7	 
+2014	11640	249	George Washington	-	Opponent Totals	-	-	-	-	 	974	439	62	0.958	 	13	91	25	14	 
+2014	11640	251	Georgetown	-	Totals	-	-	-	-	 	950	251	54	0.957	 	10	42	15	10	 
+2014	11640	251	Georgetown	-	Opponent Totals	-	-	-	-	 	954	397	69	0.951	 	13	34	7	27	 
+2014	11640	257	Georgia	-	Totals	-	-	-	-	 	1,240	427	60	0.965	 	9	17	8	23	 
+2014	11640	257	Georgia	-	Opponent Totals	-	-	-	-	 	1,160	404	66	0.960	 	15	51	15	29	 
+2014	11640	254	Georgia St.	-	Totals	-	-	-	-	 	1,119	406	59	0.963	 	12	36	13	21	 
+2014	11640	254	Georgia St.	-	Opponent Totals	-	-	-	-	 	1,116	386	81	0.949	4	15	47	8	14	 
+2014	11640	255	Georgia Tech	-	Totals	-	-	-	-	 	912	388	52	0.962	2	9	30	13	16	 
+2014	11640	255	Georgia Tech	-	Opponent Totals	-	-	-	-	 	908	363	49	0.963	 	8	65	6	14	 
+2014	11640	261	Grambling	-	Totals	-	-	-	-	 	629	235	86	0.909	 	9	75	15	7	 
+2014	11640	261	Grambling	-	Opponent Totals	-	-	-	-	 	655	253	58	0.940	 	19	38	9	3	 
+2014	11640	1104	Grand Canyon	-	Totals	-	-	-	-	 	960	363	38	0.972	1	11	25	9	17	 
+2014	11640	1104	Grand Canyon	-	Opponent Totals	-	-	-	-	 	982	457	100	0.935	1	10	23	4	16	 
+2014	11640	794	Green Bay	-	Totals	-	-	-	-	 	802	366	46	0.962	1	5	47	7	12	 
+2014	11640	794	Green Bay	-	Opponent Totals	-	-	-	-	 	767	303	42	0.962	 	12	27	8	7	 
+2014	11640	270	Hampton	-	Totals	-	-	-	-	 	920	392	66	0.952	 	16	60	10	3	 
+2014	11640	270	Hampton	-	Opponent Totals	-	-	-	-	 	901	424	65	0.953	 	8	78	21	18	 
+2014	11640	272	Hartford	-	Totals	-	-	-	-	 	691	336	52	0.952	 	3	58	8	9	 
+2014	11640	272	Hartford	-	Opponent Totals	-	-	-	-	 	729	307	37	0.966	 	5	25	10	7	 
+2014	11640	275	Harvard	-	Totals	-	-	-	-	 	888	371	38	0.971	 	12	41	3	21	 
+2014	11640	275	Harvard	-	Opponent Totals	-	-	-	-	 	878	401	68	0.950	1	9	82	13	28	 
+2014	11640	277	Hawaii	-	Totals	-	-	-	-	 	992	498	70	0.955	1	10	22	11	24	 
+2014	11640	277	Hawaii	-	Opponent Totals	-	-	-	-	 	994	355	40	0.971	 	7	21	3	21	 
+2014	11640	283	Hofstra	-	Totals	-	-	-	-	 	959	399	52	0.963	1	4	12	12	22	 
+2014	11640	283	Hofstra	-	Opponent Totals	-	-	-	-	 	936	354	68	0.950	 	6	57	5	12	 
+2014	11640	285	Holy Cross	-	Totals	-	-	-	-	 	739	241	34	0.966	 	5	46	8	10	 
+2014	11640	285	Holy Cross	-	Opponent Totals	-	-	-	-	 	768	319	44	0.961	 	6	46	13	9	 
+2014	11640	288	Houston	-	Totals	-	-	-	-	 	1,136	569	66	0.963	1	6	29	8	32	 
+2014	11640	288	Houston	-	Opponent Totals	-	-	-	-	 	1,111	408	85	0.947	1	10	69	17	12	 
+2014	11640	287	Houston Baptist	-	Totals	-	-	-	-	 	955	320	51	0.962	 	11	66	8	13	 
+2014	11640	287	Houston Baptist	-	Opponent Totals	-	-	-	-	 	976	396	55	0.961	 	6	14	3	12	 
+2014	11640	290	Howard	-	Totals	-	-	-	-	 	689	400	110	0.908	 	25	111	13	5	 
+2014	11640	290	Howard	-	Opponent Totals	-	-	-	-	 	731	317	52	0.953	 	15	9	9	11	 
+2014	11640	308	IPFW	-	Totals	-	-	-	-	 	1,093	351	56	0.963	 	11	35	20	12	 
+2014	11640	308	IPFW	-	Opponent Totals	-	-	-	-	 	1,079	454	60	0.962	1	9	35	10	40	 
+2014	11640	2699	IUPUI	-	Totals	-	-	-	-	 	925	367	57	0.958	 	10	47	12	14	 
+2014	11640	2699	IUPUI	-	Opponent Totals	-	-	-	-	 	933	360	62	0.954	 	8	66	11	21	 
+2014	11640	294	Idaho St.	-	Totals	-	-	-	-	 	1,065	407	57	0.963	 	7	23	19	13	 
+2014	11640	294	Idaho St.	-	Opponent Totals	-	-	-	-	 	1,054	419	86	0.945	1	15	69	11	18	 
+2014	11640	302	Ill.-Chicago	-	Totals	-	-	-	-	 	857	341	76	0.940	2	4	36	12	9	 
+2014	11640	302	Ill.-Chicago	-	Opponent Totals	-	-	-	-	 	877	410	48	0.964	 	3	36	11	13	 
+2014	11640	301	Illinois	-	Totals	-	-	-	-	 	993	500	55	0.964	 	7	40	12	34	 
+2014	11640	301	Illinois	-	Opponent Totals	-	-	-	-	 	1,002	366	66	0.954	 	11	42	19	19	 
+2014	11640	299	Illinois St.	-	Totals	-	-	-	-	 	1,044	408	39	0.974	 	5	27	17	10	 
+2014	11640	299	Illinois St.	-	Opponent Totals	-	-	-	-	 	1,059	330	56	0.961	2	6	49	8	15	 
+2014	11640	2743	Incarnate Word	-	Totals	-	-	-	-	 	930	347	79	0.942	 	9	75	6	16	1
+2014	11640	2743	Incarnate Word	-	Opponent Totals	-	-	-	-	 	950	385	64	0.954	 	12	56	11	15	 
+2014	11640	306	Indiana	-	Totals	-	-	-	-	 	1,087	453	72	0.955	 	6	27	14	18	 
+2014	11640	306	Indiana	-	Opponent Totals	-	-	-	-	 	1,110	473	57	0.965	 	10	43	14	19	 
+2014	11640	305	Indiana St.	-	Totals	-	-	-	-	 	1,074	448	43	0.973	2	10	47	16	18	 
+2014	11640	305	Indiana St.	-	Opponent Totals	-	-	-	-	 	1,076	531	66	0.961	 	11	93	36	10	 
+2014	11640	310	Iona	-	Totals	-	-	-	-	 	897	370	63	0.953	 	12	61	14	13	 
+2014	11640	310	Iona	-	Opponent Totals	-	-	-	-	 	908	363	50	0.962	1	7	11	2	10	 
+2014	11640	312	Iowa	-	Totals	-	-	-	-	 	917	450	73	0.949	 	5	48	13	22	 
+2014	11640	312	Iowa	-	Opponent Totals	-	-	-	-	 	938	359	49	0.964	1	7	23	13	8	 
+2014	11640	311	Iowa St.	-	Totals	-	-	-	-	 	1,031	420	58	0.962	1	22	67	19	21	 
+2014	11640	311	Iowa St.	-	Opponent Totals	-	-	-	-	 	1,032	484	67	0.958	 	15	50	16	30	 
+2014	11640	314	Jackson St.	-	Totals	-	-	-	-	 	1,109	523	92	0.947	 	8	53	15	12	 
+2014	11640	314	Jackson St.	-	Opponent Totals	-	-	-	-	 	1,093	470	95	0.943	1	6	122	38	12	 
+2014	11640	316	Jacksonville	-	Totals	-	-	-	-	 	966	355	59	0.957	1	13	66	13	17	 
+2014	11640	316	Jacksonville	-	Opponent Totals	-	-	-	-	 	968	380	48	0.966	 	8	17	3	21	 
+2014	11640	315	Jacksonville St.	-	Totals	-	-	-	-	 	1,033	400	34	0.977	 	4	24	16	17	 
+2014	11640	315	Jacksonville St.	-	Opponent Totals	-	-	-	-	 	1,005	336	66	0.953	 	23	41	7	14	 
+2014	11640	317	James Madison	-	Totals	-	-	-	-	 	1,210	490	61	0.965	 	4	19	12	20	 
+2014	11640	317	James Madison	-	Opponent Totals	-	-	-	-	 	1,172	430	92	0.946	 	3	72	41	14	 
+2014	11640	328	Kansas	-	Totals	-	-	-	-	 	1,133	309	31	0.979	 	6	39	11	6	 
+2014	11640	328	Kansas	-	Opponent Totals	-	-	-	-	 	1,119	486	63	0.962	1	7	28	5	10	 
+2014	11640	1157	Kennesaw St.	-	Totals	-	-	-	-	 	1,069	348	52	0.965	2	11	48	8	13	 
+2014	11640	1157	Kennesaw St.	-	Opponent Totals	-	-	-	-	 	1,069	417	69	0.956	 	10	41	11	14	 
+2014	11640	331	Kent St.	-	Totals	-	-	-	-	 	914	307	55	0.957	 	9	34	12	9	 
+2014	11640	331	Kent St.	-	Opponent Totals	-	-	-	-	 	915	360	55	0.959	1	9	21	6	11	 
+2014	11640	334	Kentucky	-	Totals	-	-	-	-	 	1,455	598	59	0.972	 	2	20	13	17	 
+2014	11640	334	Kentucky	-	Opponent Totals	-	-	-	-	 	1,404	502	77	0.961	1	11	46	20	21	 
+2014	11640	361	LIU Brooklyn	-	Totals	-	-	-	-	 	1,126	466	49	0.970	1	13	36	21	13	 
+2014	11640	361	LIU Brooklyn	-	Opponent Totals	-	-	-	-	 	1,133	438	59	0.964	2	10	32	12	18	1
+2014	11640	365	LSU	-	Totals	-	-	-	-	 	1,201	389	50	0.970	1	9	31	13	19	 
+2014	11640	365	LSU	-	Opponent Totals	-	-	-	-	 	1,177	521	73	0.959	4	5	99	14	29	 
+2014	11640	340	La Salle	-	Totals	-	-	-	-	 	806	413	68	0.947	 	5	38	10	8	 
+2014	11640	340	La Salle	-	Opponent Totals	-	-	-	-	 	814	302	43	0.963	 	6	26	9	17	 
+2014	11640	671	La.-Lafayette	-	Totals	-	-	-	-	 	1,239	408	70	0.959	1	12	35	6	20	 
+2014	11640	671	La.-Lafayette	-	Opponent Totals	-	-	-	-	 	1,185	361	68	0.958	 	13	45	10	22	 
+2014	11640	498	La.-Monroe	-	Totals	-	-	-	-	 	1,006	403	70	0.953	 	16	62	9	23	 
+2014	11640	498	La.-Monroe	-	Opponent Totals	-	-	-	-	 	1,009	397	84	0.944	 	7	137	22	19	 
+2014	11640	342	Lafayette	-	Totals	-	-	-	-	 	742	394	67	0.944	 	5	78	7	14	 
+2014	11640	342	Lafayette	-	Opponent Totals	-	-	-	-	 	768	322	38	0.966	 	6	17	7	15	 
+2014	11640	346	Lamar	-	Totals	-	-	-	-	 	928	406	74	0.947	 	5	61	12	25	 
+2014	11640	346	Lamar	-	Opponent Totals	-	-	-	-	 	949	341	71	0.948	 	6	34	31	16	 
+2014	11640	352	Lehigh	-	Totals	-	-	-	-	 	984	419	50	0.966	2	7	58	15	15	 
+2014	11640	352	Lehigh	-	Opponent Totals	-	-	-	-	 	976	470	59	0.961	 	4	19	9	20	 
+2014	11640	355	Liberty	-	Totals	-	-	-	-	 	1,032	488	115	0.930	1	6	48	21	21	 
+2014	11640	355	Liberty	-	Opponent Totals	-	-	-	-	 	1,077	488	92	0.944	 	6	92	24	19	 
+2014	11640	28600	Lipscomb	-	Totals	-	-	-	-	 	1,129	536	60	0.965	2	9	30	12	16	 
+2014	11640	28600	Lipscomb	-	Opponent Totals	-	-	-	-	 	1,093	438	94	0.942	1	16	62	13	18	 
+2014	11640	99	Long Beach St.	-	Totals	-	-	-	-	 	1,128	465	54	0.967	 	4	42	17	32	 
+2014	11640	99	Long Beach St.	-	Opponent Totals	-	-	-	-	 	1,104	437	75	0.954	 	9	30	7	27	 
+2014	11640	363	Longwood	-	Totals	-	-	-	-	 	1,098	534	81	0.953	 	4	21	14	16	 
+2014	11640	363	Longwood	-	Opponent Totals	-	-	-	-	 	1,046	433	85	0.946	2	10	79	17	16	 
+2014	11640	366	Louisiana Tech	-	Totals	-	-	-	-	 	1,007	406	69	0.953	 	6	57	7	11	 
+2014	11640	366	Louisiana Tech	-	Opponent Totals	-	-	-	-	 	1,029	425	54	0.964	 	4	61	17	17	 
+2014	11640	367	Louisville	-	Totals	-	-	-	-	 	1,140	548	56	0.968	1	1	29	23	22	 
+2014	11640	367	Louisville	-	Opponent Totals	-	-	-	-	 	1,110	437	66	0.959	 	6	28	6	21	 
+2014	11640	371	Loyola Chicago	-	Totals	-	-	-	-	 	1,090	468	68	0.958	1	12	81	15	32	 
+2014	11640	371	Loyola Chicago	-	Opponent Totals	-	-	-	-	 	1,100	425	57	0.964	1	12	21	4	13	 
+2014	11640	370	Loyola Marymount	-	Totals	-	-	-	-	 	949	445	78	0.947	 	9	40	10	13	 
+2014	11640	370	Loyola Marymount	-	Opponent Totals	-	-	-	-	 	945	399	50	0.964	 	8	13	8	21	1
+2014	11640	380	Maine	-	Totals	-	-	-	-	 	721	280	38	0.963	 	10	34	8	14	 
+2014	11640	380	Maine	-	Opponent Totals	-	-	-	-	 	737	280	33	0.969	 	7	29	14	10	 
+2014	11640	381	Manhattan	-	Totals	-	-	-	-	 	1,110	421	54	0.966	 	7	50	11	15	 
+2014	11640	381	Manhattan	-	Opponent Totals	-	-	-	-	 	1,108	459	64	0.961	1	9	18	9	21	 
+2014	11640	386	Marist	-	Totals	-	-	-	-	 	953	423	57	0.960	 	10	23	16	20	 
+2014	11640	386	Marist	-	Opponent Totals	-	-	-	-	 	966	331	52	0.961	1	13	80	11	7	 
+2014	11640	388	Marshall	-	Totals	-	-	-	-	 	1,147	358	106	0.934	 	15	55	10	15	 
+2014	11640	388	Marshall	-	Opponent Totals	-	-	-	-	 	1,153	467	91	0.947	3	12	118	29	19	 
+2014	11640	392	Maryland	-	Totals	-	-	-	-	 	840	331	56	0.954	 	12	47	12	9	 
+2014	11640	392	Maryland	-	Opponent Totals	-	-	-	-	 	872	348	61	0.952	4	8	45	9	9	 
+2014	11640	400	Massachusetts	-	Totals	-	-	-	-	 	773	372	54	0.955	 	7	30	9	18	 
+2014	11640	400	Massachusetts	-	Opponent Totals	-	-	-	-	 	770	304	36	0.968	1	2	16	5	7	 
+2014	11640	402	McNeese St.	-	Totals	-	-	-	-	 	1,107	356	57	0.963	1	7	31	15	18	 
+2014	11640	402	McNeese St.	-	Opponent Totals	-	-	-	-	 	1,091	455	89	0.946	 	6	100	20	9	 
+2014	11640	404	Memphis	-	Totals	-	-	-	-	 	1,088	345	74	0.951	1	6	43	13	13	 
+2014	11640	404	Memphis	-	Opponent Totals	-	-	-	-	 	1,113	466	70	0.958	 	4	32	14	24	 
+2014	11640	406	Mercer	-	Totals	-	-	-	-	 	1,085	389	67	0.957	 	3	28	12	16	 
+2014	11640	406	Mercer	-	Opponent Totals	-	-	-	-	 	1,061	395	80	0.948	3	9	68	12	21	 
+2014	11640	414	Miami (OH)	-	Totals	-	-	-	-	 	1,021	448	60	0.961	 	7	34	13	14	 
+2014	11640	414	Miami (OH)	-	Opponent Totals	-	-	-	-	 	1,025	478	72	0.954	1	5	25	9	12	 
+2014	11640	418	Michigan	-	Totals	-	-	-	-	 	1,196	442	41	0.976	 	8	23	13	25	 
+2014	11640	418	Michigan	-	Opponent Totals	-	-	-	-	 	1,162	462	82	0.952	 	12	67	12	16	 
+2014	11640	416	Michigan St.	-	Totals	-	-	-	-	 	938	297	54	0.958	1	3	52	7	15	 
+2014	11640	416	Michigan St.	-	Opponent Totals	-	-	-	-	 	979	397	56	0.961	 	9	27	14	18	 
+2014	11640	419	Middle Tenn.	-	Totals	-	-	-	-	 	1,029	517	88	0.946	 	1	56	7	22	 
+2014	11640	419	Middle Tenn.	-	Opponent Totals	-	-	-	-	 	1,091	464	62	0.962	 	12	44	11	18	 
+2014	11640	428	Minnesota	-	Totals	-	-	-	-	 	1,103	428	62	0.961	 	10	49	6	7	 
+2014	11640	428	Minnesota	-	Opponent Totals	-	-	-	-	 	1,066	379	50	0.967	 	13	69	10	21	 
+2014	11640	430	Mississippi St.	-	Totals	-	-	-	-	 	1,194	335	38	0.976	1	5	16	18	10	 
+2014	11640	430	Mississippi St.	-	Opponent Totals	-	-	-	-	 	1,168	417	58	0.965	1	7	88	22	16	 
+2014	11640	432	Mississippi Val.	-	Totals	-	-	-	-	 	846	335	89	0.930	2	20	103	13	7	 
+2014	11640	432	Mississippi Val.	-	Opponent Totals	-	-	-	-	 	889	400	77	0.944	1	18	45	11	14	 
+2014	11640	434	Missouri	-	Totals	-	-	-	-	 	1,222	469	65	0.963	4	13	38	7	25	 
+2014	11640	434	Missouri	-	Opponent Totals	-	-	-	-	 	1,180	565	66	0.964	 	14	106	19	23	 
+2014	11640	669	Missouri St.	-	Totals	-	-	-	-	 	1,074	416	61	0.961	1	13	51	9	16	 
+2014	11640	669	Missouri St.	-	Opponent Totals	-	-	-	-	 	1,089	424	68	0.957	 	15	67	18	9	 
+2014	11640	439	Monmouth	-	Totals	-	-	-	-	 	840	508	62	0.956	 	6	54	5	30	 
+2014	11640	439	Monmouth	-	Opponent Totals	-	-	-	-	 	840	342	51	0.959	 	9	21	9	15	 
+2014	11640	444	Morehead St.	-	Totals	-	-	-	-	 	991	463	68	0.955	 	19	91	13	17	 
+2014	11640	444	Morehead St.	-	Opponent Totals	-	-	-	-	 	1,037	402	53	0.964	 	11	22	9	11	 
+2014	11640	446	Morgan St.	-	Totals	-	-	-	-	 	511	208	45	0.941	1	18	58	5	8	 
+2014	11640	446	Morgan St.	-	Opponent Totals	-	-	-	-	 	532	259	37	0.955	 	8	22	14	6	 
+2014	11640	450	Mt. St. Mary's	-	Totals	-	-	-	-	 	886	359	59	0.955	 	17	47	5	8	 
+2014	11640	450	Mt. St. Mary's	-	Opponent Totals	-	-	-	-	 	904	405	66	0.952	 	14	30	11	9	 
+2014	11640	454	Murray St.	-	Totals	-	-	-	-	 	1,108	486	77	0.954	 	15	53	12	16	 
+2014	11640	454	Murray St.	-	Opponent Totals	-	-	-	-	 	1,092	401	70	0.955	 	14	45	13	8	 
+2014	11640	488	N.C. A&T	-	Totals	-	-	-	-	 	857	362	66	0.949	 	14	54	7	15	 
+2014	11640	488	N.C. A&T	-	Opponent Totals	-	-	-	-	 	873	360	59	0.954	 	18	30	5	7	 
+2014	11640	489	N.C. Central	-	Totals	-	-	-	-	 	794	263	80	0.930	 	6	51	18	8	 
+2014	11640	489	N.C. Central	-	Opponent Totals	-	-	-	-	 	859	344	55	0.956	 	12	35	22	12	 
+2014	11640	463	Nebraska	-	Totals	-	-	-	-	 	1,227	628	64	0.967	 	9	28	25	25	 
+2014	11640	463	Nebraska	-	Opponent Totals	-	-	-	-	 	1,194	412	72	0.957	 	10	38	14	21	 
+2014	11640	466	Nevada	-	Totals	-	-	-	-	 	979	283	72	0.946	 	6	36	7	16	 
+2014	11640	466	Nevada	-	Opponent Totals	-	-	-	-	 	966	386	49	0.965	2	12	38	11	8	 
+2014	11640	473	New Mexico	-	Totals	-	-	-	-	 	898	420	57	0.959	 	18	55	20	22	 
+2014	11640	473	New Mexico	-	Opponent Totals	-	-	-	-	 	908	344	43	0.967	1	22	32	10	17	 
+2014	11640	472	New Mexico St.	-	Totals	-	-	-	-	 	1,014	487	83	0.948	 	9	33	7	25	 
+2014	11640	472	New Mexico St.	-	Opponent Totals	-	-	-	-	 	1,006	393	67	0.954	 	9	43	19	22	1
+2014	11640	482	Niagara	-	Totals	-	-	-	-	 	933	286	70	0.946	 	11	66	12	4	 
+2014	11640	482	Niagara	-	Opponent Totals	-	-	-	-	 	966	424	41	0.971	 	8	7	6	11	 
+2014	11640	483	Nicholls St.	-	Totals	-	-	-	-	 	1,017	411	60	0.960	 	3	59	20	14	 
+2014	11640	483	Nicholls St.	-	Opponent Totals	-	-	-	-	 	1,047	498	80	0.951	 	8	47	11	13	 
+2014	11640	485	Norfolk St.	-	Totals	-	-	-	-	 	900	416	96	0.932	 	5	53	17	25	 
+2014	11640	485	Norfolk St.	-	Opponent Totals	-	-	-	-	 	900	370	72	0.946	 	8	37	7	15	 
+2014	11640	457	North Carolina	-	Totals	-	-	-	-	 	974	341	36	0.973	1	7	24	9	14	 
+2014	11640	457	North Carolina	-	Opponent Totals	-	-	-	-	 	976	399	51	0.964	 	14	33	14	20	 
+2014	11640	490	North Carolina St.	-	Totals	-	-	-	-	 	1,059	419	41	0.973	 	14	45	8	19	 
+2014	11640	490	North Carolina St.	-	Opponent Totals	-	-	-	-	 	1,010	353	49	0.965	1	7	39	10	9	 
+2014	11640	494	North Dakota	-	Totals	-	-	-	-	 	747	365	77	0.935	2	21	72	11	19	 
+2014	11640	494	North Dakota	-	Opponent Totals	-	-	-	-	 	817	322	48	0.960	1	7	14	4	15	 
+2014	11640	493	North Dakota St.	-	Totals	-	-	-	-	 	1,079	307	40	0.972	 	9	18	16	25	 
+2014	11640	493	North Dakota St.	-	Opponent Totals	-	-	-	-	 	1,059	394	68	0.955	 	18	64	17	32	 
+2014	11640	2711	North Florida	-	Totals	-	-	-	-	 	980	477	75	0.951	 	8	22	6	16	 
+2014	11640	497	North Texas	-	Totals	-	-	-	-	 	1,066	346	48	0.967	 	9	31	24	10	 
+2014	11640	497	North Texas	-	Opponent Totals	-	-	-	-	 	1,058	376	75	0.950	 	10	60	19	7	 
+2014	11640	502	Northern Colo.	-	Totals	-	-	-	-	 	988	504	73	0.953	 	9	68	11	14	 
+2014	11640	502	Northern Colo.	-	Opponent Totals	-	-	-	-	 	1,028	410	61	0.959	1	15	51	13	15	 
+2014	11640	503	Northern Ill.	-	Totals	-	-	-	-	 	1,142	458	79	0.953	3	6	28	11	24	 
+2014	11640	503	Northern Ill.	-	Opponent Totals	-	-	-	-	 	1,163	441	78	0.954	1	18	49	19	17	 
+2014	11640	505	Northern Ky.	-	Totals	-	-	-	-	 	854	403	99	0.927	1	22	84	17	15	 
+2014	11640	505	Northern Ky.	-	Opponent Totals	-	-	-	-	 	909	321	46	48.363	 	6	33	3	10	 
+2014	11640	509	Northwestern	-	Totals	-	-	-	-	 	998	320	41	0.970	 	14	53	6	9	 
+2014	11640	509	Northwestern	-	Opponent Totals	-	-	-	-	 	982	389	76	0.947	 	9	84	12	20	 
+2014	11640	508	Northwestern St.	-	Totals	-	-	-	-	 	1,003	355	49	0.965	 	6	52	17	4	 
+2014	11640	508	Northwestern St.	-	Opponent Totals	-	-	-	-	 	993	363	54	0.962	 	5	31	9	15	 
+2014	11640	513	Notre Dame	-	Totals	-	-	-	-	 	1,074	309	37	0.974	 	2	31	3	17	 
+2014	11640	513	Notre Dame	-	Opponent Totals	-	-	-	-	 	1,029	450	68	0.956	 	8	71	14	15	1
+2014	11640	514	Oakland	-	Totals	-	-	-	-	 	794	314	54	0.954	 	3	40	11	9	 
+2014	11640	514	Oakland	-	Opponent Totals	-	-	-	-	 	808	328	50	0.958	 	7	59	6	7	 
+2014	11640	519	Ohio	-	Totals	-	-	-	-	 	1,188	312	63	0.960	 	12	33	13	5	 
+2014	11640	519	Ohio	-	Opponent Totals	-	-	-	-	 	1,202	424	51	0.970	1	18	51	19	17	 
+2014	11640	518	Ohio St.	-	Totals	-	-	-	-	 	1,053	420	61	0.960	 	15	39	10	18	 
+2014	11640	518	Ohio St.	-	Opponent Totals	-	-	-	-	 	1,039	404	52	0.965	 	14	21	8	15	 
+2014	11640	522	Oklahoma	-	Totals	-	-	-	-	 	1,196	386	36	0.978	 	5	10	16	30	1
+2014	11640	522	Oklahoma	-	Opponent Totals	-	-	-	-	 	1,119	376	83	0.947	 	4	72	10	19	 
+2014	11640	521	Oklahoma St.	-	Totals	-	-	-	-	 	1,061	377	61	0.959	3	7	45	14	7	 
+2014	11640	521	Oklahoma St.	-	Opponent Totals	-	-	-	-	 	1,062	365	64	0.957	 	18	76	10	15	 
+2014	11640	433	Ole Miss	-	Totals	-	-	-	-	 	1,017	321	62	0.956	 	12	49	13	15	1
+2014	11640	433	Ole Miss	-	Opponent Totals	-	-	-	-	 	1,020	435	62	0.959	 	11	50	11	9	 
+2014	11640	464	Omaha	-	Totals	-	-	-	-	 	967	533	55	0.965	 	9	19	10	63	 
+2014	11640	464	Omaha	-	Opponent Totals	-	-	-	-	 	952	317	53	0.960	 	6	19	6	11	 
+2014	11640	529	Oregon	-	Totals	-	-	-	-	 	1,290	412	50	0.971	 	3	28	10	14	 
+2014	11640	529	Oregon	-	Opponent Totals	-	-	-	-	 	1,220	518	83	0.954	 	23	79	19	20	 
+2014	11640	528	Oregon St.	-	Totals	-	-	-	-	 	903	427	83	0.941	 	7	33	6	13	 
+2014	11640	528	Oregon St.	-	Opponent Totals	-	-	-	-	 	921	365	40	0.970	 	7	26	8	14	 
+2014	11640	534	Pacific	-	Totals	-	-	-	-	 	954	377	53	0.962	 	16	59	12	14	1
+2014	11640	534	Pacific	-	Opponent Totals	-	-	-	-	 	955	428	67	0.954	 	12	32	4	20	 
+2014	11640	540	Penn	-	Totals	-	-	-	-	 	752	264	51	0.952	 	10	44	9	10	 
+2014	11640	540	Penn	-	Opponent Totals	-	-	-	-	 	751	291	51	0.953	 	7	30	8	8	 
+2014	11640	539	Penn St.	-	Totals	-	-	-	-	 	935	392	54	0.961	 	15	36	14	9	 
+2014	11640	539	Penn St.	-	Opponent Totals	-	-	-	-	 	957	422	43	0.970	 	11	20	2	18	 
+2014	11640	545	Pittsburgh	-	Totals	-	-	-	-	 	847	372	53	0.958	 	4	41	5	12	 
+2014	11640	545	Pittsburgh	-	Opponent Totals	-	-	-	-	 	869	335	48	0.962	1	3	26	7	14	 
+2014	11640	550	Portland St.	-	Totals	-	-	-	-	 	810	359	42	0.965	 	2	54	16	9	 
+2014	11640	550	Portland St.	-	Opponent Totals	-	-	-	-	 	845	295	51	0.957	 	11	17	6	9	 
+2014	11640	553	Prairie View	-	Totals	-	-	-	-	 	797	308	74	0.937	 	16	66	15	12	 
+2014	11640	553	Prairie View	-	Opponent Totals	-	-	-	-	 	811	322	72	0.940	 	11	54	9	10	 
+2014	11640	1320	Presbyterian	-	Totals	-	-	-	-	 	1,025	356	61	0.958	 	10	59	9	14	 
+2014	11640	1320	Presbyterian	-	Opponent Totals	-	-	-	-	 	1,035	410	52	0.965	 	12	33	8	14	 
+2014	11640	554	Princeton	-	Totals	-	-	-	-	 	776	328	51	0.956	1	4	35	13	9	 
+2014	11640	554	Princeton	-	Opponent Totals	-	-	-	-	 	792	317	40	0.965	3	12	27	11	13	 
+2014	11640	556	Providence	-	Totals	-	-	-	-	 	653	328	59	0.943	1	8	38	8	2	 
+2014	11640	556	Providence	-	Opponent Totals	-	-	-	-	 	684	265	41	0.959	 	8	20	7	6	 
+2014	11640	559	Purdue	-	Totals	-	-	-	-	 	1,084	398	68	0.956	 	4	51	14	11	 
+2014	11640	559	Purdue	-	Opponent Totals	-	-	-	-	 	1,082	458	56	0.965	1	8	63	15	29	 
+2014	11640	562	Quinnipiac	-	Totals	-	-	-	-	 	878	416	89	0.936	 	12	76	10	8	 
+2014	11640	562	Quinnipiac	-	Opponent Totals	-	-	-	-	 	902	310	43	0.966	 	3	34	10	10	 
+2014	11640	563	Radford	-	Totals	-	-	-	-	 	998	383	83	0.943	 	9	61	9	8	 
+2014	11640	563	Radford	-	Opponent Totals	-	-	-	-	 	1,023	353	68	0.953	 	11	43	5	15	 
+2014	11640	572	Rhode Island	-	Totals	-	-	-	-	 	885	346	59	0.954	 	3	58	14	14	 
+2014	11640	572	Rhode Island	-	Opponent Totals	-	-	-	-	 	916	456	58	0.959	1	3	14	8	15	 
+2014	11640	576	Rider	-	Totals	-	-	-	-	 	885	392	61	0.954	 	4	57	22	15	 
+2014	11640	576	Rider	-	Opponent Totals	-	-	-	-	 	930	377	63	0.954	 	6	20	8	19	 
+2014	11640	579	Robert Morris	-	Totals	-	-	-	-	 	989	419	60	0.959	 	2	35	20	15	 
+2014	11640	579	Robert Morris	-	Opponent Totals	-	-	-	-	 	995	454	66	0.956	 	6	45	17	11	 
+2014	11640	587	Rutgers	-	Totals	-	-	-	-	 	934	336	40	0.969	 	4	42	11	12	 
+2014	11640	587	Rutgers	-	Opponent Totals	-	-	-	-	 	927	404	60	0.957	3	7	39	15	14	 
+2014	11640	660	SIUE	-	Totals	-	-	-	-	 	1,072	327	57	0.961	3	13	70	6	24	 
+2014	11640	660	SIUE	-	Opponent Totals	-	-	-	-	 	1,064	477	71	0.956	 	11	60	19	32	 
+2014	11640	102	Sacramento St.	-	Totals	-	-	-	-	 	891	353	54	0.958	 	5	35	7	12	 
+2014	11640	102	Sacramento St.	-	Opponent Totals	-	-	-	-	 	892	343	62	0.952	 	9	27	6	26	1
+2014	11640	590	Sacred Heart	-	Totals	-	-	-	-	 	843	335	43	0.965	 	13	44	11	15	 
+2014	11640	590	Sacred Heart	-	Opponent Totals	-	-	-	-	 	873	388	45	0.966	 	6	13	9	8	 
+2014	11640	600	Saint Francis (PA)	-	Totals	-	-	-	-	 	967	424	64	0.956	3	7	27	14	11	1
+2014	11640	600	Saint Francis (PA)	-	Opponent Totals	-	-	-	-	 	978	389	57	0.960	 	16	73	26	8	 
+2014	11640	606	Saint Joseph's	-	Totals	-	-	-	-	 	802	307	40	0.965	2	6	29	2	24	1
+2014	11640	606	Saint Joseph's	-	Opponent Totals	-	-	-	-	 	800	332	59	0.950	 	4	54	14	18	 
+2014	11640	609	Saint Louis	-	Totals	-	-	-	-	 	1,018	554	62	0.962	2	12	46	12	18	 
+2014	11640	609	Saint Louis	-	Opponent Totals	-	-	-	-	 	1,009	439	50	0.967	 	6	54	11	12	1
+2014	11640	617	Saint Peter's	-	Totals	-	-	-	-	 	945	397	80	0.944	1	14	85	17	28	 
+2014	11640	617	Saint Peter's	-	Opponent Totals	-	-	-	-	 	996	353	47	0.966	 	23	63	16	20	 
+2014	11640	624	Sam Houston St.	-	Totals	-	-	-	-	 	1,095	582	80	0.954	1	7	35	7	20	 
+2014	11640	624	Sam Houston St.	-	Opponent Totals	-	-	-	-	 	1,094	414	73	0.954	 	15	78	24	9	 
+2014	11640	625	Samford	-	Totals	-	-	-	-	 	1,135	448	53	0.968	2	18	52	12	18	 
+2014	11640	625	Samford	-	Opponent Totals	-	-	-	-	 	1,101	421	60	0.962	 	6	60	9	13	 
+2014	11640	627	San Diego	-	Totals	-	-	-	-	 	989	273	43	0.967	1	2	42	10	8	 
+2014	11640	627	San Diego	-	Opponent Totals	-	-	-	-	 	957	425	53	0.963	 	4	19	16	13	 
+2014	11640	626	San Diego St.	-	Totals	-	-	-	-	 	1,187	472	74	0.957	 	20	41	8	13	 
+2014	11640	626	San Diego St.	-	Opponent Totals	-	-	-	-	 	1,151	531	69	0.961	 	13	77	21	19	 
+2014	11640	630	San Jose St.	-	Totals	-	-	-	-	 	1,084	482	82	0.950	 	7	31	22	19	 
+2014	11640	630	San Jose St.	-	Opponent Totals	-	-	-	-	 	1,074	474	80	0.951	1	9	18	5	24	 
+2014	11640	631	Santa Clara	-	Totals	-	-	-	-	 	866	450	62	0.955	1	2	37	20	21	 
+2014	11640	631	Santa Clara	-	Opponent Totals	-	-	-	-	 	893	395	46	0.966	 	5	12	9	11	 
+2014	11640	632	Savannah St.	-	Totals	-	-	-	-	 	897	314	67	0.948	1	22	61	10	7	 
+2014	11640	632	Savannah St.	-	Opponent Totals	-	-	-	-	 	872	350	73	0.944	 	17	28	9	13	 
+2014	11640	1356	Seattle	-	Totals	-	-	-	-	 	1,005	448	83	0.946	 	11	37	17	12	 
+2014	11640	1356	Seattle	-	Opponent Totals	-	-	-	-	 	1,036	407	63	0.958	1	7	24	8	15	 
+2014	11640	635	Seton Hall	-	Totals	-	-	-	-	 	861	350	77	0.940	 	11	55	15	13	 
+2014	11640	635	Seton Hall	-	Opponent Totals	-	-	-	-	 	889	371	63	0.952	2	7	51	21	16	 
+2014	11640	639	Siena	-	Totals	-	-	-	-	 	1,093	490	71	0.957	1	17	67	11	15	 
+2014	11640	639	Siena	-	Opponent Totals	-	-	-	-	 	1,093	459	58	0.964	 	14	49	9	22	 
+2014	11640	646	South Ala.	-	Totals	-	-	-	-	 	1,136	326	50	0.967	 	2	58	6	10	 
+2014	11640	646	South Ala.	-	Opponent Totals	-	-	-	-	 	1,090	361	73	0.952	 	13	67	10	17	 
+2014	11640	648	South Carolina	-	Totals	-	-	-	-	 	1,115	440	62	0.962	2	9	44	15	22	 
+2014	11640	648	South Carolina	-	Opponent Totals	-	-	-	-	 	1,077	429	64	0.959	 	8	47	9	22	1
+2014	11640	647	South Carolina St.	-	Totals	-	-	-	-	 	680	264	81	0.921	 	6	68	13	3	 
+2014	11640	647	South Carolina St.	-	Opponent Totals	-	-	-	-	 	688	280	49	0.952	 	13	24	10	12	 
+2014	11640	650	South Dakota	-	Totals	-	-	-	-	 	1,008	339	58	0.959	1	2	32	15	26	 
+2014	11640	650	South Dakota	-	Opponent Totals	-	-	-	-	 	1,005	397	70	0.952	1	18	46	11	22	 
+2014	11640	649	South Dakota St.	-	Totals	-	-	-	-	 	868	401	74	0.945	2	6	74	15	22	 
+2014	11640	649	South Dakota St.	-	Opponent Totals	-	-	-	-	 	911	421	48	0.965	 	13	46	11	38	 
+2014	11640	651	South Fla.	-	Totals	-	-	-	-	 	1,190	325	40	0.974	 	5	33	13	8	 
+2014	11640	651	South Fla.	-	Opponent Totals	-	-	-	-	 	1,113	456	68	0.958	1	6	77	19	14	 
+2014	11640	654	Southeast Mo. St.	-	Totals	-	-	-	-	 	822	392	62	0.951	 	9	45	22	12	 
+2014	11640	654	Southeast Mo. St.	-	Opponent Totals	-	-	-	-	 	849	308	47	0.961	 	12	29	7	15	 
+2014	11640	655	Southeastern La.	-	Totals	-	-	-	-	 	880	328	61	0.952	 	16	82	12	5	 
+2014	11640	655	Southeastern La.	-	Opponent Totals	-	-	-	-	 	883	307	61	0.951	 	8	5	1	23	 
+2014	11640	659	Southern Ill.	-	Totals	-	-	-	-	 	1,020	447	54	0.964	 	5	47	15	17	 
+2014	11640	659	Southern Ill.	-	Opponent Totals	-	-	-	-	 	1,017	401	63	0.957	1	12	52	7	14	 
+2014	11640	664	Southern Miss.	-	Totals	-	-	-	-	 	871	292	63	0.949	 	6	62	10	15	 
+2014	11640	664	Southern Miss.	-	Opponent Totals	-	-	-	-	 	873	353	54	0.958	 	2	24	7	24	 
+2014	11640	665	Southern U.	-	Totals	-	-	-	-	 	832	374	103	0.921	 	12	89	12	13	 
+2014	11640	665	Southern U.	-	Opponent Totals	-	-	-	-	 	874	328	63	45.759	1	9	59	11	10	 
+2014	11640	667	Southern Utah	-	Totals	-	-	-	-	 	997	442	64	0.957	 	20	42	15	24	 
+2014	11640	667	Southern Utah	-	Opponent Totals	-	-	-	-	 	1,034	435	62	0.960	 	7	35	9	19	 
+2014	11640	596	St. Bonaventure	-	Totals	-	-	-	-	 	731	318	42	0.962	 	16	49	10	13	 
+2014	11640	596	St. Bonaventure	-	Opponent Totals	-	-	-	-	 	776	341	47	0.960	2	9	47	12	13	 
+2014	11640	603	St. John's (NY)	-	Totals	-	-	-	-	 	988	477	59	0.961	1	10	31	14	27	 
+2014	11640	603	St. John's (NY)	-	Opponent Totals	-	-	-	-	 	991	393	52	0.964	1	6	40	15	15	 
+2014	11640	610	St. Mary's (CA)	-	Totals	-	-	-	-	 	1,003	468	63	0.959	 	8	34	6	21	1
+2014	11640	610	St. Mary's (CA)	-	Opponent Totals	-	-	-	-	 	1,005	437	58	0.961	 	3	34	18	10	 
+2014	11640	674	Stanford	-	Totals	-	-	-	-	 	1,043	485	66	0.959	 	27	38	9	26	 
+2014	11640	674	Stanford	-	Opponent Totals	-	-	-	-	 	1,034	386	64	0.957	 	14	55	8	22	 
+2014	11640	676	Stephen F. Austin	-	Totals	-	-	-	-	 	1,050	309	64	0.955	 	4	44	23	17	 
+2014	11640	676	Stephen F. Austin	-	Opponent Totals	-	-	-	-	 	1,059	504	74	0.955	 	7	54	17	14	 
+2014	11640	678	Stetson	-	Totals	-	-	-	-	 	1,071	502	47	0.971	 	3	47	6	13	 
+2014	11640	678	Stetson	-	Opponent Totals	-	-	-	-	 	1,024	372	68	0.954	1	9	67	17	12	 
+2014	11640	683	Stony Brook	-	Totals	-	-	-	-	 	1,026	417	56	0.963	2	10	43	14	15	 
+2014	11640	683	Stony Brook	-	Opponent Totals	-	-	-	-	 	1,008	418	67	0.955	 	7	41	14	10	 
+2014	11640	688	Syracuse	-	Totals	-	-	-	-	 	949	274	51	0.960	 	8	52	13	14	 
+2014	11640	688	Syracuse	-	Opponent Totals	-	-	-	-	 	961	304	43	0.967	2	14	38	11	24	 
+2014	11640	690	Temple	-	Totals	-	-	-	-	 	865	373	62	0.952	 	7	53	9	9	 
+2014	11640	690	Temple	-	Opponent Totals	-	-	-	-	 	896	308	50	0.960	 	8	21	4	9	 
+2014	11640	694	Tennessee	-	Totals	-	-	-	-	 	1,130	420	54	0.966	4	4	31	12	17	 
+2014	11640	694	Tennessee	-	Opponent Totals	-	-	-	-	 	1,075	371	50	0.967	 	7	61	13	18	 
+2014	11640	691	Tennessee St.	-	Totals	-	-	-	-	 	1,144	466	113	0.934	 	27	69	17	20	 
+2014	11640	691	Tennessee St.	-	Opponent Totals	-	-	-	-	 	1,163	467	57	0.966	 	8	40	13	15	 
+2014	11640	692	Tennessee Tech	-	Totals	-	-	-	-	 	1,137	452	69	0.958	1	7	80	16	24	 
+2014	11640	692	Tennessee Tech	-	Opponent Totals	-	-	-	-	 	1,158	419	51	0.969	 	10	54	15	28	 
+2014	11640	703	Texas	-	Totals	-	-	-	-	 	1,116	389	54	0.965	 	4	33	13	21	 
+2014	11640	703	Texas	-	Opponent Totals	-	-	-	-	 	1,084	414	63	0.960	3	15	82	17	18	 
+2014	11640	697	Texas A&M	-	Totals	-	-	-	-	 	1,165	433	50	0.970	 	5	14	6	17	 
+2014	11640	697	Texas A&M	-	Opponent Totals	-	-	-	-	 	1,124	466	71	0.957	1	15	35	8	13	 
+2014	11640	699	Texas Southern	-	Totals	-	-	-	-	 	941	366	52	0.962	 	11	49	14	10	 
+2014	11640	699	Texas Southern	-	Opponent Totals	-	-	-	-	 	932	429	85	0.941	 	22	72	7	16	 
+2014	11640	670	Texas St.	-	Totals	-	-	-	-	 	1,070	323	49	0.966	2	15	40	17	14	 
+2014	11640	670	Texas St.	-	Opponent Totals	-	-	-	-	 	1,073	359	71	0.953	 	10	58	18	12	 
+2014	11640	700	Texas Tech	-	Totals	-	-	-	-	 	1,065	470	78	0.952	1	27	41	15	17	 
+2014	11640	700	Texas Tech	-	Opponent Totals	-	-	-	-	 	1,026	411	53	0.964	1	8	91	20	13	 
+2014	11640	702	Texas-Arlington	-	Totals	-	-	-	-	 	1,055	453	80	0.950	1	2	66	17	9	 
+2014	11640	702	Texas-Arlington	-	Opponent Totals	-	-	-	-	 	1,064	379	45	0.970	1	16	31	5	9	 
+2014	11640	709	Toledo	-	Totals	-	-	-	-	 	1,028	366	94	0.937	1	13	58	10	13	 
+2014	11640	709	Toledo	-	Opponent Totals	-	-	-	-	 	1,064	440	82	0.948	 	9	72	20	13	 
+2014	11640	711	Towson	-	Totals	-	-	-	-	 	1,062	397	66	0.957	 	5	34	12	11	 
+2014	11640	711	Towson	-	Opponent Totals	-	-	-	-	 	1,069	476	74	0.954	 	6	42	6	14	 
+2014	11640	716	Troy	-	Totals	-	-	-	-	 	1,093	402	74	0.953	 	10	54	12	17	1
+2014	11640	716	Troy	-	Opponent Totals	-	-	-	-	 	1,101	374	49	0.968	 	6	46	10	8	 
+2014	11640	719	Tulsa	-	Totals	-	-	-	-	 	1,251	400	52	0.969	 	5	30	8	17	1
+2014	11640	719	Tulsa	-	Opponent Totals	-	-	-	-	 	1,183	434	76	0.955	 	13	30	7	19	 
+2014	11640	9	UAB	-	Totals	-	-	-	-	 	1,201	429	49	0.971	 	6	30	8	25	 
+2014	11640	9	UAB	-	Opponent Totals	-	-	-	-	 	1,185	421	46	57.403	1	5	17	12	23	 
+2014	11640	108	UC Davis	-	Totals	-	-	-	-	 	1,073	419	70	0.955	1	13	46	10	32	 
+2014	11640	108	UC Davis	-	Opponent Totals	-	-	-	-	 	1,091	474	47	0.971	 	8	38	14	46	 
+2014	11640	111	UC Riverside	-	Totals	-	-	-	-	 	1,075	421	62	0.960	 	10	39	16	38	 
+2014	11640	111	UC Riverside	-	Opponent Totals	-	-	-	-	 	1,060	435	67	0.957	 	6	77	12	48	 
+2014	11640	104	UC Santa Barbara	-	Totals	-	-	-	-	 	1,072	481	61	0.962	1	6	28	9	23	 
+2014	11640	104	UC Santa Barbara	-	Opponent Totals	-	-	-	-	 	1,071	457	74	50.686	 	12	43	12	26	 
+2014	11640	128	UCF	-	Totals	-	-	-	-	 	1,262	315	55	0.966	2	6	51	17	17	 
+2014	11640	128	UCF	-	Opponent Totals	-	-	-	-	 	1,181	522	58	0.967	 	6	132	42	15	 
+2014	11640	110	UCLA	-	Totals	-	-	-	-	 	1,179	391	47	0.971	2	11	26	10	21	 
+2014	11640	110	UCLA	-	Opponent Totals	-	-	-	-	 	1,092	442	59	0.963	 	19	54	31	26	 
+2014	11640	164	UConn	-	Totals	-	-	-	-	 	953	412	59	0.959	2	5	58	15	7	 
+2014	11640	164	UConn	-	Opponent Totals	-	-	-	-	 	998	436	64	0.957	 	5	23	8	12	 
+2014	11640	391	UMBC	-	Totals	-	-	-	-	 	1,047	546	75	0.955	 	6	49	19	13	 
+2014	11640	391	UMBC	-	Opponent Totals	-	-	-	-	 	1,033	401	61	0.959	 	8	16	9	16	 
+2014	11640	393	UMES	-	Totals	-	-	-	-	 	772	332	63	0.946	 	17	83	18	7	 
+2014	11640	393	UMES	-	Opponent Totals	-	-	-	-	 	833	354	57	0.954	 	10	62	20	11	 
+2014	11640	2707	UMKC	-	Totals	-	-	-	-	 	1,093	425	81	0.949	 	7	61	18	12	 
+2014	11640	2707	UMKC	-	Opponent Totals	-	-	-	-	 	1,102	483	71	0.957	 	7	48	13	12	 
+2014	11640	368	UMass Lowell	-	Totals	-	-	-	-	 	938	330	72	0.946	1	17	83	11	15	 
+2014	11640	368	UMass Lowell	-	Opponent Totals	-	-	-	-	 	976	416	63	0.957	1	5	55	14	13	 
+2014	11640	459	UNCG	-	Totals	-	-	-	-	 	1,110	506	76	0.955	1	11	41	18	15	 
+2014	11640	459	UNCG	-	Opponent Totals	-	-	-	-	 	1,090	461	62	0.962	 	5	26	3	15	 
+2014	11640	460	UNCW	-	Totals	-	-	-	-	 	1,046	425	69	0.955	1	4	73	13	11	 
+2014	11640	460	UNCW	-	Opponent Totals	-	-	-	-	 	1,045	456	66	0.958	 	5	63	23	15	 
+2014	11640	504	UNI	-	Totals	-	-	-	-	 	961	386	61	0.957	 	10	40	11	11	 
+2014	11640	504	UNI	-	Opponent Totals	-	-	-	-	 	951	331	58	0.957	2	8	48	10	18	 
+2014	11640	465	UNLV	-	Totals	-	-	-	-	 	1,107	534	62	0.964	 	15	53	14	25	 
+2014	11640	465	UNLV	-	Opponent Totals	-	-	-	-	 	1,090	452	60	0.963	 	8	54	9	24	 
+2014	11640	10411	USC Upstate	-	Totals	-	-	-	-	 	1,086	290	38	0.973	 	2	15	8	16	 
+2014	11640	10411	USC Upstate	-	Opponent Totals	-	-	-	-	 	1,034	458	78	0.950	 	11	35	10	19	 
+2014	11640	695	UT Martin	-	Totals	-	-	-	-	 	1,116	534	80	0.954	 	1	62	15	16	 
+2014	11640	695	UT Martin	-	Opponent Totals	-	-	-	-	 	1,132	491	80	0.953	1	12	90	33	20	 
+2014	11640	704	UTEP	-	Totals	-	-	-	-	 	901	369	69	0.948	 	10	90	8	18	 
+2014	11640	704	UTEP	-	Opponent Totals	-	-	-	-	 	933	405	80	0.944	 	5	29	5	16	 
+2014	11640	706	UTSA	-	Totals	-	-	-	-	 	1,039	402	78	0.949	1	4	47	15	10	 
+2014	11640	706	UTSA	-	Opponent Totals	-	-	-	-	 	1,030	320	55	0.961	2	7	47	5	9	 
+2014	11640	732	Utah	-	Totals	-	-	-	-	 	1,070	615	65	0.963	 	8	31	13	46	 
+2014	11640	732	Utah	-	Opponent Totals	-	-	-	-	 	1,047	416	73	0.952	 	10	44	9	13	 
+2014	11640	731	Utah St.	-	Totals	-	-	-	-	 	1,040	338	58	0.960	 	7	77	6	15	 
+2014	11640	731	Utah St.	-	Opponent Totals	-	-	-	-	 	1,080	454	74	0.954	 	4	22	7	23	 
+2014	11640	30024	Utah Valley	-	Totals	-	-	-	-	 	1,157	479	103	0.941	 	33	110	12	28	 
+2014	11640	30024	Utah Valley	-	Opponent Totals	-	-	-	-	 	1,188	409	62	0.963	 	17	73	16	10	 
+2014	11640	735	Valparaiso	-	Totals	-	-	-	-	 	1,103	369	58	0.962	 	4	35	22	21	 
+2014	11640	735	Valparaiso	-	Opponent Totals	-	-	-	-	 	1,125	446	68	0.959	1	3	25	6	20	 
+2014	11640	739	Villanova	-	Totals	-	-	-	-	 	1,084	339	63	0.958	 	21	49	16	13	 
+2014	11640	739	Villanova	-	Opponent Totals	-	-	-	-	 	1,104	469	64	0.961	 	7	44	10	18	 
+2014	11640	746	Virginia	-	Totals	-	-	-	-	 	895	398	70	0.949	 	18	45	15	27	 
+2014	11640	746	Virginia	-	Opponent Totals	-	-	-	-	 	938	389	50	0.964	 	3	40	19	21	 
+2014	11640	742	Virginia Tech	-	Totals	-	-	-	-	 	1,150	432	54	0.967	1	19	47	9	16	 
+2014	11640	742	Virginia Tech	-	Opponent Totals	-	-	-	-	 	1,125	422	64	0.960	 	11	56	11	28	 
+2014	11640	748	Wagner	-	Totals	-	-	-	-	 	868	395	72	0.946	 	7	51	19	9	 
+2014	11640	748	Wagner	-	Opponent Totals	-	-	-	-	 	890	389	41	0.969	1	8	12	5	23	 
+2014	11640	756	Washington	-	Totals	-	-	-	-	 	962	381	31	0.977	2	23	28	12	20	 
+2014	11640	756	Washington	-	Opponent Totals	-	-	-	-	 	936	343	60	0.955	 	11	74	12	22	 
+2014	11640	758	Weber St.	-	Totals	-	-	-	-	 	932	355	64	0.953	 	6	33	9	21	 
+2014	11640	758	Weber St.	-	Opponent Totals	-	-	-	-	 	945	413	57	0.960	 	6	50	11	20	 
+2014	11640	769	Western Caro.	-	Totals	-	-	-	-	 	1,042	342	66	0.954	1	5	62	11	11	 
+2014	11640	769	Western Caro.	-	Opponent Totals	-	-	-	-	 	1,082	439	55	0.965	 	5	27	11	18	 
+2014	11640	771	Western Ill.	-	Totals	-	-	-	-	 	908	438	61	0.957	 	16	36	8	26	 
+2014	11640	771	Western Ill.	-	Opponent Totals	-	-	-	-	 	922	354	63	0.953	2	13	76	12	14	 
+2014	11640	772	Western Ky.	-	Totals	-	-	-	-	 	1,185	413	46	0.972	1	13	53	15	22	 
+2014	11640	772	Western Ky.	-	Opponent Totals	-	-	-	-	 	1,166	477	79	0.954	 	13	109	18	15	 
+2014	11640	774	Western Mich.	-	Totals	-	-	-	-	 	978	465	64	0.958	 	8	48	14	16	 
+2014	11640	774	Western Mich.	-	Opponent Totals	-	-	-	-	 	1,020	433	50	0.967	 	7	16	3	17	 
+2014	11640	782	Wichita St.	-	Totals	-	-	-	-	 	952	333	48	0.964	 	5	34	15	12	 
+2014	11640	782	Wichita St.	-	Opponent Totals	-	-	-	-	 	934	424	64	0.955	 	17	55	10	15	 
+2014	11640	792	Winthrop	-	Totals	-	-	-	-	 	1,022	414	70	0.954	 	26	51	8	18	 
+2014	11640	792	Winthrop	-	Opponent Totals	-	-	-	-	 	1,019	385	68	0.954	 	10	30	15	10	 
+2014	11640	796	Wisconsin	-	Totals	-	-	-	-	 	1,096	348	62	0.959	5	21	45	9	14	 
+2014	11640	796	Wisconsin	-	Opponent Totals	-	-	-	-	 	1,077	456	80	0.950	1	12	114	28	13	 
+2014	11640	810	Wright St.	-	Totals	-	-	-	-	 	973	479	80	0.948	2	7	45	14	24	 
+2014	11640	810	Wright St.	-	Opponent Totals	-	-	-	-	 	989	381	60	0.958	 	4	38	17	8	 
+2014	11640	813	Yale	-	Totals	-	-	-	-	 	724	378	44	0.962	 	4	44	6	13	 
+2014	11640	813	Yale	-	Opponent Totals	-	-	-	-	 	767	363	35	0.970	 	6	25	5	16	 
+2014	11640	817	Youngstown St.	-	Totals	-	-	-	-	 	1,088	462	67	0.959	 	18	50	18	13	 
+2014	11640	817	Youngstown St.	-	Opponent Totals	-	-	-	-	 	1,078	438	72	0.955	2	9	30	1	11	 

@@ -107,22 +107,6 @@ rpl -q ' ' '' /tmp/player_summaries.csv
 psql softball -f loaders/load_player_summaries_hitting.sql
 rm /tmp/player_summaries.csv
 
-# Player summaries - hitting 2013
-
-#tail -q -n+2 csv/ncaa_player_summaries_hitting_2013*.csv >> /tmp/player_summaries.csv
-#rpl -q '""' '' /tmp/player_summaries.csv
-#rpl -q ' ' '' /tmp/player_summaries.csv
-#psql softball -f loaders/load_player_summaries_hitting_2013.sql
-#rm /tmp/player_summaries.csv
-
-# Player summaries - hitting 2012
-
-#tail -q -n+2 csv/ncaa_player_summaries_hitting_2012*.csv >> /tmp/player_summaries.csv
-#rpl -q '""' '' /tmp/player_summaries.csv
-#rpl -q ' ' '' /tmp/player_summaries.csv
-#psql softball -f loaders/load_player_summaries_hitting_2012.sql
-#rm /tmp/player_summaries.csv
-
 # Player summaries - pitching
 
 tail -q -n+2 csv/ncaa_player_summaries_pitching_*.csv >> /tmp/player_summaries.csv
@@ -133,19 +117,11 @@ rm /tmp/player_summaries.csv
 
 # Player summaries - fielding 2014-2015
 
-tail -q -n+2 csv/ncaa_player_summaries_fielding_201[45]*.csv >> /tmp/player_summaries.csv
+tail -q -n+2 csv/ncaa_player_summaries_fielding_*.csv >> /tmp/player_summaries.csv
 rpl -q '""' '' /tmp/player_summaries.csv
 rpl -q ' ' '' /tmp/player_summaries.csv
 psql softball -f loaders/load_player_summaries_fielding.sql
 rm /tmp/player_summaries.csv
-
-# Player summaries - fielding 2012-2013
-
-#tail -q -n+2 csv/ncaa_player_summaries_fielding_201[23]*.csv >> /tmp/player_summaries.csv
-#rpl -q '""' '' /tmp/player_summaries.csv
-#rpl -q ' ' '' /tmp/player_summaries.csv
-#psql softball -f loaders/load_player_summaries_fielding_2012-2013.sql
-#rm /tmp/player_summaries.csv
 
 # Team summaries - hitting 2014-2015
 
@@ -189,7 +165,7 @@ rm /tmp/team_summaries.csv
 
 # Team summaries - fielding 2014-2015
 
-tail -q -n+2 csv/ncaa_team_summaries_fielding_201[45]*.csv >> /tmp/team_summaries.csv
+tail -q -n+2 csv/ncaa_team_summaries_fielding_*.csv >> /tmp/team_summaries.csv
 rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
 rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
 rpl -q '""' '' /tmp/team_summaries.csv
@@ -222,7 +198,7 @@ rpl "]" "}" /tmp/periods.csv
 psql softball -f loaders/load_periods.sql
 rm /tmp/periods.csv
 
-# Load play_by_play data
+# Load play-by-play data
 
 cp csv/ncaa_games_play_by_play_*.csv.gz /tmp
 gzip -d /tmp/ncaa_games_play_by_play_*.csv.gz

@@ -1,0 +1,16 @@
+
+2015
+
+Jersey	Player	Yr	Pos	GP	GS	GS	PO	A	E	FldPct	CI	PB	SBA	CSB	IDP	ITP
+
+2014
+
+Jersey	Player	Yr	Pos	GP	GS	GS	PO	A	E	FldPct	CI	PB	SBA	CSB	IDP	ITP
+
+2013
+
+Jersey	Player	Yr	Pos	GP	GS	GS	PO	A	E	FldPct	CI	PB	SBA	CSB	IDP	ITP
+
+2012
+
+Jersey	Player	Yr	Pos	GP	GS	GS	PO	A	E	FldPct	CI	PB	SBA	CSB	IDP	ITP

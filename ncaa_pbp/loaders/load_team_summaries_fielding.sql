@@ -13,7 +13,7 @@ create table ncaa_pbp.team_summaries_fielding (
        position					text,
        gp					integer,
        gs					integer,
-       g					integer,
+       gs2					integer,
        po					text,
        a					integer,
        e					integer,
@@ -23,7 +23,7 @@ create table ncaa_pbp.team_summaries_fielding (
        sba					integer,
        csb					integer,
        idp					integer,
-       tp					integer,
+       itp					integer,
        primary key (year_id,team_id,player_name),
        unique (year,team_id,player_name)
 );
