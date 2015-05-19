@@ -9,5 +9,6 @@ from ncaa_pbp._framing f
 join ncaa_pbp.team_rosters tr
 on (tr.ncaa_id)=(f.catcher_id)
 where division_id=1
+and tr.year in (2014,2015)
 order by player_name,team,tr.year
 ) to '/tmp/framing_alpha.csv' csv header;
