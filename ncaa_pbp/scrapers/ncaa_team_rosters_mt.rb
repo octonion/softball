@@ -5,7 +5,7 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 
-nthreads = 1
+nthreads = 2
 
 base_sleep = 0
 sleep_increment = 3
