@@ -32,7 +32,7 @@ from ncaa.results r
 --join ncaa.divisions dp
 --  on (dp.school_name)=(r.opponent_name)
 where
-    r.year between 2002 and 2015
+    r.year between 2002 and 2016
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.school_score>=0
@@ -107,7 +107,11 @@ g$log_rs <- log_rs
 dim(g)
 
 model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
-fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
+fit <- lmer(model,
+            data=g,
+	    verbose=TRUE,
+	    nAGQ=0,
+	    control=lmerControl(optimizer = "nloptwrap"))
 
 #model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)+(1|game_id)
 #fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)

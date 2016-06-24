@@ -23,7 +23,7 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
 game_xpath = "//table/tr[3]/td/form/table[2]/tr"
 record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
@@ -37,8 +37,8 @@ end
 n = schools.size
 gpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 (first_year..last_year).each do |year|
 
