@@ -63,6 +63,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,26520,Bay Path,13,19,0,32
 2016,51,Baylor,45,14,0,59
 2016,26107,Becker,27,12,0,39
+2016,30197,Belhaven,28,8,0,36
 2016,52,Bellarmine,33,26,0,59
 2016,14927,Belmont,19,35,0,54
 2016,2683,Belmont Abbey,20,29,0,49
@@ -166,6 +167,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,143,Clarion,4,33,0,37
 2016,145,Clark (MA),13,25,0,38
 2016,144,Clark Atlanta,11,31,0,42
+2016,958,Clarks Summit,12,28,0,40
 2016,146,Clarkson,20,14,0,34
 2016,148,Cleveland St.,21,32,0,53
 2016,722,Coast Guard,9,31,0,40
@@ -177,8 +179,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,151,Colby,15,15,0,30
 2016,153,Colgate,12,29,0,41
 2016,11403,Colo. Christian,17,34,0,51
+2016,155,Colo. Sch. of Mines,20,24,0,44
 2016,11416,Colorado Mesa,40,13,0,53
-2016,155,Colorado Mines,20,24,0,44
 2016,156,Colorado St.,22,24,0,46
 2016,2720,Colorado St.-Pueblo,22,31,0,53
 2016,158,Columbia,16,32,0,48
@@ -218,7 +220,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,176,DePaul,27,25,0,52
 2016,177,DePauw,31,18,0,49
 2016,20,DeSales,6,29,0,35
-2016,184,Detroit,17,39,0,56
+2016,184,Detroit Mercy,17,39,0,56
 2016,185,Dickinson,15,24,0,39
 2016,30095,Dixie St.,36,15,0,51
 2016,30118,Dominican (CA),19,32,0,51
@@ -289,6 +291,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,9011,Fort Hays St.,21,30,0,51
 2016,1083,Fort Lewis,15,32,0,47
 2016,237,Fort Valley St.,3,25,0,28
+2016,308,Fort Wayne,11,40,0,51
 2016,238,Framingham St.,13,27,0,40
 2016,1085,Francis Marion,34,21,0,55
 2016,30069,Franciscan,0,38,0,38
@@ -378,7 +381,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,312,Iowa,13,39,0,52
 2016,311,Iowa St.,20,35,0,55
 2016,30173,Iowa Wesleyan,10,20,0,30
-2016,308,IPFW,11,40,0,51
 2016,313,Ithaca,35,10,0,45
 2016,2699,IUPUI,20,35,0,55
 2016,314,Jackson St.,8,28,0,36
@@ -396,7 +398,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,329,Kean,20,22,0,42
 2016,330,Keene St.,22,16,0,38
 2016,1157,Kennesaw St.,30,28,0,58
-2016,331,Kent St.,38,22,0,60
+2016,331,Kent St.,37,22,0,59
 2016,334,Kentucky,45,14,1,60
 2016,332,Kentucky St.,15,23,0,38
 2016,335,Kenyon,17,22,1,40
@@ -417,7 +419,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,344,Lake Forest,30,14,0,44
 2016,345,Lake Superior St.,5,35,0,40
 2016,1164,Lakeland,21,17,0,38
-2016,346,Lamar,35,22,0,57
+2016,346,Lamar University,35,22,0,57
 2016,30085,Lancaster Bible,15,22,0,37
 2016,1167,Lander,26,21,0,47
 2016,347,Lane,16,20,0,36
@@ -450,6 +452,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,99,Long Beach St.,33,22,0,55
 2016,363,Longwood,40,20,0,60
 2016,364,Loras,17,21,0,38
+2016,671,Louisiana,46,9,0,55
 2016,1182,Louisiana Col.,18,23,0,41
 2016,366,Louisiana Tech,32,22,0,54
 2016,367,Louisville,35,17,0,52
@@ -490,7 +493,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,773,McDaniel,24,18,0,42
 2016,30138,McKendree,25,29,0,54
 2016,486,MCLA,11,22,0,33
-2016,402,McNeese St.,43,14,0,57
+2016,402,McNeese,43,14,0,57
 2016,379,Me.-Farmington,7,22,0,29
 2016,30040,Me.-Presque Isle,18,15,0,33
 2016,23725,Medaille,18,16,0,34
@@ -603,7 +606,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,30178,Northwestern Okla.,11,41,0,52
 2016,508,Northwestern St.,27,25,0,52
 2016,30031,Northwestern-St. Paul,20,22,0,42
-2016,510,Northwood (MI),16,26,0,42
+2016,510,Northwood,16,26,0,42
 2016,511,Norwich,17,19,0,36
 2016,513,Notre Dame,43,13,0,56
 2016,8600,Notre Dame (MD),7,23,0,30
@@ -620,7 +623,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,519,Ohio,37,23,0,60
 2016,30119,Ohio Dominican,25,27,0,52
 2016,517,Ohio Northern,24,19,0,43
-2016,518,Ohio St.,34,21,1,56
+2016,518,Ohio St.,34,20,1,55
 2016,15207,Ohio Valley,12,35,0,47
 2016,520,Ohio Wesleyan,16,21,0,37
 2016,30202,Okla. Baptist,17,35,0,52
@@ -637,7 +640,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,530,Oswego St.,14,17,0,31
 2016,531,Otterbein,29,7,2,38
 2016,1289,Ouachita Baptist,19,32,0,51
-2016,23008,Ozarks (AR),13,25,0,38
+2016,23008,Ozarks (AR),12,25,0,37
 2016,533,Pace,28,16,0,44
 2016,534,Pacific,20,28,0,48
 2016,2751,Pacific (OR),25,16,1,42
@@ -720,6 +723,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,608,Saint Leo,39,8,0,47
 2016,609,Saint Louis,25,27,0,52
 2016,1343,Saint Martin's,34,20,0,54
+2016,610,Saint Mary's (CA),20,27,1,48
 2016,612,Saint Mary's (MN),22,16,0,38
 2016,613,Saint Michael's,3,34,0,37
 2016,617,Saint Peter's,1,42,0,43
@@ -741,7 +745,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,632,Savannah St.,26,23,0,49
 2016,1355,Schreiner,9,31,0,40
 2016,633,Scranton,20,16,0,36
-2016,1356,Seattle,19,33,0,52
+2016,1356,Seattle U,19,33,0,52
 2016,635,Seton Hall,24,30,0,54
 2016,30063,Seton Hill,16,26,0,42
 2016,652,Sewanee,8,23,0,31
@@ -804,7 +808,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1340,St. Joseph's (L.I.),21,14,0,35
 2016,605,St. Joseph's (ME),22,18,0,40
 2016,607,St. Lawrence,14,21,0,35
-2016,610,St. Mary's (CA),20,27,1,48
 2016,8688,St. Mary's (IN),19,18,0,37
 2016,1346,St. Mary's (TX),47,14,0,61
 2016,614,St. Norbert,6,30,0,36
@@ -823,8 +826,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,682,Stonehill,23,17,0,40
 2016,683,Stony Brook,26,24,2,52
 2016,684,Suffolk,33,9,0,42
-2016,1390,Sul Ross St.,7,33,0,40
-2016,958,Summit,12,28,0,40
+2016,1390,Sul Ross St.,7,32,0,39
 2016,30165,SUNY Canton,9,14,0,23
 2016,168,SUNY Cortland,38,11,0,49
 2016,247,SUNY Geneseo,25,17,0,42
@@ -884,7 +886,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,110,UCLA,40,16,1,57
 2016,164,UConn,19,33,0,52
 2016,309,UIndy,51,5,0,56
-2016,671,UL Lafayette,46,9,0,55
 2016,401,UMass Boston,22,19,0,41
 2016,656,UMass Dartmouth,27,15,0,42
 2016,368,UMass Lowell,11,39,0,50
@@ -981,9 +982,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,791,Winston-Salem,30,23,0,53
 2016,792,Winthrop,15,43,0,58
 2016,8911,Wis. Lutheran,21,19,0,40
-2016,793,Wis.-Eau Claire,27,13,1,41
+2016,793,Wis.-Eau Claire,26,13,1,40
 2016,795,Wis.-La Crosse,26,14,0,40
-2016,798,Wis.-Oshkosh,26,14,0,40
+2016,798,Wis.-Oshkosh,26,13,0,39
 2016,799,Wis.-Parkside,8,41,0,49
 2016,800,Wis.-Platteville,4,26,0,30
 2016,801,Wis.-River Falls,14,22,1,37
