@@ -1,81 +1,81 @@
-[1] 1236982       9
+[1] 1246334       9
 [1] TRUE
-[1] 1236982       8
+[1] 1246334       8
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense)
    Data: g
-REML criterion at convergence: 2561876
+REML criterion at convergence: 2580821
 Random effects:
  Groups   Name        Std.Dev.
- defense  (Intercept) 0.49289 
- offense  (Intercept) 0.38952 
- park     (Intercept) 0.07156 
+ defense  (Intercept) 0.49323 
+ offense  (Intercept) 0.38996 
+ park     (Intercept) 0.07176 
  Residual             0.65214 
-Number of obs: 1236982, groups:  defense, 15178; offense, 15178; park, 1042
+Number of obs: 1246334, groups:  defense, 15178; offense, 15178; park, 1042
 Fixed Effects:
        (Intercept)            year2003            year2004            year2005  
-           1.34836            -0.02916            -0.05599            -0.02892  
+           1.34784            -0.02912            -0.05592            -0.02884  
           year2006            year2007            year2008            year2009  
-           0.02053             0.06045             0.05720             0.03460  
+           0.02058             0.06049             0.05727             0.03461  
           year2010            year2011            year2012            year2013  
-           0.07857             0.08296             0.05796             0.07431  
+           0.07859             0.08298             0.05800             0.07436  
           year2014            year2015            year2016            year2017  
-           0.08958             0.13437             0.10256             0.08611  
+           0.08961             0.13444             0.10262             0.08069  
          fieldnone  fieldpitching_home              h_div2              h_div3  
-          -0.03173            -0.07697            -0.26602            -0.66307  
+          -0.03098            -0.07663            -0.26580            -0.66313  
             p_div2              p_div3  
-           0.32111             0.77021  
+           0.32100             0.77050  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense)
    Data: g
 Control: lmerControl(optimizer = "nloptwrap")
 
-REML criterion at convergence: 2561876
+REML criterion at convergence: 2580821
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--9.8392 -0.6419  0.1000  0.7054 11.9878 
+-9.8417 -0.6422  0.0999  0.7058 11.9888 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- defense  (Intercept) 0.242939 0.49289 
- offense  (Intercept) 0.151729 0.38952 
- park     (Intercept) 0.005121 0.07156 
- Residual             0.425283 0.65214 
-Number of obs: 1236982, groups:  defense, 15178; offense, 15178; park, 1042
+ defense  (Intercept) 0.24327  0.49323 
+ offense  (Intercept) 0.15207  0.38996 
+ park     (Intercept) 0.00515  0.07176 
+ Residual             0.42529  0.65214 
+Number of obs: 1246334, groups:  defense, 15178; offense, 15178; park, 1042
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)         1.348358   0.023155   58.23
-year2003           -0.029162   0.030333   -0.96
-year2004           -0.055990   0.030205   -1.85
-year2005           -0.028924   0.030167   -0.96
-year2006            0.020530   0.030063    0.68
-year2007            0.060452   0.030004    2.01
-year2008            0.057198   0.029961    1.91
-year2009            0.034602   0.029806    1.16
-year2010            0.078568   0.029754    2.64
-year2011            0.082958   0.029698    2.79
-year2012            0.057957   0.029606    1.96
-year2013            0.074311   0.029598    2.51
-year2014            0.089582   0.029531    3.03
-year2015            0.134368   0.029480    4.56
-year2016            0.102557   0.029440    3.48
-year2017            0.086110   0.029458    2.92
-fieldnone          -0.031726   0.071614   -0.44
-fieldpitching_home -0.076972   0.001435  -53.65
-h_div2             -0.266021   0.012578  -21.15
-h_div3             -0.663072   0.013091  -50.65
-p_div2              0.321111   0.014137   22.71
-p_div3              0.770213   0.014347   53.68
+(Intercept)         1.347844   0.023174   58.16
+year2003           -0.029115   0.030358   -0.96
+year2004           -0.055916   0.030230   -1.85
+year2005           -0.028836   0.030192   -0.96
+year2006            0.020584   0.030088    0.68
+year2007            0.060494   0.030028    2.01
+year2008            0.057268   0.029986    1.91
+year2009            0.034614   0.029831    1.16
+year2010            0.078592   0.029778    2.64
+year2011            0.082980   0.029722    2.79
+year2012            0.058004   0.029630    1.96
+year2013            0.074357   0.029623    2.51
+year2014            0.089615   0.029555    3.03
+year2015            0.134441   0.029504    4.56
+year2016            0.102623   0.029464    3.48
+year2017            0.080692   0.029454    2.74
+fieldnone          -0.030980   0.071819   -0.43
+fieldpitching_home -0.076628   0.001426  -53.72
+h_div2             -0.265800   0.012583  -21.12
+h_div3             -0.663135   0.013093  -50.65
+p_div2              0.320995   0.014141   22.70
+p_div3              0.770504   0.014349   53.70
 Analysis of Variance Table
       Df  Sum Sq Mean Sq   F value
-year  15   41.64    2.78    6.5275
-field  2 1276.95  638.47 1501.2940
-h_div  2  293.66  146.83  345.2565
-p_div  2 1303.71  651.86 1532.7596
+year  15   41.19    2.75    6.4569
+field  2 1279.37  639.68 1504.1207
+h_div  2  294.33  147.16  346.0342
+p_div  2 1304.79  652.39 1534.0090
        chisq        ratio          rdf            p 
-5.132877e+05 4.149600e-01 1.236957e+06 1.000000e+00 
+5.172620e+05 4.150351e-01 1.246309e+06 1.000000e+00 
 [1] TRUE
