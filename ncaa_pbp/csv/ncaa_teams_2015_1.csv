@@ -58,7 +58,7 @@ WSB	2015	12120	1	175	Dayton	http://stats.ncaa.org/team/175/12120
 WSB	2015	12120	1	176	DePaul	http://stats.ncaa.org/team/176/12120
 WSB	2015	12120	1	180	Delaware	http://stats.ncaa.org/team/180/12120
 WSB	2015	12120	1	178	Delaware St.	http://stats.ncaa.org/team/178/12120
-WSB	2015	12120	1	184	Detroit	http://stats.ncaa.org/team/184/12120
+WSB	2015	12120	1	184	Detroit Mercy	http://stats.ncaa.org/team/184/12120
 WSB	2015	12120	1	189	Drake	http://stats.ncaa.org/team/189/12120
 WSB	2015	12120	1	191	Drexel	http://stats.ncaa.org/team/191/12120
 WSB	2015	12120	1	198	ETSU	http://stats.ncaa.org/team/198/12120
@@ -77,6 +77,7 @@ WSB	2015	12120	1	235	Florida	http://stats.ncaa.org/team/235/12120
 WSB	2015	12120	1	228	Florida A&M	http://stats.ncaa.org/team/228/12120
 WSB	2015	12120	1	234	Florida St.	http://stats.ncaa.org/team/234/12120
 WSB	2015	12120	1	236	Fordham	http://stats.ncaa.org/team/236/12120
+WSB	2015	12120	1	308	Fort Wayne	http://stats.ncaa.org/team/308/12120
 WSB	2015	12120	1	96	Fresno St.	http://stats.ncaa.org/team/96/12120
 WSB	2015	12120	1	244	Furman	http://stats.ncaa.org/team/244/12120
 WSB	2015	12120	1	253	Ga. Southern	http://stats.ncaa.org/team/253/12120
@@ -99,7 +100,6 @@ WSB	2015	12120	1	285	Holy Cross	http://stats.ncaa.org/team/285/12120
 WSB	2015	12120	1	288	Houston	http://stats.ncaa.org/team/288/12120
 WSB	2015	12120	1	287	Houston Baptist	http://stats.ncaa.org/team/287/12120
 WSB	2015	12120	1	290	Howard	http://stats.ncaa.org/team/290/12120
-WSB	2015	12120	1	308	IPFW	http://stats.ncaa.org/team/308/12120
 WSB	2015	12120	1	2699	IUPUI	http://stats.ncaa.org/team/2699/12120
 WSB	2015	12120	1	294	Idaho St.	http://stats.ncaa.org/team/294/12120
 WSB	2015	12120	1	302	Ill.-Chicago	http://stats.ncaa.org/team/302/12120
@@ -122,15 +122,15 @@ WSB	2015	12120	1	334	Kentucky	http://stats.ncaa.org/team/334/12120
 WSB	2015	12120	1	361	LIU Brooklyn	http://stats.ncaa.org/team/361/12120
 WSB	2015	12120	1	365	LSU	http://stats.ncaa.org/team/365/12120
 WSB	2015	12120	1	340	La Salle	http://stats.ncaa.org/team/340/12120
-WSB	2015	12120	1	671	La.-Lafayette	http://stats.ncaa.org/team/671/12120
 WSB	2015	12120	1	498	La.-Monroe	http://stats.ncaa.org/team/498/12120
 WSB	2015	12120	1	342	Lafayette	http://stats.ncaa.org/team/342/12120
-WSB	2015	12120	1	346	Lamar	http://stats.ncaa.org/team/346/12120
+WSB	2015	12120	1	346	Lamar University	http://stats.ncaa.org/team/346/12120
 WSB	2015	12120	1	352	Lehigh	http://stats.ncaa.org/team/352/12120
 WSB	2015	12120	1	355	Liberty	http://stats.ncaa.org/team/355/12120
 WSB	2015	12120	1	28600	Lipscomb	http://stats.ncaa.org/team/28600/12120
 WSB	2015	12120	1	99	Long Beach St.	http://stats.ncaa.org/team/99/12120
 WSB	2015	12120	1	363	Longwood	http://stats.ncaa.org/team/363/12120
+WSB	2015	12120	1	671	Louisiana	http://stats.ncaa.org/team/671/12120
 WSB	2015	12120	1	366	Louisiana Tech	http://stats.ncaa.org/team/366/12120
 WSB	2015	12120	1	367	Louisville	http://stats.ncaa.org/team/367/12120
 WSB	2015	12120	1	371	Loyola Chicago	http://stats.ncaa.org/team/371/12120
@@ -141,7 +141,7 @@ WSB	2015	12120	1	386	Marist	http://stats.ncaa.org/team/386/12120
 WSB	2015	12120	1	388	Marshall	http://stats.ncaa.org/team/388/12120
 WSB	2015	12120	1	392	Maryland	http://stats.ncaa.org/team/392/12120
 WSB	2015	12120	1	400	Massachusetts	http://stats.ncaa.org/team/400/12120
-WSB	2015	12120	1	402	McNeese St.	http://stats.ncaa.org/team/402/12120
+WSB	2015	12120	1	402	McNeese	http://stats.ncaa.org/team/402/12120
 WSB	2015	12120	1	404	Memphis	http://stats.ncaa.org/team/404/12120
 WSB	2015	12120	1	406	Mercer	http://stats.ncaa.org/team/406/12120
 WSB	2015	12120	1	414	Miami (OH)	http://stats.ncaa.org/team/414/12120
@@ -212,6 +212,7 @@ WSB	2015	12120	1	590	Sacred Heart	http://stats.ncaa.org/team/590/12120
 WSB	2015	12120	1	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/12120
 WSB	2015	12120	1	606	Saint Joseph's	http://stats.ncaa.org/team/606/12120
 WSB	2015	12120	1	609	Saint Louis	http://stats.ncaa.org/team/609/12120
+WSB	2015	12120	1	610	Saint Mary's (CA)	http://stats.ncaa.org/team/610/12120
 WSB	2015	12120	1	617	Saint Peter's	http://stats.ncaa.org/team/617/12120
 WSB	2015	12120	1	624	Sam Houston St.	http://stats.ncaa.org/team/624/12120
 WSB	2015	12120	1	625	Samford	http://stats.ncaa.org/team/625/12120
@@ -220,7 +221,7 @@ WSB	2015	12120	1	626	San Diego St.	http://stats.ncaa.org/team/626/12120
 WSB	2015	12120	1	630	San Jose St.	http://stats.ncaa.org/team/630/12120
 WSB	2015	12120	1	631	Santa Clara	http://stats.ncaa.org/team/631/12120
 WSB	2015	12120	1	632	Savannah St.	http://stats.ncaa.org/team/632/12120
-WSB	2015	12120	1	1356	Seattle	http://stats.ncaa.org/team/1356/12120
+WSB	2015	12120	1	1356	Seattle U	http://stats.ncaa.org/team/1356/12120
 WSB	2015	12120	1	635	Seton Hall	http://stats.ncaa.org/team/635/12120
 WSB	2015	12120	1	639	Siena	http://stats.ncaa.org/team/639/12120
 WSB	2015	12120	1	646	South Ala.	http://stats.ncaa.org/team/646/12120
@@ -237,7 +238,6 @@ WSB	2015	12120	1	665	Southern U.	http://stats.ncaa.org/team/665/12120
 WSB	2015	12120	1	667	Southern Utah	http://stats.ncaa.org/team/667/12120
 WSB	2015	12120	1	596	St. Bonaventure	http://stats.ncaa.org/team/596/12120
 WSB	2015	12120	1	603	St. John's (NY)	http://stats.ncaa.org/team/603/12120
-WSB	2015	12120	1	610	St. Mary's (CA)	http://stats.ncaa.org/team/610/12120
 WSB	2015	12120	1	674	Stanford	http://stats.ncaa.org/team/674/12120
 WSB	2015	12120	1	678	Stetson	http://stats.ncaa.org/team/678/12120
 WSB	2015	12120	1	683	Stony Brook	http://stats.ncaa.org/team/683/12120

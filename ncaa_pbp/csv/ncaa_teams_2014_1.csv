@@ -59,7 +59,7 @@ WSB	2014	11640	1	175	Dayton	http://stats.ncaa.org/team/175/11640
 WSB	2014	11640	1	176	DePaul	http://stats.ncaa.org/team/176/11640
 WSB	2014	11640	1	180	Delaware	http://stats.ncaa.org/team/180/11640
 WSB	2014	11640	1	178	Delaware St.	http://stats.ncaa.org/team/178/11640
-WSB	2014	11640	1	184	Detroit	http://stats.ncaa.org/team/184/11640
+WSB	2014	11640	1	184	Detroit Mercy	http://stats.ncaa.org/team/184/11640
 WSB	2014	11640	1	189	Drake	http://stats.ncaa.org/team/189/11640
 WSB	2014	11640	1	191	Drexel	http://stats.ncaa.org/team/191/11640
 WSB	2014	11640	1	198	ETSU	http://stats.ncaa.org/team/198/11640
@@ -78,6 +78,7 @@ WSB	2014	11640	1	235	Florida	http://stats.ncaa.org/team/235/11640
 WSB	2014	11640	1	228	Florida A&M	http://stats.ncaa.org/team/228/11640
 WSB	2014	11640	1	234	Florida St.	http://stats.ncaa.org/team/234/11640
 WSB	2014	11640	1	236	Fordham	http://stats.ncaa.org/team/236/11640
+WSB	2014	11640	1	308	Fort Wayne	http://stats.ncaa.org/team/308/11640
 WSB	2014	11640	1	96	Fresno St.	http://stats.ncaa.org/team/96/11640
 WSB	2014	11640	1	244	Furman	http://stats.ncaa.org/team/244/11640
 WSB	2014	11640	1	253	Ga. Southern	http://stats.ncaa.org/team/253/11640
@@ -100,7 +101,6 @@ WSB	2014	11640	1	285	Holy Cross	http://stats.ncaa.org/team/285/11640
 WSB	2014	11640	1	288	Houston	http://stats.ncaa.org/team/288/11640
 WSB	2014	11640	1	287	Houston Baptist	http://stats.ncaa.org/team/287/11640
 WSB	2014	11640	1	290	Howard	http://stats.ncaa.org/team/290/11640
-WSB	2014	11640	1	308	IPFW	http://stats.ncaa.org/team/308/11640
 WSB	2014	11640	1	2699	IUPUI	http://stats.ncaa.org/team/2699/11640
 WSB	2014	11640	1	294	Idaho St.	http://stats.ncaa.org/team/294/11640
 WSB	2014	11640	1	302	Ill.-Chicago	http://stats.ncaa.org/team/302/11640
@@ -123,15 +123,15 @@ WSB	2014	11640	1	334	Kentucky	http://stats.ncaa.org/team/334/11640
 WSB	2014	11640	1	361	LIU Brooklyn	http://stats.ncaa.org/team/361/11640
 WSB	2014	11640	1	365	LSU	http://stats.ncaa.org/team/365/11640
 WSB	2014	11640	1	340	La Salle	http://stats.ncaa.org/team/340/11640
-WSB	2014	11640	1	671	La.-Lafayette	http://stats.ncaa.org/team/671/11640
 WSB	2014	11640	1	498	La.-Monroe	http://stats.ncaa.org/team/498/11640
 WSB	2014	11640	1	342	Lafayette	http://stats.ncaa.org/team/342/11640
-WSB	2014	11640	1	346	Lamar	http://stats.ncaa.org/team/346/11640
+WSB	2014	11640	1	346	Lamar University	http://stats.ncaa.org/team/346/11640
 WSB	2014	11640	1	352	Lehigh	http://stats.ncaa.org/team/352/11640
 WSB	2014	11640	1	355	Liberty	http://stats.ncaa.org/team/355/11640
 WSB	2014	11640	1	28600	Lipscomb	http://stats.ncaa.org/team/28600/11640
 WSB	2014	11640	1	99	Long Beach St.	http://stats.ncaa.org/team/99/11640
 WSB	2014	11640	1	363	Longwood	http://stats.ncaa.org/team/363/11640
+WSB	2014	11640	1	671	Louisiana	http://stats.ncaa.org/team/671/11640
 WSB	2014	11640	1	366	Louisiana Tech	http://stats.ncaa.org/team/366/11640
 WSB	2014	11640	1	367	Louisville	http://stats.ncaa.org/team/367/11640
 WSB	2014	11640	1	371	Loyola Chicago	http://stats.ncaa.org/team/371/11640
@@ -142,7 +142,7 @@ WSB	2014	11640	1	386	Marist	http://stats.ncaa.org/team/386/11640
 WSB	2014	11640	1	388	Marshall	http://stats.ncaa.org/team/388/11640
 WSB	2014	11640	1	392	Maryland	http://stats.ncaa.org/team/392/11640
 WSB	2014	11640	1	400	Massachusetts	http://stats.ncaa.org/team/400/11640
-WSB	2014	11640	1	402	McNeese St.	http://stats.ncaa.org/team/402/11640
+WSB	2014	11640	1	402	McNeese	http://stats.ncaa.org/team/402/11640
 WSB	2014	11640	1	404	Memphis	http://stats.ncaa.org/team/404/11640
 WSB	2014	11640	1	406	Mercer	http://stats.ncaa.org/team/406/11640
 WSB	2014	11640	1	414	Miami (OH)	http://stats.ncaa.org/team/414/11640
@@ -213,6 +213,7 @@ WSB	2014	11640	1	590	Sacred Heart	http://stats.ncaa.org/team/590/11640
 WSB	2014	11640	1	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/11640
 WSB	2014	11640	1	606	Saint Joseph's	http://stats.ncaa.org/team/606/11640
 WSB	2014	11640	1	609	Saint Louis	http://stats.ncaa.org/team/609/11640
+WSB	2014	11640	1	610	Saint Mary's (CA)	http://stats.ncaa.org/team/610/11640
 WSB	2014	11640	1	617	Saint Peter's	http://stats.ncaa.org/team/617/11640
 WSB	2014	11640	1	624	Sam Houston St.	http://stats.ncaa.org/team/624/11640
 WSB	2014	11640	1	625	Samford	http://stats.ncaa.org/team/625/11640
@@ -221,7 +222,7 @@ WSB	2014	11640	1	626	San Diego St.	http://stats.ncaa.org/team/626/11640
 WSB	2014	11640	1	630	San Jose St.	http://stats.ncaa.org/team/630/11640
 WSB	2014	11640	1	631	Santa Clara	http://stats.ncaa.org/team/631/11640
 WSB	2014	11640	1	632	Savannah St.	http://stats.ncaa.org/team/632/11640
-WSB	2014	11640	1	1356	Seattle	http://stats.ncaa.org/team/1356/11640
+WSB	2014	11640	1	1356	Seattle U	http://stats.ncaa.org/team/1356/11640
 WSB	2014	11640	1	635	Seton Hall	http://stats.ncaa.org/team/635/11640
 WSB	2014	11640	1	639	Siena	http://stats.ncaa.org/team/639/11640
 WSB	2014	11640	1	646	South Ala.	http://stats.ncaa.org/team/646/11640
@@ -239,7 +240,6 @@ WSB	2014	11640	1	667	Southern Utah	http://stats.ncaa.org/team/667/11640
 WSB	2014	11640	1	596	St. Bonaventure	http://stats.ncaa.org/team/596/11640
 WSB	2014	11640	1	599	St. Francis Brooklyn	http://stats.ncaa.org/team/599/11640
 WSB	2014	11640	1	603	St. John's (NY)	http://stats.ncaa.org/team/603/11640
-WSB	2014	11640	1	610	St. Mary's (CA)	http://stats.ncaa.org/team/610/11640
 WSB	2014	11640	1	674	Stanford	http://stats.ncaa.org/team/674/11640
 WSB	2014	11640	1	678	Stetson	http://stats.ncaa.org/team/678/11640
 WSB	2014	11640	1	683	Stony Brook	http://stats.ncaa.org/team/683/11640
