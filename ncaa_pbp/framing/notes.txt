@@ -1,0 +1,14 @@
+psql softball -f batteries.sql
+cp /tmp/batteries.csv .
+
+R --vanilla -f framing_lmer.R
+
+edit out $catcher from framing_lmer.txt
+rename to framing.csv
+
+cp framing.csv /tmp
+
+psql softball -f load_framing.sql
+
+psql softball -f framing_alpha.sql
+cp /tmp/framing_alpha.csv .

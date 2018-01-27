@@ -81,12 +81,21 @@ psql softball -f loaders/load_box_scores_pitching.sql
 rm /tmp/box_scores.csv
 rm /tmp/ncaa_box_scores_pitching_*.csv
 
-# Box scores - fielding 2014-2015
+# Box scores - fielding 2017
 
-cp csv/ncaa_box_scores_fielding_201[45]*.csv.gz /tmp
+cp csv/ncaa_box_scores_fielding_201[7]*.csv.gz /tmp
 gzip -d /tmp/ncaa_box_scores_fielding_*.csv.gz
 tail -q -n+2 /tmp/ncaa_box_scores_fielding_*.csv >> /tmp/box_scores.csv
 psql softball -f loaders/load_box_scores_fielding.sql
+rm /tmp/box_scores.csv
+rm /tmp/ncaa_box_scores_fielding_*.csv
+
+# Box scores - fielding 2014-2016
+
+cp csv/ncaa_box_scores_fielding_201[456]*.csv.gz /tmp
+gzip -d /tmp/ncaa_box_scores_fielding_*.csv.gz
+tail -q -n+2 /tmp/ncaa_box_scores_fielding_*.csv >> /tmp/box_scores.csv
+psql softball -f loaders/load_box_scores_fielding_2014-2016.sql
 rm /tmp/box_scores.csv
 rm /tmp/ncaa_box_scores_fielding_*.csv
 
