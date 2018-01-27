@@ -1,47 +1,97 @@
 name,year,class,team,framing
 ",",2014,Fr,UC Santa Barbara,-0.027
+"Abello, Stephanie",2016,Fr,Illinois,0.033
+"Abello, Stephanie",2017,So,Illinois,0.033
 "Adams, Calyn",2015,Fr,Mississippi St.,0.024
+"Adams, Calyn",2016,So,Mississippi St.,0.024
+"Adams, Calyn",2017,Jr,Mississippi St.,0.024
 "Adams, Elizabeth",2014,So,Rutgers,0.157
 "Adams, Elizabeth",2015,Jr,Rutgers,0.157
+"Adams, Elizabeth",2016,Sr,Rutgers,0.157
+"Adams, Elizabeth",2017,Sr,Rutgers,0.157
 "Adkins, Holly",2014,Fr,Samford,-0.015
 "Adkinson, Spencer",2014,Jr,Southeastern La.,-0.050
 "Adkinson, Spencer",2015,Sr,Southeastern La.,-0.050
 "Africano, Casey",2014,So,Notre Dame,0.029
 "Africano, Casey",2015,Jr,Notre Dame,0.029
+"Africano, Casey",2016,Sr,Notre Dame,0.029
 "Agamaite, Samantha",2015,Fr,La.-Monroe,0.040
+"Agamaite, Samantha",2016,So,La.-Monroe,0.040
+"Agamaite, Samantha",2017,Jr,La.-Monroe,0.040
 "Aguirre, Katee",2014,So,Arizona St.,-0.027
 "Aguirre, Katee",2015,Jr,Arizona St.,-0.027
 "Aiken, Mikaela",2015,Fr,Virginia Tech,0.000
+"Aiken, Mikaela",2016,So,Virginia Tech,0.000
+"Aiken, Mikaela",2017,Jr,Virginia Tech,0.000
 "Akamine, Hannah",2015,Sr,Oregon St.,-0.196
 "Akamine, Hannah",2014,Jr,Tennessee,0.030
 "Alaan, Jastine",2015,Fr,Mercer,-0.015
+"Alaan, Jastine",2016,So,Mercer,-0.015
+"Alaan, Jastine",2017,Jr,Mercer,-0.015
 "Alamprese, Kaitlin",2014,Fr,Bethune-Cookman,0.048
 "Alamprese, Kaitlin",2015,So,Bethune-Cookman,0.048
+"Alamprese, Kaitlin",2016,Jr,Bethune-Cookman,0.048
+"Alamprese, Kaitlin",2017,Sr,Bethune-Cookman,0.048
+"Aldrete, Annie",2016,Jr,California,0.024
+"Aldrete, Annie",2017,Sr,California,0.024
 "Aldrete, Annie",2014,Fr,Tennessee,0.025
 "Aldrete, Annie",2015,So,Tennessee,0.025
+"Alexander, Katie",2016,Fr,Michigan,0.110
+"Alexander, Katie",2017,So,Michigan,0.110
 "Alford, Callie",2014,Jr,Georgia St.,-0.061
 "Alford, Callie",2015,Sr,Georgia St.,-0.061
 "Allen, Kelby",2014,Jr,Liberty,-0.149
 "Allen, Kelby",2015,Sr,Liberty,-0.149
 "Allocca, Brittany",2015,Fr,Hofstra,0.004
+"Allocca, Brittany",2016,So,Hofstra,0.004
+"Allocca, Brittany",2017,Jr,Hofstra,0.004
+"Alvarado, Allanah",2017,Fr,Utah St.,0.024
+"Alvarez, Natalie",2016,Fr,Ohio,0.002
+"Alvarez, Natalie",2017,So,Ohio,0.002
 "Anderson, Denise",2014,Fr,Florida A&M,0.028
 "Anderson, Denise",2015,So,Florida A&M,0.028
+"Anderson, Denise",2016,Jr,Florida A&M,0.028
+"Anderson, Denise",2017,Sr,Florida A&M,0.028
+"Anderson, Lauren",2016,Jr,Miami (OH),0.103
+"Anderson, Lauren",2017,Sr,Miami (OH),0.103
 "Angersbach, Jessica",2014,Fr,Villanova,-0.066
 "Angersbach, Jessica",2015,So,Villanova,-0.066
+"Angersbach, Jessica",2016,Jr,Villanova,-0.066
+"Angersbach, Jessica",2017,Sr,Villanova,-0.066
+"Aplin, Stefanie",2017,Jr,Wagner,-0.101
 "Appelbe, Katherine",2014,Jr,Harvard,0.043
 "Appelbe, Katherine",2015,Sr,Harvard,0.043
 "Archer, Taylor",2014,So,Rhode Island,0.020
 "Archer, Taylor",2015,Jr,Rhode Island,0.020
+"Archer, Taylor",2016,Sr,Rhode Island,0.020
 "Arciola, Alex",2015,Fr,North Florida,0.023
+"Arciola, Alex",2016,So,North Florida,0.023
+"Arciola, Alex",2017,Jr,North Florida,0.023
+"Armstrong, Madison",2016,Fr,Western Caro.,-0.080
+"Armstrong, Madison",2017,So,Western Caro.,-0.080
 "Arnold, Caylor",2014,So,Northwestern,0.049
 "Arnold, Caylor",2015,Jr,Northwestern,0.049
+"Arnold, Caylor",2016,Sr,Northwestern,0.049
 "Ashley, Jordan",2014,So,Presbyterian,-0.010
 "Ashley, Jordan",2015,Jr,Presbyterian,-0.010
+"Ashley, Jordan",2016,Sr,Presbyterian,-0.010
 "Augustus, Jordyn",2015,Fr,South Carolina,0.000
+"Augustus, Jordyn",2016,So,South Carolina,0.000
+"Augustus, Jordyn",2017,Jr,South Carolina,0.000
+"Avery, Madeline",2016,N/A,Cornell,-0.022
+"Avery, Madeline",2017,So,Cornell,-0.022
+"Avila, Alyssa",2016,Fr,San Jose St.,0.058
+"Avila, Alyssa",2017,So,San Jose St.,0.058
 "Baca, Brynn",2014,Fr,Lamar,0.074
 "Baca, Brynn",2015,So,Lamar,0.074
+"Baca, Brynn",2016,Jr,Lamar University,0.074
+"Baca, Brynn",2017,Sr,Lamar University,0.074
 "Bailey, Katie Anne",2014,Fr,Mississippi St.,-0.072
 "Bailey, Katie Anne",2015,So,Mississippi St.,-0.072
+"Bailey, Katie Anne",2016,Jr,Mississippi St.,-0.072
+"Bailey, Katie Anne",2017,Sr,Mississippi St.,-0.072
+"Bailiff, Katie",2016,Fr,North Carolina,0.027
+"Bailiff, Katie",2017,So,North Carolina,0.027
 "Baird, Jackie",2014,Sr,East Tenn. St.,-0.033
 "Baker, Ashley",2014,So,Green Bay,0.083
 "Baker, Ashley",2015,Jr,Green Bay,0.083
@@ -50,147 +100,287 @@ name,year,class,team,framing
 "Ballard, Lexie",2015,Sr,Jacksonville,-0.051
 "Baltzell, Megan",2014,Jr,Longwood,0.011
 "Baltzell, Megan",2015,Sr,Longwood,0.011
+"Barbee, Walker",2017,Fr,Elon,-0.041
 "Barber, Caitie",2014,So,Towson,-0.074
 "Barber, Caitie",2015,Jr,Towson,-0.074
+"Barber, Caitie",2016,Sr,Towson,-0.074
+"Barnard, Kelsie",2016,Fr,Santa Clara,-0.053
+"Barnard, Kelsie",2017,So,Santa Clara,-0.053
 "Barnes, Alex",2014,So,Virginia Tech,0.024
 "Barre, Amye",2014,So,La.-Monroe,-0.078
 "Barre, Amye",2015,Jr,La.-Monroe,-0.078
+"Barre, Amye",2016,Sr,La.-Monroe,-0.078
 "Barrios, Kori",2015,So,Utah Valley,-0.072
+"Barrios, Kori",2016,Jr,Utah Valley,-0.072
 "Barrow, Hayley",2014,Jr,Buffalo,-0.041
 "Barrow, Hayley",2015,Sr,Buffalo,-0.041
 "Bartko, Mckenna",2014,Sr,Morehead St.,-0.082
 "Basham, Bailiegh",2014,Sr,Bradley,-0.036
+"Batten, Kaylynn",2016,Fr,Longwood,0.113
+"Batten, Kaylynn",2017,So,Longwood,0.113
 "Bava, Krista",2014,Jr,UC Davis,-0.008
 "Bava, Krista",2015,Sr,UC Davis,-0.008
 "Beck, Jordan",2015,Fr,Southern Miss.,0.012
+"Beck, Jordan",2016,So,Southern Miss.,0.012
 "Beckstrom, Hayley",2014,So,Seattle,0.025
 "Beckstrom, Hayley",2015,Jr,Seattle,0.025
+"Beckstrom, Hayley",2016,Sr,Seattle U,0.025
+"Belfiore, Taylor",2017,Fr,Col. of Charleston,-0.010
 "Bell, Chaunsey",2014,Jr,Alabama,0.002
 "Bell, Chaunsey",2015,Sr,Alabama,0.002
 "Bell, Mickey",2014,So,Fla. Atlantic,0.122
 "Bell, Mickey",2015,Jr,Fla. Atlantic,0.122
+"Bell, Mickey",2016,Sr,Fla. Atlantic,0.122
 "Belshe, Kristi",2014,Jr,Texas Tech,-0.127
 "Belshe, Kristi",2015,Sr,Texas Tech,-0.127
+"Beltran, Amanda",2016,Fr,Chattanooga,-0.069
+"Beltran, Amanda",2017,So,Chattanooga,-0.069
 "Bergman, Kaitlyn",2015,Fr,Toledo,-0.026
+"Bergman, Kaitlyn",2016,So,Toledo,-0.026
+"Bergman, Kaitlyn",2017,Jr,Toledo,-0.026
 "Bernard, Breezy",2014,Jr,Santa Clara,-0.052
 "Bernard, Breezy",2015,Sr,Santa Clara,-0.052
 "Berouty, Melissa",2014,So,Bethune-Cookman,0.151
 "Berouty, Melissa",2015,Jr,Bethune-Cookman,0.151
+"Berouty, Melissa",2016,Sr,Bethune-Cookman,0.151
 "Berry, Taylor",2014,Fr,Wisconsin,0.026
 "Berry, Taylor",2015,So,Wisconsin,0.026
+"Berry, Taylor",2016,Jr,Wisconsin,0.026
+"Berry, Taylor",2017,Sr,Wisconsin,0.026
 "Besson, Lindsey",2014,Fr,Michigan St.,0.108
 "Besson, Lindsey",2015,So,Michigan St.,0.108
+"Besson, Lindsey",2016,Jr,Michigan St.,0.108
+"Besson, Lindsey",2017,Sr,Michigan St.,0.108
 "Best, Ashley",2014,Fr,Appalachian St.,-0.083
+"Best, Ashley",2016,So,UNCW,-0.012
+"Best, Ashley",2017,Jr,UNCW,-0.012
 "Biagini, C",2014,Fr,Santa Clara,0.071
 "Biagini, Chiara",2015,Jr,Santa Clara,0.071
+"Biagini, Chiara",2016,Sr,Santa Clara,0.071
+"Binckes, Alexa",2017,Fr,Purdue,0.044
 "Bindus, TJ",2015,Fr,Oakland,0.080
 "Bingham, Sammy",2014,Sr,South Dakota St.,0.003
 "Bird, Claire",2015,Fr,Dartmouth,0.047
+"Bird, Claire",2016,So,Dartmouth,0.047
+"Bird, Claire",2017,Jr,Dartmouth,0.047
+"Bishop, Autumn",2017,Fr,Liberty,0.015
 "Bishop, Emily",2015,Jr,Kennesaw St.,-0.072
+"Bishop, Emily",2016,Sr,Kennesaw St.,-0.072
+"Bismark, Jade",2016,Fr,Texas Southern,-0.049
+"Bismark, Jade",2017,So,Texas Southern,-0.049
 "Bjorson, Bailey",2014,Fr,Campbell,-0.068
 "Bjorson, Bailey",2015,So,Campbell,-0.068
+"Bjorson, Bailey",2016,Jr,Campbell,-0.068
+"Bjorson, Bailey",2017,Sr,Campbell,-0.068
 "Black, Olivia",2014,Fr,UAB,0.033
 "Black, Olivia",2015,So,UAB,0.033
+"Black, Olivia",2016,So,UAB,0.033
+"Black, Olivia",2017,Sr,UAB,-0.022
 "Blackwell, Mandy",2014,Fr,Georgia St.,-0.093
 "Blackwell, Mandy",2015,So,Georgia St.,-0.093
+"Blackwell, Mandy",2016,Jr,Georgia St.,-0.093
+"Blackwell, Mandy",2017,Sr,Georgia St.,-0.093
 "Blanchard, Caitlin",2014,Sr,Michigan,0.003
+"Blanchard, Raquel",2017,Fr,Brown,0.048
+"Blasingame, Alexis",2017,Fr,Florida A&M,0.021
+"Bobos, H.",2017,Fr,Morgan St.,0.042
 "Boeckstigel, Stacia",2014,Sr,Missouri St.,0.120
+"Bohan, Erin",2016,Jr,Niagara,0.014
+"Bohan, Erin",2017,Sr,Niagara,0.014
 "Bolden, Tia",2014,Fr,Savannah St.,-0.005
 "Bolden, Tia",2015,So,Savannah St.,-0.005
+"Bolden, Tia",2016,Jr,Savannah St.,-0.005
+"Bolden, Tia",2017,Sr,Savannah St.,-0.005
+"Bolyard, Taylor",2016,So,Fort Wayne,-0.006
+"Bolyard, Taylor",2017,So,Fort Wayne,-0.006
+"Bomhardt, Eliza",2017,Fr,Hartford,0.065
 "Bonezek, Staci",2014,Jr,DePaul,0.031
 "Bonezek, Staci",2015,Sr,DePaul,0.031
 "Bonstrom, Kayla",2014,So,Stanford,-0.106
 "Bonstrom, Kayla",2015,Jr,Stanford,-0.106
+"Bonstrom, Kayla",2016,Sr,Stanford,-0.106
 "Boone, Jordan",2014,So,Morehead St.,-0.004
 "Boone, Jordan",2015,Jr,Morehead St.,-0.004
+"Boone, Jordan",2016,Sr,Morehead St.,-0.004
 "Booty, Joanna",2014,Fr,Southeastern La.,-0.063
 "Booty, Joanna",2015,So,Southeastern La.,-0.063
+"Booty, Joanna",2016,Jr,Southeastern La.,-0.063
+"Borries, Anni",2017,N/A,Illinois St.,-0.015
+"Bostic, Bailee",2016,Fr,Evansville,-0.055
+"Bostic, Bailee",2017,So,Evansville,-0.055
+"Bosworth, Kaylee",2016,Fr,Iowa St.,-0.049
+"Bosworth, Kaylee",2017,So,Iowa St.,-0.049
 "Bott, Brenda",2014,Fr,Wagner,0.094
 "Bott, Brenda",2015,Jr,Wagner,0.094
+"Bott, Brenda",2016,Sr,Wagner,0.094
 "Bouchard, Janelle",2015,Jr,Maine,0.001
+"Bouchard, Janelle",2016,Sr,Maine,0.001
 "Bouchard, Janelle",2014,So,Valparaiso,-0.119
+"Bounds, Emily",2016,Fr,Sam Houston St.,0.021
+"Bounds, Emily",2017,So,Sam Houston St.,0.021
+"Bourgeois, Brennan",2017,Fr,Southeastern La.,-0.035
 "Bowen, Clara",2015,Jr,Samford,0.018
+"Bowen, Clara",2016,Sr,Samford,0.018
 "Bowen, Clara",2014,So,South Ala.,-0.024
 "Bowman, Elena",2014,So,Manhattan,0.051
 "Bowman, Elena",2015,Jr,Manhattan,0.051
+"Bowman, Elena",2016,Sr,Manhattan,0.051
+"Boyd,",2017,Fr,UNCG,-0.032
+"Boyd, Lacey",2017,Fr,A&M-Corpus Chris,-0.043
 "Boyer, Karli",2014,So,Drexel,-0.095
 "Braun, Dani",2014,So,Washington,-0.108
 "Braun, Dani",2015,Jr,Washington,-0.108
+"Braun, Dani",2016,Sr,Washington,-0.108
 "Breeden, Alex",2014,Jr,South Ala.,0.031
 "Breeden, Alex",2015,Sr,South Ala.,0.031
+"Breeden, Alex",2016,Sr,South Ala.,0.031
 "Breeden, Allysen",2014,Jr,Rider,-0.080
 "Breeden, Allysen",2015,Sr,Rider,-0.080
+"Breitbach, Kaylyn",2016,Fr,Saint Louis,0.006
+"Breitbach, Kaylyn",2017,So,Saint Louis,0.006
 "Brenneis, Lexie",2015,Fr,Montana,0.043
+"Brenneis, Lexie",2016,So,Montana,0.043
 "Bretz, Victoria",2015,Fr,Niagara,-0.035
+"Bretz, Victoria",2016,Sr,Niagara,-0.035
+"Brewer, Cassady",2016,Fr,UCF,0.023
+"Brewer, Cassady",2017,So,UCF,0.023
 "Briggs, Queen",2015,So,Jackson St.,-0.119
+"Briggs, Queen",2016,Jr,Jackson St.,-0.119
+"Briggs, Queen",2017,Sr,Jackson St.,-0.119
 "Broderick, Sydney",2014,Fr,BYU,-0.089
 "Broderick, Sydney",2015,So,BYU,-0.089
+"Broderick, Sydney",2016,Jr,Florida St.,0.066
+"Broderick, Sydney",2017,Sr,Florida St.,0.066
 "Brodner, Emily",2015,Fr,Illinois,-0.056
+"Brodner, Emily",2016,Fr,Illinois,-0.056
+"Brodner, Emily",2017,So,Illinois,-0.056
 "Brooks, Courtenay",2014,Fr,Mississippi Val.,-0.158
+"Brooks, Lauren",2017,Fr,Central Ark.,0.072
+"Broome, Abby",2017,Fr,Ga. Southern,0.041
 "Browne, Katie",2014,So,Georgia,-0.030
 "Browne, Katie",2015,Jr,Georgia,-0.030
+"Browne, Katie",2016,Sr,Georgia,-0.030
 "Brown, Erin",2014,So,UNCW,0.018
 "Brown, Erin",2015,Jr,UNCW,0.018
+"Brown, Erin",2016,Sr,UNCW,0.018
 "Brown, Mylee",2015,Sr,Weber St.,-0.004
 "Brunson, Alex",2015,Fr,North Florida,0.014
+"Brunson, Alex",2016,So,North Florida,0.014
+"Buchanan, Lauren",2016,Fr,Colorado St.,0.035
+"Buchanan, Lauren",2017,So,Colorado St.,0.035
 "Buckel, Holly",2014,Jr,Mt. St. Mary's,-0.017
 "Buckel, Holly",2015,Sr,Mt. St. Mary's,-0.017
 "Budicin, Kailee",2015,Fr,Dayton,0.014
+"Budicin, Kailee",2016,So,Dayton,0.014
+"Budicin, Kailee",2017,Jr,Dayton,0.014
+"Bullock, Allie",2017,Fr,Saint Mary's (CA),-0.016
+"Burda, Haley",2017,Fr,Nevada,-0.070
 "Burgess, Anndrea",2014,Jr,St. Bonaventure,-0.056
 "Burgess, Anndrea",2015,Sr,St. Bonaventure,-0.056
 "Burgess, Chelsea",2014,Sr,Tennessee Tech,-0.130
 "Burgess, Lindsey",2014,So,Tennessee St.,-0.053
 "Burgess, Lindsey",2015,Jr,Tennessee St.,-0.053
+"Burgess, Lindsey",2016,Sr,Tennessee St.,-0.053
 "Burner, Erin",2014,Jr,St. John's (NY),-0.095
 "Burner, Erin",2015,Sr,St. John's (NY),-0.095
+"Burrough, Corey",2017,Fr,Penn,-0.033
+"Burr, Sydney",2017,Fr,Holy Cross,0.016
 "Burt, Cianna",2014,So,South Carolina St.,-0.038
 "Burt, Cianna",2015,Jr,South Carolina St.,-0.038
+"Burt, Cianna",2016,Sr,South Carolina St.,-0.038
 "Bush, Alexis",2014,Fr,Saint Joseph's,-0.041
 "Bush, Alexis",2015,So,Saint Joseph's,-0.041
+"Bush, Alexis",2016,Jr,Saint Joseph's,-0.041
+"Bush, Alexis",2017,Sr,Saint Joseph's,-0.041
 "Bustillos, Shannon",2014,Jr,Maryland,-0.010
 "Bustillos, Shannon",2015,Sr,Maryland,-0.010
 "Butera, Ashley",2014,Jr,Nevada,-0.086
 "Butera, Ashley",2015,Sr,Nevada,-0.086
 "Butler, Morgan",2014,Jr,Grambling,0.017
 "Butler, Morgan",2015,Sr,Grambling,0.017
+"Butler, Nikki",2017,Fr,New Mexico St.,0.053
 "Buttacavoli, Brina",2015,Fr,Utah St.,0.007
+"Buttacavoli, Brina",2016,So,Utah St.,-0.043
+"Buttacavoli, Brina",2017,Jr,Utah St.,-0.043
 "Butts, Shannon",2014,Sr,Green Bay,-0.051
 "Byrne, Taylar",2015,Fr,Charlotte,-0.112
+"Byrne, Taylar",2016,So,Charlotte,-0.112
+"Byrne, Taylar",2017,Jr,Charlotte,-0.112
 "Caggiano, Liz",2014,Jr,Columbia,-0.036
 "Caggiano, Liz",2015,Sr,Columbia,-0.036
 "Cahill, Holiday",2014,Fr,Towson,0.018
 "Cahill, Holiday",2015,So,Towson,0.018
+"Cahill, Holiday",2016,Jr,Towson,0.018
+"Cahill, Holiday",2017,Sr,Towson,0.018
+"Cameron, Heather",2016,Fr,Hawaii,0.044
+"Cameron, Heather",2017,So,Hawaii,0.044
+"Cantu, Devin",2017,Fr,Iowa,0.025
 "Capitini, Geena",2015,N/A,Bethune-Cookman,-0.046
+"Capitini, Geena",2016,Fr,Bethune-Cookman,-0.046
+"Carassco, K",2017,Fr,Michigan St.,-0.023
 "Cardon, Bernadette",2014,So,Army West Point,-0.016
 "Cardon, Bernadette",2015,Jr,Army West Point,-0.016
+"Cardon, Bernadette",2016,Sr,Army West Point,-0.016
 "Cargill, Lindsey",2014,Fr,Baylor,0.050
 "Cargill, Lindsey",2015,So,Baylor,0.050
+"Cargill, Lindsey",2016,Jr,Baylor,0.050
+"Cargill, Lindsey",2017,Sr,Baylor,0.050
+"Carlucci, Jessica",2016,Fr,Wagner,-0.039
+"Carlucci, Jessica",2017,So,Wagner,-0.039
 "Carmona, Marina",2014,Fr,FIU,0.080
 "Carney, Alexis",2014,Fr,UC Davis,0.036
 "Carney, Alexis",2015,So,UC Davis,0.036
+"Carney, Alexis",2016,Jr,UC Davis,0.036
+"Carney, Alexis",2017,Sr,UC Davis,0.036
+"Carrasco, Marisa",2016,Fr,UMass Lowell,-0.016
+"Carrasco, Marisa",2017,So,UMass Lowell,-0.016
 "Carroll, C.",2014,N/A,Nicholls St.,-0.019
 "Carroll, Caitlyn",2015,So,Nicholls St.,-0.019
+"Carroll, Caitlyn",2016,Jr,Nicholls St.,-0.019
+"Carroll, Caitlyn",2017,Sr,Nicholls St.,-0.019
 "Carter, Ashley",2014,Jr,Bakersfield,0.040
 "Carter, Ashley",2015,Sr,Bakersfield,0.040
 "Carter, Riley",2014,So,Butler,-0.053
 "Carter, Riley",2015,Jr,Butler,-0.053
+"Carter, Riley",2016,Sr,Butler,-0.053
+"Casale, Cierra",2017,Fr,Sacred Heart,0.013
+"Casey, Jordan",2017,Fr,Delaware St.,-0.053
+"Casiano, Madison",2017,Fr,San Diego,-0.016
+"Cassidy, Bri",2016,Fr,Nebraska,0.017
+"Cassidy, Bri",2017,So,Nebraska,0.017
 "Castillo, Tiffany",2014,So,Sam Houston St.,-0.075
 "Castillo, Tiffany",2015,Jr,Sam Houston St.,-0.075
+"Castillo, Tiffany",2016,Sr,Sam Houston St.,-0.075
 "Castle, Kasandra",2015,Fr,FGCU,0.115
+"Castle, Kasandra",2017,Jr,FIU,0.061
 "Cavin, Miranda",2014,Fr,Oklahoma St.,-0.093
 "Cavin, Miranda",2015,So,Oklahoma St.,-0.093
+"Cavin, Miranda",2016,Jr,Oklahoma St.,-0.093
+"Cavin, Miranda",2017,Sr,Oklahoma St.,-0.093
 "Cenal, Kalyn",2014,So,UCF,-0.005
 "Cenal, Kalyn",2015,Jr,UCF,-0.005
+"Cenal, Kalyn",2016,Sr,UCF,-0.005
+"Cervantes, R.",2016,N/A,Fairleigh Dickinson,-0.023
+"Cervantes, Renna",2017,So,Fairleigh Dickinson,-0.023
 "Cervantez, Autumn",2014,Fr,North Dakota,-0.044
 "Cervantez, Autumn",2015,So,North Dakota,-0.044
+"Cervantez, Autumn",2016,Jr,North Dakota,-0.044
+"Cervantez, Autumn",2017,Sr,North Dakota,-0.044
 "Chaffee, Taylor",2014,So,Binghamton,-0.012
 "Chaffee, Taylor",2015,Jr,Binghamton,-0.012
+"Chaffee, Taylor",2016,Sr,Binghamton,-0.012
 "Chambers, Ashlie",2014,Fr,Drake,0.142
 "Chambers, Ashlie",2015,So,Drake,0.142
+"Chambers, Ashlie",2016,Jr,Drake,0.142
+"Chambers, Ashlie",2017,Sr,Drake,0.142
 "Chamblee, Nella",2014,Fr,UNCW,-0.046
 "Chamblee, Nella",2015,So,UNCW,-0.046
+"Chamblee, Nella",2016,Jr,UNCW,-0.046
+"Chamblee, Nella",2017,Sr,UNCW,-0.046
 "Chan, Kimberly",2014,Fr,Drexel,0.030
 "Chan, Kimberly",2015,So,Drexel,0.030
+"Chan, Kimberly",2016,Jr,Drexel,0.030
+"Chan, Kimberly",2017,Sr,Drexel,0.030
 "Chasier, Stephanie",2014,Fr,Saint Joseph's,0.018
 "Chasier, Stephanie",2015,So,Saint Joseph's,0.018
 "Chastain, Heather",2014,Jr,Western Caro.,-0.043
@@ -199,24 +389,44 @@ name,year,class,team,framing
 "Chaulklin, Alyssa",2015,Sr,Colgate,0.041
 "Chaw, Karen",2014,Fr,Dartmouth,-0.068
 "Chaw, Karen",2015,So,Dartmouth,-0.068
+"Chaw, Karen",2016,Jr,Dartmouth,-0.068
+"Chaw, Karen",2017,Sr,Dartmouth,-0.068
 "Cheatham, Macey",2014,So,Florida St.,-0.111
 "Cheatham, Macey",2015,Jr,Florida St.,-0.111
+"Cheatham, Macey",2016,Sr,Florida St.,-0.111
 "Chernak, Kelsey",2014,N/A,East Tenn. St.,0.033
 "Chernak, Kelsey",2015,Fr,East Tenn. St.,0.033
+"Chernak, Kelsey",2016,Jr,ETSU,0.033
+"Chernak, Kelsey",2017,Jr,ETSU,0.033
+"Chew, Hannah",2017,Fr,Saint Mary's (CA),-0.022
 "Chimento, Jordan",2015,Fr,Boston College,0.064
+"Chimento, Jordan",2016,So,Boston College,0.064
+"Chimento, Jordan",2017,Jr,Boston College,0.064
 "Christensen, Sydney",2015,Fr,Baylor,0.025
+"Christensen, Sydney",2016,So,Baylor,0.025
+"Christensen, Sydney",2017,Jr,Baylor,0.025
 "Christian, Marci",2015,Sr,Charleston So.,-0.019
 "Christopher, Caitlin",2014,Jr,UMKC,-0.062
 "Christopher, Caitlin",2015,Sr,UMKC,-0.062
 "Clark, Allyne",2015,Jr,Iona,-0.052
+"Clark, Allyne",2016,Sr,Iona,-0.052
 "Clarke, Jordan",2014,Sr,Campbell,-0.082
+"Clark, Emily",2016,Fr,Ohio St.,0.061
+"Clark, Emily",2017,So,Ohio St.,0.061
 "Clay, Mariah",2015,Fr,A&M-Corpus Chris,-0.009
+"Clay, Mariah",2016,So,A&M-Corpus Chris,-0.009
+"Clay, Mariah",2017,Jr,A&M-Corpus Chris,-0.009
 "Clayson, Ashley",2014,Fr,Southern Utah,0.006
 "Clayson, Ashley",2015,So,Southern Utah,0.006
+"Clayson, Ashley",2016,Jr,Southern Utah,0.006
+"Clayton, Blair",2017,Fr,Abilene Christian,0.001
 "Claytor, Madison",2014,Fr,Ohio,0.069
 "Claytor, Madison",2015,So,Ohio,0.069
+"Claytor, Madison",2016,Jr,Ohio,0.069
+"Claytor, Madison",2017,Sr,Ohio,0.069
 "Clowdus, Nicole",2014,So,Loyola Marymount,-0.041
 "Clowdus, Nicole",2015,Jr,Loyola Marymount,-0.041
+"Clowdus, Nicole",2016,Sr,Loyola Marymount,-0.041
 "Cochiolo, Mariah",2014,Sr,Cal Poly,0.004
 "Cochran, Phalen",2014,Fr,UC Davis,-0.061
 "Cochran, Phalen",2015,So,UC Davis,-0.061
@@ -224,133 +434,257 @@ name,year,class,team,framing
 "Coffey, Caitlyn",2015,Sr,Georgia Tech,-0.034
 "Coil, Braxton",2014,So,Missouri St.,0.020
 "Coil, Braxton",2015,Jr,Missouri St.,0.020
+"Coil, Braxton",2016,Sr,Missouri St.,0.020
 "Coldiron, Adeline",2014,Fr,Northern Colo.,0.051
 "Coldiron, Adeline",2015,So,Northern Colo.,0.051
+"Coldiron, Adeline",2016,Jr,Northern Colo.,0.051
+"Coldiron, Adeline",2017,Sr,Northern Colo.,0.051
+"Colegrove, Emma",2016,Fr,Tennessee St.,-0.001
+"Colegrove, Emma",2017,So,Tennessee St.,-0.001
 "Cole, Hannah",2014,Jr,Eastern Ill.,0.003
 "Cole, Hannah",2015,Sr,Eastern Ill.,0.003
 "Colenzo, Sydney",2014,Fr,Cal St. Fullerton,-0.042
 "Colenzo, Sydney",2015,So,Cal St. Fullerton,-0.042
+"Colenzo, Sydney",2016,Jr,Cal St. Fullerton,-0.042
+"Colenzo, Sydney",2017,Sr,Cal St. Fullerton,-0.042
 "Collins, Taylor",2014,So,Furman,-0.049
 "Collins, Taylor",2015,Jr,Furman,-0.049
+"Collins, Taylor",2016,Sr,Furman,-0.049
+"Colombo, Maddie",2017,Fr,Manhattan,0.009
+"Colon, Alex",2017,Fr,Princeton,-0.003
+"Comeaux, Lexie",2016,Fr,Louisiana,0.039
+"Comeaux, Lexie",2017,So,Louisiana,0.039
 "Conchas, Daisy",2015,Fr,San Jose St.,-0.049
+"Conchas, Daisy",2016,So,San Jose St.,-0.049
+"Conchas, Daisy",2017,Jr,San Jose St.,-0.049
+"Cone, Jenna",2017,Fr,George Washington,-0.041
 "Conley, Stacey",2014,Sr,McNeese St.,-0.004
 "Connors, Bridget",2014,Fr,Siena,0.007
 "Connors, Bridget",2015,So,Siena,0.007
 "Connors, Kaitlin",2014,Jr,San Diego St.,0.051
 "Connors, Kaitlin",2015,Sr,San Diego St.,0.051
+"Cook, Macy",2016,Fr,Wright St.,0.155
+"Cook, Macy",2017,So,Wright St.,0.155
 "Coonrod, Rachel",2014,Sr,SIUE,-0.049
 "Cooper, Hannah",2014,So,Central Conn. St.,0.029
 "Cooper, Hannah",2015,Jr,Central Conn. St.,0.029
+"Cooper, Hannah",2016,Sr,Central Conn. St.,0.029
 "Corder, Kendall",2014,Sr,Bryant,0.042
+"Corlew, Erica",2017,Fr,Stetson,-0.029
 "Corry, Beverly",2014,Jr,Lamar,-0.049
 "Cortez, Tatiana",2014,Fr,Boston College,0.039
 "Cortez, Tatiana",2015,So,Boston College,0.039
+"Cortez, Tatiana",2016,Jr,Boston College,0.039
+"Cortez, Tatiana",2017,Sr,Boston College,0.039
 "Cosentino, Chelsy",2014,Sr,Saint Francis (PA),-0.071
+"Cothern, Jessica",2017,Fr,DePaul,0.067
 "Cothron, Rena'",2014,Sr,Lipscomb,0.044
 "Cottle, Jennifer",2015,N/A,Detroit,-0.032
+"Cottle, Jennifer",2016,Sr,Detroit Mercy,-0.032
+"Courtney, Lexi",2017,Jr,Quinnipiac,-0.043
 "Craft, Jessica",2014,Jr,Ball St.,0.036
 "Craft, Jessica",2015,Sr,Ball St.,0.036
 "Crawford, Randee",2014,Fr,UTSA,-0.008
 "Crawford, Randee",2015,So,UTSA,-0.008
+"Crawford, Randee",2016,Jr,UTSA,-0.008
+"Crawford, Randee",2017,Sr,UTSA,-0.008
+"Crews, Blake",2017,Fr,Stetson,0.048
 "Crews, Chelsea",2014,Jr,Saint Peter's,-0.121
 "Crews, Chelsea",2015,Sr,Saint Peter's,-0.121
+"Crosby, Megan",2017,Fr,Sam Houston St.,0.088
+"Cross, Mallorie",2017,Fr,UTEP,0.005
 "Crow, Kady",2014,So,Texas Tech,-0.002
+"Crum, Jessica",2017,Jr,Alcorn,-0.013
 "Cruse, Bayli",2015,Fr,Tennessee Tech,0.005
+"Cruse, Bayli",2016,So,Tennessee Tech,0.005
+"Cruse, Bayli",2017,Jr,Tennessee Tech,0.005
 "Cudney, Elizabeth",2014,Sr,North Dakota,0.002
 "Cullen, Rachel",2015,Fr,Penn,0.021
+"Cullen, Rachel",2016,So,Penn,0.021
+"Cullen, Rachel",2017,Jr,Penn,0.021
+"Culver, Madison",2016,Fr,Murray St.,-0.097
+"Culver, Madison",2017,So,Murray St.,-0.097
 "Cumiskey, Rachel",2015,Fr,Gardner-Webb,-0.091
+"Cumiskey, Rachel",2016,So,Gardner-Webb,-0.091
+"Cumiskey, Rachel",2017,Jr,Gardner-Webb,-0.091
+"Cunningham, Michal",2017,Fr,LSU,0.032
 "Curtis, Brooke",2015,Fr,South Dakota,-0.002
+"Curtis, Brooke",2016,So,South Dakota,-0.002
+"Curtis, Brooke",2017,Jr,South Dakota,-0.002
 "Curtiss, Alexis",2014,Jr,Buffalo,-0.058
 "Curtiss, Alexis",2015,Sr,Buffalo,-0.058
 "Cutrona, Lisa",2014,Sr,Binghamton,0.040
+"Cyrus, Kelsey",2016,Fr,Savannah St.,-0.171
+"Cyrus, Kelsey",2017,So,Savannah St.,-0.171
+"Czapkowski, Chelsea",2017,Fr,Canisius,-0.025
+"Czyrklis, Kira",2016,Fr,Kennesaw St.,0.056
+"Czyrklis, Kira",2017,So,Kennesaw St.,0.056
+"Dahlen, Shayna",2017,Fr,Idaho St.,-0.010
 "Dailey, Robbie",2014,Jr,La.-Monroe,-0.100
 "Dailey, Robbie",2015,Sr,La.-Monroe,-0.100
+"Dalton, Alissa",2017,Fr,Oklahoma,-0.029
 "Daly, Allie",2014,Jr,South Dakota,-0.025
 "Daly, Allie",2015,Sr,South Dakota,-0.025
 "Daly, Jordan",2014,So,Belmont,0.034
 "Daly, Jordan",2015,Jr,Belmont,0.034
+"Daly, Jordan",2016,Sr,Belmont,0.034
 "Daneker, Amanda",2014,Fr,Coastal Caro.,0.047
 "Daneker, Amanda",2015,So,Coastal Caro.,0.047
+"Daneker, Amanda",2016,Jr,Coastal Caro.,0.047
+"Daneker, Amanda",2017,Sr,Coastal Caro.,0.047
 "Daniels, Bria",2015,Fr,Mississippi Val.,-0.042
+"Daniels, Bria",2016,So,Mississippi Val.,-0.042
+"Daniels, Bria",2017,Jr,Mississippi Val.,-0.042
 "Danner, Tori",2015,Fr,Iona,-0.042
+"Danner, Tori",2016,So,Iona,-0.042
+"Danner, Tori",2017,Jr,Iona,-0.042
 "Dascoli, Angie",2014,Sr,Kennesaw St.,0.076
 "David, Brooke",2015,Jr,McNeese St.,0.008
+"Davidson, Kyle",2016,Fr,Dayton,0.073
+"Davidson, Kyle",2017,So,Dayton,0.073
 "Davies, Emilia",2015,Jr,UMass Lowell,-0.019
 "Davila, Kris",2014,Jr,Houston,0.074
 "Davila, Kris",2015,Sr,Houston,0.074
+"Davis, Haleigh",2017,Fr,Texas St.,0.100
 "Davis, Mylee",2014,Jr,Weber St.,-0.004
 "Day, Hannah",2015,N/A,Troy,0.096
+"Day, Hannah",2016,Sr,Troy,0.096
+"Deal, Alexandra",2016,Fr,St. Bonaventure,-0.022
+"Deal, Alexandra",2017,So,St. Bonaventure,-0.022
 "Decker, Taylor",2014,Fr,Canisius,-0.055
 "Decker, Taylor",2015,So,Canisius,-0.055
+"Decker, Taylor",2016,Jr,Canisius,-0.055
+"Decker, Taylor",2017,Sr,Canisius,-0.055
 "DeDomenico, Lindsey",2014,So,Sacred Heart,-0.049
 "DeDomenico, Lindsey",2015,Jr,Sacred Heart,-0.049
+"DeDomenico, Lindsey",2016,Sr,Sacred Heart,-0.049
 "DeLaGarza, Cheyenne",2014,Sr,Northwestern St.,0.059
 "Delagrange, Jaclyn",2015,Fr,Green Bay,0.035
+"Delagrange, Jaclyn",2016,So,Green Bay,0.035
+"Delagrange, Jaclyn",2017,Jr,Green Bay,0.035
 "DeLamielleure, Chelsea",2014,Jr,Central Mich.,-0.054
 "DeLamielleure, Chelsea",2015,Jr,Central Mich.,-0.054
+"DeLamielleure, Chelsea",2016,Sr,Central Mich.,-0.054
 "Delamielleure, Cory",2014,Sr,Central Mich.,-0.063
 "De La Torre, Dana",2015,Fr,Utah Valley,-0.082
+"De La Torre, Dana",2016,So,Utah Valley,-0.082
 "DeLio, Georgi",2014,Fr,Charleston So.,-0.095
 "DeLio, Georgi",2015,So,Charleston So.,-0.095
+"DeLio, Georgi",2016,Jr,Charleston So.,-0.095
+"DeLio, Georgi",2017,Sr,Charleston So.,-0.095
 "Deloney, Chelsey",2014,Fr,Belmont,-0.090
 "Deloney, Chelsey",2015,So,Belmont,-0.090
+"Deloney, Chelsey",2016,Jr,Belmont,-0.090
+"Deloney, Chelsey",2017,Sr,Belmont,-0.090
 "de los Reyes, Jordan",2014,Fr,Illinois St.,0.036
 "de los Reyes, Jordan",2015,So,Illinois St.,0.036
+"de los Reyes, Jordan",2016,Jr,Illinois St.,0.036
+"de los Reyes, Jordan",2017,Sr,Illinois St.,0.036
+"Delperuto, Chelsie",2016,Fr,UMBC,0.015
+"Delperuto, Chelsie",2017,So,UMBC,0.015
 "DeMarco, Bethany",2014,So,Canisius,0.016
 "DeMarco, Bethany",2015,Jr,Canisius,0.016
 "DeSchepper, Kayla",2014,Fr,Hampton,-0.100
 "DeSchepper, Kayla",2015,So,Hampton,-0.100
+"DeSchepper, Kayla",2016,Jr,Hampton,-0.100
+"DeSchepper, Kayla",2017,Sr,Hampton,-0.100
 "Devlin, Dani",2014,Fr,Northern Ky.,-0.114
 "Devlin, Dani",2015,So,Northern Ky.,-0.114
+"Devlin, Dani",2016,Jr,Northern Ky.,-0.114
+"Devlin, Dani",2017,Sr,Northern Ky.,-0.114
 "Dewes, Alyssa",2014,Fr,Syracuse,0.059
 "Dewes, Alyssa",2015,So,Syracuse,0.059
+"Dewes, Alyssa",2016,Jr,Syracuse,0.059
+"Dewes, Alyssa",2017,Sr,Syracuse,0.059
+"DiDio, Isabella",2017,Fr,Coppin St.,0.007
 "Di Fulgo, Sommer",2014,Jr,Norfolk St.,-0.044
 "Di Fulgo, Sommer",2015,Sr,Norfolk St.,-0.044
 "Dillard, Kristina",2014,Fr,Louisville,-0.013
 "Dillard, Kristina",2015,So,Louisville,-0.013
+"Dillard, Kristina",2016,Jr,Maryland,-0.012
+"Dillard, Kristina",2017,Sr,Maryland,-0.012
 "Dillon, Eryn",2014,Jr,IUPUI,0.115
 "Dillon, Eryn",2015,Sr,IUPUI,0.115
 "Dinner, Dominique",2014,Sr,San Diego St.,0.024
 "Dionne, Hannah",2014,So,Saint Joseph's,-0.030
 "Dionne, Hannah",2015,Jr,Saint Joseph's,-0.030
+"Dionne, Hannah",2016,Sr,Saint Joseph's,-0.030
 "Ditto, Campbell",2014,So,Omaha,-0.034
 "Ditto, Campbell",2015,Jr,Omaha,-0.034
+"Ditto, Campbell",2016,Sr,Omaha,-0.034
 "Dobbins, Alexandra",2015,Fr,Mississippi Val.,0.020
+"Dobbins, Alexandra",2016,So,Mississippi Val.,0.020
+"Dobbins, Alexandra",2017,Jr,Mississippi Val.,0.020
+"Dodd, Jenny",2016,Fr,Appalachian St.,0.009
+"Dodd, Jenny",2017,So,Appalachian St.,0.009
+"Dodson, Amanda",2017,Fr,Siena,0.036
 "Dodson, Brooke",2014,Fr,Kent St.,0.104
 "Dodson, Brooke",2015,So,Kent St.,0.104
+"Dodson, Brooke",2016,Jr,Kent St.,0.104
+"Dodson, Brooke",2017,Sr,Kent St.,0.104
 "Doerre, Katie",2014,So,Texas St.,-0.045
 "Doerre, Katie",2015,Jr,Texas St.,-0.045
 "Dominguez, Sara",2015,Fr,Seattle,-0.033
+"Dominguez, Sara",2016,So,Seattle U,-0.033
+"Dominguez, Sara",2017,Jr,Seattle U,-0.033
 "Dominiguez, Alexiss",2014,So,N.C. A&T,-0.004
 "Dominiguez, Alexiss",2015,Jr,N.C. A&T,-0.004
 "Donovan, Kathryn",2014,Jr,UMass Lowell,-0.119
 "Dos Santos, Samantha",2014,Jr,George Washington,-0.142
 "Dos Santos, Samantha",2015,Sr,George Washington,-0.142
+"Dossett, Hannah",2016,Fr,Syracuse,0.015
+"Dossett, Hannah",2017,So,Syracuse,0.015
 "Doss, Tiffany",2015,N/A,Grambling,-0.097
+"Doss, Tiffany",2016,Fr,Grambling,-0.097
+"Doss, Tiffany",2017,So,Grambling,-0.097
 "Doston, Kelsey",2014,So,Indiana,0.057
 "Doston, Kelsey",2015,Jr,Indiana,0.057
+"Doston, Kelsey",2016,Sr,Indiana,0.057
 "Drake, Ivie",2015,Fr,Georgia St.,-0.081
+"Drake, Ivie",2016,So,Georgia St.,-0.081
+"Drake, Ivie",2017,Jr,Georgia St.,-0.081
 "Dreher, Annie",2014,Sr,Sacred Heart,-0.083
 "Dubois, Jacklyn",2014,So,UConn,-0.152
 "Dubois, Jacklyn",2015,Jr,UConn,-0.152
+"Dubois, Jacklyn",2016,Sr,UConn,-0.152
+"Duff, Lauren",2016,Fr,Virginia Tech,-0.105
+"Duff, Lauren",2017,So,Virginia Tech,-0.105
 "Duffy, Aoife",2014,So,Eastern Mich.,-0.014
 "Duffy, Aoife",2015,Jr,Eastern Mich.,-0.014
+"Duffy, Aoife",2016,Sr,Eastern Mich.,-0.014
 "Duffy, Drew",2015,Fr,Wagner,0.055
+"Duffy, Drew",2016,So,Wagner,0.055
+"Duffy, Drew",2017,Jr,Wagner,0.055
 "Duffy, Kendall",2014,So,Bradley,-0.024
 "Duffy, Kendall",2015,Jr,Bradley,-0.024
+"Duffy, Kendall",2016,Sr,Bradley,-0.024
 "Dukes, Laura",2015,Sr,Lipscomb,-0.039
 "Dukes, Laura",2014,Jr,Middle Tenn.,0.031
 "Dunn, Kori",2015,Fr,FGCU,-0.005
 "Duran, Kathryn",2014,So,Pittsburgh,-0.017
 "Duran, Kathryn",2015,Jr,Pittsburgh,-0.017
+"Duran, Kathryn",2016,Sr,Pittsburgh,-0.017
 "Dvorak, Rebecca",2015,Fr,Lafayette,-0.036
+"Dvorak, Rebecca",2016,So,Lafayette,-0.036
+"Dvorak, Rebecca",2017,Jr,Lafayette,-0.036
+"Dybalski, Hannah",2017,Fr,Valparaiso,-0.013
+"Dykes, Reagan",2016,Fr,Alabama,0.081
+"Dykes, Reagan",2017,So,Alabama,0.081
 "Dzienkowski, Kathy",2014,So,Dartmouth,0.017
 "Dzienkowski, Kathy",2015,Jr,Dartmouth,0.017
+"Dzienkowski, Kathy",2016,Sr,Dartmouth,0.017
 "Earnhardt, Ashton",2014,Fr,Buffalo,-0.014
 "Earnhardt, Ashton",2015,So,Buffalo,-0.014
+"Earnhardt, Ashton",2016,Jr,Buffalo,-0.014
+"Earnhardt, Ashton",2017,Sr,Buffalo,-0.014
 "Eby, Tess",2015,Fr,SIUE,0.107
+"Eby, Tess",2016,So,SIUE,0.107
+"Eby, Tess",2017,Jr,SIUE,0.107
+"Edior, Hillary",2016,Fr,Arizona,-0.050
+"Edior, Hillary",2017,So,Arizona,-0.050
 "Edmands, Dani",2014,So,Quinnipiac,0.032
 "Edmands, Dani",2015,Jr,Quinnipiac,0.032
+"Edmands, Dani",2016,Sr,Quinnipiac,0.032
 "Edmonds, Sabrina",2014,Sr,N.C. A&T,0.056
 "Edwards, Noelle",2014,N/A,Coppin St.,-0.018
 "Edwards, Noelle",2015,Fr,Coppin St.,-0.018
@@ -358,51 +692,96 @@ name,year,class,team,framing
 "Ekart, Amy",2014,Sr,Boston U.,0.008
 "Elkins, Lexie",2014,So,La.-Lafayette,0.007
 "Elkins, Lexie",2015,Jr,La.-Lafayette,0.007
+"Elkins, Lexie",2016,Sr,Louisiana,0.007
+"Ellebracht, Kaylee",2016,Fr,Georgia Tech,-0.053
+"Ellebracht, Kaylee",2017,So,Georgia Tech,-0.053
+"Elling, Delaney",2017,Fr,Penn St.,0.046
+"Ellis, Taylor",2017,Fr,Baylor,0.088
 "Ellis, Whitney",2014,So,Oklahoma,0.004
 "Ellis, Whitney",2015,Jr,Oklahoma,0.004
+"Ellsworth, Taylor",2017,Fr,Texas,0.051
 "Elvina, Gabriela",2014,Fr,Georgetown,-0.063
 "Elvina, Gabriela",2015,So,Georgetown,-0.063
+"Elvina, Gabriela",2016,Jr,Georgetown,-0.063
+"Elvina, Gabriela",2017,Sr,Georgetown,-0.063
+"Emberson, Caitlyn",2016,Fr,Charleston So.,0.021
+"Emberson, Caitlyn",2017,So,Charleston So.,0.021
 "Engel, Rachel",2014,So,North Florida,-0.053
 "Engram, Shamaria",2014,Jr,Bethune-Cookman,0.009
 "Engram, Shamaria",2015,Sr,Bethune-Cookman,0.009
 "Ennis, Whitney",2015,Fr,IPFW,-0.058
+"Ennis, Whitney",2016,So,Tennessee St.,0.021
+"Ennis, Whitney",2017,Jr,Tennessee St.,0.021
 "Entzminger, Emma",2015,Fr,San Jose St.,0.069
+"Entzminger, Emma",2016,So,San Jose St.,0.069
+"Entzminger, Emma",2017,Jr,San Jose St.,0.069
+"Erickson, Emilee",2016,Fr,BYU,-0.034
+"Erickson, Emilee",2017,So,BYU,-0.034
 "Ernst, Lani",2014,Sr,Toledo,-0.001
 "Esposito, Mia",2014,So,Incarnate Word,0.100
 "Evangelista, Morgan",2015,Fr,Bowling Green,0.115
+"Evangelista, Morgan",2016,So,Bowling Green,0.115
 "Evans, Chelsea",2014,Sr,Robert Morris,0.118
+"Evans, Kimberly",2017,Fr,Coppin St.,-0.066
 "Everett, Kacey",2014,Fr,Texas-Arlington,0.046
 "Everett, Kacey",2015,So,Texas-Arlington,0.046
+"Everett, Kacey",2016,Jr,UT Arlington,0.046
+"Everett, Kacey",2017,Sr,UT Arlington,0.046
+"Everett, Logan",2017,Fr,Bowling Green,0.029
 "Fagan, Sami",2014,So,Missouri,0.007
 "Fagan, Sami",2015,Jr,Missouri,0.007
+"Fagan, Sami",2016,Sr,Missouri,0.007
 "Falk, Aidan",2015,Fr,Michigan,-0.009
+"Falk, Aidan",2016,So,Michigan,-0.009
+"Falk, Aidan",2017,Jr,Michigan,-0.009
 "Farmer, Kassi",2014,So,Indiana,0.077
 "Farmer, Kassi",2015,Jr,Indiana,0.077
+"Farmer, Kassi",2016,Sr,Indiana,0.077
 "Favors, Tacresha",2014,Fr,Alabama St.,-0.009
 "Favors, Tacresha",2015,Jr,Alabama St.,-0.009
+"Feliciano, Alexa",2016,Fr,Rider,0.031
+"Feliciano, Alexa",2017,So,Rider,0.031
 "Fenichel, Abby",2015,Fr,Lipscomb,0.105
+"Fenichel, Abby",2016,So,Lipscomb,0.105
+"Fenichel, Abby",2017,Jr,Lipscomb,0.105
 "Ferraro, Jillian",2014,N/A,North Carolina,0.011
 "Ferraro, Jillian",2015,Fr,North Carolina,0.011
+"Ferraro, Jillian",2016,So,North Carolina,0.011
 "Field, Erica",2014,So,James Madison,0.009
 "Field, Erica",2015,Jr,James Madison,0.009
+"Field, Erica",2016,Sr,James Madison,0.009
 "Fields, Molly",2015,Fr,Missouri St.,0.045
+"Fields, Molly",2016,So,Missouri St.,0.045
 "Finley, Keilani",2014,Fr,Quinnipiac,-0.096
 "Finley, Keilani",2015,So,Quinnipiac,-0.096
+"Finley, Keilani",2016,Jr,Quinnipiac,-0.096
+"Finley, Keilani",2017,Sr,Quinnipiac,-0.096
 "Finley, Mckenzey",2014,Jr,UTEP,0.012
 "Fira, Riley",2014,Fr,Texas-Arlington,-0.003
 "Fisher, Jamie",2014,Sr,UNI,-0.004
 "Fitchner, Molly",2014,Sr,Alabama,-0.041
+"Fitzgerald, Kelly",2016,Fr,Dayton,-0.022
+"Fitzgerald, Kelly",2017,So,Dayton,-0.022
 "Fleckenstein, Theresa",2014,Fr,Niagara,-0.037
 "Flego, Marie",2014,Sr,Providence,-0.039
 "Fleming, Mickaela",2015,So,Evansville,-0.022
+"Fleming, Mickaela",2016,Jr,Evansville,-0.022
+"Fleming, Mickaela",2017,Sr,Evansville,-0.022
 "Fletcher, Danielle",2014,Sr,Purdue,0.084
 "Flores, Alex",2014,Fr,Portland St.,-0.014
 "Flores, Alex",2015,So,Portland St.,-0.014
+"Flores, Alex",2016,Jr,Portland St.,-0.014
+"Flores, Alex",2017,Sr,Portland St.,-0.014
+"Flores, Morganne",2016,Fr,Washington,0.074
+"Flores, Morganne",2017,So,Washington,0.074
 "Fogel, Emj",2014,Jr,Maine,0.043
 "Fogel, Emj",2015,Sr,Maine,0.043
 "Fontaine, Kimberly",2014,So,Morgan St.,-0.042
 "Fontaine, Kimberly",2015,Jr,Morgan St.,-0.042
+"Fontaine, Kimberly",2016,Sr,Morgan St.,-0.042
 "Ford, Amanda",2015,N/A,Prairie View,-0.098
+"Ford, Amanda",2016,Fr,Prairie View,-0.098
+"Ford, Amanda",2017,So,Prairie View,-0.098
 "Forkin, Ellie",2014,Fr,Syracuse,0.007
 "Foulks, Logan",2014,Sr,Mississippi St.,0.097
 "Fowler, Caitlyn",2014,Sr,Southeastern La.,-0.035
@@ -410,245 +789,504 @@ name,year,class,team,framing
 "Fox, Stacey",2014,Sr,Rhode Island,-0.052
 "Foyer, Jordan",2014,Jr,Ark.-Pine Bluff,-0.024
 "Foyer, Jordan",2015,Sr,Ark.-Pine Bluff,-0.024
+"Fraccastoro, Taylor",2016,So,SFA,-0.026
+"Fraccastoro, Taylor",2017,Jr,SFA,-0.026
 "Fraccastoro, Taylor",2015,Fr,Stephen F. Austin,-0.026
 "France, Gianetta",2014,N/A,Santa Clara,-0.041
 "France, Gianetta",2015,So,Santa Clara,-0.041
+"France, Gianetta",2016,Jr,Santa Clara,-0.041
+"France, Gianetta",2017,Sr,Santa Clara,-0.041
 "Frankhouse, Kara",2014,So,Bakersfield,-0.066
 "Freeman,",2014,N/A,Marist,0.055
 "Freeman, Amber",2014,Jr,Arizona St.,0.082
 "Freeman, Amber",2015,Sr,Arizona St.,0.082
 "Freeman, Rebecca",2015,So,Marist,0.055
+"Freeman, Rebecca",2016,Jr,Marist,0.055
+"Freeman, Rebecca",2017,Sr,Marist,0.055
 "Freese, Jill",2014,So,Monmouth,-0.117
 "Freese, Jill",2015,Jr,Monmouth,-0.117
+"Freese, Jill",2016,Sr,Monmouth,-0.117
 "Fried, Sawyer",2014,Fr,Hartford,-0.018
 "Fried, Sawyer",2015,So,Hartford,-0.018
+"Fried, Sawyer",2016,Sr,Hartford,-0.018
 "Friloux, Alexandra",2014,So,UMKC,0.055
 "Friloux, Alexandra",2015,Jr,UMKC,0.055
+"Friloux, Alexandra",2016,Sr,UMKC,0.055
 "Fritz, Lacey",2014,Fr,Southeastern La.,-0.100
 "Fritz, Lacey",2015,So,Southeastern La.,-0.100
+"Fritz, Lacey",2016,Jr,Southeastern La.,-0.100
+"Frost, Darian",2016,Fr,Missouri St.,-0.037
+"Frost, Darian",2017,So,Missouri St.,-0.037
 "Fuller, Taylore",2014,So,Florida,0.069
 "Fuller, Taylore",2015,Jr,Florida,0.069
+"Fuller, Taylore",2016,Sr,Florida,0.069
 "Fung, Mia",2015,Fr,South Fla.,0.090
+"Fung, Mia",2016,So,South Fla.,0.090
+"Fung, Mia",2017,Jr,South Fla.,0.090
+"Funk, Rachel",2017,Fr,Niagara,0.005
 "Galasso, Vicky",2014,Jr,Idaho St.,0.048
 "Galasso, Vicky",2015,Sr,Idaho St.,0.048
 "Gale, A.",2014,N/A,UMKC,-0.015
 "Gale, A.",2015,Fr,UMKC,-0.015
+"Gale, Alex",2016,Jr,UMKC,-0.015
+"Gale, Alex",2017,Sr,UMKC,-0.015
 "Gallant, Stephanie",2014,Jr,Illinois St.,0.008
 "Gallant, Stephanie",2015,Sr,Illinois St.,0.008
 "Gambone, Lauren",2015,N/A,Buffalo,-0.023
+"Gambone, Lauren",2016,Sr,Buffalo,-0.023
+"Gamm, Shayna",2017,Jr,Indiana,-0.008
 "Gano, Courtney",2014,So,Washington,0.061
 "Gano, Courtney",2015,Jr,Washington,0.061
+"Gano, Courtney",2016,Sr,Washington,0.061
+"Garcia, A.",2017,Fr,Prairie View,-0.077
 "Garcia, Alejandra",2015,Fr,Cal Poly,-0.064
+"Garcia, Alejandra",2016,So,Cal Poly,-0.064
+"Garcia, Alejandra",2017,Jr,Cal Poly,-0.064
 "Garcia, Jessica",2014,Sr,San Jose St.,-0.037
 "Garcia, Linda",2015,Fr,UTEP,0.004
+"Garcia, Linda",2016,So,UTEP,0.004
+"Garcia, Linda",2017,Jr,UTEP,0.004
+"Garcia, Molli",2017,Jr,UAB,0.002
 "Garcia, P",2014,N/A,Ark.-Pine Bluff,-0.020
 "Garcia, P",2015,Fr,Ark.-Pine Bluff,-0.020
+"Garcia, P",2016,So,Ark.-Pine Bluff,-0.020
+"Garcia, Paige",2017,Jr,Ark.-Pine Bluff,-0.020
+"Garcia, Vanessa",2017,Fr,Prairie View,0.062
 "Gardner, B.",2014,N/A,Prairie View,-0.043
 "Gardner, B.",2015,Fr,Prairie View,-0.043
+"Gardner, B.",2016,So,Prairie View,-0.043
+"Gardner, B.",2017,Jr,Prairie View,-0.043
 "Gardner, Julie",2014,Fr,Radford,-0.001
 "Gardner, Kali",2014,So,DePaul,0.052
 "Gardner, Kali",2015,Jr,DePaul,0.052
+"Gardner, Kali",2016,Sr,DePaul,0.052
 "Gargicevich-Almeida, Alessandra",2014,Fr,Georgetown,-0.022
 "Gargicevich-Almeida, Alessandra",2015,So,Georgetown,-0.022
+"Gargicevich-Almeida, Alessandra",2016,Jr,Georgetown,-0.022
+"Gargicevich-Almeida, Alessandra",2017,Sr,Georgetown,-0.022
 "Gatlin, Brianna",2014,Fr,Utah Valley,-0.118
 "Gatlin, Brianna",2015,So,Utah Valley,-0.118
+"Gatlin, Brianna",2016,Jr,Utah Valley,-0.118
+"Gauvin, Brigitte",2016,Jr,Incarnate Word,-0.081
+"Gauvin, Brigitte",2017,Sr,Incarnate Word,-0.081
 "Gavin, Becca",2015,Fr,Ohio St.,-0.023
+"Gavin, Becca",2016,So,Ohio St.,-0.023
+"Gavin, Becca",2017,Jr,Ohio St.,-0.023
 "Gebele, Adrienne",2014,Jr,Ohio,0.064
 "Gebele, Adrienne",2015,Sr,Ohio,0.064
 "Gee, Jayme",2014,Sr,Arkansas,0.000
+"Gerhard, Casey",2017,So,Presbyterian,-0.012
 "Germ, Emerie",2014,Jr,N.C. Central,0.006
 "Germ, Emerie",2015,Sr,N.C. Central,0.006
 "Gialketsis, Nikki",2014,Fr,Sacramento St.,0.006
 "Gialketsis, Nikki",2015,So,Sacramento St.,0.006
+"Gialketsis, Nikki",2016,Jr,Sacramento St.,0.006
+"Gialketsis, Nikki",2017,Sr,Sacramento St.,0.006
 "Giaquinto, Sophie",2014,Jr,Cornell,0.075
 "Giaquinto, Sophie",2015,Sr,Cornell,0.075
+"Gilbert, Julia",2017,Jr,FIU,-0.102
+"Gillespie, Autumn",2016,Fr,UCF,-0.051
+"Gillespie, Autumn",2017,So,UCF,-0.051
 "Gleason, Danica",2015,So,Tennessee St.,-0.050
+"Gleason, Danica",2016,Jr,Tennessee St.,-0.050
+"Gleason, Danica",2017,Sr,Tennessee St.,-0.050
 "Gloady, Kayla",2014,Fr,LIU Brooklyn,-0.084
 "Gloady, Kayla",2015,So,LIU Brooklyn,-0.084
+"Gloady, Kayla",2016,Jr,LIU Brooklyn,-0.084
+"Gloady, Kayla",2017,Sr,LIU Brooklyn,-0.084
+"Godfrey, Ashley",2017,So,BYU,-0.013
 "Godin, Olivia",2014,So,Massachusetts,-0.121
 "Godin, Olivia",2015,Jr,Massachusetts,-0.121
+"Godin, Olivia",2016,Sr,Massachusetts,-0.121
+"Goldyn, Jessica",2017,Fr,Buffalo,0.007
 "Gomes, Amanda",2014,Jr,Gardner-Webb,-0.037
 "Gomes, Amanda",2015,Sr,Gardner-Webb,-0.037
 "Gomez, Celeste",2014,Sr,Florida St.,-0.036
 "Gonzalez, Alexis",2015,So,Cal St. Fullerton,0.033
+"Gonzalez, Alexis",2016,Jr,Cal St. Fullerton,0.033
+"Gonzalez, Alexis",2017,Sr,Cal St. Fullerton,0.033
 "Gonzalez, De",2014,N/A,St. Bonaventure,-0.027
 "Gonzalez, Desiree",2015,So,St. Bonaventure,-0.027
+"Gonzalez, Desiree",2016,Jr,St. Bonaventure,-0.027
+"Gonzalez, Desiree",2017,Sr,St. Bonaventure,-0.027
+"Gonzalez, Dominique",2016,So,Grand Canyon,0.098
+"Gonzalez, Dominique",2017,Jr,Grand Canyon,0.098
 "Gonzalez, Niki",2015,Fr,Mt. St. Mary's,-0.091
+"Gonzalez, Niki",2016,So,Mt. St. Mary's,-0.091
+"Gonzalez, Niki",2017,Jr,Mt. St. Mary's,-0.091
 "Goodacre, Chelsea",2014,Jr,Arizona,-0.026
 "Goodacre, Chelsea",2015,Sr,Arizona,-0.026
 "Goodwin, Georganna",2014,So,Memphis,0.067
 "Goodwin, Georganna",2015,Jr,Memphis,0.067
+"Gordon, Kate",2017,Fr,James Madison,0.004
+"Gore, Catherine",2016,N/A,Alcorn,0.003
+"Gore, Catherine",2017,Sr,Alcorn,0.003
 "Gorney, Elysse",2014,Sr,Penn,-0.011
+"Gott, Olivia",2016,Fr,Virginia,0.052
+"Gott, Olivia",2017,So,Virginia,0.052
 "Grabowski, Mary",2014,So,San Diego,-0.041
 "Grabowski, Mary",2015,Jr,San Diego,-0.041
+"Grabowski, Mary",2016,Sr,San Diego,-0.041
 "Granata, Kim",2014,So,North Dakota,-0.103
 "Grant, Kirsty",2014,Sr,North Carolina St.,-0.019
+"Grassini, Ashley",2016,Fr,Hampton,0.014
+"Grassini, Ashley",2017,So,Hampton,0.014
+"Graves, Ashten",2017,Fr,Memphis,-0.003
+"Gray, Kelsey",2017,Fr,Austin Peay,-0.035
 "Green, Corrin",2015,Fr,New Mexico St.,-0.008
+"Green, Corrin",2016,So,New Mexico St.,-0.008
+"Greenlee, Morgan",2016,Fr,Missouri St.,-0.081
+"Greenlee, Morgan",2017,So,Missouri St.,-0.081
+"Gregory, Lindsay",2017,Fr,North Texas,-0.007
 "Gresley, J.",2014,N/A,Alcorn,-0.079
 "Gresley, J.",2015,Fr,Alcorn,-0.079
+"Gresley, J.",2016,So,Alcorn,-0.079
+"Gresley, Jessee",2017,Sr,Alcorn,-0.079
 "Griffin, Jessica",2014,So,Stetson,0.044
 "Griffin, Jessica",2015,Jr,Stetson,0.044
+"Griffin, Jessica",2016,Sr,Stetson,0.044
+"Griswold, Tess",2017,Fr,Furman,-0.008
 "Grochow, Kelsey",2014,Sr,South Carolina St.,-0.015
 "Gross, Kylie",2015,Fr,Toledo,0.010
+"Gross, Kylie",2016,So,Toledo,0.010
+"Gross, Kylie",2017,Jr,Toledo,0.010
 "Gross, Morgan",2015,Fr,South Fla.,0.104
+"Gross, Morgan",2016,So,South Fla.,0.104
+"Gross, Morgan",2017,Jr,South Fla.,0.104
 "Gross, Rebbeka",2014,Fr,Tennessee St.,0.004
+"Gross, Rebekka",2016,Jr,Presbyterian,0.013
+"Gross, Rebekka",2017,Sr,Presbyterian,0.013
 "Groves, Chandler",2014,Fr,Austin Peay,-0.040
 "Groves, Chandler",2015,So,Austin Peay,-0.040
+"Groves, Chandler",2016,Jr,Austin Peay,-0.040
+"Groves, Chandler",2017,Sr,Austin Peay,-0.040
 "Guenther, Chelsea",2014,Jr,Texas Southern,-0.073
 "Guenther, Chelsea",2015,Sr,Texas Southern,-0.073
 "Guitreau, Hailey",2014,N/A,Southern U.,0.002
 "Guitreau, Hailey",2015,Jr,Southern U.,0.002
+"Guitreau, Hailey",2016,Sr,Southern U.,0.002
 "Gumz, Paige",2014,So,Fresno St.,0.076
 "Gumz, Paige",2015,Jr,Fresno St.,0.076
+"Gumz, Paige",2016,Sr,Fresno St.,0.076
 "Gunn, Caitlin",2015,Jr,Houston Baptist,0.067
+"Gunn, Caitlin",2016,Sr,Houston Baptist,0.067
 "Gurganus, Jordan",2014,Fr,Robert Morris,-0.124
 "Gurganus, Jordan",2015,So,Robert Morris,-0.124
+"Gurganus, Jordan",2016,Jr,Robert Morris,-0.124
+"Gurganus, Jordan",2017,Sr,Robert Morris,-0.124
+"Habitz, Karlie",2016,Jr,CSUN,0.060
+"Habitz, Karlie",2017,Sr,CSUN,0.060
 "Habitz, Karlie",2014,So,Penn St.,-0.050
+"Hackbarth, Maddi",2017,Fr,Fresno St.,0.012
 "Hackett, Lauren",2014,So,Robert Morris,-0.013
 "Hackett, Lauren",2015,Jr,Robert Morris,-0.013
+"Hackett, Lauren",2016,Sr,Robert Morris,-0.013
+"Hadley, Regan",2016,Fr,Memphis,-0.007
+"Hadley, Regan",2017,So,Memphis,-0.007
 "Hagberg, Lindsey",2014,Fr,Harvard,-0.035
 "Hagberg, Lindsey",2015,So,Harvard,-0.035
+"Hagberg, Lindsey",2016,Jr,Harvard,-0.035
+"Hagberg, Lindsey",2017,Sr,Harvard,-0.035
 "Haley, Paige",2014,N/A,Winthrop,-0.015
 "Haley, Paige",2015,So,Winthrop,-0.015
+"Haley, Paige",2016,Jr,Winthrop,-0.015
+"Haley, Paige",2017,Sr,Winthrop,-0.015
 "Hall, Taylor",2014,Jr,UMBC,-0.001
 "Hall, Taylor",2015,Sr,UMBC,-0.001
+"Halstead, Paige",2016,Fr,UCLA,-0.001
+"Halstead, Paige",2017,So,UCLA,-0.001
 "Hamilton, A.J.",2014,So,Ga. Southern,-0.032
 "Hamilton, A.J.",2015,Jr,Ga. Southern,-0.032
+"Hamilton, A.J.",2016,Sr,Ga. Southern,-0.032
 "Hampton, Erica",2014,Jr,Ill.-Chicago,0.026
 "Hampton, Erica",2015,Sr,Ill.-Chicago,0.026
 "Hampton, Kaylah",2015,Fr,Purdue,-0.119
+"Hampton, Kaylah",2016,So,Purdue,-0.119
+"Hampton, Kaylah",2017,Jr,Purdue,-0.119
+"Hanna, Lauren",2016,Fr,Villanova,0.038
+"Hanna, Lauren",2017,So,Villanova,0.038
+"Hansell, D.",2017,Fr,Alabama A&M,0.014
 "Hargett, Casey",2015,Jr,N.C. Central,-0.070
+"Hargett, Casey",2016,Sr,N.C. Central,-0.070
 "Harmon, Marley",2014,Fr,Western Ky.,0.041
 "Harnish, Bekah",2015,Fr,Northern Ill.,0.005
+"Harnish, Bekah",2016,So,Northern Ill.,0.005
+"Harnish, Bekah",2017,Jr,Northern Ill.,0.005
 "Harper, Cheyenne",2014,N/A,Utah St.,-0.017
 "Harrell, Morgan",2014,Sr,Murray St.,-0.004
 "Harris, Kassie",2015,Fr,Louisiana Tech,0.039
+"Harris, Kassie",2016,So,Louisiana Tech,0.039
+"Harris, Kassie",2017,Jr,Louisiana Tech,0.039
+"Harris, Kayla",2017,Fr,Liberty,0.025
+"Harris, Lindsay",2017,Fr,Presbyterian,-0.002
 "Harris, Morgan",2015,Fr,Middle Tenn.,0.064
+"Harris, Morgan",2016,So,Middle Tenn.,0.064
+"Harris, Morgan",2017,Jr,Middle Tenn.,0.064
+"Harrison, Kiley",2017,So,UNLV,0.117
+"Hartley, Allye",2017,Jr,Grambling,-0.093
 "Hartley, Becca",2014,N/A,Troy,-0.099
 "Hartley, Becca",2015,So,Troy,-0.099
+"Hartley, Becca",2016,Jr,Troy,-0.099
+"Hartley, Becca",2017,Sr,Troy,-0.099
 "Hartman, Rachel",2014,Fr,Iowa St.,-0.097
 "Hartman, Rachel",2015,So,Iowa St.,-0.097
+"Hartman, Rachel",2016,Jr,Iowa St.,-0.097
+"Hartman, Rachel",2017,Sr,Iowa St.,-0.097
 "Hartman, Sam",2015,Fr,Army West Point,-0.079
+"Hartman, Sam",2016,So,Army West Point,-0.079
+"Hartman, Sam",2017,Jr,Army West Point,-0.079
 "Hart, Sydney",2014,N/A,Utah St.,-0.040
 "Hart, Sydney",2015,So,Utah St.,-0.045
+"Hart, Sydney",2016,Jr,Utah St.,0.032
+"Hart, Sydney",2017,Sr,Utah St.,0.032
 "Harvey, Rachel",2014,Fr,Maine,0.045
 "Harvey, Rachel",2015,So,Maine,0.045
+"Harvey, Rachel",2016,Jr,Maine,0.045
+"Harvey, Rachel",2017,Sr,Maine,0.045
 "Haskell, Lindsey",2014,So,Albany (NY),0.024
 "Haskell, Lindsey",2015,Jr,Albany (NY),0.024
+"Haskell, Lindsey",2016,Sr,Albany (NY),0.024
 "Haslinger, Emily",2014,So,UNLV,-0.062
 "Haslinger, Emily",2015,Jr,UNLV,-0.062
+"Haslinger, Emily",2016,Sr,UNLV,-0.062
 "Hassell, Cariona",2015,Fr,Tennessee St.,-0.068
+"Hassell, Cariona",2016,So,Tennessee St.,-0.068
 "Hatfield, Kasie",2014,Sr,Penn St.,-0.022
 "Hawkins, Brandi",2014,Jr,Lehigh,0.042
 "Hawkins, Brandi",2015,Sr,Lehigh,0.042
 "Hawkins, Maggie",2015,Jr,North Carolina St.,-0.023
+"Hawkins, Maggie",2016,Sr,North Carolina St.,-0.023
+"Hawthorne, Emma",2017,Fr,Northwestern St.,0.032
 "Hawthorne, Sandy",2014,So,Delaware St.,-0.111
 "Hawthorne, Sandy",2015,Jr,Delaware St.,-0.111
+"Hawthorne, Sandy",2016,Sr,Delaware St.,-0.111
+"Hayes, Ana",2017,Fr,Fairleigh Dickinson,-0.008
 "Hayes, Riley",2015,Fr,Southeast Mo. St.,0.012
+"Hayes, Riley",2016,So,Southeast Mo. St.,0.012
+"Hayes, Riley",2017,Jr,Southeast Mo. St.,0.012
+"Hazel, Andrea",2016,Sr,Saint Mary's (CA),0.036
 "Hazel, Andrea",2014,So,St. Mary's (CA),0.036
 "Hazel, Andrea",2015,Jr,St. Mary's (CA),0.036
 "Healey, Lyndsey",2014,Jr,Southern Utah,0.050
 "Healey, Lyndsey",2015,Sr,Southern Utah,0.050
+"Heen, Callee",2017,Fr,Hawaii,0.100
+"Heide, Madison",2017,Fr,Notre Dame,0.012
+"Heinen, Alex",2016,Fr,Boston U.,0.037
+"Heinen, Alex",2017,So,Boston U.,0.037
 "Heinze, Rachel",2014,Fr,Mt. St. Mary's,-0.004
 "Heinze, Rachel",2015,So,Mt. St. Mary's,-0.004
+"Heinze, Rachel",2016,Jr,Mt. St. Mary's,-0.004
+"Heinze, Rachel",2017,Sr,Mt. St. Mary's,-0.004
 "Heinz, Tabby",2015,Fr,North Dakota St.,0.093
+"Heinz, Tabby",2016,So,North Dakota St.,0.093
+"Heinz, Tabby",2017,Jr,North Dakota St.,0.093
+"Hemphill, Bailey",2017,Fr,Alabama,0.019
 "Henderson, Danielle",2014,Jr,California,0.004
 "Henderson, Danielle",2015,Sr,California,0.004
 "Henderson, Sam",2014,Jr,Detroit,-0.006
 "Henderson, Sam",2015,Sr,Detroit,-0.006
+"Henige, Chelsea",2016,Fr,Albany (NY),0.035
+"Henige, Chelsea",2017,So,Albany (NY),0.035
 "Hensley, Emilie",2014,So,East Tenn. St.,-0.007
 "Hensley, Emilie",2015,Jr,East Tenn. St.,-0.007
+"Hensley, Emilie",2016,Sr,ETSU,-0.007
+"Henson, Meghan",2017,Fr,Western Ill.,0.061
+"Herkowitz, Sara",2017,Fr,Binghamton,-0.094
 "Herman, Melissa",2014,Jr,Houston Baptist,0.019
 "Herman, Melissa",2015,Sr,Houston Baptist,0.019
 "Hess, Kathryn",2014,So,Dayton,0.082
 "Hess, Kathryn",2015,Jr,Dayton,0.082
+"Hess, Kathryn",2016,Sr,Dayton,0.082
 "Hiers, Shelby",2014,Fr,Arkansas,0.022
 "Hiers, Shelby",2015,So,Arkansas,0.022
+"Hiers, Shelby",2016,Jr,Arkansas,0.022
+"Hiers, Shelby",2017,Sr,Arkansas,0.022
 "Higgins, Lexie",2015,Fr,Samford,0.007
+"Higgins, Lexie",2016,So,Samford,0.007
+"Higgins, Lexie",2017,Jr,Samford,0.007
 "Hignojos, Mia",2014,Jr,New Mexico,0.019
 "Hignojos, Mia",2015,Sr,New Mexico,0.019
 "Hildreth, Sammie",2015,Jr,Iowa St.,-0.096
+"Hildreth, Sammie",2016,Sr,Iowa St.,-0.096
 "Hill, Alexis",2015,Fr,Austin Peay,0.006
+"Hill, Alexis",2016,So,Austin Peay,0.006
+"Hill, Alexis",2017,Jr,Austin Peay,0.006
 "Hill, Lyndsay",2014,Fr,Oakland,-0.021
 "Hill, Lyndsay",2015,So,Oakland,-0.021
+"Hill, Lyndsay",2016,Jr,Oakland,-0.021
+"Hill, Lyndsay",2017,Sr,Oakland,-0.021
 "Hill, Melony",2014,So,Alabama A&M,-0.079
 "Hill, Melony",2015,Jr,Alabama A&M,-0.079
+"Hill, Melony",2016,Sr,Alabama A&M,-0.079
 "Hindi, Perry",2015,So,Alabama St.,-0.043
+"Hindi, Perry",2016,Jr,Alabama St.,-0.043
+"Hindi, Perry",2017,Sr,Alabama St.,-0.043
+"Hinton, Hayley",2016,Fr,George Mason,-0.038
+"Hinton, Hayley",2017,So,George Mason,-0.038
 "Hislope, Allie",2015,Fr,Green Bay,-0.105
+"Hislope, Allie",2016,So,Green Bay,-0.105
+"Hislope, Allie",2017,Jr,Green Bay,-0.105
+"Ho, Cassie",2017,Fr,Canisius,-0.025
 "Hoffman, Holly",2014,So,Iowa,-0.119
 "Hoffman, Holly",2015,Jr,Iowa,-0.119
+"Hoffman, Holly",2016,Sr,Iowa,-0.119
+"Holani, Destiny",2016,Fr,Canisius,-0.019
+"Holani, Destiny",2017,So,Canisius,-0.019
 "Holdiness, Ryan",2015,Fr,Central Ark.,-0.044
+"Holdiness, Ryan",2016,So,Central Ark.,-0.044
+"Holdiness, Ryan",2017,Jr,Central Ark.,-0.044
 "Holley, Chelsey",2015,Fr,UC Riverside,0.002
+"Holley, Chelsey",2016,So,UC Riverside,0.002
+"Holley, Chelsey",2017,Jr,UC Riverside,0.002
 "Holmes, K.",2014,N/A,Nicholls St.,0.008
+"Holton, Kylie",2017,Jr,Morehead St.,0.031
+"Holzman, Alex",2017,Jr,Monmouth,0.004
 "Honaker, Megan",2014,So,Radford,-0.037
 "Honaker, Megan",2015,Jr,Radford,-0.037
 "Hooper, Katie",2014,Fr,CSUN,0.021
 "Hooper, Katie",2015,So,CSUN,0.021
+"Hooper, Katie",2016,Jr,CSUN,0.021
+"Hooper, Katie",2017,Sr,CSUN,0.021
 "Hooper, Marissa",2015,Fr,Incarnate Word,0.072
+"Hooper, Marissa",2016,So,Incarnate Word,0.072
+"Hooper, Marissa",2017,Jr,Incarnate Word,0.072
 "Hoover, Cara",2014,So,Abilene Christian,-0.019
 "Hoover, Cara",2015,Jr,Abilene Christian,-0.019
+"Hoover, Cara",2016,Sr,Abilene Christian,-0.019
+"Hoover, Taylor",2017,Fr,Saint Francis (PA),0.005
 "Horne, Molly",2015,Fr,Weber St.,0.022
+"Horne, Molly",2016,So,Weber St.,0.022
+"Horne, Molly",2017,Jr,Weber St.,0.022
 "Horner, Catherine",2014,So,Tulsa,0.098
 "Horner, Catherine",2015,Jr,Tulsa,0.098
+"Horner, Catherine",2016,Sr,Tulsa,0.098
 "Hosack, Clare",2014,Sr,Baylor,0.100
+"Ho, Sarah",2016,Fr,Siena,-0.013
+"Ho, Sarah",2017,So,Siena,-0.013
 "House, Sydney",2014,Jr,CSUN,0.005
+"Huckaby, Kashmir",2016,Jr,Col. of Charleston,-0.104
+"Huckaby, Kashmir",2017,Sr,Col. of Charleston,-0.104
 "Huckaby, Kashmir",2014,Fr,Nevada,0.088
 "Huckaby, Kashmir",2015,So,Nevada,0.088
 "Hudson, Nicole",2014,Jr,Northern Colo.,-0.037
 "Hudson, Nicole",2015,Sr,Northern Colo.,-0.037
 "Huenink, Taylor",2014,So,Niagara,0.024
+"Huffman, Olivia",2017,So,Ball St.,0.032
+"Hull, Lex",2016,Fr,South Carolina,-0.040
+"Hull, Lex",2017,So,South Carolina,-0.040
 "Hunt, Amy",2014,Fr,SIUE,0.023
 "Hunt, Amy",2015,So,SIUE,0.023
+"Hunt, Amy",2016,Jr,SIUE,0.023
+"Hunt, Amy",2017,Sr,SIUE,0.023
+"Hunt, Kaitlynn",2017,Fr,Omaha,-0.001
+"Hussey, Kaylee",2016,Fr,Troy,-0.041
+"Hussey, Kaylee",2017,So,Troy,-0.041
 "Hutchens, Jessie",2014,Sr,Radford,0.004
 "Hutchison, Molly",2014,Fr,North Carolina St.,0.004
 "Hutchison, Molly",2015,So,North Carolina St.,0.004
+"Hutchison, Molly",2016,Jr,North Carolina St.,0.004
+"Hutchison, Molly",2017,Sr,North Carolina St.,0.004
 "Iannucci, Leanne",2014,So,Cornell,-0.032
 "Iannucci, Leanne",2015,Jr,Cornell,-0.032
+"Iannucci, Leanne",2016,Sr,Cornell,-0.032
 "Ingersoll, Chelsea",2014,Sr,Charlotte,-0.008
+"Irby, Virginia",2017,Fr,Colgate,-0.002
 "Irvin, Mahaila",2014,Fr,Gardner-Webb,-0.099
 "Irvin, Mahaila",2015,So,Gardner-Webb,-0.099
+"Irvin, Mahaila",2016,Jr,Gardner-Webb,-0.099
+"Isenberg, Katie",2017,Fr,Robert Morris,0.003
+"Jackson, Brett",2017,Fr,Austin Peay,-0.041
+"Jackson, Kathryn",2017,Fr,Samford,0.038
 "Jackson, Sarah",2015,Fr,Eastern Ky.,-0.041
+"Jackson, Sarah",2016,So,Eastern Ky.,-0.041
+"Jackson, Sarah",2017,Jr,Eastern Ky.,-0.041
 "Jaegers, Melanie",2014,Jr,Wichita St.,-0.021
 "Jaegers, Melanie",2015,Sr,Wichita St.,-0.021
 "James, Kate",2015,Jr,Arkansas,-0.023
 "Jansson, Katie",2014,Sr,Iona,0.011
+"Jaquez, Heidi",2017,Fr,Houston Baptist,-0.106
 "Jaquish, Sahvanna",2014,Fr,LSU,0.062
 "Jaquish, Sahvanna",2015,So,LSU,0.062
+"Jaquish, Sahvanna",2016,Jr,LSU,0.062
+"Jaquish, Sahvanna",2017,Sr,LSU,0.062
 "Jelenicki, Maddy",2015,Fr,UCLA,0.014
+"Jelenicki, Madeline",2016,So,UCLA,0.014
+"Jelenicki, Madeline",2017,Jr,UCLA,0.014
+"Jenkins, Alston",2017,Fr,South Carolina St.,-0.017
 "Jerpbak, Skye",2014,So,Princeton,-0.020
 "Jerpbak, Skye",2015,Jr,Princeton,-0.020
+"Jerpbak, Skye",2016,Sr,Princeton,-0.020
+"Johnson, Abbi",2017,Fr,UMKC,-0.026
 "Johnson, Brianna",2015,Fr,Mississippi Val.,-0.041
+"Johnson, Brianna",2016,So,Mississippi Val.,-0.041
+"Johnson, Brianna",2017,Jr,Mississippi Val.,-0.041
 "Johnson, Chelsea",2015,Fr,New Mexico,0.038
+"Johnson, Chelsea",2016,So,New Mexico,0.038
+"Johnson, Chelsea",2017,Jr,New Mexico,0.038
+"Johnson, Donelle",2016,Fr,Abilene Christian,-0.061
+"Johnson, Donelle",2017,So,Abilene Christian,-0.061
 "Johnson, Erica",2014,Jr,Campbell,-0.005
 "Johnson, Erica",2015,Sr,Campbell,-0.005
 "Johnson, Gaylan",2014,Fr,Jackson St.,-0.076
 "Johnson, Gaylan",2015,So,Jackson St.,-0.076
+"Johnson, Gaylan",2016,Jr,Jackson St.,-0.076
+"Johnson, Gaylan",2017,Sr,Jackson St.,-0.076
 "Johnson, Kimberly",2014,Sr,Belmont,-0.023
+"Johnson, Maddi",2017,Jr,Gardner-Webb,0.016
 "Johnston, Heather",2014,N/A,Troy,0.114
 "Johnston, Heather",2015,Jr,Troy,0.114
+"Johnston, Heather",2016,Sr,Troy,0.114
 "Johson, Ashley",2014,So,UAB,-0.019
 "Johson, Ashley",2015,Jr,UAB,-0.019
+"Johson, Ashley",2016,Sr,UAB,-0.019
 "Joiner, Griffin",2014,Jr,Kentucky,0.103
 "Joiner, Griffin",2015,Sr,Kentucky,0.103
+"Jonas, Gabbie",2016,Fr,Drake,-0.087
+"Jonas, Gabbie",2017,So,Drake,-0.087
+"Jones, Miranda",2017,Fr,Jackson St.,-0.017
 "Jones, Sydney",2015,Fr,Southern Ill.,-0.122
+"Jones, Sydney",2016,So,Southern Ill.,-0.122
+"Jones, Sydney",2017,Jr,Southern Ill.,-0.122
 "Jones, Victoria",2014,Sr,California,-0.192
 "Jordan, Annie",2014,So,Grand Canyon,-0.101
 "Jordan, Annie",2015,Jr,Grand Canyon,-0.101
+"Jordan, Jenna",2016,So,Louisville,0.010
+"Jordan, Jenna",2017,Jr,Louisville,0.010
 "Jordan, Jenna",2015,N/A,Northern Colo.,-0.007
+"Jorth, Baillie",2016,Fr,Colgate,-0.028
+"Jorth, Baillie",2017,So,Colgate,-0.028
+"Josselet, Catie",2016,Fr,Mercer,0.073
+"Josselet, Catie",2017,So,Mercer,0.073
 "Joyner, Jurie",2015,Fr,Penn,-0.040
+"Joyner, Jurie",2016,So,Penn,-0.040
+"Joyner, Jurie",2017,Jr,Penn,-0.040
 "Kale, Rebecca",2015,Fr,UNCG,-0.028
+"Kale, Rebecca",2016,So,UNCG,-0.028
+"Kale, Rebecca",2017,Jr,UNCG,-0.028
 "Kalina, Maison",2015,Fr,Central Mich.,0.018
+"Kalina, Maison",2016,So,Central Mich.,0.018
+"Kalina, Maison",2017,Jr,Central Mich.,0.018
 "Kane, Kayla",2014,Fr,Detroit,-0.047
 "Kane, Kayla",2015,So,Detroit,-0.047
+"Kane, Kayla",2016,Jr,Detroit Mercy,-0.047
+"Kasubke, Katie",2016,Fr,Loyola Chicago,0.056
+"Kasubke, Katie",2017,So,Loyola Chicago,0.056
 "Keegan, Megan",2014,So,North Dakota,0.066
 "Keegan, Megan",2015,Jr,North Dakota,0.066
+"Keegan, Megan",2016,Sr,North Dakota,0.066
 "Kennedy, Kelly",2015,So,Tennessee Tech,-0.011
+"Kennedy, Kelly",2016,Jr,Tennessee Tech,-0.011
+"Kennedy, Kelly",2017,Sr,Tennessee Tech,-0.011
 "Keough, Alicia",2014,So,Central Conn. St.,-0.109
 "Keough, Alicia",2015,Sr,Central Conn. St.,-0.109
+"Kerns, Chloe",2017,Fr,UConn,0.005
 "Kilpatrick, Mckenzie",2014,Jr,Auburn,0.007
 "Kilpatrick, Mckenzie",2015,Sr,Auburn,0.007
+"Kim, Maddie",2016,N/A,Army West Point,-0.028
+"Kim, Maddie",2017,So,Army West Point,-0.028
 "King, Brianna",2014,So,Iona,0.081
 "King, Brianna",2015,Jr,Iona,0.081
+"King, Brianna",2016,Sr,Iona,0.081
 "King, Melissa",2014,Jr,UMass Lowell,-0.069
 "King, Melissa",2015,Sr,UMass Lowell,-0.069
 "Kipp, Alayna",2014,Jr,Louisiana Tech,-0.017
@@ -656,188 +1294,378 @@ name,year,class,team,framing
 "Kitterman, Sarah",2015,Sr,Providence,-0.021
 "Kitts, Katie",2014,So,George Mason,0.015
 "Kitts, Katie",2015,Jr,George Mason,0.015
+"Kitts, Katie",2016,Sr,George Mason,0.015
 "Kleinsmith, Jackie",2014,Jr,Charlotte,-0.098
 "Kleinsmith, Jackie",2015,Sr,Charlotte,-0.098
 "Kliebenstein, Sharla",2014,Sr,Hawaii,-0.038
 "Klingler, Courtney",2014,So,Campbell,0.026
 "Kloss, Kellsi",2014,So,LSU,0.062
 "Kloss, Kellsi",2015,Jr,LSU,0.062
+"Kloss, Kellsi",2016,Sr,LSU,0.062
+"Knopp, Allison",2016,So,Texas Tech,-0.030
+"Knopp, Allison",2017,Jr,Texas Tech,-0.030
+"Kobziak, Haylee",2017,Fr,North Carolina St.,0.103
 "Kolar, Dara",2014,Fr,Idaho St.,-0.013
 "Kolar, Dara",2015,So,Idaho St.,-0.013
+"Kolar, Dara",2016,Jr,Idaho St.,-0.013
+"Kollas, Sarah",2016,Fr,Hampton,0.011
+"Kollas, Sarah",2017,So,Hampton,0.011
 "Koons, Jolene",2014,Jr,Utah St.,0.065
 "Korth, Annie",2014,Jr,Loyola Chicago,-0.058
 "Korth, Annie",2015,Sr,Loyola Chicago,-0.058
+"Kramer, Katherine",2016,Jr,Portland St.,0.003
+"Kramer, Katherine",2017,Sr,Portland St.,0.003
 "Kuchta, Sabrina",2015,Fr,DePaul,-0.033
+"Kuchta, Sabrina",2016,So,DePaul,-0.033
+"Kuchta, Sabrina",2017,Jr,DePaul,-0.033
+"Kuhlman, Rachel",2017,Jr,Rhode Island,-0.056
 "Kulback, Jenna",2014,So,Lafayette,-0.003
 "Kuroda, Gabriela",2015,Jr,Drexel,-0.018
+"Kuroda, Gabriela",2016,Sr,Drexel,-0.018
 "Lacatena, Maria",2014,Fr,Youngstown St.,0.007
 "Lacatena, Maria",2015,So,Youngstown St.,0.007
+"Lacatena, Maria",2016,Jr,Youngstown St.,0.007
+"Lacatena, Maria",2017,Sr,Youngstown St.,0.007
 "LaCivita, Katy",2014,So,Loyola Chicago,-0.166
 "LaCivita, Katy",2015,Jr,Loyola Chicago,-0.166
+"LaCivita, Katy",2016,Sr,Loyola Chicago,-0.166
 "Lack, Ranel",2015,Fr,Hawaii,-0.014
+"Lack, Ranel",2016,So,Hawaii,-0.014
+"Lacy, Ragan",2017,Fr,Alabama St.,-0.009
+"Lamb, Morgan",2016,Fr,Boise St.,-0.011
+"Lamb, Morgan",2017,So,Boise St.,-0.011
+"Lam, Olivia",2016,N/A,Cornell,-0.114
+"Lam, Olivia",2017,So,Cornell,-0.114
 "Landrith, Robin",2014,So,Baylor,0.057
 "Landrith, Robin",2015,Jr,Baylor,0.057
+"Landrith, Robin",2016,Sr,Baylor,0.057
+"Landry, Amber",2017,Jr,SFA,-0.102
+"Lane, Megan",2016,Fr,Mercer,-0.048
+"Lane, Megan",2017,So,Mercer,-0.048
+"Lane, Tisha",2017,Jr,Jackson St.,0.006
 "Lang, Abigail",2014,Jr,Holy Cross,-0.010
 "Lang, Abigail",2015,Sr,Holy Cross,-0.010
 "Lang, Kari",2014,Sr,Northern Ky.,-0.056
 "Lanier, Emily",2014,Sr,FGCU,0.030
 "Lara, D",2014,N/A,Morgan St.,-0.010
 "Lara, D",2015,Fr,Morgan St.,-0.010
+"Lara, D",2016,So,Morgan St.,-0.010
+"Lara, D",2017,Jr,Morgan St.,-0.010
 "Larios, Jo",2015,So,Bakersfield,-0.182
+"Larios, Jo",2016,Jr,CSU Bakersfield,-0.182
+"Larios, Jo",2017,Sr,CSU Bakersfield,-0.182
 "LaRosa, Stephany",2014,Jr,UCLA,-0.012
 "LaRosa, Stephany",2015,Sr,UCLA,-0.012
 "Larrabee,",2015,N/A,Bucknell,-0.041
 "Larsen, Samantha",2014,N/A,Utah St.,-0.057
 "Laudano, Faith",2014,So,Seton Hall,-0.066
 "Laudano, Faith",2015,Jr,Seton Hall,-0.066
+"Laudano, Faith",2016,Sr,Seton Hall,-0.066
 "Lawrence, Olivia",2014,Jr,South Carolina,-0.059
 "Lawrence, Olivia",2015,Sr,South Carolina,-0.059
 "Laxamana, Alleah",2014,Fr,California,-0.051
 "Laxamana, Alleah",2015,So,California,-0.051
+"Laxamana, Alleah",2016,Jr,California,-0.051
+"Laxamana, Alleah",2017,Sr,California,-0.051
 "Leahy, Randel",2015,Fr,Texas,0.042
+"Leahy, Randel",2016,So,Texas,0.042
+"Leahy, Randel",2017,Jr,Texas,0.042
+"Leckinger, Kara",2017,Fr,Miami (OH),0.039
 "Ledbetter, Kayla",2014,Sr,Miami (OH),0.033
 "Lee, Brittany",2014,Fr,Texas Tech,0.040
 "Lee, Brittany",2015,So,Texas Tech,0.040
 "Lee, Kat",2015,Fr,Miami (OH),0.010
+"Lee, Kat",2016,So,Miami (OH),0.010
+"Lee, Kat",2017,Jr,Miami (OH),0.010
+"Lee, Madison",2016,N/A,Ball St.,-0.038
+"Lee, Madison",2017,So,Ball St.,-0.038
+"Lee, Madison",2016,Fr,Marist,-0.011
+"Lee, Madison",2017,So,Marist,-0.011
 "Lee, Stephanie",2014,So,St. Mary's (CA),-0.029
 "Lee, Stephanie",2015,Jr,St. Mary's (CA),-0.029
 "Lee, Taylor",2014,Fr,Drexel,0.033
 "Lee, Taylor",2015,So,Drexel,0.033
+"Lee, Taylor",2016,Jr,Drexel,0.033
+"Lee, Taylor",2017,Sr,Drexel,0.033
 "Leichty, Maria",2014,Jr,Butler,-0.059
 "Leichty, Maria",2015,Sr,Butler,-0.059
 "Leighton, Robyn",2015,Fr,Morehead St.,0.011
+"Leighton, Robyn",2016,So,Morehead St.,0.011
+"Leighton, Robyn",2017,Jr,Morehead St.,0.011
 "LeMay, Taylor",2014,So,Minnesota,0.116
 "LeMay, Taylor",2015,Jr,Minnesota,0.116
+"LeMay, Taylor",2016,Sr,Minnesota,0.116
 "Lenahan, Sam",2014,Sr,Mississippi St.,-0.059
 "Leonard, Erika",2014,So,Ohio St.,0.013
 "Leonard, Erika",2015,Jr,Ohio St.,0.013
+"Leonard, Erika",2016,Sr,Ohio St.,0.013
+"Leonard, Morgan",2016,Jr,Southern Utah,-0.026
+"Leonard, Morgan",2017,Sr,Southern Utah,-0.026
 "Letourneau, Hollie",2014,Fr,La.-Monroe,-0.124
 "Letourneau, Hollie",2015,So,La.-Monroe,-0.124
+"Lewis, Bailey",2016,Fr,Utah St.,0.005
+"Lewis, Bailey",2017,So,Utah St.,0.005
 "Lindahl, Amber",2014,Sr,Memphis,-0.140
+"Lindaman, Kendyl",2017,Fr,Minnesota,0.120
 "Lindvall, Janelle",2014,So,Oregon,0.144
 "Lindvall, Janelle",2015,Jr,Oregon,0.144
+"Lindvall, Janelle",2016,Sr,Oregon,0.144
 "Lingl, Bri",2014,Jr,Creighton,0.048
 "Lisenby, Christy",2014,Fr,Baylor,-0.006
 "Lisenby, Christy",2015,So,Baylor,-0.006
 "Liseth, Lauren",2014,Sr,Fairfield,0.057
+"Lockman, Abby",2016,Fr,Tennessee,-0.018
+"Lockman, Abby",2017,So,Tennessee,-0.018
+"Lockwood, Jenae",2017,Jr,UC Riverside,-0.002
 "Lombardi, Lauren",2014,Fr,Long Beach St.,-0.004
 "Lombardi, Lauren",2015,So,Long Beach St.,-0.004
+"Lombardi, Lauren",2016,Jr,Long Beach St.,-0.004
+"Lombardi, Lauren",2017,Jr,Long Beach St.,-0.004
 "Lombardo, Kayla",2014,Jr,Fordham,-0.024
 "Lombardo, Kayla",2015,Sr,Fordham,-0.024
 "Long, J.",2014,N/A,Prairie View,0.059
 "Long, J.",2015,Fr,Prairie View,0.059
+"Long, J.",2016,So,Prairie View,0.059
+"Long, J.",2017,Jr,Prairie View,0.059
 "Long, Jessica",2014,Sr,Lehigh,-0.026
 "Lopez, Aleima",2014,So,FIU,0.150
 "Lopez, Aleima",2015,Jr,FIU,0.150
+"Lopez, Aleima",2016,Sr,FIU,0.150
+"Lopez, Kylee",2016,Fr,Norfolk St.,-0.056
+"Lopez, Kylee",2017,So,Norfolk St.,-0.056
 "Lopez, Shontel",2014,Sr,Prairie View,-0.088
 "Lopez, Shontel",2015,N/A,Prairie View,-0.081
+"Lopez, Shontel",2016,Fr,Prairie View,-0.088
+"Lopez, Shontel",2017,So,Prairie View,-0.088
 "Low, Megan",2014,Jr,UTSA,0.001
 "Low, Megan",2015,Sr,UTSA,0.001
 "Lucas, Katalin",2014,So,Marshall,-0.143
 "Lucas, Katalin",2015,Jr,Marshall,-0.143
+"Lucas, Katalin",2016,Sr,Marshall,-0.143
 "Luety, Gabby",2014,Sr,Fordham,-0.030
 "Lujan, Samantha",2015,Fr,UC Santa Barbara,-0.014
+"Lujan, Samantha",2016,So,UC Santa Barbara,-0.014
+"Lujan, Samantha",2017,Jr,UC Santa Barbara,-0.014
+"Luna, Alexandra",2016,Fr,San Jose St.,-0.056
+"Luna, Alexandra",2017,So,San Jose St.,-0.056
 "Lundstrom, Nicole",2015,So,Providence,-0.082
+"Lundstrom, Nicole",2016,Jr,Providence,-0.082
+"Lundstrom, Nicole",2017,Sr,Providence,-0.082
 "Lundstrom, Nicole",2014,Fr,Syracuse,0.003
+"Lutticken, Morgan",2017,Fr,South Ala.,0.070
 "Ly, Jenny",2014,Jr,Howard,0.064
 "Ly, Jenny",2015,Sr,Howard,0.064
 "Mack, Kirsten",2014,Fr,Missouri,-0.025
 "Mack, Kirsten",2015,So,Missouri,-0.025
+"Mack, Kirsten",2016,Jr,Missouri,-0.025
+"Mack, Kirsten",2017,Sr,Missouri,-0.025
 "MacLeod, Laruen",2015,Fr,Long Beach St.,0.013
+"MacLeod, Laruen",2016,So,Long Beach St.,0.013
+"MacLeod, Laruen",2017,Jr,Long Beach St.,0.013
 "Maddox, Sierra",2015,Fr,Rutgers,0.026
+"Maddox, Sierra",2016,So,Rutgers,0.026
+"Maddox, Sierra",2017,Jr,Rutgers,0.026
 "Mahar, Alina",2015,Fr,Northern Ky.,-0.002
+"Mahar, Alina",2016,So,Northern Ky.,-0.002
+"Mahar, Alina",2017,Jr,Northern Ky.,-0.002
 "Maiden, Brianna",2014,Jr,Grambling,-0.001
 "Maiden, Brianna",2015,Sr,Grambling,-0.001
 "Maioran, Angela",2014,Jr,George Mason,0.041
 "Maioran, Angela",2015,Sr,George Mason,0.041
+"Mann, Brooke",2017,So,Indiana St.,-0.089
+"Manno, Jordan",2016,Fr,Detroit Mercy,0.060
+"Manno, Jordan",2017,So,Detroit Mercy,0.060
 "Manzanares, Jaelyn",2014,So,Colorado St.,-0.013
 "Manzanares, Jaelyn",2015,Jr,Colorado St.,-0.013
+"Manzanares, Jaelyn",2016,Sr,Colorado St.,-0.013
 "Maples, Mackenzie",2014,Jr,Col. of Charleston,0.052
 "Maples, Mackenzie",2015,Sr,Col. of Charleston,0.052
 "Marcet, Brittany",2014,Sr,Nicholls St.,-0.025
 "March, Sarah",2014,Fr,Niagara,0.001
 "March, Sarah",2015,So,Niagara,0.001
+"March, Sarah",2016,Jr,Niagara,0.001
+"March, Sarah",2017,Sr,Niagara,0.001
 "Marino, Christine",2015,Sr,FGCU,-0.028
 "Marlink,",2014,N/A,Central Mich.,0.018
 "Marlink, Danielle",2015,So,Central Mich.,0.018
+"Marlink, Danielle",2016,Jr,Central Mich.,0.018
+"Marlink, Danielle",2017,Sr,Central Mich.,0.018
+"Marquez, Vivi",2016,Jr,Wright St.,0.053
+"Marquez, Vivi",2017,Sr,Wright St.,0.053
 "Marshall, Jennifer",2014,Sr,Presbyterian,-0.035
 "Martinet, Milly",2014,Fr,Campbell,0.017
 "Martinez, Christina",2014,Fr,Bucknell,0.095
 "Martinez, Christina",2015,So,Bucknell,0.095
+"Martinez, Christina",2016,Jr,Bucknell,0.095
+"Martinez, Christina",2017,Sr,Bucknell,0.095
 "Martinez, Gabi",2014,Fr,Boston U.,0.030
 "Martinez, Gabi",2015,So,Boston U.,0.030
+"Martinez, Gabi",2016,Jr,Boston U.,0.030
+"Martinez, Gabi",2017,Sr,Boston U.,0.030
+"Martinez, Kelly",2017,Fr,Utah,-0.071
 "Martinez, Olivia",2014,Fr,Cal St. Fullerton,0.031
 "Martinez, Olivia",2015,So,Cal St. Fullerton,0.031
+"Martinez, Olivia",2016,Jr,Cal St. Fullerton,0.031
+"Martinez, Olivia",2016,So,Syracuse,0.037
+"Martinez, Olivia",2017,Jr,Syracuse,0.037
+"Martinez, Priscilla",2017,Fr,George Washington,0.003
 "Martin, Kristin",2014,Fr,La Salle,-0.008
 "Martin, Kristin",2015,So,La Salle,-0.008
+"Martin, Kristin",2016,Jr,La Salle,-0.008
+"Martin, Kristin",2017,Sr,La Salle,-0.008
+"Martin, Mary",2016,Fr,North Dakota,0.043
+"Martin, Mary",2017,So,North Dakota,0.043
+"Massa, Katelyn",2017,Fr,Southern Ill.,-0.039
 "Massaro, Jamie",2014,Sr,Morehead St.,-0.092
 "Massey, Celena",2014,Fr,Texas A&M,-0.059
 "Massey, Celena",2015,So,Texas A&M,-0.059
+"Massey, Celena",2016,Jr,Texas A&M,-0.059
+"Massey, Celena",2017,Sr,Texas A&M,-0.059
 "Masutani, Kryn",2014,Jr,San Jose St.,-0.133
 "Masutani, Kryn",2015,Sr,San Jose St.,-0.133
+"Matise, Nicole",2017,Jr,Abilene Christian,0.057
+"Mattera, Kaitlin",2017,Fr,St. John's (NY),0.037
+"Mattson, Carly",2016,Fr,Austin Peay,-0.039
+"Mattson, Carly",2017,So,Austin Peay,-0.039
 "Maurer, Macy",2014,So,Southern U.,-0.049
 "Maurer, Macy",2015,Jr,Southern U.,-0.049
+"Maurer, Macy",2016,Sr,Southern U.,-0.049
 "Maxwell, Addison",2015,Fr,Memphis,-0.016
+"Maxwell, Addison",2016,So,Memphis,-0.016
+"Maxwell, Addison",2017,Jr,Memphis,-0.016
 "May, Megan",2015,Fr,Omaha,-0.003
+"May, Megan",2016,So,Omaha,-0.003
+"May, Megan",2017,Jr,Omaha,-0.003
 "Maynard, Ashley",2015,So,Toledo,0.006
+"Maynard, Ashley",2016,Jr,Toledo,0.006
+"Maynard, Ashley",2017,Sr,Toledo,0.006
+"Maynez, Alexis",2016,Fr,New Mexico St.,0.033
+"Maynez, Alexis",2017,So,New Mexico St.,0.033
 "McAllister, Kacie",2014,Sr,Troy,-0.030
 "McAnally, Leigh",2015,Fr,Ball St.,0.041
+"McAnally, Leigh",2016,So,Ball St.,0.041
 "McBride, Miesha",2014,Fr,Florida A&M,0.042
 "McBride, Miesha",2015,So,Florida A&M,0.042
+"McBride, Miesha",2016,Jr,Florida A&M,0.042
+"McBride, Miesha",2017,Sr,Florida A&M,0.042
 "McCloskey, Samantha",2014,So,UCF,0.068
 "McCloskey, Samantha",2015,Jr,UCF,0.068
+"McCloskey, Samantha",2016,Sr,UCF,0.068
 "McCord, Taylor",2015,Fr,Marshall,0.062
+"McCord, Taylor",2016,So,Marshall,0.062
+"McCord, Taylor",2017,Jr,Marshall,0.062
+"McCracken, Maddie",2016,Fr,Notre Dame,0.068
+"McCracken, Maddie",2017,So,Notre Dame,0.068
 "McCrary, Paige",2014,Fr,Kent St.,-0.036
 "McCrary, Paige",2015,So,Kent St.,-0.036
+"McCrary, Paige",2016,Jr,Kent St.,-0.036
+"McCrary, Paige",2017,Sr,Kent St.,-0.036
 "McCray, Brittany",2014,Sr,Boise St.,-0.009
 "McDilda, Cassidy",2015,Fr,Troy,0.019
+"McDilda, Cassidy",2016,So,Troy,0.019
+"McDilda, Cassidy",2017,Jr,Troy,0.019
 "McDougall, Taylor",2014,Sr,Morgan St.,-0.072
+"McFarland, Kaitlin",2016,Fr,Liberty,-0.037
+"McFarland, Kaitlin",2017,So,Liberty,-0.037
 "McGill, Jacqueline",2014,Jr,Western Ky.,0.011
 "McGill, Jacqueline",2015,Sr,Western Ky.,0.011
 "McGuire, Jamie",2014,Fr,Jacksonville St.,0.069
 "McGuire, Jamie",2015,So,Jacksonville St.,0.069
+"McGuire, Jamie",2016,Jr,Jacksonville St.,0.069
+"McGuire, Jamie",2017,Sr,Jacksonville St.,0.069
 "McGuire, Maeve",2014,Fr,Georgia,0.087
 "McGuire, Maeve",2015,So,Georgia,0.087
+"McGuire, Maeve",2016,Jr,Georgia,0.087
+"McGuire, Maeve",2017,Sr,Georgia,0.087
 "McIlvenna, Regan",2015,N/A,Prairie View,-0.013
+"McIlvenna, Regan",2016,Fr,Prairie View,-0.013
+"McIlvenna, Regan",2017,So,Prairie View,-0.013
 "McInnes, Taiya",2014,N/A,Alabama A&M,-0.025
 "McInnes, Taiya",2015,Fr,Alabama A&M,-0.025
+"McInnes, Taiya",2016,So,Alabama A&M,-0.025
+"McInnes, Taiya",2017,Jr,Alabama A&M,-0.025
 "McIntyre, Shanyn",2014,Jr,Miami (OH),0.049
 "McIntyre, Shanyn",2015,Sr,Miami (OH),0.049
 "McJunkin, Katy",2014,Fr,Purdue,0.021
 "McKee, Dre",2014,So,Oklahoma St.,-0.073
 "McKee, Dre",2015,Jr,Oklahoma St.,-0.073
+"McKee, Dre",2016,Sr,Oklahoma St.,-0.073
+"McKee, Sierra",2016,Fr,Saint Francis (PA),-0.024
+"McKee, Sierra",2017,So,Saint Francis (PA),-0.024
 "McKeever, Morgan",2014,So,Southern Miss.,0.011
 "McKeever, Morgan",2015,Jr,Southern Miss.,0.011
+"McKeever, Morgan",2016,Sr,Southern Miss.,0.011
+"McKenzie, Andrea",2016,Jr,Ga. Southern,-0.012
+"McKenzie, Andrea",2017,Sr,Ga. Southern,-0.012
 "McKinnon, Lexie",2014,Jr,UNLV,-0.047
 "McKinnon, Lexie",2015,Sr,UNLV,-0.047
 "McMahon, Bri",2015,N/A,Creighton,0.039
+"Mcnally, A.",2016,N/A,Jacksonville,-0.053
+"McNally, Ashley",2017,So,Jacksonville,-0.053
 "McNew, Erica",2014,So,Cleveland St.,-0.029
 "McNew, Erica",2015,Jr,Cleveland St.,-0.029
+"McNew, Erica",2016,Sr,Cleveland St.,-0.029
 "McNulla, Brittany",2015,Fr,Virginia,-0.019
+"McNulla, Brittany",2016,So,Virginia,-0.019
+"McNulla, Brittany",2017,Jr,Virginia,-0.019
+"McQuistan, Mallory",2016,Fr,South Dakota St.,0.016
+"McQuistan, Mallory",2017,So,South Dakota St.,0.016
 "McShane, Tarah",2014,Jr,Valparaiso,0.000
 "McShane, Tarah",2015,Sr,Valparaiso,0.000
 "McSwain, Scarlet",2015,Fr,Tennessee,-0.036
+"McSwain, Scarlet",2016,So,Tennessee,-0.036
+"McSwain, Scarlet",2017,Jr,Tennessee,-0.036
 "Meckl, Renate",2014,Fr,UT Martin,-0.002
 "Meckl, Renate",2015,So,UT Martin,-0.002
+"Meckl, Renate",2016,Jr,UT Martin,-0.002
+"Meckl, Renate",2017,Sr,UT Martin,-0.002
+"Melton, Rebeca",2017,Fr,Memphis,0.001
 "Messer, Taylor",2014,Fr,Western Ill.,-0.037
 "Messer, Taylor",2015,So,Western Ill.,-0.037
+"Messer, Taylor",2016,Jr,Western Ill.,-0.037
+"Messer, Taylor",2017,Sr,Western Ill.,-0.037
+"Meter, Kara",2016,N/A,Northern Ky.,0.037
+"Meter, Kara",2017,So,Northern Ky.,0.037
 "Milam, Alison",2014,N/A,Troy,-0.073
 "Miller, Alex",2015,Fr,Fla. Atlantic,0.016
+"Miller, Alex",2016,So,Fla. Atlantic,0.016
+"Miller, Alex",2017,Jr,Fla. Atlantic,0.016
 "Miller, Chloe",2014,Fr,Wisconsin,0.044
 "Miller, Chloe",2015,So,Wisconsin,0.044
+"Miller, Chloe",2016,Jr,Wisconsin,0.044
+"Miller, Chloe",2017,Sr,Wisconsin,0.044
 "Miller, Kaycee",2014,Jr,South Dakota St.,0.007
 "Miller, Kaycee",2015,Sr,South Dakota St.,0.007
+"Millete, Abbie",2016,Jr,USC Upstate,-0.022
+"Millete, Abbie",2017,Sr,USC Upstate,-0.022
 "Million, Carey",2014,Fr,Elon,0.019
 "Million, Carey",2015,So,Elon,0.019
+"Million, Carey",2016,Jr,Elon,0.019
+"Million, Carey",2017,Sr,Elon,0.019
 "Mims, Kate",2015,Fr,UMass Lowell,0.076
+"Mims, Kate",2016,So,UMass Lowell,0.076
+"Mims, Kate",2017,Jr,UMass Lowell,0.076
 "Minneci,",2015,N/A,Bucknell,-0.030
+"Minneci, Madeline",2016,So,Bucknell,-0.030
+"Minneci, Madeline",2017,Jr,Bucknell,-0.030
 "Mintari, Audrey",2014,Sr,IPFW,-0.087
+"Mitchell, Haley",2017,Fr,Eastern Ill.,-0.033
+"Mitchell, Lydia",2016,N/A,Ark.-Pine Bluff,0.004
+"Mitchell, Lydia",2017,So,Ark.-Pine Bluff,0.004
+"Mobley, Kim",2017,Sr,N.C. Central,0.045
 "Modzelewski, Ashley",2014,Jr,McNeese St.,0.096
 "Moeai, Brittany",2014,So,UCLA,0.016
 "Moeai, Brittany",2015,Jr,UCLA,0.016
+"Moeai, Brittany",2016,Sr,UCLA,0.016
 "Mokienko, Trista",2014,Fr,Bowling Green,-0.022
 "Mokienko, Trista",2015,So,Bowling Green,-0.022
+"Mokienko, Trista",2016,Jr,Bowling Green,-0.022
+"Mokienko, Trista",2017,Sr,Bowling Green,-0.022
 "Monopoli, Mia",2015,Fr,Penn St.,-0.079
+"Monopoli, Mia",2016,So,Penn St.,-0.079
+"Monopoli, Mia",2017,Jr,Penn St.,-0.079
+"Montgomery, Paige",2017,Fr,Army West Point,0.005
+"Montgomery, Whitney",2016,Sr,Oklahoma,0.004
 "Mooney, Sarah",2014,Jr,South Carolina,0.014
 "Mooney, Sarah",2015,Sr,South Carolina,0.014
 "Moore, Courtney",2014,Fr,Loyola Marymount,0.019
@@ -845,358 +1673,719 @@ name,year,class,team,framing
 "Moore, M",2014,N/A,UC Santa Barbara,0.016
 "Moore, Megan",2014,Fr,Wagner,-0.028
 "Moore, Megan",2015,Jr,Wagner,-0.028
+"Moore, Megan",2016,Sr,Wagner,-0.028
 "Moore, Meshalon",2015,So,UC Santa Barbara,0.016
+"Moore, Meshalon",2016,Jr,UC Santa Barbara,0.016
+"Morales, A.",2017,Jr,Morgan St.,-0.004
 "Moran, Natalie",2014,Fr,Louisiana Tech,0.038
 "Moran, Natalie",2015,So,Louisiana Tech,0.038
+"Moran, Natalie",2016,Jr,Louisiana Tech,0.038
+"Moran, Natalie",2017,Sr,Louisiana Tech,0.038
+"Morell,",2017,Fr,La Salle,0.001
+"Moreno, Desiree",2017,Fr,Delaware St.,0.059
 "Morgan, Nicole",2014,Sr,Texas A&M,-0.023
 "Morris, Emily",2014,Sr,Evansville,-0.179
 "Morris, Kate",2015,Sr,Tennessee St.,-0.110
 "Morrison, Molly",2014,So,Georgetown,-0.044
 "Morris, Susanne",2015,Fr,Cal Poly,0.071
+"Morris, Susanne",2016,So,Cal Poly,0.071
+"Morris, Suzanne",2017,Jr,Seattle U,-0.004
 "Morrow, Bubba",2014,Jr,Seattle,-0.045
 "Morrow, Bubba",2015,Sr,Seattle,-0.045
+"Morrow, Kaela",2016,Fr,Portland St.,-0.055
+"Morrow, Kaela",2017,So,Portland St.,-0.055
 "Morse, Brittney",2014,Fr,A&M-Corpus Chris,-0.005
 "Morse, Brittney",2015,So,A&M-Corpus Chris,-0.005
+"Morse, Brittney",2017,Jr,South Dakota St.,-0.048
+"Mostek, Natalie",2017,Jr,Omaha,-0.084
+"Mulipola, Dejah",2017,Fr,Arizona,0.071
 "Munro, Aubree",2014,So,Florida,0.085
 "Munro, Aubree",2015,Jr,Florida,0.085
+"Munro, Aubree",2016,Sr,Florida,0.085
 "Murray, Amber",2014,Fr,Eastern Ky.,-0.037
 "Murray, Amber",2015,So,Eastern Ky.,-0.037
+"Murray, Amber",2016,Jr,Eastern Ky.,-0.037
+"Murray, Amber",2017,Sr,Eastern Ky.,-0.037
+"Musa, Kaitlyne",2017,Jr,Hofstra,-0.040
 "Mycek, Alex",2014,Fr,East Carolina,-0.025
 "Mycek, Alex",2015,So,East Carolina,-0.025
+"Mycek, Alex",2016,Jr,East Carolina,-0.025
+"Mycek, Alex",2017,Sr,East Carolina,-0.025
 "Mychko, Jenna",2014,Sr,Illinois,-0.029
 "Myers-Cook, Madi",2014,Fr,George Washington,-0.096
 "Naegele, Emily",2014,So,Northern Ill.,-0.003
 "Naegele, Emily",2015,Jr,Northern Ill.,-0.003
+"Naegele, Emily",2016,Sr,Northern Ill.,-0.003
 "Nagle, Kaleigh",2014,Fr,Ill.-Chicago,-0.086
 "Nagle, Kaleigh",2015,So,Ill.-Chicago,-0.086
+"Nagle, Kaleigh",2016,Jr,Ill.-Chicago,-0.086
+"Nagle, Kaleigh",2017,Sr,Ill.-Chicago,-0.086
 "Namba, Kirstyn",2014,So,Utah St.,0.042
 "Namba, Kirstyn",2015,Jr,Utah St.,0.026
 "Nash, Trenece",2014,So,UMES,-0.013
 "Nash, Trenece",2015,Jr,UMES,-0.013
+"Nash, Trenece",2016,Sr,UMES,-0.013
 "Nate, Taylor",2014,Fr,CSUN,-0.022
 "Nate, Taylor",2015,So,CSUN,-0.022
+"Nate, Taylor",2016,Jr,CSUN,-0.022
+"Nate, Taylor",2017,Sr,CSUN,-0.022
 "Neal, Ashley",2015,Fr,Jackson St.,-0.059
+"Neal, Ashley",2016,So,Jackson St.,-0.059
 "Neal, Morghyn",2015,So,IPFW,0.013
+"Nelson, Amber",2016,Fr,Colorado St.,0.013
+"Nelson, Amber",2017,So,Colorado St.,0.013
 "Nettling, Sammy",2015,Fr,Northwestern,-0.018
+"Nettling, Sammy",2016,So,Northwestern,-0.018
+"Nettling, Sammy",2017,Jr,Northwestern,-0.018
+"Nevarez, Breana",2017,Jr,Incarnate Word,-0.092
+"Newmark, Lulu",2016,So,FGCU,-0.014
+"Newmark, Lulu",2017,Jr,FGCU,-0.014
 "Nicholas, Alyssa",2014,Fr,Akron,-0.012
 "Nicholas, Alyssa",2015,So,Akron,-0.012
+"Nicholas, Alyssa",2016,Jr,Akron,-0.012
+"Nicholas, Alyssa",2017,Sr,Akron,-0.012
 "Nicholas, Amanda",2015,Fr,Nevada,0.130
+"Nicholas, Amanda",2016,So,Nevada,0.130
+"Nicholas, Amanda",2017,Jr,Nevada,0.130
 "Nicholas, Emma",2015,Fr,Cleveland St.,-0.026
+"Nicholas, Emma",2016,So,Cleveland St.,-0.026
+"Nicholas, Emma",2017,Jr,Cleveland St.,-0.026
+"Nishihira, Amanda",2017,Fr,Columbia,-0.003
+"Nix, Kylea",2017,Fr,UTSA,0.008
 "Noad, Morgan",2014,So,Coastal Caro.,0.051
 "Noad, Morgan",2015,Jr,Coastal Caro.,0.051
+"Noad, Morgan",2016,Sr,Coastal Caro.,0.051
 "Noel, Megan",2015,Jr,Houston,0.019
+"Noel, Megan",2016,Sr,Houston,0.019
 "Noland, Sammi",2015,Jr,Oregon St.,-0.070
+"Noland, Sammi",2016,Sr,Oregon St.,-0.070
+"Noland, Sammi",2017,Sr,Oregon St.,-0.070
 "Norrie, Kayla",2014,Sr,Portland St.,-0.084
 "North, Jamie",2014,Jr,Utah Valley,0.067
+"Norton, Bella",2017,Fr,Indiana,-0.034
 "Norwood, Chelsea",2014,Fr,Butler,0.055
 "Norwood, Chelsea",2015,So,Butler,0.055
+"Norwood, Chelsea",2016,Jr,Butler,0.055
+"Norwood, Chelsea",2017,Sr,Butler,0.055
+"Novak, Aspyn",2016,Fr,Dayton,0.013
+"Novak, Aspyn",2017,So,Dayton,0.013
+"Nowakowski, Jordyn",2017,Fr,Stony Brook,0.068
+"Ochotnicki, Nicole",2017,Fr,North Texas,0.025
 "O'Donnell, Randee",2015,Fr,Oklahoma St.,0.030
+"O'Donnell, Randee",2016,So,Oklahoma St.,0.030
+"O'Donnell, Randee",2017,Jr,Oklahoma St.,0.030
+"Offenback, Samantha",2016,Fr,LIU Brooklyn,0.015
+"Offenback, Samantha",2017,So,LIU Brooklyn,0.015
+"Ogasawara, Rachel",2016,Fr,Washington,0.002
+"Ogasawara, Rachel",2017,So,Washington,0.002
 "Ogburn, Emma",2015,Fr,Furman,0.096
+"Ogburn, Emma",2016,So,Furman,0.096
+"Ogburn, Emma",2017,Jr,Furman,0.096
 "Ogle, Mandy",2014,Sr,Texas,-0.044
+"Olivarez, Jordan",2017,Fr,Villanova,0.016
 "Olson, Ashley",2015,Sr,Rhode Island,-0.062
 "O'Mara, Bailey",2014,Fr,Pacific,0.009
+"O'Neal, Mahlena",2017,Fr,Georgia,0.129
 "Onorato, Sarah",2014,Jr,Yale,-0.024
 "Onorato, Sarah",2015,Sr,Yale,-0.024
+"Onstad,",2017,Fr,Green Bay,-0.077
+"Ontiveros, Katie",2017,Fr,Army West Point,0.055
 "Orlando, Frankie",2014,Fr,San Diego St.,-0.020
 "Orlando, Frankie",2015,So,San Diego St.,-0.020
+"Orlando, Frankie",2016,Jr,San Diego St.,-0.020
+"Orlando, Frankie",2017,Sr,San Diego St.,-0.020
 "Ortega, Jenina",2014,Sr,North Dakota St.,0.020
+"Ortega, Valerie",2017,Fr,Pittsburgh,-0.032
+"Ostaszewski, Sarah",2017,Fr,Saint Joseph's,0.016
 "Outon, Haley",2014,Sr,Houston,-0.137
 "Overstreet, Lexi",2014,So,Tennessee,0.109
 "Overstreet, Lexi",2015,Jr,Tennessee,0.109
+"Overstreet, Lexi",2016,Sr,Tennessee,0.109
 "Owens, Brooke",2014,Sr,Eastern Ill.,0.071
 "Pace, Hannah",2014,Sr,Furman,0.023
+"Pacheco, Nathaly",2017,Jr,N.C. A&T,-0.066
 "Pacheco, Shelby",2014,So,Utah,-0.202
 "Pacheco, Shelby",2015,Jr,Utah,-0.202
+"Pacheco, Shelby",2016,Sr,Utah,-0.202
 "Padilla, Kylie",2015,So,Cal St. Fullerton,0.104
+"Padilla, Kylie",2016,Jr,Cal St. Fullerton,0.104
+"Padilla, Kylie",2017,Sr,Cal St. Fullerton,0.104
 "Padilla, Kylie",2014,Fr,Oregon St.,-0.049
+"Padron, Marissa",2016,Fr,Texas Southern,-0.040
+"Padron, Marissa",2017,So,Texas Southern,-0.040
+"Padula,",2017,Fr,Western Mich.,-0.066
 "Page, Alexandra",2014,Fr,Bryant,0.013
 "Page, Alexandra",2015,So,Bryant,0.013
+"Page, Alexandra",2016,Jr,Bryant,0.013
+"Page, Alexandra",2017,Sr,Bryant,0.013
 "Paiotti, Nicole",2014,Fr,Saint Francis (PA),-0.058
 "Paiotti, Nicole",2015,Fr,Saint Francis (PA),-0.058
 "Palacios, Sashel",2014,Fr,Arizona St.,-0.029
 "Palacios, Sashel",2015,So,Arizona St.,-0.029
+"Palacios, Sashel",2016,Jr,Arizona St.,0.089
+"Palacios, Sashel",2017,Sr,Arizona St.,0.089
+"Palmegiani, Maria",2017,Fr,Fort Wayne,-0.040
 "Panariello, Giana",2014,Fr,Harvard,-0.103
 "Panariello, Giana",2015,So,Harvard,-0.103
+"Panariello, Giana",2016,Jr,Harvard,-0.103
+"Panariello, Giana",2017,Sr,Harvard,-0.103
+"Pandolfo, Darby",2017,Fr,Seton Hall,-0.043
+"Papp, Samantha",2016,Fr,Southern Miss.,-0.044
+"Papp, Samantha",2017,So,Southern Miss.,-0.044
 "Park, Katie",2014,Fr,Virginia,-0.026
 "Park, Katie",2015,So,Virginia,-0.026
+"Park, Katie",2016,Jr,Virginia,-0.026
+"Park, Katie",2017,Sr,Virginia,-0.026
+"Parmley, Jamie",2017,Fr,Mississippi Val.,0.023
 "Parra, Marina",2014,Sr,Ole Miss,0.021
 "Parrish, Amber",2014,Jr,North Carolina,0.008
 "Parrish, Amber",2015,Sr,North Carolina,0.008
 "Pasco, Jessica",2014,Fr,Pacific,0.045
 "Pasco, Jessica",2015,So,Pacific,0.045
+"Pasco, Jessica",2016,Jr,Pacific,0.045
+"Pasco, Jessica",2017,Sr,Pacific,0.045
 "Pasquale, Stephanie",2015,Sr,Nebraska,-0.091
 "Patterson, Jordan",2014,Sr,Alabama,0.014
 "Patterson, Roni",2014,Fr,IUPUI,0.008
 "Patterson, Roni",2015,So,IUPUI,0.008
+"Patterson, Roni",2016,Jr,IUPUI,0.008
+"Patterson, Roni",2017,Sr,IUPUI,0.008
 "Paul, Ashlynne",2014,Fr,Eastern Ill.,-0.043
 "Paul, Ashlynne",2015,So,Eastern Ill.,-0.043
+"Paul, Ashlynne",2016,Jr,Eastern Ill.,-0.043
+"Paul, Ashlynne",2017,Sr,Eastern Ill.,-0.043
 "Paulo, Kourtney",2014,Jr,South Carolina St.,-0.041
 "Pavel, Mel",2014,So,Austin Peay,-0.029
 "Pavel, Mel",2015,Jr,Austin Peay,-0.029
+"Pavel, Mel",2016,Sr,Austin Peay,-0.029
 "Pearson, Shaelee",2015,Fr,Boise St.,-0.021
+"Pearson, Shaelee",2016,So,Boise St.,-0.021
+"Pearson, Shaelee",2017,Jr,Boise St.,-0.021
+"Pechar, Mikaela",2017,Fr,Creighton,-0.001
+"Peck, Destini",2016,Fr,Seton Hall,0.083
+"Peck, Destini",2017,So,Seton Hall,0.083
 "Peres, Jenavee",2015,Fr,San Diego St.,0.018
+"Peres, Jenavee",2016,So,San Diego St.,0.018
+"Peres, Jenavee",2017,Jr,San Diego St.,0.018
 "Perez, Xiomara",2015,Fr,Army West Point,-0.014
+"Perez, Xiomara",2016,So,Army West Point,-0.014
 "Perkins, Jess",2014,Jr,Illinois,-0.079
 "Perkins, Jess",2015,Sr,Illinois,-0.079
 "Perricelli, Angelique",2014,So,N.C. Central,-0.029
 "Perricelli, Angelique",2015,Jr,N.C. Central,-0.029
+"Perrigan, Madison",2017,Fr,Wichita St.,0.160
 "Peterson, Alexa",2014,Sr,Oregon,0.086
 "Pettit, Arden",2015,Fr,Stanford,0.008
+"Pettit, Arden",2016,So,Stanford,0.008
+"Pettit, Arden",2017,Jr,Stanford,0.008
 "Pfeffer, Kate",2014,Fr,Wright St.,-0.138
 "Pfeffer, Kate",2015,So,Wright St.,-0.138
+"Pfeffer, Kate",2016,Jr,Wright St.,-0.138
+"Pfeffer, Kate",2017,Sr,Wright St.,-0.138
 "Phelan, Melissa",2014,So,Stony Brook,0.076
 "Phelan, Melissa",2015,Jr,Stony Brook,0.076
+"Phelan, Melissa",2016,Sr,Stony Brook,0.076
 "Phillips, Morgan",2015,Fr,St. Bonaventure,0.045
+"Phillips, Morgan",2016,So,St. Bonaventure,0.045
+"Phillips, Morgan",2017,Jr,St. Bonaventure,0.045
+"Piancastelli, Erika",2016,So,McNeese,0.030
+"Piancastelli, Erika",2017,Jr,McNeese,0.030
 "Piancastelli, Erika",2015,Fr,McNeese St.,0.030
 "Pickett, Cassi",2015,Fr,East Tenn. St.,-0.052
+"Pickett, Cassi",2016,So,ETSU,-0.052
+"Pickett, Cassi",2017,Jr,ETSU,-0.052
 "Pickett, Shelby",2014,Jr,Pittsburgh,0.020
 "Pickett, Shelby",2015,Jr,Pittsburgh,0.020
+"Pickett, Shelby",2016,Sr,Pittsburgh,0.020
+"Pierce, Rylee",2016,Fr,Missouri,0.004
+"Pierce, Rylee",2017,So,Missouri,0.004
 "Pilkington, Stephanie",2014,So,South Ala.,-0.013
 "Pilkington, Stephanie",2015,Jr,South Ala.,-0.013
+"Pilkington, Stephanie",2016,Sr,South Ala.,-0.013
 "Pinto, Dominique",2014,Fr,UConn,-0.007
 "Pinto, Dominique",2015,So,UConn,-0.007
+"Pinto, Dominique",2016,Jr,UConn,-0.007
 "Pisciotta, Alexandra",2014,So,Stony Brook,-0.102
 "Pisciotta, Alexandra",2015,Jr,Stony Brook,-0.102
+"Pisciotta, Alexandra",2016,Sr,Stony Brook,-0.102
 "Pitre, Alyssa",2014,N/A,Sacred Heart,-0.024
 "Pitre, Alyssa",2015,Fr,Sacred Heart,-0.024
+"Pitre, Alyssa",2016,Jr,Sacred Heart,-0.024
+"Plaza, Amber",2016,Jr,FGCU,-0.102
+"Plaza, Amber",2017,Sr,FGCU,-0.102
 "Plaza, Jessica",2014,So,Stanford,-0.070
 "Plaza, Jessica",2015,Jr,Stanford,-0.070
+"Plaza, Jessica",2016,Sr,Stanford,-0.070
+"Pletscher, Lauren",2017,Fr,Oakland,0.003
 "Polidori, Erika",2014,Sr,Oakland,-0.033
 "Pope, Grace",2015,Fr,Drexel,-0.029
+"Pozzi, M.",2017,Fr,Alabama A&M,-0.065
 "Prado, Paris",2014,Sr,Sacramento St.,-0.038
 "Prado, Paris",2015,Sr,Sacramento St.,0.058
+"Prairie, Rebecca",2017,Fr,Georgia Tech,0.005
 "Prantl, Cammi",2014,So,Ohio St.,-0.073
 "Prantl, Cammi",2015,Jr,Ohio St.,-0.073
+"Prantl, Cammi",2016,Sr,Ohio St.,-0.073
 "Prater, K.",2014,N/A,Nicholls St.,-0.019
 "Prater, Kayla",2015,Jr,Nicholls St.,-0.019
+"Prater, Kayla",2016,Sr,Nicholls St.,-0.019
+"Preble, Emily",2017,Fr,Lehigh,0.074
 "Pridgen, Taylar",2014,Jr,Gardner-Webb,-0.084
 "Pridgen, Taylar",2015,Sr,Gardner-Webb,-0.084
 "Prior, Brittany",2014,Sr,Oakland,-0.034
 "Proctor, Kaytie",2015,Fr,Northwestern St.,-0.034
+"Proctor, Kaytie",2016,So,Northwestern St.,-0.034
+"Proctor, Taylor",2016,Jr,Western Ky.,-0.005
+"Proctor, Taylor",2017,Sr,Western Ky.,-0.005
+"Prunty, Megan",2017,Fr,South Carolina St.,-0.107
 "Prusak, Paris",2014,Jr,USC Upstate,0.024
 "Prusak, Paris",2015,Sr,USC Upstate,0.024
 "Pugh, Dani",2014,Jr,IPFW,-0.010
 "Pugh, Dani",2015,Sr,Western Ky.,0.071
+"Query, Basia",2017,Fr,Utah Valley,-0.036
 "Rabbetts, Alex",2014,So,Seton Hall,-0.003
 "Rabbetts, Alex",2015,Jr,Seton Hall,-0.003
+"Rabbetts, Alex",2016,Sr,Seton Hall,-0.003
 "Raby, Korinne",2014,So,Penn,0.085
 "Raby, Korinne",2015,Jr,Penn,0.085
+"Raby, Korinne",2016,Sr,Penn,0.085
 "Raftery, Bridget",2014,Fr,Washington,-0.012
 "Rankin, Bailey",2014,N/A,Southern U.,0.009
 "Rankin, Bailey",2015,So,Southern U.,0.009
+"Rascon, Alejandra",2017,Fr,CSUN,0.050
 "Rathburn, Chloe",2014,Fr,South Ala.,0.166
 "Rathburn, Chloe",2015,So,South Ala.,0.166
 "Redmond, Brooke",2015,Fr,Monmouth,-0.015
+"Redmond, Brooke",2016,So,Monmouth,-0.015
+"Redmond, Brooke",2017,Jr,Monmouth,-0.015
 "Reeder, Olivia",2014,Jr,Toledo,0.011
 "Reed, Tori",2014,Fr,Fairfield,0.156
 "Reed, Tori",2015,So,Fairfield,0.156
+"Reed, Tori",2016,Jr,Fairfield,0.156
+"Reed, Tori",2017,Sr,Fairfield,0.156
 "Reedy, Tatum",2014,So,New Mexico St.,0.031
 "Reedy, Tatum",2015,Jr,New Mexico St.,0.031
+"Reedy, Tatum",2016,Sr,New Mexico St.,0.031
 "Reilly, Samantha",2015,Fr,Marist,-0.072
 "Reiman, Jessica",2015,N/A,Hampton,-0.073
 "Reina, Alyssa",2014,So,North Dakota St.,0.012
 "Reina, Alyssa",2015,So,North Dakota St.,0.012
+"Reina, Alyssa",2016,Jr,North Dakota St.,0.012
+"Reina, Alyssa",2017,Sr,North Dakota St.,0.012
 "Rennie, Melissa",2014,Sr,Ohio St.,-0.172
 "Reynolds, Bailey",2014,Fr,Central Ark.,-0.024
 "Reynolds, Bailey",2015,So,Central Ark.,-0.024
+"Reynolds, Bailey",2016,Jr,Central Ark.,-0.024
+"Reynolds, Bailey",2017,Sr,Central Ark.,-0.024
 "Rhodes, Mckenzi",2014,So,Akron,0.046
 "Rhodes, Mckenzi",2015,Jr,Akron,0.046
+"Rhodes, Mckenzi",2016,Sr,Akron,0.046
+"Richard, Kailey",2016,N/A,Bethune-Cookman,-0.013
+"Richard, Kailey",2017,Jr,Bethune-Cookman,-0.013
 "Richards, Alyssa",2014,Fr,Tennessee Tech,0.035
 "Richards, Alyssa",2015,So,Tennessee Tech,0.035
+"Richards, Alyssa",2016,Jr,Tennessee Tech,0.035
+"Richards, Alyssa",2017,Sr,Tennessee Tech,0.035
+"Richardson, Katy",2016,Jr,Chattanooga,-0.078
+"Richardson, Katy",2017,Sr,Chattanooga,-0.078
 "Ridgeway, Kelsey",2014,Jr,Ark.-Pine Bluff,-0.073
 "Ridgeway, Kelsey",2015,Sr,Ark.-Pine Bluff,-0.073
 "Ridling, Harli",2014,Fr,Kansas,0.021
 "Ridling, Harli",2015,So,Kansas,0.021
+"Ridling, Harli",2016,Jr,Kansas,0.021
+"Ridling, Harli",2017,Jr,Kansas,0.021
 "Riemenschneider, Brooke",2014,Fr,Indiana St.,0.089
 "Riemenschneider, Brooke",2015,So,Indiana St.,0.089
+"Riemenschneider, Brooke",2016,Jr,Indiana St.,0.089
+"Riemenschneider, Brooke",2017,Sr,Indiana St.,0.089
+"Ries, Riley",2016,Fr,Cleveland St.,0.017
+"Ries, Riley",2017,So,Cleveland St.,0.017
 "Ringle, Blake",2014,So,Creighton,0.024
 "Ringle, Blake",2015,Jr,Creighton,0.024
+"Ringle, Blake",2016,Sr,Creighton,0.024
+"Rivera, Irene",2016,Fr,Stony Brook,0.077
+"Rivera, Irene",2017,So,Stony Brook,0.077
+"Rizzato, Marilyn",2017,Fr,Louisiana Tech,-0.022
+"Roadcap, Kierstin",2017,Fr,James Madison,0.035
 "Roane, Jessie",2015,Fr,Kansas,0.055
+"Roane, Jessie",2016,So,Kansas,0.055
+"Roane, Jessie",2017,Jr,Kansas,0.055
 "Roberts, Andrea",2015,Fr,Eastern Ill.,0.013
+"Roberts, Andrea",2016,So,Eastern Ill.,0.013
+"Roberts, Andrea",2017,Jr,Eastern Ill.,0.013
+"Roberts, Heather",2016,N/A,Jacksonville,-0.076
+"Roberts, Heather",2017,Jr,Jacksonville,-0.076
+"Roberts, Jordan",2017,Fr,Florida,0.101
 "Robertson, Katie",2014,Fr,UC Davis,-0.070
 "Robertson, Katie",2015,So,UC Davis,-0.070
+"Robertson, Katie",2016,Jr,UC Davis,-0.070
 "Robinson, Amanda",2014,Sr,Utah Valley,-0.128
 "Robinson, Shellie",2014,Jr,USC Upstate,0.026
 "Robinson, Shellie",2015,Sr,USC Upstate,0.026
 "Robles, Anyssa",2014,So,Chattanooga,0.034
 "Robles, Anyssa",2015,Jr,Chattanooga,0.034
+"Robles, Anyssa",2016,Sr,Chattanooga,0.034
 "Rodgers, Jocelynn",2014,Fr,Murray St.,-0.220
 "Rodgers, Jocelynn",2015,So,Murray St.,-0.220
+"Rodgers, Jocelynn",2016,Jr,Murray St.,-0.220
+"Rodgers, Jocelynn",2017,Sr,Murray St.,-0.220
 "Rodriguez, Kelsey",2014,Sr,Arizona,-0.082
+"Rogers, Jessica",2016,Fr,South Dakota,-0.113
+"Rogers, Jessica",2017,So,South Dakota,-0.113
 "Rogers, Kacey",2014,Sr,Evansville,-0.037
 "Roller, Harley",2014,Sr,Southern U.,-0.072
 "Romeo, Lia",2014,Jr,Western Ill.,-0.052
 "Romeo, Lia",2015,Sr,Western Ill.,-0.052
 "Roper, Emily",2014,Fr,Elon,-0.083
 "Roper, Emily",2015,So,Elon,-0.083
+"Roper, Emily",2016,Jr,Elon,-0.083
+"Roper, Emily",2017,Sr,Elon,-0.083
 "Rose, Carlie",2014,So,Missouri,0.019
 "Ross, Alexis",2014,So,FGCU,0.020
 "Ross, Alexis",2015,Jr,FGCU,0.020
+"Ross, Alexis",2016,Sr,FGCU,0.020
+"Rosser, Taylor",2016,Fr,Alabama St.,-0.051
+"Rosser, Taylor",2017,So,Alabama St.,-0.051
 "Ross, Haleigh",2014,Fr,Memphis,-0.033
 "Ross, Haleigh",2015,So,Memphis,-0.033
+"Ross, Haleigh",2016,Jr,Memphis,-0.033
 "Rother, Lacey",2014,Jr,New Mexico St.,0.105
 "Rother, Lacey",2015,Sr,New Mexico St.,0.105
 "Rouse, Mckalee",2014,So,Hampton,0.030
 "Rouse, Mckalee",2015,Jr,Hampton,0.030
 "Rowe, Maggie",2015,Fr,Radford,-0.095
+"Rowe, Maggie",2016,So,Radford,-0.095
+"Rowe, Maggie",2017,Jr,Radford,-0.095
 "Rozell, Erika",2015,Fr,Minnesota,-0.032
+"Rozell, Erika",2016,So,Minnesota,-0.032
+"Rozell, Erika",2017,Jr,Minnesota,-0.032
+"Rozier, Brooke",2016,Fr,Iowa,-0.009
+"Rozier, Brooke",2017,So,Iowa,-0.009
+"Rubio, Kaitlyn",2017,Fr,New Mexico St.,-0.039
 "Ruckenbrod, Maggie",2014,Sr,Louisville,-0.039
 "Ruiz, Alyssa",2014,Sr,New Mexico St.,-0.064
 "Rupp, Sara",2015,Fr,Texas St.,0.053
+"Rupp, Sara",2016,So,Texas St.,0.053
+"Rupp, Sara",2017,Jr,Texas St.,0.053
 "Rurka, Julianne",2015,Fr,Providence,0.066
+"Rurka, Julianne",2016,So,Providence,0.066
+"Rurka, Julianne",2017,Jr,Providence,0.066
+"Russell, Hannah",2017,Fr,Santa Clara,-0.039
 "Ryan, Holly",2014,Jr,Winthrop,0.023
 "Ryder, Kaitlin",2015,Fr,UTEP,0.032
+"Ryder, Kaitlin",2016,So,UTEP,0.032
+"Ryder, Kaitlin",2017,Jr,UTEP,0.032
 "Saacke, Madison",2015,Fr,Montana,-0.018
+"Saacke, Madison",2016,So,Montana,-0.018
+"Saacke, Madison",2017,Jr,Montana,-0.018
+"Sack, Madison",2016,N/A,Yale,-0.036
+"Sack, Madison",2017,Fr,Yale,-0.036
 "Sallee, Brandyce",2014,Fr,Butler,-0.006
 "Sallee, Brandyce",2015,So,Butler,-0.006
+"Sallee, Brandyce",2016,Jr,Butler,-0.006
+"Sallee, Brandyce",2017,Sr,Butler,-0.006
 "Salvo, Kara",2014,Fr,Western Caro.,-0.073
 "Salvo, Kara",2015,So,Western Caro.,-0.073
+"Salvo, Kara",2016,Jr,Western Caro.,-0.073
+"Salvo, Kara",2017,Sr,Western Caro.,-0.073
+"Samaniego, Ari",2016,Fr,Northern Colo.,-0.006
 "Sampson, Erica",2014,Jr,Tulsa,-0.032
 "Sampson, Erica",2015,Sr,Tulsa,-0.032
 "Sanbower, Kaylyn",2014,Jr,Seton Hall,-0.022
 "Sanbower, Kaylyn",2015,Sr,Seton Hall,-0.022
+"Sanchez, Irma",2017,Jr,Loyola Marymount,-0.050
 "Sanchez, Natalie",2014,So,UC Riverside,-0.014
 "Sanchez, Natalie",2015,Jr,UC Riverside,-0.014
+"Sanchez, Natalie",2016,Sr,UC Riverside,-0.014
 "Sandage, Alexsis",2014,So,Florida A&M,-0.021
 "Sandage, Alexsis",2015,Jr,Florida A&M,-0.021
+"Sandage, Alexsis",2016,Sr,Florida A&M,-0.021
 "Sandoval, Karli",2014,Sr,Long Beach St.,-0.149
 "Sanicki, Taylor",2014,Jr,Western Mich.,-0.040
 "Sanicki, Taylor",2015,Sr,Western Mich.,-0.040
 "Santillo, Samantha",2014,Jr,Robert Morris,0.075
 "Santillo, Samantha",2015,Sr,Robert Morris,0.075
+"Saporito, Sam",2016,Fr,Eastern Mich.,-0.076
+"Saporito, Sam",2017,So,Eastern Mich.,-0.076
+"Satchell, Taylor",2016,Fr,LSU,0.063
+"Satchell, Taylor",2017,So,LSU,0.063
 "Saunders, Lauryn",2014,Fr,UC Davis,0.035
 "Saunders, Lauryn",2015,So,UC Davis,0.035
+"Saunders, Lauryn",2016,Jr,UC Davis,0.035
 "Saunders, Whitney",2015,Fr,Virginia Tech,-0.021
+"Saunders, Whitney",2016,So,Virginia Tech,-0.021
+"Saunders, Whitney",2017,Jr,Virginia Tech,-0.021
 "Scamihorn, Shelbie",2014,Fr,Ball St.,-0.035
 "Scamihorn, Shelbie",2015,So,Ball St.,-0.035
+"Scamihorn, Shelbie",2016,Jr,Ball St.,-0.035
 "Scarpantonio, Taylor",2014,Jr,Georgia St.,-0.003
 "Scarpantonio, Taylor",2015,Sr,Georgia St.,-0.003
+"Schaper, Jenny",2016,Fr,Kentucky,0.090
+"Schaper, Jenny",2017,So,Kentucky,0.090
 "Schattle, Erin",2014,Sr,USC Upstate,0.027
 "Schieferstein, Nicole",2014,Sr,Stony Brook,-0.002
 "Schlaefer, Mariel",2014,So,Colgate,-0.015
 "Schlaefer, Mariel",2015,Jr,Colgate,-0.015
+"Schlaefer, Mariel",2016,Sr,Colgate,-0.015
 "Schmiederer, Angela",2015,Fr,Iowa,0.142
+"Schmiederer, Angela",2016,So,Iowa,0.142
+"Schmiederer, Angela",2017,Jr,Iowa,0.142
 "Schneid, Mallory",2015,Jr,Indiana St.,-0.009
+"Schneid, Mallory",2016,Sr,Indiana St.,-0.009
 "Schnyder, Ciara",2014,Fr,UMES,-0.045
 "Schnyder, Ciara",2015,So,UMES,-0.045
+"Schnyder, Ciara",2016,Jr,UMES,-0.045
 "Schoenewald, Julia",2014,Fr,Brown,-0.051
 "Schoenewald, Julia",2015,So,Brown,-0.051
+"Schoenewald, Julia",2016,Jr,Brown,-0.051
+"Schoenewald, Julia",2017,Sr,Brown,-0.051
 "Schoonmaker, Rachael",2014,Jr,Utah Valley,-0.001
 "Schroeder, Maria",2015,Fr,Bradley,-0.003
+"Schroeder, Maria",2016,So,Bradley,-0.003
+"Schroeder, Maria",2017,Jr,Bradley,-0.003
 "Schroeder, Nicole",2014,So,Arkansas,0.005
 "Schroeder, Nicole",2015,Jr,Arkansas,0.005
+"Schroeder, Nicole",2016,Jr,Arkansas,0.005
+"Schroeder, Nicole",2017,Sr,Arkansas,0.005
 "Schroeder, Nikki",2014,Fr,LIU Brooklyn,-0.122
 "Schroeder, Nikki",2015,So,LIU Brooklyn,-0.122
 "Schueler, Darcy",2014,Jr,Eastern Ky.,0.061
 "Schueler, Darcy",2015,Sr,Eastern Ky.,0.061
 "Schultz, Nicole",2014,Jr,San Jose St.,0.024
 "Schultz, Nicole",2015,Sr,San Jose St.,0.024
+"Sclafani, Alyssa",2017,Fr,Loyola Chicago,0.039
 "Scott, Alex",2014,So,Brown,-0.049
 "Scott, Hayli",2015,So,Evansville,0.060
+"Scott, Hayli",2016,Jr,Evansville,0.060
+"Scott, Hayli",2017,Sr,Evansville,0.060
+"Scott, Jessica",2017,Fr,Sacramento St.,-0.037
 "Secaira,",2014,N/A,Utah,0.040
 "Secaira, Bella",2015,So,Utah,0.040
+"Secaira, Bella",2016,Jr,Utah,0.040
+"Secaira, Bella",2017,Sr,Utah,0.040
 "Segovia, Natalia",2014,Fr,Villanova,0.134
 "Segovia, Natalia",2015,So,Villanova,0.134
+"Segovia, Natalia",2016,Jr,Villanova,0.134
+"Segovia, Natalia",2017,Sr,Villanova,0.134
+"Seitz, Cat",2016,Fr,Brown,-0.044
+"Seitz, Cat",2017,So,Brown,-0.044
 "Seiz, Holly",2014,So,Liberty,-0.064
+"Self, Hannah",2017,Fr,Portland St.,-0.017
 "Sellers, Rachel",2015,Fr,Pacific,-0.019
+"Sellers, Rachel",2016,So,Pacific,-0.019
+"Sellers, Rachel",2017,Jr,Pacific,-0.019
+"Shafer, Kayleen",2016,Fr,Oregon St.,0.041
+"Shafer, Kayleen",2017,So,Oregon St.,0.041
 "Shaffer, Tarran",2014,Jr,Loyola Chicago,-0.005
 "Shaffer, Tarran",2015,Sr,Loyola Chicago,-0.005
 "Shea, Courtney",2015,Fr,Auburn,0.069
+"Shea, Courtney",2016,So,Auburn,0.069
+"Shea, Courtney",2017,Jr,Auburn,0.069
+"Shelnutt, Anna",2017,Fr,Florida St.,0.058
 "Shephard, Baylee",2014,Fr,Northwestern St.,-0.002
 "Shephard, Baylee",2015,So,Northwestern St.,-0.002
+"Shephard, Baylee",2016,Jr,Northwestern St.,-0.002
+"Shephard, Baylee",2017,Sr,Northwestern St.,-0.002
 "Sher, Mackenzie",2014,Sr,Southern Miss.,-0.043
+"Sherritt, Taylor",2017,Fr,Bethune-Cookman,-0.006
 "Shifflett, Kinsey",2014,Fr,UMBC,0.071
 "Shifflett, Kinsey",2015,So,UMBC,0.071
+"Shifflett, Kinsey",2016,Jr,UMBC,0.071
+"Shifflett, Kinsey",2017,Sr,UMBC,0.071
 "Shimoda, Kayla",2014,Jr,Columbia,-0.161
 "Shimoda, Kayla",2015,Sr,Columbia,-0.161
+"Shipper, Becca",2016,So,Charlotte,0.040
+"Shipper, Becca",2017,So,Charlotte,0.040
 "Shippy, Vanessa",2015,Fr,Oklahoma St.,0.209
+"Shippy, Vanessa",2016,So,Oklahoma St.,0.209
+"Shippy, Vanessa",2017,Jr,Oklahoma St.,0.209
 "Shireman, Erin",2014,So,Texas,0.071
 "Shireman, Erin",2015,Jr,Texas,0.071
+"Shireman, Erin",2016,Sr,Texas,0.071
+"Shively, Elizabeth",2016,Fr,Harvard,-0.059
+"Shively, Elizabeth",2017,So,Harvard,-0.059
 "Shiver, Natalie",2014,So,Mercer,0.021
 "Shiver, Natalie",2015,Jr,Mercer,0.021
+"Shiver, Natalie",2016,Sr,Mercer,0.021
 "Shue, KC",2014,Sr,UNCW,-0.055
+"Shultes, Shelby",2017,Fr,New Mexico St.,-0.048
 "Silfer, Lindsey",2014,Fr,Canisius,-0.028
 "Silfer, Lindsey",2015,So,Canisius,-0.028
+"Silfer, Lindsey",2016,Jr,Canisius,-0.028
+"Silfer, Lindsey",2017,Sr,Canisius,-0.028
+"Simmons, Laine",2017,Jr,Bowling Green,0.021
 "Simmons, Laine",2015,Fr,Morehead St.,-0.043
+"Simmons, Laine",2016,So,Morehead St.,-0.043
+"Simmons, Laine",2017,Jr,Morehead St.,-0.043
 "Singleton, Kaleigh",2015,So,Abilene Christian,-0.014
+"Singleton, Kaleigh",2016,Jr,Abilene Christian,-0.014
+"Singleton, Kaleigh",2017,Sr,Abilene Christian,-0.014
+"Sinskul, Jade",2017,Fr,Marist,0.056
+"Sleeman,",2016,N/A,Western Mich.,-0.033
+"Sleeman,",2017,Fr,Western Mich.,-0.033
 "Sloan, Savannah",2014,Jr,Jacksonville St.,0.073
 "Sloan, Savannah",2015,Sr,Jacksonville St.,0.073
 "Sloan, Taylor",2014,Fr,Jacksonville St.,0.010
 "Sloan, Taylor",2015,So,Jacksonville St.,0.010
+"Sloan, Taylor",2016,Jr,Jacksonville St.,0.010
+"Sloan, Taylor",2017,Sr,Jacksonville St.,0.010
 "Sloat, Kaylynn",2014,Jr,Mercer,0.002
 "Sloat, Kaylynn",2015,Sr,Mercer,0.002
 "Smaldone, Sammy",2015,Jr,Siena,-0.002
+"Smaldone, Sammy",2016,Sr,Siena,-0.002
 "Smith,",2015,N/A,Alabama A&M,-0.011
+"Smith,",2016,Fr,Alabama A&M,-0.011
+"Smith,",2017,So,Alabama A&M,-0.011
 "Smith, Aeron",2015,Fr,UT Martin,0.006
+"Smith, Aeron",2016,So,UT Martin,0.006
+"Smith, Aeron",2017,Jr,UT Martin,0.006
+"Smith, Aly",2017,Fr,South Ala.,0.062
 "Smith, Arianna",2014,Sr,Jackson St.,-0.039
 "Smith, Brooke",2014,Fr,Jacksonville,0.007
 "Smith, Brooke",2015,So,Jacksonville,0.007
+"Smith, Brooke",2016,Jr,Jacksonville,0.007
+"Smith, Brooke",2017,Sr,Jacksonville,0.007
 "Smith, Chelsea",2014,So,Southeast Mo. St.,-0.143
 "Smith, Chelsea",2015,Jr,Southeast Mo. St.,-0.143
+"Smith, Chelsea",2016,Sr,Southeast Mo. St.,-0.143
+"Smith, Devon",2017,Fr,Oakland,-0.038
+"Smith, Doris",2017,Fr,New Mexico,0.016
 "Smith, Hope",2014,Jr,Furman,0.035
 "Smith, Hope",2015,Sr,Furman,0.035
+"Smith, Kassidy",2017,Fr,Coastal Caro.,-0.056
 "Smith, Katey",2014,So,Virginia Tech,-0.011
 "Smith, Katey",2015,Jr,Virginia Tech,-0.011
+"Smith, Katey",2016,Sr,Virginia Tech,-0.011
 "Smith, Kelsey",2014,Fr,Princeton,-0.023
 "Smith, Kelsey",2015,So,Princeton,-0.023
+"Smith, Kelsey",2016,Jr,Princeton,-0.023
+"Smith, Kelsey",2017,Sr,Princeton,-0.023
 "Smith, Lyndi",2014,Sr,Abilene Christian,-0.002
 "Smith, Shelbie",2014,N/A,North Texas,-0.024
 "Smith, Shelbie",2015,So,North Texas,-0.024
 "Snow, E.",2014,N/A,Albany (NY),-0.097
 "Snow, Elizabeth",2015,So,Albany (NY),-0.097
+"Snow, Elizabeth",2016,Jr,Albany (NY),-0.097
+"Snow, Elizabeth",2017,Sr,Albany (NY),-0.097
+"Sobczak, Alex",2016,Fr,Michigan,0.083
+"Sobczak, Alex",2017,So,Michigan,0.083
 "Soefje, Tess",2014,So,UTSA,-0.003
 "Soefje, Tess",2015,Jr,UTSA,-0.003
+"Soefje, Tess",2016,Sr,UTSA,-0.003
 "Solis, Kortney",2014,So,Sacramento St.,-0.001
 "Solis, Kortney",2015,Jr,Sacramento St.,-0.001
+"Solis, Kortney",2016,Sr,Sacramento St.,-0.001
 "Sorenson, Michelle",2014,Jr,A&M-Corpus Chris,0.050
 "Sorenson, Michelle",2015,Sr,A&M-Corpus Chris,0.050
 "Souza, Kimberlee",2014,Jr,Washington,-0.047
 "Souza, Kimberlee",2015,Jr,Washington,-0.047
+"Souza, Kimberlee",2016,Sr,Washington,-0.047
+"Sparks, Hannah",2017,Jr,Oklahoma,0.045
 "Speer, Tory",2014,Sr,Boston College,-0.095
+"Spell, Rylie",2016,Fr,Tulsa,0.179
+"Spell, Rylie",2017,So,Tulsa,0.179
 "Spenn, Kathryn",2014,So,Bradley,0.056
 "Spenn, Kathryn",2015,Jr,Bradley,0.056
+"Spenn, Kathryn",2016,Sr,Bradley,0.056
+"Spitz, Lindsey",2016,Fr,Sacred Heart,0.021
+"Spitz, Lindsey",2017,So,Sacred Heart,0.021
 "Spivey, Lee Ann",2014,So,South Fla.,-0.040
 "Spivey, Lee Ann",2015,Jr,South Fla.,-0.040
+"Spivey, Lee Ann",2016,Sr,South Fla.,-0.040
+"Splinter, Riana",2016,Jr,Weber St.,0.045
+"Splinter, Riana",2017,Sr,Weber St.,0.045
 "Springfield, Emily",2015,Fr,Brown,-0.045
+"Springfield, Emily",2016,So,Brown,-0.045
 "Stamm, Megan",2014,Jr,Western Mich.,-0.095
 "Standley, Katelyn",2014,Fr,Stephen F. Austin,-0.051
 "Standley, Katelyn",2015,So,Stephen F. Austin,-0.051
 "Stanley, Cera",2015,Fr,Utah Valley,-0.077
+"Stanley, Cera",2016,So,Utah Valley,-0.077
+"Stanley, Cera",2017,Jr,Utah Valley,-0.077
 "Stark, Samantha",2015,Jr,UC Santa Barbara,-0.027
+"Stark, Samantha",2016,Sr,UC Santa Barbara,-0.027
 "Stauffenberg, Jenna",2015,Fr,Valparaiso,-0.005
+"Stauffenberg, Jenna",2016,So,Valparaiso,-0.005
+"Stauffenberg, Jenna",2017,Jr,Valparaiso,-0.005
+"St. Clair, Kaitlyn",2017,Fr,Northwestern St.,-0.001
 "Steinmehl, Alex",2014,Jr,Pacific,-0.015
 "Steinmehl, Alex",2015,Sr,Pacific,-0.015
+"Steinmetz, Anna",2016,Fr,Delaware,-0.014
+"Steinmetz, Anna",2017,So,Delaware,-0.014
+"Stevens, Sera",2017,Fr,Georgetown,-0.012
 "Stewart, Samantha",2014,Fr,Valparaiso,-0.016
 "Stewart, Samantha",2015,So,Valparaiso,-0.016
+"Stewart, Samantha",2016,Jr,Valparaiso,-0.016
+"Stewart, Samantha",2017,Sr,Valparaiso,-0.016
 "Stoffer, Ellie",2014,Jr,Michigan St.,-0.064
 "Stoffer, Ellie",2015,Sr,Michigan St.,-0.064
 "Stokes, Bailey",2015,So,Southern Miss.,0.102
+"Stokes, Bailey",2016,Jr,Southern Miss.,0.102
+"Stokes, Bailey",2017,Sr,Southern Miss.,0.102
 "Storms, Samantha",2014,N/A,Saint Peter's,0.003
 "Storms, Samantha",2015,Fr,Saint Peter's,0.003
+"Storms, Samantha",2016,So,Saint Peter's,0.003
+"Storms, Samantha",2017,Sr,Saint Peter's,0.003
 "Stovall, Jordan",2014,Sr,Fla. Atlantic,0.014
 "Stover, Brooke",2015,Fr,UNLV,0.065
+"Stover, Brooke",2016,So,UNLV,0.065
+"Stover, Brooke",2017,Jr,UNLV,0.065
+"Stowers, Tommi",2017,Fr,Western Ky.,0.066
 "Stracher, Shelby",2015,Fr,Towson,0.156
+"Stracher, Shelby",2016,So,Towson,0.156
+"Stracher, Shelby",2017,Jr,Towson,0.156
 "Stratton, Erika",2014,Sr,Bowling Green,-0.069
 "St. Romain, Alex",2014,Sr,Dartmouth,0.068
+"Strother, Moriah",2016,Fr,Nicholls St.,-0.029
+"Strother, Moriah",2017,So,Nicholls St.,-0.029
+"Stupey, Jenna",2016,Fr,UMBC,0.061
+"Stupey, Jenna",2017,So,UMBC,0.061
+"Sturgeon, Jordyn",2017,Jr,Creighton,0.014
+"Sugg, Erin",2017,Sr,North Carolina,-0.016
+"Sugg, Libby",2016,Fr,BYU,0.034
+"Sugg, Libby",2017,So,BYU,0.034
 "Sullivan, Deanna",2015,Fr,South Carolina St.,-0.030
+"Sullivan, Deanna",2016,So,South Carolina St.,-0.030
+"Sullivan, Deanna",2017,Jr,South Carolina St.,-0.030
+"Sullivan, Whitney",2016,N/A,Southeastern La.,-0.036
+"Sullivan, Whitney",2017,Fr,Southeastern La.,-0.036
 "Summers, Ali",2014,Fr,Rhode Island,-0.073
 "Summers, Ali",2015,So,Rhode Island,-0.073
+"Summers, Ali",2016,Jr,Rhode Island,-0.073
+"Summers, Ali",2017,Sr,Rhode Island,-0.073
 "Sutter, Courtney",2014,So,Kennesaw St.,0.031
 "Sutter, Courtney",2015,So,Kennesaw St.,0.031
+"Sutter, Courtney",2016,Jr,Kennesaw St.,0.031
+"Sutter, Courtney",2017,Sr,Kennesaw St.,0.031
 "Suttles, Kiara",2015,Fr,Southern U.,0.065
+"Suttles, Kiara",2016,So,Southern U.,0.065
+"Suttles, Kiara",2017,Jr,Southern U.,0.065
 "Svekis, Gwen",2015,Fr,Oregon,-0.039
+"Svekis, Gwen",2016,So,Oregon,-0.039
+"Svekis, Gwen",2017,Jr,Oregon,-0.039
 "Swanberg, Charly",2014,Sr,San Diego,-0.016
 "Swanicke, Suzanne",2014,Fr,La Salle,-0.003
 "Swanicke, Suzanne",2015,So,La Salle,-0.003
+"Swanicke, Suzanne",2016,Jr,La Salle,-0.003
+"Swanicke, Suzanne",2017,Sr,La Salle,-0.003
+"Swank, Kiera",2016,Fr,Rider,-0.097
+"Swank, Kiera",2017,So,Rider,-0.097
 "Swanson, Canessa",2014,So,Jackson St.,-0.035
 "Swanson, Canessa",2015,Jr,Jackson St.,-0.035
+"Swanson, Canessa",2016,Sr,Jackson St.,-0.035
 "Sweeney, Abby",2014,Fr,Samford,-0.088
 "Sweeney, Abby",2015,So,Samford,-0.088
+"Sweeney, Abby",2016,Jr,Samford,-0.088
+"Sweeney, Abby",2017,Sr,Samford,-0.088
 "Sweet, Lauren",2014,Jr,Michigan,0.010
 "Sweet, Lauren",2015,Sr,Michigan,0.010
 "Syrett, Courtney",2014,Fr,Ole Miss,0.062
 "Syrett, Courtney",2015,So,Ole Miss,0.062
+"Syrett, Courtney",2016,Jr,Ole Miss,0.062
+"Syrett, Courtney",2017,Sr,Ole Miss,0.062
 "Szydlowski, Alison",2015,Fr,Louisville,0.012
+"Szydlowski, Alison",2016,So,Louisville,0.012
+"Szydlowski, Alison",2017,Jr,Louisville,0.012
 "Szymanowski, Amy",2015,Jr,Florida St.,0.058
 "Tackett, Katie",2014,Jr,Eastern Ky.,0.111
 "Tackett, Katie",2015,Sr,Eastern Ky.,0.111
@@ -1204,156 +2393,331 @@ name,year,class,team,framing
 "Tackett, Kortney",2015,Sr,Wright St.,-0.006
 "Talton, Deja",2014,Fr,Mississippi Val.,-0.038
 "Talton, Deja",2015,So,Mississippi Val.,-0.038
+"Talton, Deja",2016,Jr,Mississippi Val.,-0.038
+"Talton, Deja",2017,Sr,Mississippi Val.,-0.038
+"Tanis, Hannah",2017,Fr,Cleveland St.,0.012
 "Taylor, Alexia",2015,Fr,Liberty,-0.083
+"Taylor, Alexia",2016,So,Liberty,-0.083
+"Taylor, Alexia",2017,Jr,Liberty,-0.083
 "Taylor, Erin",2014,Jr,Presbyterian,0.027
 "Taylor, Erin",2015,Sr,Presbyterian,0.027
 "Taylor, Hannah",2014,So,Samford,-0.019
 "Taylor, Hannah",2015,Jr,Samford,-0.019
 "Taylor, Jessie",2014,So,Central Ark.,0.002
 "Taylor, Jessie",2015,Jr,Central Ark.,0.002
+"Taylor, Jessie",2016,Sr,Central Ark.,0.002
 "Taylor, Monica",2015,Fr,UNCW,-0.015
+"Taylor, Monica",2016,So,UNCW,-0.015
 "Teefy, Nicole",2014,Fr,Kent St.,0.066
 "Teefy, Nicole",2015,So,Kent St.,0.066
+"Teefy, Nicole",2016,Jr,Kent St.,0.066
+"Teefy, Nicole",2017,Sr,Kent St.,0.066
 "Tellez, Naomi",2015,Jr,DePaul,-0.019
+"Tellez, Naomi",2016,Sr,DePaul,-0.019
 "Tellez, Naomi",2014,So,New Mexico,-0.068
 "Thomas, Amanda",2015,Fr,UTSA,0.004
 "Thomas, Jessa",2014,Fr,Southern Ill.,0.049
 "Thomas, Jessa",2015,So,Southern Ill.,0.049
+"Thomas, Jessa",2016,Jr,Southern Ill.,0.049
+"Thomas, Jessa",2017,Sr,Southern Ill.,0.049
 "Thomas, Lindsay",2014,So,UNCG,-0.093
 "Thomas, Lindsay",2015,Jr,UNCG,-0.093
+"Thomas, Lindsay",2016,Sr,UNCG,-0.093
+"Thomas, Mackenzie",2017,Fr,Oklahoma St.,0.181
+"Thompson, Cheyene",2016,Fr,Butler,-0.129
+"Thompson, Cheyene",2017,So,Butler,-0.129
+"Tillotson, Abby",2016,So,Southeast Mo. St.,-0.025
+"Tillotson, Abby",2017,Jr,Southeast Mo. St.,-0.025
 "Tinajero, Michelle",2014,Sr,Saint Peter's,-0.051
 "Tobon, Nicole",2014,So,Illinois,0.018
 "Tobon, Nicole",2015,Jr,Illinois,0.018
+"Tobon, Nicole",2016,Sr,Illinois,0.018
 "Togashi, Tori",2015,N/A,Cornell,-0.016
+"Togashi, Tori",2016,Fr,Cornell,-0.016
+"Togashi, Tori",2017,Jr,Cornell,-0.016
+"Toler, Kylie",2017,Fr,ETSU,0.043
 "Tometich, Hannah",2014,So,North Dakota,-0.025
 "Tometich, Hannah",2015,Jr,North Dakota,-0.025
+"Toneygay, Lindsey",2017,N/A,Radford,-0.017
 "Tonz, Paige",2014,Sr,Northwestern,-0.068
 "Torrez, Hailey",2014,N/A,Boise St.,-0.118
 "Torrez, Hailey",2015,Sr,Boise St.,-0.118
+"Tourtillott, Bree",2016,Jr,FGCU,0.102
+"Tourtillott, Bree",2017,Sr,FGCU,0.102
 "Tourtillott, Brianna",2014,Fr,UTEP,0.023
 "Toven, Nichole",2014,Jr,LIU Brooklyn,-0.084
 "Tracy, Brooke",2014,So,Winthrop,-0.018
 "Trevino, Christy",2014,Fr,Incarnate Word,-0.083
 "Trevino, Christy",2015,So,Incarnate Word,-0.083
+"Trevino, Christy",2016,Jr,Incarnate Word,-0.083
+"Trevino, Christy",2017,Sr,Incarnate Word,-0.083
+"Trevino, Sabrina",2017,Fr,IUPUI,0.048
 "Trippi, Erin",2014,Jr,Hofstra,0.193
 "Trippi, Erin",2015,Sr,Hofstra,0.193
+"Trombley, Hannah",2016,Fr,Samford,-0.048
+"Trombley, Hannah",2017,So,Samford,-0.048
+"Troyan,",2016,N/A,Quinnipiac,-0.004
+"Troyan,",2017,Fr,Quinnipiac,-0.004
 "Tsuchiyama, Ariel",2014,Sr,Cal St. Fullerton,-0.024
+"Turbeville, Aubree",2016,Fr,McNeese,0.083
+"Turbeville, Aubree",2017,So,McNeese,0.083
 "Tutsch, Krysta",2015,Jr,Louisiana Tech,0.004
+"Tutsch, Krysta",2016,Sr,Louisiana Tech,0.004
 "Ukegawa, Robyn",2015,Fr,Bryant,-0.021
+"Ukegawa, Robyn",2016,So,Bryant,-0.021
+"Ukegawa, Robyn",2017,Jr,Bryant,-0.021
+"Ullman, Nicole",2016,So,Coppin St.,0.091
+"Ullman, Nicole",2017,Jr,Coppin St.,0.091
 "Unzicker, Madison",2015,Fr,Nebraska,0.013
+"Unzicker, Madison",2016,So,Nebraska,0.013
+"Unzicker, Madison",2017,Jr,Nebraska,0.013
 "Urness, Austen",2014,Fr,Nebraska,0.056
 "Urness, Austen",2015,So,Nebraska,0.056
+"Urness, Austen",2016,So,Nebraska,0.056
+"Urness, Austen",2017,Jr,Nebraska,0.056
+"Utecht, April",2016,Fr,Oregon,0.009
+"Utecht, April",2017,So,Oregon,0.009
+"Uyesaka, Kai",2016,N/A,Drexel,0.045
+"Uyesaka, Kai",2017,So,Drexel,0.045
 "Vadeboncouer, Allie",2014,Sr,Southern Ill.,-0.018
+"Valle, Jen",2016,N/A,North Florida,-0.076
+"Valle, Jen",2017,Sr,North Florida,-0.076
 "VanDerveer, Alyssa",2015,Fr,Penn St.,-0.011
+"VanDerveer, Alyssa",2016,So,Penn St.,-0.011
+"VanDerveer, Alyssa",2017,Jr,South Carolina,0.073
 "Vander Ven, Rachel",2014,So,UMES,0.036
 "Van Horn, Candice",2014,Jr,Coppin St.,0.014
 "Van Horn, Candice",2015,Sr,Coppin St.,0.014
+"Vannoy, Brooke",2016,Fr,Houston,-0.013
+"Vannoy, Brooke",2017,So,Houston,-0.013
+"Van Schaik, Sarah",2016,Fr,Ole Miss,-0.041
+"Van Schaik, Sarah",2017,So,Ole Miss,-0.041
+"VanSickle, Makenzie",2017,Jr,Idaho St.,0.010
 "Varriano, Anna",2014,Fr,UNI,0.123
 "Varriano, Anna",2015,So,UNI,0.123
+"Varriano, Anna",2016,Jr,UNI,0.123
+"Varriano, Anna",2017,Sr,UNI,0.123
 "Vazquez, Jenn",2014,Fr,Manhattan,-0.055
 "Vazquez, Jenn",2015,So,Manhattan,-0.055
+"Vazquez, Jenn",2016,Jr,Manhattan,-0.055
+"Vazquez, Jenn",2017,Sr,Manhattan,-0.055
 "Vazquez, Kasi",2014,Sr,Dayton,0.003
 "Vergona, Ally",2015,So,Fordham,0.041
+"Vergona, Ally",2016,Jr,Fordham,0.041
+"Vergona, Ally",2017,Sr,Fordham,0.041
 "Vergona, Ally",2014,Fr,UNCG,-0.053
+"Verrastro, Georgia",2017,Fr,Saint Peter's,-0.115
 "Vesper, Hannah",2014,So,Alcorn,-0.089
 "Vesper, Hannah",2015,Jr,Alcorn,-0.089
+"Vesper, Hannah",2016,Sr,Alcorn,-0.089
+"Villafranco, Veronica",2016,Fr,Nicholls St.,0.002
+"Villafranco, Veronica",2017,So,Nicholls St.,0.002
+"Vitale, Kara",2016,Fr,Detroit Mercy,-0.015
+"Vitale, Kara",2017,So,Detroit Mercy,-0.015
 "Volle, K.",2014,N/A,UMKC,0.025
 "Volle, K.",2015,Fr,UMKC,0.025
+"Volle, Kelsey",2016,Jr,UMKC,0.025
+"Volle, Kelsey",2017,Sr,UMKC,0.025
 "Volz, Megan",2014,Jr,Siena,0.047
 "Vonhagel, Madison",2015,Fr,Houston Baptist,0.078
 "Voss, Caitlin",2014,Sr,UC Davis,-0.073
 "Wade, Bryana",2014,So,North Texas,-0.021
 "Wade, Bryana",2015,Jr,North Texas,-0.021
+"Wade, Bryana",2016,Sr,North Texas,-0.021
 "Wagner, Taylor",2014,Fr,Eastern Mich.,-0.044
 "Wagner, Taylor",2015,So,Eastern Mich.,-0.044
+"Wagner, Taylor",2016,Jr,Eastern Mich.,-0.044
+"Wagner, Taylor",2017,Sr,Eastern Mich.,-0.044
 "Waite, Lauren",2014,Jr,St. Bonaventure,-0.064
 "Waite, Lauren",2015,Sr,St. Bonaventure,-0.064
 "Walker, Dani",2015,Fr,Montana,0.036
+"Walker, Dani",2016,So,Montana,0.036
+"Walker, Dani",2017,Jr,Montana,0.036
 "Wallace, Brittany",2015,N/A,Hartford,-0.018
+"Wallace, Brittany",2016,So,Hartford,-0.018
+"Wallace, Brittany",2017,Jr,Hartford,-0.018
 "Wallace, Carlee",2015,Fr,Auburn,-0.013
+"Wallace, Carlee",2016,So,Auburn,-0.013
+"Wallace, Carlee",2017,Jr,Auburn,-0.013
+"Wallace, Deerika",2016,Fr,N.C. Central,-0.023
+"Wallace, Deerika",2017,Fr,N.C. Central,-0.023
+"Walsh, Keeley",2016,Fr,Princeton,-0.050
+"Walsh, Keeley",2017,So,Princeton,-0.050
 "Walters, Ashley",2015,Fr,Texas A&M,0.116
+"Walters, Ashley",2016,So,Texas A&M,0.116
+"Walters, Ashley",2017,Jr,Texas A&M,0.116
 "Waltrip, Shelby",2014,Sr,Incarnate Word,0.052
 "Wambold, Julie",2014,Jr,Syracuse,-0.049
 "Wambold, Julie",2015,Sr,Syracuse,-0.049
 "Warnken, Dani",2015,N/A,Sacred Heart,0.020
+"Warnken, Dani",2016,So,Sacred Heart,0.020
+"Warnken, Dani",2017,Jr,Sacred Heart,0.020
 "Warnock, Sarah",2014,Jr,Appalachian St.,-0.092
 "Warnock, Sarah",2015,Sr,Appalachian St.,-0.092
 "Warren, Erika",2014,So,Kent St.,0.024
 "Warren, Erika",2015,Jr,Kent St.,0.024
+"Warren, Erika",2016,Sr,Kent St.,0.024
 "Wartner, Kayla",2014,Jr,Hawaii,-0.018
 "Wartner, Kayla",2015,Sr,Hawaii,-0.018
 "Washington, Vanessa",2015,Fr,Delaware St.,-0.029
+"Washington, Vanessa",2016,So,Delaware St.,-0.029
+"Washington, Vanessa",2017,Jr,Delaware St.,-0.029
 "Watson, Jasmine",2014,Sr,Syracuse,-0.027
 "Weavers, Hailey",2014,Fr,Saint Louis,-0.027
 "Weavers, Hailey",2015,So,Saint Louis,-0.027
+"Weavers, Hailey",2016,Jr,Saint Louis,-0.027
+"Weavers, Hailey",2017,Sr,Saint Louis,-0.027
 "Webb, Holly",2014,Sr,Houston Baptist,0.035
+"Weber, Destiny",2017,Fr,Penn St.,-0.010
 "Webster, Kelsie",2014,Sr,Utah St.,-0.061
+"Weimer, Katie",2017,So,Tennessee,0.109
 "Weir, Makenna",2014,So,Boise St.,0.025
 "Weir, Makenna",2015,Jr,Boise St.,0.025
 "Weisenbach, Camille",2014,Fr,Yale,0.031
 "Weisenbach, Camille",2015,So,Yale,0.031
+"Weisenbach, Camille",2016,Jr,Yale,0.031
+"Weisenbach, Camille",2017,Sr,Yale,0.031
 "Welborn, Susan",2014,Fr,Texas Tech,-0.024
 "Welborn, Susan",2015,So,Texas Tech,-0.024
+"Welborn, Susan",2016,Jr,Texas Tech,-0.024
+"Welborn, Susan",2017,Sr,Texas Tech,-0.024
+"Wells, Sydnee",2017,Fr,George Mason,0.051
+"Wensel, Maddie",2016,Fr,Lafayette,-0.071
+"Wensel, Maddie",2017,So,Lafayette,-0.071
 "Werth, Amanda",2014,Jr,Niagara,-0.018
 "Werth, Amanda",2015,Sr,Niagara,-0.018
 "West, Austyn",2014,So,Auburn,-0.019
+"Westbrooks, Ashley",2017,Fr,Winthrop,-0.088
 "Westerman,",2014,N/A,Grambling,0.027
 "Westerman,",2015,Fr,Grambling,0.027
+"Westerman,",2016,So,Grambling,0.027
+"Wetzel, Emily",2016,Fr,Ill.-Chicago,-0.030
+"Wetzel, Emily",2017,So,Ill.-Chicago,-0.030
+"Whaley, Sara Jo",2016,Fr,UMES,0.048
+"Whaley, Sara Jo",2017,So,UMES,0.048
 "Wheaton, Janell",2015,Fr,Florida,0.276
+"Wheaton, Janell",2016,So,Florida,0.276
+"Wheaton, Janell",2017,Jr,Florida,0.276
 "Whidden, Cassidy",2014,Jr,Notre Dame,0.006
 "Whidden, Cassidy",2015,Sr,Notre Dame,0.006
 "Whispel, Rylee",2015,Fr,Miami (OH),-0.033
+"Whispel, Rylee",2016,So,Miami (OH),-0.033
+"Whispel, Rylee",2017,Jr,Miami (OH),-0.033
+"Whitecavage, Meghan",2017,Fr,UNCW,0.040
+"White, Pami",2016,Fr,Colgate,-0.012
+"White, Pami",2017,So,Colgate,-0.012
 "White, Rachel",2014,Sr,Savannah St.,-0.149
 "Whittington, Carlie",2015,Fr,Southeastern La.,-0.029
+"Whittington, Carlie",2016,So,Southeastern La.,-0.029
+"Whittington, Carlie",2017,Jr,Southeastern La.,-0.029
+"Wilburn, Lacy",2017,Fr,Mississippi Val.,-0.028
 "Wilen, Madelaine",2014,So,Fairleigh Dickinson,0.013
 "Wilen, Madelaine",2015,Jr,Fairleigh Dickinson,0.013
+"Wilen, Madelaine",2016,Sr,Fairleigh Dickinson,0.013
 "Wilkens, Kaitlyn",2014,Fr,St. John's (NY),-0.058
 "Wilkens, Kaitlyn",2015,So,St. John's (NY),-0.058
+"Wilkens, Kaitlyn",2016,Jr,St. John's (NY),-0.058
+"Wilkens, Kaitlyn",2017,Sr,St. John's (NY),-0.058
 "Wilkins, Margaret",2014,Sr,Hampton,0.023
 "Williams, Eliazbeth",2014,Sr,Gardner-Webb,-0.074
+"Williams, Hannah",2017,Fr,Southern Utah,-0.005
 "Williams, Shea",2014,Sr,Cal Poly,-0.053
+"Willis, Jasmine",2016,Fr,Ill.-Chicago,-0.075
+"Willis, Jasmine",2017,So,Ill.-Chicago,-0.075
 "Willis, Tonje",2015,N/A,Alabama A&M,0.003
+"Willis, Tonje",2016,Fr,Alabama A&M,0.003
+"Willis, Tonje",2017,So,Alabama A&M,0.003
+"Willmon, Lindsey",2016,Jr,Fresno St.,-0.006
+"Willmon, Lindsey",2017,Sr,Fresno St.,-0.006
 "Willmon, Lindsey",2014,Fr,Hawaii,-0.034
 "Willmon, Lindsey",2015,So,Hawaii,-0.034
+"Wilmert, Lauren",2017,Fr,New Mexico,-0.015
 "Wilson, Cyndi",2014,So,Saint Joseph's,-0.035
 "Wilson, Cyndi",2015,Jr,Saint Joseph's,-0.035
+"Wilson, Cyndi",2016,Sr,Saint Joseph's,-0.035
 "Wilson, Deven",2014,So,UT Martin,-0.040
 "Wince, Ashton",2014,Fr,Massachusetts,-0.018
 "Wince, Ashton",2015,So,Massachusetts,-0.018
+"Wince, Ashton",2016,Jr,Massachusetts,-0.018
+"Wince, Ashton",2017,Sr,Massachusetts,-0.018
 "Winckler, Emily",2015,Fr,South Dakota,0.049
+"Winckler, Emily",2016,So,South Dakota,0.049
+"Winckler, Emily",2017,Jr,South Dakota,0.049
 "Winton, Taylor",2014,Sr,Marshall,0.127
+"Wiseman, Karah",2017,Fr,CSU Bakersfield,0.034
 "Wissinger, Danielle",2014,Fr,Delaware,-0.171
 "Wissinger, Danielle",2015,So,Delaware,-0.171
+"Wissinger, Danielle",2016,Jr,Delaware,-0.171
 "Withee, Maddie",2014,Fr,Tulsa,0.020
 "Withee, Maddie",2015,So,Tulsa,0.020
+"Withee, Maddie",2016,Jr,Tulsa,0.020
+"Withee, Maddie",2017,Sr,Tulsa,0.020
 "Witthus, Kindra",2014,Fr,Saint Francis (PA),0.033
 "Witthus, Kindra",2015,So,Saint Francis (PA),0.033
+"Witthus, Kindra",2016,Jr,Saint Francis (PA),0.033
+"Witthus, Kindra",2017,Sr,Saint Francis (PA),0.033
 "Wodach, Lea",2015,Fr,Oklahoma,0.056
+"Wodach, Lea",2016,So,Oklahoma,0.056
+"Wodach, Lea",2017,Jr,Oklahoma,0.056
+"Woodard, Mckenzie",2016,Fr,Florida A&M,0.021
+"Woodard, Mckenzie",2017,So,Florida A&M,0.021
 "Woodard, Mel",2014,Fr,Cleveland St.,0.015
 "Woodard, Mel",2015,Fr,Cleveland St.,0.015
+"Woodard, Mel",2016,So,Cleveland St.,0.015
+"Woodard, Mel",2017,Jr,Cleveland St.,0.015
 "Wood, Cortney",2014,Sr,Drake,-0.020
 "Woo, Emma",2014,Sr,Rutgers,-0.104
 "Woollard, Alaynie",2015,Fr,Northern Ill.,0.032
+"Woollard, Alaynie",2016,So,Northern Ill.,0.032
+"Woollard, Alaynie",2017,Jr,Northern Ill.,0.032
+"Workman, Kiana",2016,Fr,Texas Tech,-0.021
+"Workman, Kiana",2017,So,Texas Tech,-0.021
 "Wright, Carolyn",2015,Fr,Lehigh,0.099
+"Wright, Carolyn",2016,So,Lehigh,0.099
+"Wright, Carolyn",2017,Jr,Lehigh,0.099
+"Wright, Reagan",2017,Fr,UT Arlington,-0.023
 "Wynne, Abby",2014,Jr,East Carolina,-0.098
 "Wynne, Abby",2015,Sr,East Carolina,-0.098
 "Wynn, Meghan",2014,Fr,Hartford,0.044
 "Wynn, Meghan",2015,So,Hartford,0.044
+"Wynn, Meghan",2016,Jr,Hartford,0.044
+"Wynn, Meghan",2017,Sr,Hartford,0.044
+"Wysocki, Kealia",2017,Fr,Bradley,0.035
 "Yanez, Aleesa",2014,So,Alabama St.,0.024
 "Yanez, Aleesa",2015,Jr,Alabama St.,0.024
+"Yanez, Aleesa",2016,Sr,Alabama St.,0.024
+"Yoffee, Alexandra",2016,Fr,Rutgers,-0.052
+"Yoffee, Alexandra",2017,So,Rutgers,-0.052
+"Young, Alicia",2017,Fr,North Dakota,-0.042
 "Young, Cheyanna",2014,So,Bucknell,0.005
 "Young, Cheyanna",2015,Jr,Bucknell,0.005
+"Young, Makenna",2016,Fr,Cal Poly,0.050
+"Young, Makenna",2017,So,Cal Poly,0.050
 "Young, Savannah",2015,Fr,Holy Cross,0.026
+"Young, Savannah",2016,So,Holy Cross,0.026
+"Young, Savannah",2017,Jr,Holy Cross,0.026
+"Yule, Alexandra",2016,Fr,Columbia,-0.119
+"Yule, Alexandra",2017,So,Columbia,-0.119
 "Yzaguirre, Taylor",2014,Fr,Cal Poly,0.031
 "Yzaguirre, Taylor",2015,So,Cal Poly,0.031
 "Zahka, Alyssa",2014,Sr,Marist,-0.019
 "Zamora, Victoria",2015,Fr,LIU Brooklyn,-0.056
+"Zamora, Victoria",2016,So,LIU Brooklyn,-0.056
+"Zamora, Victoria",2017,Jr,LIU Brooklyn,-0.056
 "Zeremenko, Giorgiana",2015,Fr,Pittsburgh,-0.009
+"Zeremenko, Giorgiana",2016,So,Pittsburgh,-0.009
+"Zeremenko, Giorgiana",2017,Jr,Pittsburgh,-0.009
 "Zgrabik, Chelsea",2014,Sr,FGCU,-0.084
 "Ziarnowski, Rachel",2014,Fr,Niagara,0.000
 "Ziarnowski, Rachel",2015,So,Niagara,0.000
+"Zierke, Kaylyn",2016,Jr,Saint Joseph's,0.112
+"Zierke, Kaylyn",2017,Sr,Saint Joseph's,0.112
 "Zierke, Kaylyn",2014,Fr,Temple,0.006
 "Ziese, Courtney",2014,So,Georgia Tech,-0.055
 "Ziese, Courtney",2015,Jr,Georgia Tech,-0.055
+"Ziese, Courtney",2016,Sr,Georgia Tech,-0.055
 "Zito, Carissa",2014,So,Lehigh,-0.020
 "Zito, Carissa",2015,Jr,Lehigh,-0.020
+"Zito, Carissa",2016,Sr,Lehigh,-0.020
+" Hill, Kendsey",2016,Jr,Grand Canyon,0.120
+" Hill, Kendsey",2017,Sr,Grand Canyon,0.120
